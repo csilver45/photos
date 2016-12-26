@@ -8,177 +8,29 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+    <script src="scripts/masonry.js"></script>
+    <script src="scripts/main.js"></script>
+    
   </head>
-  <body>
+  <body ng-app="photos" ng-controller="PhotosController">
     <section class="page-header">
       <h1 class="project-name">Silver Family Photo Library</h1>
       <h2 class="project-tagline">Last Update: November 26, 2016</h2>
     </section>
 
     <section class="main-content">
-    
-<!DOCTYPE html>
-<html>
-<body>
-
-<table style="width:100%">
-<col width=33%>
-<col width=33%>
-<col width=33%>
-
-<!--
-
-To get the URL for the img src, click on the picture in the album, r-click and copy image address
-To get the URL for the href, go into google photos album, share, get link, copy
-
-template:
-<td align="center" valign="top">
-<a href="">
-<img  src="">
-<br />
-title - date
-</a></td>
-
--->
-<tr>
-
-<td align="center" valign="top">
-<a href="https://goo.gl/photos/RRyCM4UA6NkQ2J9V8">
-<img  src="https://lh3.googleusercontent.com/5K9SzwBr2G2mBBiiYRdM4JKZjUGUXcxAcd7VxOv4S6Dq_1XavMvHCrv8CbBhjKLFUrpF6Qs8obxs8ju0vON9ofmN8JumBzoKrPl95sGgISqerpy7YqcYY0R3AZ64BiQRPA3hJ7sM-clU_KH4LReULWMUaH8zTKeoYGM5JFFtplBmukKD0lOAYvBpr8wyOY72ERRTAg_HsVizJtxOWzEUxqpF6r2eRuYayG4ajQpmPOOjltn20MeUNwOXFNgUkSl_BxHi46cdV4VlwtvoPODh276zy5YUsr12OBstxDK9tXUdJuabbso5miFwkIQ-pGRap8ux3hLHgvci0xn_h_X9qKez2Az6y-31g03n0RPS9PucbgIvgHWeLJKIVzyhGcFrfLjeCLqjOY5ayw3h0f0kuNZxDrStvauJ-ghaaINPBKAEgD34r4TmKAbaJTj9CKEkcdmkFOvmCcrYyXMwHdRFViRD_AsnYTD67XAmqk4x5HSSuU2Ra7BhXNFfIc1etm5_eAWBpGqfxad2czqpubNmgs3SBFUe2skJ5X_fukvQRiPiXkaWBF3ZwKKiS77KpCCYPUD-HlDhrDaFrMZCF3NYWcsyRJzpJHd49a9g1BZ6I5YSND-ugw=w691-h921-no">
-<br />
-Susan and Craig visiting Weiners, November 2016
-
-</tr>
-
-<tr>
-
-<td align="center" valign="top">
-<a href="https://goo.gl/photos/TqwZVd5s3XDro8bM8">
-<img  src="https://lh3.googleusercontent.com/tkJZCkgLabFtw5oLlzR2KR3Lp2EtfqiVvn2m2JIFcmtfRpdYN5XhNnT8JQHLtXdXnGnwNWunNpqN0b495wQp-LppjZz-RxURRX9piPX6Y6RRVcaI9RdR6esT-cC0ngcaAHgLSlB3urRMKzkILD2gwy86XolH5j5kV8C9VZj9P9Zevyeq-mhSuqHObO2r2CX5zUkfOKr26rpmEwvpLU4G4LOLvWw70o--CMtyxS3y9iQ0vptQGS6wkWYGxLn6rUtREAD96o9IktjKFC4RYdgBy3LZpUEQqqUMrf2oCchGABMfoa69vYf4TWBN_lxEF3lLauQIykSI8u_ne3fHvTLgUEh_lO1ec-kd6LPwG56Ax0OoL4G_L2cPjYLvAsH4hB3LVUojY9vcn6yhjDFshWPvKEFAEXvajs6CFkz3mo9UTaoPT8Q5JZNt1eN0uSTfvYOvUGeQs-WuvoIDFPj5EMxU76pdJucfPl66UhV4dzSM0Qj8UlsAz3tqZN-PD4A_6V4wUYr_j6-y4Rex8rzKUvE41C8x7nuLNnj6MhOFJWeWrwZgHr5FgUTpV0a031vBveka_sgBn2OrnBl63ZKtderLvUscl2kOxUTGSdXb6ORop4a0Nkdd9Q=w519-h921-no">
-<br />
-Susan and Craig visiting Gaia and family in November 2016
-</a></td>
-
-
-<td align="center" valign="top">
-<a href="https://goo.gl/photos/kGxWfaEyLyASa1rS6">
-<img  src="https://lh3.googleusercontent.com/65YWolJE-a37lCLQ2dS-2Xdbt2T1_8l3OFwPUP2K932N4DMa_dIjXgt_1triKmKrf16XlZGGSe0sYQjUM1-8kt5GwhWJD2mBaRRK_QqgT5G2NL37IPk5NcdcfcpHcpt9viOst1aPlsq3vTFfZG4Tu0OqDGq5i_eE_BVjBidXxowXOpOQtYVTHPl4e_ZXMGPZ3L2wL2jXtl9VObryQl6smVRiW_aTphJ7Z4jwEobe3r2g12hfTCFxHg2TWxEkku7DD26vfsIEjUblW9UfkUQvgZYXXo1svsW8_Q5DL1Oe6KMkYTYZ0ssOUp3BHUmn60N-PQkM18q0tEcyVIMY44jSiOzwEu6jmynF-lDbP0EV8baTHA3RuekF49xcgN4Nh5Su-ka047psMcGILRATfXd3fBvdQmMzi_VM_OJmZcfD7nBTuZeJPRXaMGInJTVm4iMm8GQJqdAL0N9MxkgRmwF2qUC0QGxrKjRcqIr19DccoXvbaunSaJGt6QsbOUudAXosDYQLA5THDtMQErNBsfLLOCkfp7KJpsINCgFSPSweZ0x2aCucdTJMRcfmBuDiuH1WjkFR9FWSRNzV6js5XZUn3DdfaV8uI1_VW0G61AbS7EpqeUcB7g=w1419-h942-no">
-<br />
-Alaska Cruise, July 2016
-</a></td>
-
-<td align="center" valign="top">
-<a href="https://goo.gl/photos/2S8Ete8Ehe9HHv4E7">
-<img  src="https://lh3.googleusercontent.com/QchU3_sUhA-DhP-Ettnm0bIBFd6BJc8cw4DsrC6D-W-UQhkUA-wDq2OAcxlrZSPfNJzVeR2z0AWQ7poBwrcgFUV1F8YbDU-Sdj3hJB4ozbphW9WY7w8z3rNjyYrnHwHqxpbWNUOf1oPa9aROB6c3VJyKXabr-SRae2KUdoILqkYwS6MEboKphV6SoopqQd859gtiD6dtwPFfFrCJKd2dlroNFG-3Yrtd_WP651e3B3qZuAOUAT28tts1iAtVvxjYl2GWUbQg1e85jgPdyGByUjRdnY3LZsRW91Q8JCLC4DDjIU2jk_GcVhtR58Qz2jnfq6vlTQdopH3RKNOXfanuJEsGH5IwI-CtDygtC71Fv2MK0IACQT6rHhAwXHtWp9IznpALf8y1bLVi_pcHkyiYpUXup1FpIu-08ZPREv1z5CnBTu02QjHOSwPzvqQx1HCMjcacUf-trSfFyHiGUvoJFxI7mq-Fez1_4Tr5H8uQ0pQUddFIfIFk-Rm-taaUVYe-o1x2QmciftaoKfyOBtEYOGYWB1vC_pD5MlA8epLccAjKccZJlu6CAZh9Oke9R255yU5UJWL7vYqffTaVJ90uNx4ade9t6DmFm9MpdIEsAueKO2AwwA=w707-h942-no">
-<br />
-Susan and Craig visit Danny - August 2016
-</a></td>
-
-
-
-</tr>
-
-
-<tr>
-
-<td align="center" valign="top">
-<a href="https://photos.google.com/share/AF1QipMUxqYx46aTCgkQzZQabBs7cJNRugmUlRXBTBYffUvEAjsSVnzHh6KdRncvQ1Z3qA?key=RmdqMHpldHluWlNYSUJDN2RvSTZvVE91RW1mRDBn">
-<img alt="Debbie Y and family visit to NH" src="https://lh3.googleusercontent.com/iCtoWU5HpyR6orybwuGTjCaONXeAaNjA_I8UsVnXf8OTzAoldg8eGxbvwP8mpm_u9E-dlSBntbgRqSfPWaBf_0wh2WjlyXNcFHbV7wpX-R2ofcp3cTRDMOdCPwBAhEqQ0-ezir3QWrYDr5ugu8OM6bIDhPm7vA-0Sm475YPsaLRQ5GridifSmqWqIo88RRZvTrtvV1T4XJO82fSof9IGrlGZLjXc5d-jUaha8w4DCOdtxkvaKh4Ye4AwdXHaLpcP1bk5r4w2_OkRBP0rpEgaE_vHN6P0wI4JRuyvuSq4Wq997eC1juOBhkD-nOjAGMGxVgkVdDzZcMJWktUhwekeHkhsJDtbyyVltPLHmFNVDKo1WA2RylMwBd-8KNLq9xK1chuGRZe25CXNUAMXJpZRJc1_AM0O_QO73cbzkJsjdlnqlxedBaR5Cs-o7xGrLdQZhQ9DTKw79XNz2FAZtxl3WkUdavsFwfptllUfRKbaxQXXDBLvLagW79Mm7AgNQrM4734RSMvWQ9SrOm9SmUEiAfqbOh4HGnPiynY58p_GARr_F_s9oqxzVDG-l4GZ7wOpfAKsBmLbt2xI_Bz6USAse5K-JkPT78v_VSC2MPHwEs3PRGE3uA=w1266-h949-no">
-<br />
-Debbie Y and family visit to NH - August 14, 2016
-</a>
-</td>
-
-<td align="center" valign="top">
-<a href="https://photos.google.com/share/AF1QipMzMWqWC5ncFOjNX2sYIDX-k4YsYLgPYFuZnZiVMyPiCVfX_PsyUUP7rhodEFDGvw?key=WmllWllCUW5SaTRnenBiVllsZDllb2dhaEFvWHN3">
-<img alt="Amanda and John's baby shower" src="https://lh3.googleusercontent.com/QCqaiFqAtPcDLdtlDFtiUpWjUWr_L6cJ-5WbSUvetQO5ZBf64TRv_kqQKjrgQAmKtjRW2lZTQjPsLkK-pVqZIN2LK4CdCfCqveNBHfO8cAuSw4d87fO99cFT-8Z2bGu5NPRDxxZy92-_eultBQWs9mQHSkip6r3-jj13073FNr_xcW7Q0sNBzo1MlFMPbkNlGc3Bj2bdAXn9HUeWjkgAEAaZ3ILtnh2yvRkt2KNlJKBIgfKAGFp-WpztbzegosY7BuCekz0k15KXd7GZZ5EHlgiq2399bo5I4ROa5NxeeRrJZZnwxMQfkxJRmUwPeY03LdnwBoKouq2ecFmMgLQ45xn59O8RkDXjplrnoWZq9VJKouoVhVQf7JRVioXP-6ejZVfvRe6EpHA61ImTtxxw27lAzMEsWryPpbWGq87PYvgsUYSHaXc2dGlp-c7t4l3zhgEmXYPWtZLpj2IRt8sId9SUZ1OnSt5VeEupgt7IvOG92pB0WiYhWk1iOrHWKaJQmtnoWqrWOcwNoYtXkinCANSYGbfYHehU9_4f1mkao6qr6XjCMrv4HHtRrkCff5XSdHiWAD_SzFStv_9wuvhIl2N7oQ-srl-oD_JFIKNOT17mNa4hug=w534-h949-no">
-<br />
-Amanda and John's baby shower - April 3, 2016
-</a></td>
-
-<td align="center" valign="top">
-<a href="https://photos.google.com/album/AF1QipODg661f7qRIbBQdCGia_FDCfab7kunIYbpfNYe">
-<img alt="Dan visit to NH between graduation and Microsoft" src="https://lh3.googleusercontent.com/Ks_GtdvO4yIK5HaSTYNwdr-7fqdTqiDzlbpUWQraGevjWP2TYD1LBIe5OuGEWRah_PySx1kN_VfBi82_R5q4bFwplwJqwA4tOA0VfN2u2JODCsiubklFiwYB2BWNWqVEdQXvabAfoc9UGZ4uHwrZOoZonnppFmc6fO9T-N77FoEZKkeIqizmo_-j0L1Pf1H5AFhxadQ34Uf5vPIEifdQWWq5SYwXFVWFkhEiZ9x_vFCzb82bsF7d7kxpp8HHQ9hyyh55fId7hgfXJEClcXdEJk7cqyUGnz5qSuLQKbULvP0N8l90iRtMFbjt4JB6rYqmx-BsfiqEGgAbh8Lmew6Ir_MtJeTGa0AKZmRZFJ6fGABd2NLDKuavFLS3J4GzYRWBXiEM8lUw9aFfouMA6pM1HoQNro2MJbOi5DjsRlwpz1XyvfdhxAVt2i25Z9yXAZxe-Xt23fA50S2yTc3JdV88Vf73fJhCu-Ga5Yj0ZsrnyR6N_Hd3UZcVuZ1e6loYRQuuwlusM2YS_IU_uZfSS0cHhVbtcIYufsNpfLLADtI5VO1tmJCMkzHX3cUzHQfC8f_YaryFKM0h5b-Mew72Fr8JV-cCGafZrIn6PZQw6w8r-kx__TrUyg=w1688-h949-no">
-<br />
-Dan visit to NH between graduation and Microsoft - December 24, 2015
-</a></td>
-</tr>
-
-<tr>
-<td align="center" valign="top">
-<a href="https://photos.google.com/album/AF1QipMK9OdLI53Fwa6MA-c1i80lQbJk9yZ_MS_TVJ5-">
-<img  src="https://lh3.googleusercontent.com/jC_izFPt5C3YxLbJ1mB5H-rL6pPOBEZRVQcSumOd1UY5sd6-bQt51yXdK1pD_6n5oQ2dS44S5lDNk6BWZWlhtuJ0XpYFTiYBHhitWNFkoOJ0vdAh2HQsYbnFP0uIsv1wMtvizu_dmyeGgHbEFKCZMtKOWPVQkxrzldb0h_0P1dU2QzIvTnxmUtzSl5ozOcKRNmk4eaicfTl10nbqs_WHun84DHF4E3dtVn45-r0xM_kyIJgv6_Y3N6HG71wz0m34GZdmbabUhPM7Df0HWHm4Qfw-yHU75bxASQEfykwCg5Rh91rjKYQ5nEvhmE1lXHMWMSppmdhO2m0arHl-JkeDeSY76OH_VIuliIDpElZf6HFBBzWXsXqENfGPpiUi-j6I1nJCpCo2KowOB4Z4NTLjpkcQyp9unsH6rBU4wC3FmxxBrSAQBzhMleKFy8g_iLkJjvkTpeFjwbnxHulCiXlhK3HTnaZxaJ95kEGIlWwKYW7cy0t8ep1Uw3CIb00I6rhBlQlo9Ymw5Gky-XRFEsxgrDBinyNkKr1V0frh21FNKS5c9c6PKH7rSuRm8NfvfMZx3QiGSilOcx5c3zk6TvhjLzwCW4-ljtWRhOPMlCS-dLV5qWZ39A=w534-h950-no">
-<br />
-Visit to St. Louis - Dec 16-21, 2015
-</a></td>
-
-
-<td align="center" valign="top">
-<a href="https://photos.google.com/album/AF1QipNxSaFVRSukPRSzHQYOfbmIRTLqxLgHRgWhgKmY">
-<img src="https://lh3.googleusercontent.com/uphkwcS0SuEgtjN4184s_vijkoIBkrN7AP1q8QIF0beQ3QUFqd9e861-D7K2pDFCv122PKeTrmKoxWVxIDsLdKHf5xX7iaZTnlXEf4raMEu8NIZgJOb-OswQ18jC0jUinqxvx_dP4w27SdPjRlJilgzysCq5zAvTP8_xk3ZwbDP9P5ngjMtn7XhYNc4C0rs5rvmb-DsuHpSoBmLdFC6re_Hg--vBS4q4cjknaD76vOYoGcg-XE85Aozdj-089nNCu2ymYl0dIJpFfa_DnStqACFLn6OMdbcPOeDDU-zDia2o0T442QdThS0jB030_2IBpmwcB6jbQQf7UbeScIQW7NMv_XogAZJho4z3YLK1I7U5uSHMtIrouJRk2R3GE66nUt3JXx9oEkIZhni887aoKx_aZ8d57cSMmqmdej_EX-jaKcsVCH3IKikKCVTLnnR-tJJBVmg4gvMlAzCCh5gOggVGPU9YGgGp1QMuSg-ruS3ISAm_WO8Df766jXQoWhgFEU3a7QTW2bZoi-w3-ONWBVdJxZCFn0EeqGxGhnnuIXJyfhnJakhwdxGiE8eMRP6EXuLjW9RIkjMDFoS5NQIJ79WEXOmo5ZrQjMeBIw2gRPMgKk49SA=w534-h950-no">
-<br />
-Danny college Graduation - Dec 20, 2015
-</a></td>
-
-
-<td align="center" valign="top">
-<a href="./wedding.html">
-<img src="https://lh3.googleusercontent.com/WxFYLal6BttECrnKN1s7doXi1vtDVBWiG94yJrO4rP6fEcQowl0fLMAJ1ACFVeodlNIiYQjR70xoPhvRhjhpKZxtpahrql1QGHp-QC_WbdUOTo5xLoaVvkNynTugLX4AFaskJJz_vbQ7BHJnBoolFApKOLGh_3ryZziF0lWndiHPNyQ-oOmO-5LcQWqHvSHBsCOKtfdqm_6yuqVkK2R6XtvFHY0m1WUnE2CCYYEmwqssuHFQbvSBjMDfh3AeU0TTunjw6y2YCbYeVo0edZhM3VcYV_t-fq4s26Pa4Kr4A9zmxNaF53Jf9emsPsf9jNHJJXYZw6NBn2hGv48SuX-YQEoUDPJR4_H0qpmfc9GeXPBOf3Z3V1xXHyXT2y-quZDpc2pVOCkiyJzBKXeTeU5x_D405Iu0b16tM960Z3BBGF1hegAYPtKnQTrHtopyfpQ4nbBC9VHlj6XF4ntAEGZb4C9AhQ5hcy4qxgXRo3C9_8Nhqz4_RDJy6O0zgFexARaqvUVoOXlVQiM5lcHQBLojIjViKELLA2krb_ItK042ZQQEmqX7KgzsKkZGOBj3ibzsv_H8NeZ8fRqqU45plzL2MNHITHibs_GDMBu2y-JIdv_-X8AkaA=w706-h941-no">
-<br />
-Julie & Bill Wedding November, 2015 
-</a></td>
-
-</tr>
-
-<tr>
-
-<td align="center" valign="top">
-<a href="https://photos.google.com/album/AF1QipOmgcqtMd3c9M4PIETvMEIIoyALTy6XzcyP9stp">
-<img  src="https://lh3.googleusercontent.com/E8SFCCkXLH4jra8CSNqf522D_KaIZKzUkWYb04RhlvanrrER-6FQTe2H-RhAFr5MQDmAF4UmNS4RwfmJjIvS9VjPOqqbHzqCSuhclSoUP64AWigqy1VhmYxjfEQKCDgXyLMimPVbsuomrECnSNX6Hk-M2aIi_9pLbjtXsSxOIiX3sS6CEatYCPkZL-j8sTVfF5Bh50NcpvFFi1O1821bkn8OYdcije0lQd4-k7_n1XyuBk-1lvW2PvdkUTs6rz-PeAsgKO1WQi1OBaPjAjR5SmI9TDDaK-s9qkpkAeSw1cUrHfq3cyJzO9FxeHswqXPih2NGfVIZ5X_QesUJ7GOEx82JTswP5E1yPaUvlkJTCMGlXlX9rYhZ7FocD5GvHpzwwKbAojseTGh2byR3lXukuqEEPQOSyBxsFh7ygSI58BHeQoegJjjFj5C0J1yBEOZgeDmvw0keIHVt8d65t3azz8naYNDy98XGMe0rQReefqBMSYX-1ptqc9exZdUbDKOGQW2XbzNmrlvnPvOODo51pZURptflalyB5Fw6jjrOm2VKdaZZLU4mv62UME4Pq357dm2VLiLTRxbwMFb3hCFxbgRaOe4sirwf4zT_o_Zzx5Z2DWK4iQ=w920-h518-no">
-<br />
-Steven Harkins Graduation party - July 12, 2015
-</a></td>
-
-</tr>
-
-
-<!--
-<tr>
-
-<td align="center" valign="top">
-<a href="">
-<img  src="">
-<br />
-title - date
-</a></td>
-
-<td align="center" valign="top">
-<a href="">
-<img  src="">
-<br />
-title - date
-</a></td>
-
-<td align="center" valign="top">
-<a href="">
-<img  src="">
-<br />
-title - date
-</a></td>
-
-</tr>
-
--->
-
-
-</table>
-
-
-
-</body>
-</html>
+      <img src="spin.svg" ng-show="loading">
+      <div class="grid" ng-show="!loading">
+        <div ng-repeat="album in albums | orderBy: '-date'" class="grid-item">
+          <a href="{{album.link}}">
+            <img ng-src="{{album.img}}">
+            {{album.title}}
+          </a>
+        </div>
+      </div>
     </section>
-
-  
   </body>
 </html>
