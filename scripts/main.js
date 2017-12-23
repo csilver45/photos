@@ -147,6 +147,16 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"img": "https://lh3.googleusercontent.com/QBQUE9h8gpxKvl2m3fNtv_GrcQfnpTV-o6Z0PiLRRnLZJ_RaZDWRQ2Oooamzk_hGeo6_FBgAiksIMau42QYaJCjaI4F0WXGdKfXTO2uYYo6BBzbWKY5sa1mw_yPQ-etA89P_cs7_RMpY-qDZE8ccTckfVMWx4foX7zGJ4XrGFXsnbLQPSqHbz-lpuYTdpYGmkuJ1jOSSqxPfmOEl6kRVwZCUYutxOpRNWPcuEJqKy5IWTtTC66Omi3O0_HcUObcKwmkZ5I9cm5Fl7jUqzOcWF2OPZG0EIR0FAaewUYeqD0Nw9O48d0ajtBM6UWAMjii3hr2CbIsnAgUgx9wv7xME-tU_aJiaMJj5wfng3JOITNpF74Wcj5Xkz-Mgp-PJk2kQZHz1oaEqCXMtypndxbTId2eCbwNITEZttE45ZiVQmbfazuVuorDYyQ-mA9dYB-mWmGlp0a-2O9ecDfSTdp01kPTkKXao-wdK7lxlBAsjGM5JqyXgJvVWnO0xHXBy9K3EDUraVL0Bl0X58PA0fQcuyunFE9jbMg1yOoDnazeLSRM_-wiywrAqD4SDu-eAHv75g9zi5S5knTYp-1zXdGgsDsaTWr7xLdkJ_ljK9HlGnNcmMmK9BzEp_FstETD6lUXONFOR0LhIRRpotKOPKS234DMZj5b6XIuQzg=w727-h968-no",
 		title: "Vivian's 80th birthday - April 2014",
     date: new Date("4/1/2014")
+	}, {
+		"link": "https://photos.app.goo.gl/ySPSCxRRu9bN21EN2",
+		"img": "https://lh3.googleusercontent.com/ItRYDV8a1a8LnGOGoI7dlWQxRYfjh-X8XwZYofDKn4sDsQeFHZQYPH4uaV5_cBZ0XvaKEG92LQ5FsBkrh7_Nh-VN6u7yfP03uqylcfqUaflmabN5hDRisdv_ZOpqpy6ip9WWfXACS0ca4G4iNJtsLAUmVAV6Jz-WinO_HskXH-HnNYIFLa1eSAFlgpLBHxjDmq2_g7fRSf7Bu1TKSotQgTtudlXiKI3FvzppJ3QlOdrm_jzdRF8O_PwngJ-LDzUCAWK_QUNZbiFIzFbKPSBrJDPwvJJk2gf6D2WkCVC9IAQjCpRKSG-lB4NMua0RkJNkl_gO682JvE3tYtY0TgrJSLhe4IJXdWUFmeO0QX9QaguYaxv4RIekWHLD5Ka2VMKy2k_G3ATgMUsH2KsYenuJ5vcvfXEzC0suB_lTB2Dxaihe-ituhI5NKJ-f12Ox5VY5ZeoNKga_urJKY0WArhcIiyqER2Mg4MAzJC7Y2e5wbvB5EA86TbzbHn0pLkvodfZCNaODdMKZldajRVYoH4KLj2SZXEGY6e2TlhimdIK6_G2j-Cjq1f7tjWHME8ATB6OIL_b9msUe-ZHSNAmQs1bGE3OXcdwkJeKJy9mHZJau=w438-h328-no",
+		title: "Pumpkin festival in Keen NH - Fall, 2013",
+    date: new Date("10/19/2013")
+	}, {
+		"link": ""./amanda_john_wedding.html",
+		"img": "https://lh3.googleusercontent.com/ZLlFAi4AUWhl_5_9L1qfw2_bZ-bMO-QkH6rGkqyDsbUaYnaO0vaLaCV15Z2SJn_96Hvzul7xhbmHiQmYupsk7GjnDM8llbjIKgCpENBQFUDFPbMLz53eGmQJEGkrZPC3-bXWwAvb9I8nPisFhz1UP4vatUdFg7Ix3rhk7A3qLOoW9aqBb-wTT5OwR6YNXWcVB3G0_Az0ood23X9Pd_LRP26GNqxfMRHyT-aCiTWJw9KUhyvbDvbfMMsRUqEH6MPVkD-g6QEjjSi8hWMGArZSL1PeLAMHiytXTVz7hXQCZxVhJRzS4P0aPugym1TnpFtDms0Oiy-jaUlWIzNtTTV7P6CtgxRQTZUeeTncBUa0dU1Sj2KYJkmjjGjTv-ZTe0xaSvEdjIK42P8MmY6jgiL-z-XkEbooQ_uG2JhErcdavfCgFcW2oNk_TQyqm60fVE7o4quFVJ4mgHXmgYDIOtmV7_FkdjnSYARC6o9uCcwVykLqz6UfgoPx-VMbH_ooLzwtG56rspdH_WBAAmhhx0ybWQc9NMJK-bs1FgEvd0b5G6R4hiDtxxW0RX2uP6FHuC2bffhWimQtHvpo0EoswVXYjkA7QKW0nm_oTPFAhMAF=w1457-h968-no",
+		title: "Amanda and John's Wedding - Oct 2013",
+    date: new Date("10/12/2013")
 	}
 		
 /* {
