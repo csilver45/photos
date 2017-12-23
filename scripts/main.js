@@ -9,8 +9,8 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},
 		 {
 		"link": "https://photos.app.goo.gl/Ql1uaKDAIy2peJ3S2",
-		"img": "https://photos.app.goo.gl/k5AZugaWiIEiFjPj2",
-		"title": "Susan and Craig Thanksgiving Cruisey",
+		"img": "https://photos.app.goo.gl/yXMy0MIwMOSjlTsH3",
+		"title": "Susan and Craig Thanksgiving Cruisez",
     "date": new Date("11/20/2017")
 	},{
 		"link": "https://photos.google.com/share/AF1QipMUxqYx46aTCgkQzZQabBs7cJNRugmUlRXBTBYffUvEAjsSVnzHh6KdRncvQ1Z3qA?key=RmdqMHpldHluWlNYSUJDN2RvSTZvVE91RW1mRDBn",
