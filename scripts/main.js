@@ -50,7 +50,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	}, {
 		"link": "./schwent_wedding.html",
 		"img": "https://lh3.googleusercontent.com/WxFYLal6BttECrnKN1s7doXi1vtDVBWiG94yJrO4rP6fEcQowl0fLMAJ1ACFVeodlNIiYQjR70xoPhvRhjhpKZxtpahrql1QGHp-QC_WbdUOTo5xLoaVvkNynTugLX4AFaskJJz_vbQ7BHJnBoolFApKOLGh_3ryZziF0lWndiHPNyQ-oOmO-5LcQWqHvSHBsCOKtfdqm_6yuqVkK2R6XtvFHY0m1WUnE2CCYYEmwqssuHFQbvSBjMDfh3AeU0TTunjw6y2YCbYeVo0edZhM3VcYV_t-fq4s26Pa4Kr4A9zmxNaF53Jf9emsPsf9jNHJJXYZw6NBn2hGv48SuX-YQEoUDPJR4_H0qpmfc9GeXPBOf3Z3V1xXHyXT2y-quZDpc2pVOCkiyJzBKXeTeU5x_D405Iu0b16tM960Z3BBGF1hegAYPtKnQTrHtopyfpQ4nbBC9VHlj6XF4ntAEGZb4C9AhQ5hcy4qxgXRo3C9_8Nhqz4_RDJy6O0zgFexARaqvUVoOXlVQiM5lcHQBLojIjViKELLA2krb_ItK042ZQQEmqX7KgzsKkZGOBj3ibzsv_H8NeZ8fRqqU45plzL2MNHITHibs_GDMBu2y-JIdv_-X8AkaA=w706-h941-no",
-		title: "Julie & Bill Wedding November, 2015",
+		title: "Julie & Bill Wedding November, 2015x",
     date: new Date("11/1/2015")
 	}, {
 		"link": "https://photos.google.com/album/AF1QipOmgcqtMd3c9M4PIETvMEIIoyALTy6XzcyP9stp",
