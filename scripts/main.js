@@ -153,7 +153,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		title: "Pumpkin festival in Keen NH - Fall, 2013",
     date: new Date("10/19/2013")
 	}, {
-		"link": ""./amanda_john_wedding.html",
+		"link": "./amanda_john_wedding.html",
 		"img": "https://lh3.googleusercontent.com/ZLlFAi4AUWhl_5_9L1qfw2_bZ-bMO-QkH6rGkqyDsbUaYnaO0vaLaCV15Z2SJn_96Hvzul7xhbmHiQmYupsk7GjnDM8llbjIKgCpENBQFUDFPbMLz53eGmQJEGkrZPC3-bXWwAvb9I8nPisFhz1UP4vatUdFg7Ix3rhk7A3qLOoW9aqBb-wTT5OwR6YNXWcVB3G0_Az0ood23X9Pd_LRP26GNqxfMRHyT-aCiTWJw9KUhyvbDvbfMMsRUqEH6MPVkD-g6QEjjSi8hWMGArZSL1PeLAMHiytXTVz7hXQCZxVhJRzS4P0aPugym1TnpFtDms0Oiy-jaUlWIzNtTTV7P6CtgxRQTZUeeTncBUa0dU1Sj2KYJkmjjGjTv-ZTe0xaSvEdjIK42P8MmY6jgiL-z-XkEbooQ_uG2JhErcdavfCgFcW2oNk_TQyqm60fVE7o4quFVJ4mgHXmgYDIOtmV7_FkdjnSYARC6o9uCcwVykLqz6UfgoPx-VMbH_ooLzwtG56rspdH_WBAAmhhx0ybWQc9NMJK-bs1FgEvd0b5G6R4hiDtxxW0RX2uP6FHuC2bffhWimQtHvpo0EoswVXYjkA7QKW0nm_oTPFAhMAF=w1457-h968-no",
 		title: "Amanda and John's Wedding - Oct 2013",
     date: new Date("10/12/2013")
