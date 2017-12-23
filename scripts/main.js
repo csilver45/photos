@@ -82,7 +82,27 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"img": "https://lh3.googleusercontent.com/QchU3_sUhA-DhP-Ettnm0bIBFd6BJc8cw4DsrC6D-W-UQhkUA-wDq2OAcxlrZSPfNJzVeR2z0AWQ7poBwrcgFUV1F8YbDU-Sdj3hJB4ozbphW9WY7w8z3rNjyYrnHwHqxpbWNUOf1oPa9aROB6c3VJyKXabr-SRae2KUdoILqkYwS6MEboKphV6SoopqQd859gtiD6dtwPFfFrCJKd2dlroNFG-3Yrtd_WP651e3B3qZuAOUAT28tts1iAtVvxjYl2GWUbQg1e85jgPdyGByUjRdnY3LZsRW91Q8JCLC4DDjIU2jk_GcVhtR58Qz2jnfq6vlTQdopH3RKNOXfanuJEsGH5IwI-CtDygtC71Fv2MK0IACQT6rHhAwXHtWp9IznpALf8y1bLVi_pcHkyiYpUXup1FpIu-08ZPREv1z5CnBTu02QjHOSwPzvqQx1HCMjcacUf-trSfFyHiGUvoJFxI7mq-Fez1_4Tr5H8uQ0pQUddFIfIFk-Rm-taaUVYe-o1x2QmciftaoKfyOBtEYOGYWB1vC_pD5MlA8epLccAjKccZJlu6CAZh9Oke9R255yU5UJWL7vYqffTaVJ90uNx4ade9t6DmFm9MpdIEsAueKO2AwwA=w707-h942-no",
 		title: "Susan and Craig visit Danny - August 2016",
     date: new Date("8/1/2016")
-	}];
+	}, {
+		"link": "https://photos.app.goo.gl/vF9m7KLyhJyuLQDP2",
+		"img": "https://lh3.googleusercontent.com/vtVVLjpbJ-0vAv7HHM9gMZb4xbhQG_4dYh3HwmfXkFYAV5mFd2ayKFPPDMFkNNhSA-KqV46VbGAMTZGsWYbO4iXJeRmuR5-BdEZ7rDtaTOq-5grFVjGyrbUczDZcEsb8mA7oJOfk0iQrz9tW1aCahH4R_eYDjo56XRwP-aXzmykXlljwqnRJ-FnMsF_VOZEgAQBTPGNcm_EXr-rrmvBq-dC4GvsSD8ySSkj1_8G0OEgmQ-uhndL2Yg2msKEWSA6TOCIPjBA7Ul8sK04fOu-PPFTBMWcX5v4l5FKmHoTaczqYQbhb4mQtiNnvZyFXNEtmn_tci09rVbgAClYf66B5Htyh5CTgM7iCFeOlTyMwtOaIULwsS5nYGTkPlNg08lopjL1Vd-cM2KKgiIVN9cUdlFN2GATY9sSsf3Y0dIQrcOOB0yi3n48k9OZoxodbPOnEAvAWzjzIYRF3b-rfk1FwtTGni7noJsSmtScIbXT9B5ma3hY0NNWKJOEOKynvP01JU4TfDOTW5piEXYt5r5Z-tpgJj0vgXnXMW-Erp79o27E6oKhS0LrTwbPSlu1ZDp44nL0Q-SCy3q747zJObWf2a1NJUDSv9vJnNbjuZJEktFU3cJfLn2HHBoxFRzafR81Azn0YTkdE0yrSozmlpYp4KQ8tQXoo9QAzcA=w1470-h828-no",
+		title: "Julie and Bill Engagement Day - June 27, 2015",
+    date: new Date("6/27/2015")
+	}, {
+		"link": "https://photos.app.goo.gl/fAGWtYTfrnZo9Ndh2",
+		"img": "https://lh3.googleusercontent.com/cDBHOq3lSmwA9FoSuVf7pYp7pMiL2nJ2wCF_NcUVVn6BXJqFgykfKsydZlethS9mw6QSjpSHKY5SwonXeCUILgpgD0KsRItJnoe1r98NBMGsVt0mwmSg-J-YoEoKUK9y1GROZVy_4MavDzgcOyTNuFm4eCXCqIV5wp4dUnQZ9Gll3eJmu75_zPmZm0tADE7jg_zRRlWC-KSw1LqFmMC6m7rvqLv_AySJellO-cMIvjjnnIZWfyFx4XRsZoTXJcgPARNsEODlALeEy-n9dw7ZExy28NlXd1ftrgHn4MT0L37E5MIHFkITCsRFbvm2xoDHkCGNSco6KJNZxSpBTo6_AVB39HpYaiOCNMqVB2tsXdO8_c4E0Rag1NyNUaKugEqXEQHNezSZmwXpHiTcwAPXyHWr4s7PJ0aqmLO78R4lqchsTFUFp1ACxO81dgQyTHCOhgU0iqMqijjE5Ww2xNzwLCYQy8gV6E31fMfWa-7ukyQ71i0dw_bbQ73mrY7g4XKrQVN_E7q459UqKM3s06bysmwG3wl4ELey5iqmMJOLY60BB7-JKpr0NV80OMD0SZiuYMcaWJDeqr3pCUolEGxUf_0GlezcVAZfYR9PtcWcceTQXApXPeNWC0Dw3OFY3n2NRhNmga6BnUsxXNRVcW2z-f17-HSWPXUaeg=w545-h968-no",
+		title: "Susan Simmons Reunion",
+    date: new Date("1/1/2000")
+	}
+		
+/* {
+		"link": "",
+		"img": "",
+		title: "",
+    date: new Date("1/1/2000")
+	}
+*/
+	
+	];
 
 	$scope.loading = true;
 	setTimeout(function() {
