@@ -9,8 +9,8 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},
 		 {
 		"link": "https://photos.app.goo.gl/Ql1uaKDAIy2peJ3S2",
-		"img": "https://photos.app.goo.gl/OHnrNEery4xODfm32",
-		"title": "Susan and Craig Thanksgiving Cruisea",
+		"img": "https://lh3.googleusercontent.com/xUJWEHnakJH_wB0wOJ4-u8y7nU44SxpH9fgpzFjmfUD3UUWNdi18Qjgx-epmMUnRI0qujqE-uadLCBFFHS4NxfmollRqdpUxfZuntPlTKez4AxpUlmtkzUR52_zgqvK981wDPk9ie1jjOXa-aCj4bjY99Ct2927v_kSsF75DZToo46glOzVFzXEiQ8RgogCtMXC5xRi7DKneaOGB4fLZR6G4_6zSzCQpy75pmeJmwAkiOpv6yqCd1g93EdWD0XrpjDFpM3had3SMYlQf4SedMko9JvtNyJubhqrCAHktMvapeT-zFW8ufR2bqQN71loIArkmQwgcNShuphsMhfA7GDRUQb1RBmVPQ3pB8OUg1NaiXHaviPXHH7lCTHmuFvecbFTBsqcIVqAB2Noz0Udr7GINzYDUxGmBZtDcJCosgjXNGkzHceuBrH62UAn-xmuNgN3UDuCggcILQuLLtTMaIL7PQx32w6UXXLIGdHPCnWAqOgVi_hR2yjycjAB77SVIxe-r_-mmsmptowplJdwswsrsnwck7dvcG1DmWQxE0M--6-VUXMu93Ujfd7_Y2pmIpcDLimDtLbVgI0A3PYDEAjfxPGeckfG3b3BqwzuO2nzBbLYKHXoF0vr3R2h-NqhuAL9jzTUzi2PQZWiGtItepdkQVXBwrNs2jw=w1634-h919-no",
+		"title": "Susan and Craig Thanksgiving Cruiseb",
     "date": new Date("11/20/2017")
 	},{
 		"link": "https://photos.google.com/share/AF1QipMUxqYx46aTCgkQzZQabBs7cJNRugmUlRXBTBYffUvEAjsSVnzHh6KdRncvQ1Z3qA?key=RmdqMHpldHluWlNYSUJDN2RvSTZvVE91RW1mRDBn",
