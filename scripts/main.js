@@ -4,23 +4,23 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/6RTXrTsAdTy51iN32",
 		"img": "https://lh3.googleusercontent.com/AmU1g3HtA6J6-JEGCN2uXqyjJytHyagHZiZ3mrB0ENmy8TcLzrDY7F-Bp1dP7q0UZod-y2mbQH5Xt5IDokZGs0NYUpbWKq2PvaBbcLlajdpjMqrlmCyvj_sCc74t5_O40C5Qg_IYeSSIyn6svxKgj908rg5VAf-fOElm-ndaUpkEWK5tqWpmhs3mYBoxqit2xnIonZvtM4ucu57Ck6ImR6vXJ0fb0rrXPIdYBgm-fK4tNU8DHGAV2M8l9ppkX-55huPugzlZzy4y0QhTOJgaWQWXIzQWbL9E6oubp56Zx7jqE_SXjlEQNJjVxm0qsz25jLWZX3D7JayiaeAWSxXsDhb12bROon2VsFFu_qIXISAG5vh5s89bEN1-V7i0Khet0wsGBAhgu1MJqK_kVnp7s-Mt8Xq6qLvGYMgzb9bq0h21xd7LXQ8kDCO1JHnSzFnkxC1KFy2HbrGxstpql7rNxyUqaCe3T7_MUg-jQekTRQSLxAzU0Kb3cNl1Q6oXk34YNtVim4r69WKZwIEB8qzMdGgEgahQkEdGq-WS6bzwBKUSKCGy4qGhqvZRKdkmeN5pO5XY4v7MAl99WrnBr2ckPKlSMPELz0wxww-EoVrZ0MeRR7DaquGAFP509lItwSqSF6-Mmjb8hKfIa3lrR1tQj1qTUPSutDy3ZQ=w690-h919-no",
-		"title": "Schwent baby shower",
+		"title": "Schwent baby shower - December 2017",
     "date": new Date("12/2/2017")
 	},
 		 {
 		"link": "https://photos.app.goo.gl/Ql1uaKDAIy2peJ3S2",
 		"img": "https://lh3.googleusercontent.com/xUJWEHnakJH_wB0wOJ4-u8y7nU44SxpH9fgpzFjmfUD3UUWNdi18Qjgx-epmMUnRI0qujqE-uadLCBFFHS4NxfmollRqdpUxfZuntPlTKez4AxpUlmtkzUR52_zgqvK981wDPk9ie1jjOXa-aCj4bjY99Ct2927v_kSsF75DZToo46glOzVFzXEiQ8RgogCtMXC5xRi7DKneaOGB4fLZR6G4_6zSzCQpy75pmeJmwAkiOpv6yqCd1g93EdWD0XrpjDFpM3had3SMYlQf4SedMko9JvtNyJubhqrCAHktMvapeT-zFW8ufR2bqQN71loIArkmQwgcNShuphsMhfA7GDRUQb1RBmVPQ3pB8OUg1NaiXHaviPXHH7lCTHmuFvecbFTBsqcIVqAB2Noz0Udr7GINzYDUxGmBZtDcJCosgjXNGkzHceuBrH62UAn-xmuNgN3UDuCggcILQuLLtTMaIL7PQx32w6UXXLIGdHPCnWAqOgVi_hR2yjycjAB77SVIxe-r_-mmsmptowplJdwswsrsnwck7dvcG1DmWQxE0M--6-VUXMu93Ujfd7_Y2pmIpcDLimDtLbVgI0A3PYDEAjfxPGeckfG3b3BqwzuO2nzBbLYKHXoF0vr3R2h-NqhuAL9jzTUzi2PQZWiGtItepdkQVXBwrNs2jw=w1634-h919-no",
-		"title": "Susan and Craig Thanksgiving Cruise",
+		"title": "Susan and Craig Thanksgiving Cruise 2017",
     "date": new Date("11/20/2017")
 	}, {
 		"link": "https://photos.app.goo.gl/JbS8ytv8Eb5OOeA62",
 		"img": "https://lh3.googleusercontent.com/ltSHKwydaAFIe6Ft6r5KQoskLhKYwNEkFXo11Gs95pljnLNJ_5XBGnuROnrqrauyzJYHU_J7fDu9uQcY-qZ-6ejV_YBelLT_sGlwkF3EYO6mNH1IOSKHp0klK5iJCj_S4VX5A_2kRnmitdD4WlmiTXtc4YS0uiU1fEZzcWjSOYjKOfvKHZ0457YMeHjNSMVIsiz3myl6L39CHdJhAX2s7NhE09Z9TbKJ2pQq0FP0a8_i5HioUs-yfxd2ys_V3bvhAQjwepaFKNTUJgUdflpmkqhnCeGALGQMDCY_fKKwLMDWQ4bzDh8t6GWThpQdDyQFv4nOB7d6TMyOmJmm0hDEJzjNn-fEeTTvdOSYbM2l3c5x-BJsmVrKsijwTr0TTgpftPSBlxfeOEVapOY6eedsdTk8SJTU2xGb1VMQeGqGYSYskjunsiTlpsGPSJtx8AW9yw1IBOB3-EH9GzEPaEpOoiw43Ht4iBpBCf-iaIHKEubRjWYsdFDbmd-xFdd1HdpGkke72PGNB0bxFTTA2zPNVlNICNuaS0CBhuGJRtXNGN4IMvJ1xG54o9DWTPh03uPtahnyIAxv35HPZskOsmFL0KC54nFRxNQdMZZ4T1HcqzFswnJyhPAvaDZ1tgdKalibhtg5kkMcjoptXEGTookyljZfUeenUr7J7A=w690-h919-no",
-		"title": "Silver Family Vacation in Santa Rosa, CA",
+		"title": "Silver Family Vacation in Santa Rosa, CA - July 2017",
     "date": new Date("7/16/2017")
 	},{
 		"link": "https://photos.app.goo.gl/vUvIN6iMXz4ZIoBn2",
 		"img": "https://lh3.googleusercontent.com/7mL7BqUslo-odZY9JH3OchaouCFyoe1qHcFwTA5tlM9ux9Gdfc7UWpPnlqGwlcBMGMfzKN78TD4QO9o1_zSNsieavTY0A4f7MY0ZAW_U12dPkWyYNw_OHzRdRU-4KLYn-4lc_wBw2YDRR6PQDbgS0MB7GRuFhe0wnUoM9oV52YcX4WJGkwDIUV1UDQUl0KjYbO0OsIDpqmCCx1bhr9CeDNsbAsX_xB3M1qT0Tg6C47ZNT4RRlc9hI9IbUchtHwWrQXHpiJOuJjbHBLPXyA5k28nepA2qs65iLjwYCdb9ab1AoTbK2Tu5-lsK3ejrjKEta-WPIKbQ6wPWEikdvH99Afh01GXzN0tgHJ1zvFLMXMm0aHk5v8T71o_5jPACgvEh_Gcju3WZLS_gk8O0JzLx3VumRDYixtz3UkiZ3qRVSz2Ise1j5kO87tuw6f0xw9Ca6qk4OcVDSWCLZTb4p90HBOEG2EbKx28zSC_KTsSeeROn4iPZUnhdNzMgCPca3W7LJ6xsvv38Yj4ugsLxCorNNNr0PCP4XqPZ456pVlCsgSIJ4gdD43bPMhX3sI2yYtKFNVov8miKQGhaV1RYXXy9eSjlKXrZp9jA5f9yhJE29iKDaDVlZf8NthEqsAkJdSExJFRyc2ULFJCjpVYPphKvi6IhtNZlYuZFpg=w1720-h968-no",
-		"title": "Extended Family get together in update NY",
+		"title": "Extended Family get together in update NY - June 2017",
     "date": new Date("6/1/2017")
 	},{
 		"link": "https://photos.google.com/share/AF1QipMUxqYx46aTCgkQzZQabBs7cJNRugmUlRXBTBYffUvEAjsSVnzHh6KdRncvQ1Z3qA?key=RmdqMHpldHluWlNYSUJDN2RvSTZvVE91RW1mRDBn",
