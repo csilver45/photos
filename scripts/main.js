@@ -63,7 +63,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		title: "Julie & Bill Wedding November, 2015",
     date: new Date("11/1/2015")
 	}, {
-		"link": "https://photos.google.com/album/AF1QipOmgcqtMd3c9M4PIETvMEIIoyALTy6XzcyP9stp",
+		"link": "https://photos.app.goo.gl/zFg9KzQlV6pQbtQU2",
 		"img": "https://lh3.googleusercontent.com/E8SFCCkXLH4jra8CSNqf522D_KaIZKzUkWYb04RhlvanrrER-6FQTe2H-RhAFr5MQDmAF4UmNS4RwfmJjIvS9VjPOqqbHzqCSuhclSoUP64AWigqy1VhmYxjfEQKCDgXyLMimPVbsuomrECnSNX6Hk-M2aIi_9pLbjtXsSxOIiX3sS6CEatYCPkZL-j8sTVfF5Bh50NcpvFFi1O1821bkn8OYdcije0lQd4-k7_n1XyuBk-1lvW2PvdkUTs6rz-PeAsgKO1WQi1OBaPjAjR5SmI9TDDaK-s9qkpkAeSw1cUrHfq3cyJzO9FxeHswqXPih2NGfVIZ5X_QesUJ7GOEx82JTswP5E1yPaUvlkJTCMGlXlX9rYhZ7FocD5GvHpzwwKbAojseTGh2byR3lXukuqEEPQOSyBxsFh7ygSI58BHeQoegJjjFj5C0J1yBEOZgeDmvw0keIHVt8d65t3azz8naYNDy98XGMe0rQReefqBMSYX-1ptqc9exZdUbDKOGQW2XbzNmrlvnPvOODo51pZURptflalyB5Fw6jjrOm2VKdaZZLU4mv62UME4Pq357dm2VLiLTRxbwMFb3hCFxbgRaOe4sirwf4zT_o_Zzx5Z2DWK4iQ=w920-h518-no",
 		title: "Steven Harkins Graduation party - July 12, 2015",
     date: new Date("7/12/2015")
