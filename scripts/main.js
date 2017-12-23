@@ -1,6 +1,18 @@
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
-	$scope.albums = [{
+	$scope.albums = [
+		[{
+		"link": "https://photos.google.com/share/AF1QipMUxqYx46aTCgkQzZQabBs7cJNRugmUlRXBTBYffUvEAjsSVnzHh6KdRncvQ1Z3qA?key=RmdqMHpldHluWlNYSUJDN2RvSTZvVE91RW1mRDBn",
+		"img": "https://lh3.googleusercontent.com/iCtoWU5HpyR6orybwuGTjCaONXeAaNjA_I8UsVnXf8OTzAoldg8eGxbvwP8mpm_u9E-dlSBntbgRqSfPWaBf_0wh2WjlyXNcFHbV7wpX-R2ofcp3cTRDMOdCPwBAhEqQ0-ezir3QWrYDr5ugu8OM6bIDhPm7vA-0Sm475YPsaLRQ5GridifSmqWqIo88RRZvTrtvV1T4XJO82fSof9IGrlGZLjXc5d-jUaha8w4DCOdtxkvaKh4Ye4AwdXHaLpcP1bk5r4w2_OkRBP0rpEgaE_vHN6P0wI4JRuyvuSq4Wq997eC1juOBhkD-nOjAGMGxVgkVdDzZcMJWktUhwekeHkhsJDtbyyVltPLHmFNVDKo1WA2RylMwBd-8KNLq9xK1chuGRZe25CXNUAMXJpZRJc1_AM0O_QO73cbzkJsjdlnqlxedBaR5Cs-o7xGrLdQZhQ9DTKw79XNz2FAZtxl3WkUdavsFwfptllUfRKbaxQXXDBLvLagW79Mm7AgNQrM4734RSMvWQ9SrOm9SmUEiAfqbOh4HGnPiynY58p_GARr_F_s9oqxzVDG-l4GZ7wOpfAKsBmLbt2xI_Bz6USAse5K-JkPT78v_VSC2MPHwEs3PRGE3uA=w1266-h949-no",
+		"title": "Schwent baby shower",
+    "date": new Date("12/2/2017")
+	},
+		 [{
+		"link": "https://photos.google.com/share/AF1QipMUxqYx46aTCgkQzZQabBs7cJNRugmUlRXBTBYffUvEAjsSVnzHh6KdRncvQ1Z3qA?key=RmdqMHpldHluWlNYSUJDN2RvSTZvVE91RW1mRDBn",
+		"img": "https://lh3.googleusercontent.com/iCtoWU5HpyR6orybwuGTjCaONXeAaNjA_I8UsVnXf8OTzAoldg8eGxbvwP8mpm_u9E-dlSBntbgRqSfPWaBf_0wh2WjlyXNcFHbV7wpX-R2ofcp3cTRDMOdCPwBAhEqQ0-ezir3QWrYDr5ugu8OM6bIDhPm7vA-0Sm475YPsaLRQ5GridifSmqWqIo88RRZvTrtvV1T4XJO82fSof9IGrlGZLjXc5d-jUaha8w4DCOdtxkvaKh4Ye4AwdXHaLpcP1bk5r4w2_OkRBP0rpEgaE_vHN6P0wI4JRuyvuSq4Wq997eC1juOBhkD-nOjAGMGxVgkVdDzZcMJWktUhwekeHkhsJDtbyyVltPLHmFNVDKo1WA2RylMwBd-8KNLq9xK1chuGRZe25CXNUAMXJpZRJc1_AM0O_QO73cbzkJsjdlnqlxedBaR5Cs-o7xGrLdQZhQ9DTKw79XNz2FAZtxl3WkUdavsFwfptllUfRKbaxQXXDBLvLagW79Mm7AgNQrM4734RSMvWQ9SrOm9SmUEiAfqbOh4HGnPiynY58p_GARr_F_s9oqxzVDG-l4GZ7wOpfAKsBmLbt2xI_Bz6USAse5K-JkPT78v_VSC2MPHwEs3PRGE3uA=w1266-h949-no",
+		"title": "Susan and Craig Thanksgiving Cruise",
+    "date": new Date("11/20/2017")
+	},{
 		"link": "https://photos.google.com/share/AF1QipMUxqYx46aTCgkQzZQabBs7cJNRugmUlRXBTBYffUvEAjsSVnzHh6KdRncvQ1Z3qA?key=RmdqMHpldHluWlNYSUJDN2RvSTZvVE91RW1mRDBn",
 		"img": "https://lh3.googleusercontent.com/iCtoWU5HpyR6orybwuGTjCaONXeAaNjA_I8UsVnXf8OTzAoldg8eGxbvwP8mpm_u9E-dlSBntbgRqSfPWaBf_0wh2WjlyXNcFHbV7wpX-R2ofcp3cTRDMOdCPwBAhEqQ0-ezir3QWrYDr5ugu8OM6bIDhPm7vA-0Sm475YPsaLRQ5GridifSmqWqIo88RRZvTrtvV1T4XJO82fSof9IGrlGZLjXc5d-jUaha8w4DCOdtxkvaKh4Ye4AwdXHaLpcP1bk5r4w2_OkRBP0rpEgaE_vHN6P0wI4JRuyvuSq4Wq997eC1juOBhkD-nOjAGMGxVgkVdDzZcMJWktUhwekeHkhsJDtbyyVltPLHmFNVDKo1WA2RylMwBd-8KNLq9xK1chuGRZe25CXNUAMXJpZRJc1_AM0O_QO73cbzkJsjdlnqlxedBaR5Cs-o7xGrLdQZhQ9DTKw79XNz2FAZtxl3WkUdavsFwfptllUfRKbaxQXXDBLvLagW79Mm7AgNQrM4734RSMvWQ9SrOm9SmUEiAfqbOh4HGnPiynY58p_GARr_F_s9oqxzVDG-l4GZ7wOpfAKsBmLbt2xI_Bz6USAse5K-JkPT78v_VSC2MPHwEs3PRGE3uA=w1266-h949-no",
 		"title": "Debbie Y and family visit to NH - August 14, 2016",
