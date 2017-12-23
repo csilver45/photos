@@ -2,15 +2,15 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
-		"link": "https://photos.google.com/share/AF1QipMUxqYx46aTCgkQzZQabBs7cJNRugmUlRXBTBYffUvEAjsSVnzHh6KdRncvQ1Z3qA?key=RmdqMHpldHluWlNYSUJDN2RvSTZvVE91RW1mRDBn",
-		"img": "https://lh3.googleusercontent.com/iCtoWU5HpyR6orybwuGTjCaONXeAaNjA_I8UsVnXf8OTzAoldg8eGxbvwP8mpm_u9E-dlSBntbgRqSfPWaBf_0wh2WjlyXNcFHbV7wpX-R2ofcp3cTRDMOdCPwBAhEqQ0-ezir3QWrYDr5ugu8OM6bIDhPm7vA-0Sm475YPsaLRQ5GridifSmqWqIo88RRZvTrtvV1T4XJO82fSof9IGrlGZLjXc5d-jUaha8w4DCOdtxkvaKh4Ye4AwdXHaLpcP1bk5r4w2_OkRBP0rpEgaE_vHN6P0wI4JRuyvuSq4Wq997eC1juOBhkD-nOjAGMGxVgkVdDzZcMJWktUhwekeHkhsJDtbyyVltPLHmFNVDKo1WA2RylMwBd-8KNLq9xK1chuGRZe25CXNUAMXJpZRJc1_AM0O_QO73cbzkJsjdlnqlxedBaR5Cs-o7xGrLdQZhQ9DTKw79XNz2FAZtxl3WkUdavsFwfptllUfRKbaxQXXDBLvLagW79Mm7AgNQrM4734RSMvWQ9SrOm9SmUEiAfqbOh4HGnPiynY58p_GARr_F_s9oqxzVDG-l4GZ7wOpfAKsBmLbt2xI_Bz6USAse5K-JkPT78v_VSC2MPHwEs3PRGE3uA=w1266-h949-no",
+		"link": "https://photos.app.goo.gl/6RTXrTsAdTy51iN32",
+		"img": "https://lh3.googleusercontent.com/AmU1g3HtA6J6-JEGCN2uXqyjJytHyagHZiZ3mrB0ENmy8TcLzrDY7F-Bp1dP7q0UZod-y2mbQH5Xt5IDokZGs0NYUpbWKq2PvaBbcLlajdpjMqrlmCyvj_sCc74t5_O40C5Qg_IYeSSIyn6svxKgj908rg5VAf-fOElm-ndaUpkEWK5tqWpmhs3mYBoxqit2xnIonZvtM4ucu57Ck6ImR6vXJ0fb0rrXPIdYBgm-fK4tNU8DHGAV2M8l9ppkX-55huPugzlZzy4y0QhTOJgaWQWXIzQWbL9E6oubp56Zx7jqE_SXjlEQNJjVxm0qsz25jLWZX3D7JayiaeAWSxXsDhb12bROon2VsFFu_qIXISAG5vh5s89bEN1-V7i0Khet0wsGBAhgu1MJqK_kVnp7s-Mt8Xq6qLvGYMgzb9bq0h21xd7LXQ8kDCO1JHnSzFnkxC1KFy2HbrGxstpql7rNxyUqaCe3T7_MUg-jQekTRQSLxAzU0Kb3cNl1Q6oXk34YNtVim4r69WKZwIEB8qzMdGgEgahQkEdGq-WS6bzwBKUSKCGy4qGhqvZRKdkmeN5pO5XY4v7MAl99WrnBr2ckPKlSMPELz0wxww-EoVrZ0MeRR7DaquGAFP509lItwSqSF6-Mmjb8hKfIa3lrR1tQj1qTUPSutDy3ZQ=w690-h919-no",
 		"title": "Schwent baby shower",
     "date": new Date("12/2/2017")
 	},
 		 {
 		"link": "https://photos.app.goo.gl/Ql1uaKDAIy2peJ3S2",
 		"img": "https://lh3.googleusercontent.com/xUJWEHnakJH_wB0wOJ4-u8y7nU44SxpH9fgpzFjmfUD3UUWNdi18Qjgx-epmMUnRI0qujqE-uadLCBFFHS4NxfmollRqdpUxfZuntPlTKez4AxpUlmtkzUR52_zgqvK981wDPk9ie1jjOXa-aCj4bjY99Ct2927v_kSsF75DZToo46glOzVFzXEiQ8RgogCtMXC5xRi7DKneaOGB4fLZR6G4_6zSzCQpy75pmeJmwAkiOpv6yqCd1g93EdWD0XrpjDFpM3had3SMYlQf4SedMko9JvtNyJubhqrCAHktMvapeT-zFW8ufR2bqQN71loIArkmQwgcNShuphsMhfA7GDRUQb1RBmVPQ3pB8OUg1NaiXHaviPXHH7lCTHmuFvecbFTBsqcIVqAB2Noz0Udr7GINzYDUxGmBZtDcJCosgjXNGkzHceuBrH62UAn-xmuNgN3UDuCggcILQuLLtTMaIL7PQx32w6UXXLIGdHPCnWAqOgVi_hR2yjycjAB77SVIxe-r_-mmsmptowplJdwswsrsnwck7dvcG1DmWQxE0M--6-VUXMu93Ujfd7_Y2pmIpcDLimDtLbVgI0A3PYDEAjfxPGeckfG3b3BqwzuO2nzBbLYKHXoF0vr3R2h-NqhuAL9jzTUzi2PQZWiGtItepdkQVXBwrNs2jw=w1634-h919-no",
-		"title": "Susan and Craig Thanksgiving Cruiseb",
+		"title": "Susan and Craig Thanksgiving Cruise",
     "date": new Date("11/20/2017")
 	},{
 		"link": "https://photos.google.com/share/AF1QipMUxqYx46aTCgkQzZQabBs7cJNRugmUlRXBTBYffUvEAjsSVnzHh6KdRncvQ1Z3qA?key=RmdqMHpldHluWlNYSUJDN2RvSTZvVE91RW1mRDBn",
