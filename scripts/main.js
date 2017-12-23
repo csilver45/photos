@@ -30,7 +30,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/vUvIN6iMXz4ZIoBn2",
 		"img": "https://lh3.googleusercontent.com/7mL7BqUslo-odZY9JH3OchaouCFyoe1qHcFwTA5tlM9ux9Gdfc7UWpPnlqGwlcBMGMfzKN78TD4QO9o1_zSNsieavTY0A4f7MY0ZAW_U12dPkWyYNw_OHzRdRU-4KLYn-4lc_wBw2YDRR6PQDbgS0MB7GRuFhe0wnUoM9oV52YcX4WJGkwDIUV1UDQUl0KjYbO0OsIDpqmCCx1bhr9CeDNsbAsX_xB3M1qT0Tg6C47ZNT4RRlc9hI9IbUchtHwWrQXHpiJOuJjbHBLPXyA5k28nepA2qs65iLjwYCdb9ab1AoTbK2Tu5-lsK3ejrjKEta-WPIKbQ6wPWEikdvH99Afh01GXzN0tgHJ1zvFLMXMm0aHk5v8T71o_5jPACgvEh_Gcju3WZLS_gk8O0JzLx3VumRDYixtz3UkiZ3qRVSz2Ise1j5kO87tuw6f0xw9Ca6qk4OcVDSWCLZTb4p90HBOEG2EbKx28zSC_KTsSeeROn4iPZUnhdNzMgCPca3W7LJ6xsvv38Yj4ugsLxCorNNNr0PCP4XqPZ456pVlCsgSIJ4gdD43bPMhX3sI2yYtKFNVov8miKQGhaV1RYXXy9eSjlKXrZp9jA5f9yhJE29iKDaDVlZf8NthEqsAkJdSExJFRyc2ULFJCjpVYPphKvi6IhtNZlYuZFpg=w1720-h968-no",
-		"title": "Extended Family get together in update NY - June 2017",
+		"title": "Extended Family get together in upstate NY - June 2017",
     "date": new Date("6/1/2017")
 	},{
 		"link": "https://photos.google.com/share/AF1QipMUxqYx46aTCgkQzZQabBs7cJNRugmUlRXBTBYffUvEAjsSVnzHh6KdRncvQ1Z3qA?key=RmdqMHpldHluWlNYSUJDN2RvSTZvVE91RW1mRDBn",
