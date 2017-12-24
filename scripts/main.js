@@ -178,11 +178,6 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		title: "Jessica graduation from UMSL - May, 2013",
     date: new Date("5/19/2013")
 	},{
-		"link": "./2003NationalParksTrip.html", 
-		"img": "https://lh3.googleusercontent.com/qVmtRDlmYDhBArN2viWRK5_91BzyrcxtiayzPcv6ha-j6DF6l3W19Z17yH0jaY3lgU_hbcIcFj37X7BPlGDqH587dAJ0YTfr_Tx04hHH7y57M0Iz1MztED8dZEpf289RqPO4pMb99OLnnfNzvcvyqP9OdKpZl1lyl2Dmemf9iljAhrx128TEKNJP5RjEdoijZrPR4GyD_Esmwi_RI7HVGOdgkzSrFOb9_SIJEhfKL217FtYXvLK7wBqtGcJtCXU5ObgKxIbY_aWo1l08iUzVBdsg0ZUwJT8Rc5jF9mk-iqTFzm0B6lyfQHZLVb4wUgCXwqSwlvN4c98wDKztMvcL2tmLMxioitq1k14qE-awP4LgZ0ZpTXs6IOoM9_K8pzJ8eFOGsb6D0s7tXu7_nX6a2qyyfn_wtPBEctEfcvsm2UuaQvPwZu9pff-e__PdO2-c9XuHfm_hWhdtBh5BTX0PFq56lGLtoJl-cxvxYOf8XjlBSne-i9C6W-i3zL5BDd5zEWuLf09tjjpIXbDSx5NpG0rD00sYvEvJYqD7xCm7ejn3sC3WkVAsqkicwL_R6maL35X3ZDvYobYAWABHVPL-i1A8mNnfBb5plcSOP5g4uNy1UAKDrjb0h8Z7Yf1GDVvvbDv5LqZTEiMn85keu_11WyGws-lgpgyqlw=w684-h908-no",
-		title: "National Parks vacation - Summer, 2003x",
-    date: new Date("7/1/2003")
-	},{
 		"link": "https://photos.app.goo.gl/n74vbOi1hAR2qS1G3",
 		"img": "https://lh3.googleusercontent.com/C9ikPqZfCCVitdPPyMhXHW9qYqPyjHu707sQuqZgXNWz09m57JxxNUSwrPhHQa-U_wvgC-f4L1CSdZBiyjWZrdJKyW6rZkLdApW-Lm2laglrguGuEg-F3jdmVaxovy6QVso8gBr3c9hMOazVZi7mFJFtbsXEBD8rwac1_IiFgu4VFDKgQPolXSa-xVW8IJBs-PLNwM7Q6HSqpH4XBAreH_EsSMkMwxzx1Jp_Jw70eYVUhdAAkGMNxDOw1udujhB28jcVF-2t_Sd-85vA2_Fcr2CTVpOywtdiI-vZuUBMMX5LV5v-YM7IhCD3XhnejCojBvFWCQ9Oi4qvQfnwdtuvBzqs2KOJXkK1g5SyXHsagsGKgCO-qGRAQRyQJ8usEP30Bc2_DrPJj0SBkuEjTUC2O8cObe9sROr02OOj0wd2-hn3MWKwbF9wEPZcwxZhvU-HLBtw7raH4_PHSRyw2j1MQneCiR0oKbA6JJuBsemMksslCWIMGSmQps5WijTvvgkANnM9jTxYk347anJvhd-mLwlCpgOaVrSCtVIaxpa4KIiiye33GWa76FdnoidE13-KkuEb-B5VY9GzwwlwO9sZA6ghC3etNu10rqjOzpamZ0MAu1IoiqSo73dEwKlHnXLyYIZM6qMlo6aBRWpBakdENujLjv6n7BDyDg=w1384-h919-no",
 		title: "Family Rock Climbing - March, 2013",
@@ -483,11 +478,6 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		title: "Jessica King of Hearts dance - Feb 2008",
     date: new Date("2/9/2008")
 	},{
-		"link": "https://photos.app.goo.gl/NbY8oQ1mwYW4sMNL2",
-		"img": "https://lh3.googleusercontent.com/4OFKYO167iVfffiFZqN5M7AlWo59BFNrAGnowecUxLJfFVEL6QUXFtI0VvDC17PYyVlHONX_kyk4Afgg0DncepLUhwkynp3WQSLb20rMFodKQwSJJFhyLCgaRjDmzAdap7ON_D4tXveYnNAIHUqf8iqyEhFv_rrc62f8MXDPRWZQIeoLCYswjThq8W9__bwN5UUFjFpK19GzVPklNvuXfpelHHkmjNd_iYCGM6gOV06NDt2MS-C2eQo5CvGjjgedWlGbRW9lLvfrDbOvDvEgQZBtFG2LKGVvkHcSRomO5ixj1AZp78nzWGh56mnuI0LvMZ-Gjx3GAw2dNV5i0OysM3ElH4f-mipFvY5IAYzWNoFXxMYdcchMM8xTdznm3Z4iLoIic_jvFZAFeIrGFggxndquFJHJPbt_3gZCaOgQvine8IhQp3H7-X7vFJYZZ8qvTiFI-_IqHLojrmu7Szc8I_Sz1a773BLb8ImVIlxUXaCLwZCSWAqhqj-J2P2gIixA0sARJlgE-Cy431ee9BuuKaXUMk2SiKwLcDLbzGandZ_P4zWCslT37xMQL_InZKpgivj5KSX--peHo2oVudKauk0WTbl5UKaYlbRYvltQTvJuxzYCzctLDgsAUVvcqMk_3Uq0Wp42qoQwfpGJWA_c3hnKI0F2PEnmIg=w1290-h968-no",
-		title: "Jessica New Years party  December 2007",
-    date: new Date("12/31/2007")
-	},{
 		"link": "https://photos.app.goo.gl/WFOpPd615BNFrUUx1",
 		"img": "https://lh3.googleusercontent.com/vDy2_-v7bR2bCUrgC53TqplXNHD9C24hBLSuzb1F_6vyT8vOMFjtdBuQSVAE6ADEe33pLqn4j6Y9f7p_r9a2FMtPVY6lJXJQJOxLuawiocgVLlLAHIAe1LRYidE68tQBxGPkYhWICEvfCA8CuylxF1kuvzixT26-Uz3zN-CfjVySnoBlkQlBMDhI6ALTIuE3-ESBA_Afqqg2vG0LbkL7bGN8nIps3e96byb0AWqTcudxKvm3SbMeGgEVjIRe1BgCA4oYhRDRUlneMt45fNGdx0Y1cP-P04JPZGsueSuWEdiFIaFqBOIDgwCVnkAXUhqt2uXpSCbXN_veaXDQxs-4hq1rGq9NvJDlPOpYYSy1qPge7Z7iZTxwn39iM-QYUEMeefxBoN2HZivnH7L_JfyhmM4EpGe-1K9wHsVyh1b2rmgZBrcd6bLC4T_SdXw1_WMI5ERxiVUzkTrk-S6byKg75VhJzowG9GqxW59G0aeGPMGn_1UEyrR4ewmLaz96p_6dPGaMoyagnRIA2G_u7H_b4uyL5dMwlQxMbUNdCYBKpPDZCTFrrmJTS6W6AmF39OQEXOhvqwJXWT_UAUylXXVt77y7SdubS-b1Wk5rUKnAzmzFciTEOZpTLccG841MqNAF0XF3tZ-HaUKqX7GpdKpwCQNEzQ6U4qPZeg=w1433-h968-no",
 		title: "Danny Boyscouts - Summer 2008",
@@ -497,6 +487,16 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"img": "https://lh3.googleusercontent.com/_lzahNYr--uh7ascGPdf5JP9m_NRmv_mUp2DXeyXC-D96ric0hItJNdTMRgSFtmUFVlVOFWBwJ_K8qPKfcslX_V9Sy4GQVDKqtwCyxc8SLfHn1xFIEjm2HwkVr0BxyRjBiWqVG9oq0pxDAlMeCoQEIY3GEPVWD7mdzOipbWbijpZNRZHhIKHibs2ScIXIIQV88yClFlTpgF-3BWIDiegeTBha_Yx8bx6UkHAU5ftiHgjQXu9b07QyT7rubqmpoBTu9NubLXDr1S_yYcDZaZGOMMIX7iDQMFHa2dupBzVlXGnW09aDhtJhjnSWmtStO4onTwl36izG_0YTew5NWy3sms8XoK-JpT94oUiunmZAvSnYQ8gy6FZnQ9YTRKdO_71ple79pImXI6Nc9MM1mpdJMe_CKTGJzbXfWzFFFX_SqKZkO0L4EaimRrxk6tzNh6I2DLjU5GZcYCqRCtCax_8PZn-s6dreCMSDQezx_vYOw7w1WXpgyyCxDkafGgYiQhJmya04TYp7IrsPODAT8UbQDFrYXYAabckUIgrfaxPPERt_k3ty-LpE5SNFHs3EYsFUdBp9Ffjg9_3ib5okNPWfv-ofhDnqwiJxKxohH0=w550-h413-no",
 		title: "Danny at Camp livingston - Summer 2008",
     date: new Date("8/15/2008")
+	},{
+		"link": "https://photos.app.goo.gl/NbY8oQ1mwYW4sMNL2",
+		"img": "https://lh3.googleusercontent.com/4OFKYO167iVfffiFZqN5M7AlWo59BFNrAGnowecUxLJfFVEL6QUXFtI0VvDC17PYyVlHONX_kyk4Afgg0DncepLUhwkynp3WQSLb20rMFodKQwSJJFhyLCgaRjDmzAdap7ON_D4tXveYnNAIHUqf8iqyEhFv_rrc62f8MXDPRWZQIeoLCYswjThq8W9__bwN5UUFjFpK19GzVPklNvuXfpelHHkmjNd_iYCGM6gOV06NDt2MS-C2eQo5CvGjjgedWlGbRW9lLvfrDbOvDvEgQZBtFG2LKGVvkHcSRomO5ixj1AZp78nzWGh56mnuI0LvMZ-Gjx3GAw2dNV5i0OysM3ElH4f-mipFvY5IAYzWNoFXxMYdcchMM8xTdznm3Z4iLoIic_jvFZAFeIrGFggxndquFJHJPbt_3gZCaOgQvine8IhQp3H7-X7vFJYZZ8qvTiFI-_IqHLojrmu7Szc8I_Sz1a773BLb8ImVIlxUXaCLwZCSWAqhqj-J2P2gIixA0sARJlgE-Cy431ee9BuuKaXUMk2SiKwLcDLbzGandZ_P4zWCslT37xMQL_InZKpgivj5KSX--peHo2oVudKauk0WTbl5UKaYlbRYvltQTvJuxzYCzctLDgsAUVvcqMk_3Uq0Wp42qoQwfpGJWA_c3hnKI0F2PEnmIg=w1290-h968-no",
+		title: "Jessica New Years party  December 2007",
+    date: new Date("12/31/2007")
+	},{
+		"link": "./2003NationalParksTrip.html", 
+		"img": "https://lh3.googleusercontent.com/qVmtRDlmYDhBArN2viWRK5_91BzyrcxtiayzPcv6ha-j6DF6l3W19Z17yH0jaY3lgU_hbcIcFj37X7BPlGDqH587dAJ0YTfr_Tx04hHH7y57M0Iz1MztED8dZEpf289RqPO4pMb99OLnnfNzvcvyqP9OdKpZl1lyl2Dmemf9iljAhrx128TEKNJP5RjEdoijZrPR4GyD_Esmwi_RI7HVGOdgkzSrFOb9_SIJEhfKL217FtYXvLK7wBqtGcJtCXU5ObgKxIbY_aWo1l08iUzVBdsg0ZUwJT8Rc5jF9mk-iqTFzm0B6lyfQHZLVb4wUgCXwqSwlvN4c98wDKztMvcL2tmLMxioitq1k14qE-awP4LgZ0ZpTXs6IOoM9_K8pzJ8eFOGsb6D0s7tXu7_nX6a2qyyfn_wtPBEctEfcvsm2UuaQvPwZu9pff-e__PdO2-c9XuHfm_hWhdtBh5BTX0PFq56lGLtoJl-cxvxYOf8XjlBSne-i9C6W-i3zL5BDd5zEWuLf09tjjpIXbDSx5NpG0rD00sYvEvJYqD7xCm7ejn3sC3WkVAsqkicwL_R6maL35X3ZDvYobYAWABHVPL-i1A8mNnfBb5plcSOP5g4uNy1UAKDrjb0h8Z7Yf1GDVvvbDv5LqZTEiMn85keu_11WyGws-lgpgyqlw=w684-h908-no",
+		title: "National Parks vacation - Summer, 2003",
+    date: new Date("7/1/2003")
 	}
 		
 /* {
