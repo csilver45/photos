@@ -275,7 +275,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/kToaWwYvTwOI8NEq2",
 		"img": "https://lh3.googleusercontent.com/Dz9OXgdO40BDZF-Fb2z0YZ3IdwqJLR5JfFrOE7fDAKtuiqsdXCduXybUN7V8kjZmySLCVzLbH-XYmL9wiQ04-EeWgs1xEWWxjaoVfsMxr3U90tCOdvI12lKhktGS9IcGEdM_viZH7NzKkmei1bwsww7wuKM_HEWXe9iDUHXbWrNpvhfh3wpUWdAkNgAReAT6GKRB1jQT5Mrs8F2QHYKy7JFzWk33TWAPyVNb9ctOQb6d7aF2j5HvDcJDel_ceUwdSX-8X16GkGslQvZxZq7PE0Gcpu_X-jVlPSGAAEPbns5xuWGzAQeGN3nBJfGJPk-D-tkwZ3YC47ZpbbOe1iRi5Jy2c0dTqF12dtMbECYCXVqJNfReXM9OvF85DC8UzjAqWZuoMdfg4eI9Evyljs3LVcQadYx7vzYq4SBx35WDEY0mJYC2uUafFZ_-v5mpJdq0DNn5BFYUVX0xPEPE6lDkep4gwsl4qxKAwHF_BnaVcTI9LUXgrHyskbBPaDBRW6wfyvqQmeRVHsn9RCQqJku-bH476XOVcQeNOU22QPZiS9aW9oTUKOjyBbThg4sXLdP8DsiTQ5ZS1qjPOEUYF7MevbW8Ym-chVHShgMQas_Pk4p4y-U0qhDZuNYLkRPxv_-ElBGgU2pT2C_CzYcsDzRTwFmtSocDl-ApUA=w1227-h919-no",
-		title: "ski trip to utah - January 2011",
+		title: "Family ski trip to Utah - January 2011",
     date: new Date("1/1/2011")
 	},{
 		"link": "https://photos.app.goo.gl/eowyW3kURf8eRUSg1",
