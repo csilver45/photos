@@ -422,6 +422,31 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"img": "https://lh3.googleusercontent.com/SW3xchyqbFuLtvCbz4d2EDSXdza8FErlRmO4rMh4NRiyJCEWOxlf1x2RDM2YNvKsIfaczLdt4RfHCrYGHB2fS6uLWZBfZJxTnvt0dz9D7z7aoN1msWCCTFUfhJ7c5cg667UlJLCyPnWG2UbZo3uNAx-FXrM85mnIUAW_AjJ-RIKw0erJ-kqFlgrCPBoe15Rz_c8NZcyZrfGp2e1r-WdM63pLfJe4ez9vi-KHAwaouDrP4IEGPIOqslyv9BwsUVQtEAUhX_YwsKkqJeqE3jjE1prWj_pb5y-4m8KNqU5W5uHiIxqCQRS6IBybc6aCmrSIPmxvbDBRJ2l39HD7pxUujAXNjRH-U4cXvbjnilmA0p6ZpPuCJ1vHbJkFYNPWoRipI0ZoperpfHinm-psuzyeaGZoDUaTsGsC4mZ7ZmyGO1_fe-MJ_DxqBlO8-pRSxNQa3tEMisnHkMvNwJOXWckhCE0s3oUrEsKubf9U3UC8yF99JUAT7NljOZehhU3KaEX1m_vPTzZhpn4-QEBsZGfSfn1tr0jIiA0z7nHMMxk9pg6FRdWFwEUdBl8XMTFb_rQ_aQzQbo_f6mmzUZAYiH72-55LLlJDsYZWeqw-T8DBJnG00NcJAYd9nnN6G7k48vw51TiBipI9uMLsEhmJYCJdP9QgFnnRXhQolQ=w1290-h968-no",
 		title: "Jessica and Susan visit with Golds and to NYC - July 2008",
     date: new Date("7/20/2008")
+	},{
+		"link": "https://photos.app.goo.gl/9Qw35Mn9y4c1K6Jl2",
+		"img": "https://lh3.googleusercontent.com/xWqk6dIGQypCTPb_yeI-OMKVXpv4y1kon0pbpzazt50BMmFDHmZqpZxb_TdoWi_TKtPqYvZh_hVqFQMOYov7_XgJI_YJwATPjoLi-2_ZIR4wCCo2RKws3ilSqQHb-vLH-N8XCKup7e8KsiFgaiHS0jwrnKRkktnlG_RwHeAHxbQWBQWOnJVw56syLoxDAHDDFpLBGCYRriCI3DvI4pXJaTzNUa1sfQCo1cbAMXObGKGFRR5efL_uNxAOUztqmARpwlMXbl65UnuGbGkgTQIcwgnvHxPsOzZEa0nbu_atmaxkwvQb6oOtAPTsb7oohvJBafwriZ4X3AJExrp1k0FG_3svzgb9c0XUcEoLgp6Wo246OndKT8-CKkq9a4_94kqJmT3NqFUsOg5Dt5Yhpk3k8Cf7j84v7W0glifEZ_6HENeZWDu9FscKAvXZ1LQkjZaO9J2Z95Rh1q7_C_ZbKVqLsVU0fkDkfwTzSkqKQDu1-8O8TxhGocYU-6futbjutz0q-BRwZSWNjeEEQxmOdmSWN9k7kiHzUBlb54rYIJNm_5wcLyMpqn_SC9sslMVc9eQho55P1oQmEtlW9adwC1o2fhBAQsfV8mwjUeFWeEHRX6sBjsbrHmCw0zCDiSNuhufTy8i0h5ynw_pp6miq_jWzibiqM5bMNlCnyA=w1290-h968-no",
+		title: "Susan's visit with Cheryl and Steven Harkins to Kutz Camp (where Jessica went) - July 2008",
+    date: new Date("7/19/2008")
+	},{
+		"link": "https://photos.app.goo.gl/YEbFsFeWaQKMU3qK2",
+		"img": "https://lh3.googleusercontent.com/8UEq8GaKnnyPqoY6KPn2RIcgObqRemmYeCkbTDURQ7xXtLpEiI14f3ZFJq4Tcemf5p1xx04pu49RPos9o5WApdrOnWroUfXSkc7mrPbMKQdRsT4DlvOm0sEKppLGaia4zeMgOZcjEJUOyzscgcOE0xC2eMw02pHNM1qijobul4PZGX5tf6L2R2PSACUSVFvrTxBxiPDoxzWhO55HqBilkWpexUc23yuDME8SV7XrOt4OFC82kS1Guw2irz16cqESxjAXsFmNV_6_8uIUfB9wGNtDOUWejAWyoxBdBzjaNvpaw8vdwpLpdg-JAFzsdDmuBimhZxK24-p8ZGHrXWso-5IhXtXw--axdwhGRTYiBE5FbcPdbdWmTlcspm-3VUt4dVUpDQtZ_qFaFjmQCdnF-4Tqrdb32PWdWhWOQg5aBeMHJKrly3OvNlcauqk0zg_7SQ0WkG0NBCnmXYRPqaoA407xQzQZx_MqgSFb089s1sgiDeHo-zOdp6VDDFuQX46cjTMuqkE0Rp-IBA4HT_NF3jdVL-siVcpbQ7YzXum22lVKNjxSSD6Na-nN5Z6S4M1Hp1tltYI0t4CP0HNX-MOh4717xWkfNqpN_E6MIeL2NQRK2aOp5WtC1xsIc_qIMewKo8cLN0Arf1F255LGqPoQI3pv2vM6IF-bKw=w1290-h968-no",
+		title: "United Hebrew Softball game - June, 2008",
+    date: new Date("6/29/2008")
+	},{
+		"link": "https://photos.app.goo.gl/1FG7SzO5Ju9ctB9D2",
+		"img": "https://lh3.googleusercontent.com/ApuSxRAvl_93d9l3DhUEgXsHfjEDONrU0Fs0NCEpiAmn-t6uV_lFIDlASt3sORjwwAspr0plpioJdK8BABEYOOxmxD13qmGT50UdWvkWFxhpNMeOuAz5VL06mit9U5YUAi4tt2q2uVIlFFaUAOI19ZY4N5FmClXqlpZh_FYxwIlmb8pxMC4fHFerRlkopyLBPP20xir5PEgwS7-oI2LkmAsx9irxmP5dRCG1xkWgL3sxQz8bCZiaHj8D-5-iZVf9rGnRH1lpNnB56ikqLU1pHpR0jNQ9oeNPWneqXUNphuSO8mN1L5dLHB9WFJfENZyr30rXsakLoLgAOGn8OU_NC-BJ4lURleWDmbr4gOA0GMm7ctzpxMCu7lt4J-BieJcE6hi1Xt_ZZISN2QzYLoEcP30f6bLM-8vYqNBZe_7NzGYnZyqZ6B0V181HEYR5UvwwADi-9Iw2KUcUokekYxlp3Nlkh8EyyhlMaVPty8a1edovc1fO_Y7xvSJeyyiGrCYq9CF9rQGL76nyEf4wnTuj4fcLwa-4Hderwm7F9gzpCgnuI2HZdJmaGqcdxBLIFd2tUZdQkn4jABF4TpBfyeeZGe0AXAP6AAWTRPGH6MsuF8tttjK9HmIEfpCDLmsvz7x0p8SLiOx5lIhp-DAhJ2zu6CDfhfUsUAzVtg=w1290-h968-no",
+		title: "Julie in USA Olympic softball game - June, 2008",
+    date: new Date("6/12/2008")
+	},{
+		"link": "https://photos.app.goo.gl/EuJodvZ7kSm0UcmO2",
+		"img": "https://lh3.googleusercontent.com/j06m1YZOyL-ifPt0KWEWXf1W0DjaUKZLegaBOAZHabwfHuPellioFnmoHXaS25ihgANzMG94MKXa1CUE_1vDl4yyx0RNTrQnYzS4Z6ym3XIVigVG-1i8YUE54f4ye709ZriioFCpZyXmjfMGxHwA325fJEVtSVxthnV_yWiRguzdL4qppmcsRv0WX9d11C4hBPFdBCaVdb9Nkej3L6GPRD1ep7G49-CCiCWJaTGHVNRo3pAU-9srcTVybQ-TEEggWD3OzY5EOcgAU-7Y0m4cOIbrl7-CXqrKRnouwb-BT0i-k-27n83wT-pKNM1nO6w9nnQFJsxLIvEcWseuh780EJlO-gVrgV_D-GmAvZWXcNMHCBHmd-U58KPePIzgTy9wqpxiuW3OGaxDzzw6zM1JwHQzMKwgLC8KE0iIL9iTkd6NbIgtld-EnsFsNtGvBJol0PUOuVqMz_9kH7ereRQilxCDbEgIq4ED6jvUhfHfCPs1nRZPt_3A-XuuD2KGCbYHbZesKPnP4NbhMgd2sfTrS_43f5LHCvZ-liYNGZBeX5HBuzt-HIAs07kfWHh-zmHaTLdhXdVkUXDohRVMB6sdyybtl5ty5hBRWyYA-bS2DaiSAA7Pi5pPOrUtdFNIyvyLq1nhOaMeLYUnOoag-zsXbCGcN_mZ3JrDzw=w1290-h968-no",
+		title: "Danny Start of summer party - June 2008",
+    date: new Date("6/7/2008")
+	},{
+		"link": "https://photos.app.goo.gl/EDHahjfgq9dDAE3i1",
+		"img": "https://lh3.googleusercontent.com/XrPNODrWOznri-UvlyZR1vgC-2kqW-AMjFZdCmNpi7TaT39C-vwRJKzqx6bb9AE7ugSGxwsG56NP5CNC18f_BjN7lQfuVV_8Nc4_iz6L5Z0chxRwksZb6EZhKTxS_-aSqOFBteDq_dbBbVlYtAME4TN76KGcJMm-b84p60eLGztLsaa1NB7og5zVw5v0jvepQ-wPiDZgjU65yxz27pj0jQxtiQ_H_DKpngb3Z66jshcQlqfnXc5oIAPED6Qe5yPzRp0WrpWZ4qelY6pHqw6_GZzAWh4R1BGKaVQQNk5Njyn145B-7ZXOxcQevZEvLLFWjNO6xI4lOktN1L9OEe4v2NwjkEu1FSQNoFIJTh-ZatG-b87q6qxUazaRmUliivXcDuaaWblJVTG59n4DxEPDIcObtMNDUx1CjJPijMnJYrCu32h1jlCKvcRGo1LdIAuM-QpcU4SHptUwCuk0JdxUjo9FfcVFmpRBlayvqdyv6LRjo7ld7qT3eGPVF-D0FSFTYht-5_R5S_JT2kFSFahqxIO2_gFtbVz4fXhTx5R75CYdSPMgyl8NQWaWSeBya7O44KaCsmr3UauEujkN35lIXL7mmJ5acH2p9hSof0C7EcqzcCkx5mpyk5w2PR75o5duMWl0X7xngkZU2k2pgOK9eCGc3gpL32yBUQ=w1290-h968-no",
+		title: "Family camping trip - June 2008",
+    date: new Date("6/1/2008")
 	}
 		
 /* {
