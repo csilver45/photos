@@ -4,7 +4,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/6RTXrTsAdTy51iN32",
 		"img": "https://lh3.googleusercontent.com/AmU1g3HtA6J6-JEGCN2uXqyjJytHyagHZiZ3mrB0ENmy8TcLzrDY7F-Bp1dP7q0UZod-y2mbQH5Xt5IDokZGs0NYUpbWKq2PvaBbcLlajdpjMqrlmCyvj_sCc74t5_O40C5Qg_IYeSSIyn6svxKgj908rg5VAf-fOElm-ndaUpkEWK5tqWpmhs3mYBoxqit2xnIonZvtM4ucu57Ck6ImR6vXJ0fb0rrXPIdYBgm-fK4tNU8DHGAV2M8l9ppkX-55huPugzlZzy4y0QhTOJgaWQWXIzQWbL9E6oubp56Zx7jqE_SXjlEQNJjVxm0qsz25jLWZX3D7JayiaeAWSxXsDhb12bROon2VsFFu_qIXISAG5vh5s89bEN1-V7i0Khet0wsGBAhgu1MJqK_kVnp7s-Mt8Xq6qLvGYMgzb9bq0h21xd7LXQ8kDCO1JHnSzFnkxC1KFy2HbrGxstpql7rNxyUqaCe3T7_MUg-jQekTRQSLxAzU0Kb3cNl1Q6oXk34YNtVim4r69WKZwIEB8qzMdGgEgahQkEdGq-WS6bzwBKUSKCGy4qGhqvZRKdkmeN5pO5XY4v7MAl99WrnBr2ckPKlSMPELz0wxww-EoVrZ0MeRR7DaquGAFP509lItwSqSF6-Mmjb8hKfIa3lrR1tQj1qTUPSutDy3ZQ=w690-h919-no",
-		"title": "Schwent baby shower - December 2017",
+		"title": "Schwent baby shower in Denver - December 2017",
     "date": new Date("12/2/2017")
 	},
 		 {
@@ -15,12 +15,12 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/iZkJf10z56gTPOyR2",
 		"img": "https://lh3.googleusercontent.com/a91bPWiXOl0SMQx81K1v-ziWDUm5lQ9wug2awzgHZvXltWYoNVvrDA9Oqx_UjFyBrdnAMyDPx57w1mc0_yKFdMvRwxIq-lhz0p63tP1qCaGIKJlbz5HFoLeT5tOxU05Sl7dt4figsqGk3polNJowEmo-LNKKVzAP4RtOo30DzYNFNpsQz3r7ddw5ZmBG9GCCGpFRfdHWlACTxJ89nGht3MJJuHv3T_P6sccrXNISX0TIqzO5Mhxi0MY95hY_3fSJZ6w0rNeftgLMuK1LEFsH1i6pS4N7ZhJqO5cmIrH0MYbTjT0_EHy3yytqMzzGCRxnNOSs-914Bie4q4CuzARBXtK49jmdPN_vgQdabZTtM5bHTKjKJE8E1XZiBj0-_GkCQHWIv1fhq19aDUHSLDBBPCc7p_OFtoFvdOZ2TANTNpwXpbJm0Iwkv-PuI2SCJ__wCiPaHvq7XE0SvIoTQfty7O1dr-W8YbsT9ZoPCnBCH9Ke9kQpZl9LqHW0KefyjSE-OYGD0OXYapb3q6DqFg5FmM8a6LK0SSqFcXxFlfJPLeRyS6fcFsJi5fzhuAqB0ZtgVo8q4jEInrObhRsxJ0g-VSv9MXvrbzG0t3H-ipDhhmlAMWjA0FdM7q0v_vXaAUH7FSzXpKaqM-dmVwTchj-Xr_3tmJVPH4kqPw=w1470-h828-no",
-		title: "Visit to Weiners - November 2017",
+		title: "Visit to Weiners in Florida - November 2017",
     date: new Date("11/19/2017")
 	},{
 		"link": "./Lauren_Babyshower.html",
 		"img": "https://lh3.googleusercontent.com/3EeBwUqIzzUKcpvCbUTj2ru8W_Q-TURJkwCiXgf2UxJdX9iObArHoSItXJzMGMbW7uT3ibcCPceuE6SpPmWy8LzReVwxPkxuaoqervSYaUY-53ZiLW8LNcl00C8JdPAQsixNnjfV-lU_NlphE6cJl8-mDG0r4LK-D6CJ1Et0Y2_pGwIfRKu-r4U278ozAFXFnq3EZx9T64XpCvPqUhAneZQVpN0_d-akTc7tj9d-pfssbQNYD4nl1qG1hG8ZIgoRx8RXdXzc3skIrTTbmT7oT2W-NROUv2H2SRrL4dI7DRNQpP04UT7iFWNtalmN01VfOISJs32AMXc1EPTJV2wz1TBUZbnsw0JkoK2Vc7k2o_NHbGwdV_8bpmuRftHmZlA_PR7qX-qBPZjsxrE2-NZcAZRW3SR_E1IevmsIf_U3oSw0vj5gJFGOHeemmELc80Bbkb9RhC41wxYYDmKG5zWadAUlkF0yceM1RXWwgB8xSg5ZPaLOT6-zs6z0H0ZyKeDn9hDYrHJe7UJk4QcT8CqCnH0Bhj9BYUb5EcwKz80k1pU0ivqJZ1SD5k8uAZVFrCMuQkou06ksQQfV0SPGMGUItsHtY5EN92Qm54izw6cJYuvVVDPPctcoD-fZ0lYWBPj-sLtdHla3Ugw-ougGx6azOHS_4E5PlFvl4Q=w518-h919-no",
-		title: "Lauren Baby Shower - September 9,2017",
+		title: "Lauren Baby Shower in NY - September 9,2017",
     date: new Date("9/9/2017")
 	},  {
 		"link": "https://photos.app.goo.gl/JbS8ytv8Eb5OOeA62",
@@ -135,7 +135,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/qJcVEIyTnUxctgTW2",
 		"img": "https://lh3.googleusercontent.com/mSDzyOktfzMYfONPkCmmkalLsJBrmKPxsRhUlwWgM_v0YD7NLIBqHGP8fB0ZoVAtT-osnwsDuoue2bsD2tdOfrskcHzGc6ktgjheLKZlyRpTKauiTFixElmma2tBPWGip727F9LPnHU7mgczHQfRnSrnfqGXyS3TYSXRnAWJqVr73aXne4IS6I5h8EbzBJC2H_aTyvB5xQmsQ8UqMDYZ2xeRmkOFmH65lWBbJMF20AODWg8fMVeECrZ5JhWMagqVRyIIVD5AxKgo0rfgAePY3BCiwgDiQwe9ac1u0r5xtHA5qnd_R88sbvgPMwBi8kvgn8duvHpSmQlvYia59P0lGQWVhqQdbhlKwilAY2JIAl3Z0N8uK21X6OtIZpGZWE079BqGdLFqMaX8MyKsq_Xn69LxZi0oGc3w74xHF4Y2_PvmSSxJM0jTphboSwN-dXh4FaSPs0ZCeQOUeoB0fsnv6RrH1IEZnlDd6KW7dY80-jK5fT63KU5JCT9KAbznlAY_RryvPwoC75MfygqeKyZpRCBOgPh7QKkItIYKRDSe7TRIJJWYS00Y_pcUwSfEI_tQGXfqvljCccfVqVBovxRK7g0YDjroy0zMS42_faWMrIMvEp36FITTdAAHTw8KjEx9dZU9U2hxIBn_GrUx5bYcOnDEI4aitDRKLQ=w1290-h968-no",
-		title: "Camp Young Judea 75th Reunion - August 2014 ",
+		title: "Camp Young Judaea 75th Reunion - August 2014 ",
     date: new Date("8/16/2014")
 	},{
 		"link": "https://photos.app.goo.gl/kjXIalT7mufa634t2",
@@ -155,7 +155,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	}, {
 		"link": "https://photos.app.goo.gl/ySPSCxRRu9bN21EN2",
 		"img": "https://lh3.googleusercontent.com/ItRYDV8a1a8LnGOGoI7dlWQxRYfjh-X8XwZYofDKn4sDsQeFHZQYPH4uaV5_cBZ0XvaKEG92LQ5FsBkrh7_Nh-VN6u7yfP03uqylcfqUaflmabN5hDRisdv_ZOpqpy6ip9WWfXACS0ca4G4iNJtsLAUmVAV6Jz-WinO_HskXH-HnNYIFLa1eSAFlgpLBHxjDmq2_g7fRSf7Bu1TKSotQgTtudlXiKI3FvzppJ3QlOdrm_jzdRF8O_PwngJ-LDzUCAWK_QUNZbiFIzFbKPSBrJDPwvJJk2gf6D2WkCVC9IAQjCpRKSG-lB4NMua0RkJNkl_gO682JvE3tYtY0TgrJSLhe4IJXdWUFmeO0QX9QaguYaxv4RIekWHLD5Ka2VMKy2k_G3ATgMUsH2KsYenuJ5vcvfXEzC0suB_lTB2Dxaihe-ituhI5NKJ-f12Ox5VY5ZeoNKga_urJKY0WArhcIiyqER2Mg4MAzJC7Y2e5wbvB5EA86TbzbHn0pLkvodfZCNaODdMKZldajRVYoH4KLj2SZXEGY6e2TlhimdIK6_G2j-Cjq1f7tjWHME8ATB6OIL_b9msUe-ZHSNAmQs1bGE3OXcdwkJeKJy9mHZJau=w438-h328-no",
-		title: "Pumpkin festival in Keen NH - Fall, 2013",
+		title: "Pumpkin festival in Keene NH - Fall, 2013",
     date: new Date("10/19/2013")
 	}, {
 		"link": "./amanda_john_wedding.html",
@@ -170,12 +170,12 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/X19Oac2dprNQu6342",
 		"img": "https://lh3.googleusercontent.com/79xDaHzCvbu7SOHaHCTRzo1z5DHNrJUnV6rSQQq6mreHZiYp_u-vYO5dEyYjc2uYUeonD2X3PYU_iAtTmCzAOdy12Hp2CnjW4akRqnhMihw19BJONjpxdhi7ZunK_TDm9n8VvZ28zuJUiiHkKZkjCbUOsh91YESLGAyf52FJrtmLaSHCq030ilP3JpsDN1ewrNXm7o-d8ZC-wMF2gVvSmsfBAlFXz-JRU9U_HoYb3MCZYyyWFdPPFemNL8acrguMOdKR9C1CXPEeUyLH0GrNQCFjjsWgGOo_cLtwPAnoUG2qXFNjP83MIfsqdd3Pdv88GZn-tIMUMX17JRQ3hxCTc3j5gorckCJD3yYKjZ0-Ts9Yc8CoX6ihQYsV7S6aFClzhh-QIQqsUUD_QZUBh12Q-qExsd4e2yXCwWcc8MjDdHXKmQwl-cfoK99qds_VwpD6LOg7XcZxKISxsSpBvlH2-PQ0AgOCh2brgoleIpFJLHD4aMtkDE9YwWABru-Sm8Vyh_afPlh7V1kdvlaqJfi68DSLeClxXxLREpyfC0k9UYIV4pZLcWIXCIeh4iuLeMXtRYEoj5u2NCpeAgjNY0Z3Z334PiY5kQJ5UPXabP2JN9WYt0_IqRdfYFSzjBSzQcj42Exz0sOv4C34CYr6JszK4bJbKlwWuE4zIA=w477-h317-no",
-		title: "Julie graduation from John Hopkins - May 2013",
+		title: "Julie MHA graduation from Johns Hopkins - May 2013",
     date: new Date("5/21/2013")
 	},{
 		"link": "https://photos.app.goo.gl/BZgnL8jcT9SGdF2Y2",
 		"img": "https://lh3.googleusercontent.com/DjZAHwU5Ex7nzZfupghyRcVppstjothV_K7xjYTgFd-Y4lXH9C1iG_rHv68D96oeeVWq6_wD4FZwZTXqk9hvMEOqtjWUA36WTKMbP0ghKvELtTZWqKUFfL0krt7pdwwPc-RAUrBfOXvkVnC_edfXIGqyaChY5_cWWfvCNerryVmeW0lWW4tYYDMZyLfwPMXSLknp2NoMHbmQDVpDUX85TLNo_31WfmjcaS5EPAOwZ9L2iYJoZjA2FEeUWkmgXvc_AOBWg5tujX92v0EoRhOKOIC6YKcdNJh9swcu3mLWXEs3-4W2GKCHVI3l3esjKiYRwHn6_Eb7Y7r1f4CSh4scc9IubWNw6u9SVnnOngWUS4xfAYxEcDiGPcpGrMzsVDSt697GASB10AN7VLgvy_AxzgdUIUXyoTtQu2NDaqrn30aluOlF8GOyijuji38ucDiU9zQCkkolqXkD15kTa4pEmhxF0rZUUCXNQsVhgbjWv8_xh5wa3WVQP36nWj6SMkiO4NR8c-EGZbI5rSlVp6uON9KbnhU28Q9YN7szzgKqjZdDVxJTM_5sE79V0h3nPf3Y2t83VkJniv0mz0oemJURVQxdzbV1QCukLOOhCwbOj3jo6MYu6jR17Z7QK5PxNj8hv-QRLWHMDrMFjFKQQh_8ORSAaewnhtgBBw=w1367-h909-no",
-		title: "Jessica graduation from UMSL - May, 2013",
+		title: "Jessica graduation from University of Missouri - May, 2013",
     date: new Date("5/19/2013")
 	},{
 		"link": "https://photos.app.goo.gl/n74vbOi1hAR2qS1G3",
@@ -195,7 +195,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/1PfZSfzqPx62G1U63",
 		"img": "https://lh3.googleusercontent.com/f_AIcPspde2_xpvUFjru8Vm13Q_73TD97e6oigMoFVFRFCXjZxCkDWOk1zNoY1e8_XhY4Rsq5rFKfomlu0JmSad4ahNUN4xooe2soyP_xX2dA-VVicK2IJ1d5O8HbFOTAp3WlP-qZaiAnj25HfOJ2Vnz8ws_UrpBZd8CTJStT3mcIA1axxVB5Y0bJCkhwfkCc4IlimfJ2MMu0Xe2O6QG6DGAbRMzHJ9OdvrXAg9CK8p9A8yfaU5BPDl4aotTBnxj0H6ycyf_SV7ZiAwVjTQJIi7dIN74APWTeiUzAVe_jyZ6J9BxYYjG56S9qfpQAgfUAnlEmz71dezaEuhBbsPtVmz5X9cksNc6DrJaqz58BRzQ-ff55vnQs1Mm8YI6p37spzcNyV-JRlSu3oUiCvnS2fJMy-Evyt_cRX1N4l3tbBKnYpgRR3YZcpwpFsp5ipFpHQHyumiDIFKJ6KEhIY43WEnu4kXmJGrAum29yh7FUc74A7t2yPz1n78J4hIKWKGQC4HKKpnanIAVujUa-Qvfincvp7G9Ympwk4HfbpvRjtIQjzmH97lmTsYQ65Cn_NeRQ_ImsHp_PiyQB2sJxabVK8dEpXjbIIAa_8XHEAs=w1384-h919-no",
-		title: "Lauren Harken wedding - August, 2012",
+		title: "Lauren Harkin wedding - August, 2012",
     date: new Date("8/12/2012")
 	},{
 		"link": "https://photos.app.goo.gl/aQgrX6bVlWWuk9AC2",
@@ -205,22 +205,22 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/cIDcQBc1d3e0UtYF3",
 		"img": "https://lh3.googleusercontent.com/cFjjDNl5Vnm6hDz6ISpdXLZNaQmGcYTklFwqmYIwxuEfbjknva-lVIzh1OPtt9c4xZU50CeQ4UINCScCpIlr3Yn-vHq6INAxJWRuvInLRMbLKxNAdLYIwDkhvA80JSqpMS0shbco-HWmMGmaELyOktsOOrdnc4wDCumxxEPg8Ni8YHgzayb7QTQqBMcB97PmV6YtjWrJaBrS1gvVujyTEbCJ81duQV8LENPmhmzV2B2mcnpwR3GYc-hrKihXBbYCRBOmSt4NI7b84iTSLvfR5-wHOvRxu0Udd997bBjFrmdWY1LasH5fn8UNZZQfE_2Z2dv2DWEzV2x0YLRlqq6HG61Czn8mVn11fpOUPucbBZCvTNFeQPnA_eT7rpcJdvWPAUpi-jd7k__G-jRKIMP-P89vp7q0xRReHJ9XjWl9HXKU728sGzHRITCWRdnBvJJ-RBnKYsrTV24g_EiQ7Ii6-ogJcgeMp4QkbkJCSVS1V2DpAhqSsvBIRCSDbNKuPszoj2EW317A7oTzLHCPvAhf14nQova1slVf7YOxB-9MYVSMxFay91kt4T_NUnjfJq-aapXuwOxyGtEL9pqRYvBgVY4O0L7OibNxfuT8A4npjDgvjAkCRtheFtnXDNIsbM1pY0kSxqr6N5Qj4NCGyVVeugqhj5fvxnPtnA=w1384-h919-no",
-		title: "All Silver families visit at Hilary's house - May, 2012",
+		title: "All Silver families visit at Hilary's house in NY - May, 2012",
     date: new Date("5/29/2012")
 	},{
 		"link": "https://photos.app.goo.gl/pNKWIvVtEEqizbbw2",
 		"img": "https://lh3.googleusercontent.com/UlzrOjn3DSRQPopZ3CkXarAT21nWPg-agszEqeSkjC_psZutOQKfF8QRdFlPVP0Zq1D7e8KxAGzbJUORezCf62V3JIw7aSbLEPdvehkLtT3sSV1CjC1tVMcJSMURafm3FVpYxVgeYJgoR7AvdaPoOVPa-EkmNqo00lIYwQfnvb2Uw3245hpjryF7gqMS2LqsVEWcNS_NCoKYHCNVzLk8FbQGIL-SKUh0yIEDXrBIFI3ttMXNtrf0Oa0BTc34OZR0Q6LK67hM_4JlmX1fwcZb84Ms-1wsNrvmyEzT6QSY2joXydGNC_1C4HOCgdFgi6xaYcI1koR2MBFpmIXRUWtKYlqIH3ZoUcWQzHnl3JaxwlzF0skFwgamDETB2YwBTO-P_QMJaU40D7hI0GWChVZ5_2Tu_NIVOQLnjs3f4dqDCuCYe4mDkbV4EWCk_G45eROlcqM5CBTHaZOQCY0JnzifRAAo_tfFwMra08_iB56DLgzynDTz3R_j5NqFcy7h1SkPzIhtwRxNyS_18l8iJXgSyCAX36PQqoJ9VgKwYXXWe05ZxyJ2wlqcy0Fy69zB_7WbmoUEqmB7aj3UeBdGrwyZeZRJ7y9JiCir1_d7TinKG2s743RWyhi_4cJpqiEXmBFJX2M1-8obzOjN2rAsdsuBxmIe7mQWQwwaYg=w1384-h919-no",
-		title: "Visit with Harkens on Memorial Day - May, 2012",
+		title: "Visit with Harkins on Memorial Day - May, 2012",
     date: new Date("6/25/2012")
 	},{
 		"link": "https://photos.app.goo.gl/R0M8Z4GV5e9YwjwI2",
 		"img": "https://lh3.googleusercontent.com/tlYnG7ETUfaeJ-Z_X0oCIVp4WTw3gO2r-m1MrHcbaOC6_cS5_x7t6X4hWjRDiOTT3ITVI-tEpOM42kyV_BUSTf2CXj7hioQGUhyZJXDUWI7r8Iemt_PbRJHW-85oiSIA1GXnnJ19u-mqX5Apt0OO0O41W7-EHecrRJ0rXQBmr702INhFaU1VHJ-RDtLvpoKdhQ9I5ni8ToEAsc2Ht7oteqzyksaOiaB7832Dwj9Z62Z6qXEUX9d_FEPTFQwV6nHh2F2qWpr1JMeoy71dvN61bFqiIl3lv_yWxwadVSkqwePY7-LcStf5uBJ0aUeVSDEj3hiGqKLRBaiYHg_mOccBgCr5UTaGC7cJQeAgoqztWn_9bj9-MHRum26kQhQNJb1IbRTtEVR3XhonhLiSyduooO2IUb3lRRoBVaV45vazGf72kh3KqRN3sC3qN53tXRBG2vReU93YR_haFw3PGgnL5T57NMSJd8fbs58x9JrfPvGjm0Wjc8FFyyZHqewnXHaI9I0KVSkUSehC9LB_JZ3ALLMm5lwT06ArVW84b1tYJ3XgZ3PdmzjMZ-HojfyEBaWHpvcN1IKMHzMGtSxsACsZdlyGVO8AsWUKaTBBNR1nbi50QZ60iWMPQbChNQFrT_LMrJOfiVsxwAdvisGFia9xrVN4zD9so4YzRg=w612-h919-no",
-		title: "Danny Highschool Graduation - May, 2012",
+		title: "Danny High school Graduation - May, 2012",
     date: new Date("5/18/2012")
 	},{
 		"link": "https://photos.app.goo.gl/nSY69HGACob2kkfh1",
 		"img": "https://lh3.googleusercontent.com/4E1WN-46iJvh8BKSbiPDOVz-4S1yphIi-kyUFWvH3temHTaXnKzDm9DUdGh7Jij-iMQ27fzwhSS-eM7-6uixX-9j5sl6uo61Iutd1C_HVHGDAOpoOENNjUuPgeAcaJK3a3FjoHOyZoLKP2j2t_NrGnnT7HjXOKg0sUHtAP-I82pY9vWRGYPVwl8IzU0HPOeEjIk91pgK-Lx3B5VMQ4uH6WDcrx5GKWq2IyWYexzkgS-NZ633En4jYLWVcvRVQqXj5BULoq2viMiRSUMubTeIoSefvreIWJTmumupeUIe6BsLVOGfPUwhxrmefUNRW-PaIW9xD957Pp8i8K_87SxKPuOrzzPoXFZ5QGA6VVPdADX4qX14fLRBorTedVxS-md5f0EQXhf4LUjBsEnZFBNf0aqddMCYa4ufalcIYmywy-LU6moTa3zb50AF8YV64MJ3dMikAqBCV68o4gn7qL0vLijh6EOmw9ts3G7uu3V0oVdk4-7VqFFRWtcji-5aGlfhtm5-NSTAJmFcUQ8LPVY5o0nxeRJi-voT-2uduXPfjQeAwkJXlnvOEUQgEzMLmtcPSemEPd6hQ_roA0UWkgrUyp7xO6l1uT2fBxSnCLanfcqAc9iCp9bF6fPahsxljl97KSXv8KR2I5ERMFvsk5WARfzJwZn4QeTfSw=w1384-h919-no",
-		title: "Craig sales club award in Hawaii - May, 2012",
+		title: "Craig sales club award to Hawaii - May, 2012",
     date: new Date("5/12/2012")
 	},{
 		"link": "https://photos.app.goo.gl/w0R0EYn4ijD0ucek1",
@@ -245,7 +245,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/TjR7WVk0HnOV2Jde2",
 		"img": "https://lh3.googleusercontent.com/5CHmP9AXM_l0UAd35GiA1Ni_eLiwZoKrHu8FYG_u528ycQQOUIBuv6zLaiKoNURq_Xo7EOfNJNUspBw4AivIdc45bVjzegqG1Zd4xHEy3IXlulwgJPjdtSc1QrBVmvC-nEgA7gOExKac6TI-5K9xIIsB1TQaMKM4PSdj0tIVc9nJ-L1-fW0B352b313hrx6btJwNztzZXKe_IVavJoVRj86swQYR_0dtsN8Pl-_uSDoagV2Xr024cjG8EeN79LODsI-BLW9M13vUmT_8Pn3yQAmkr_H6RhD1xrv9571MGDlImiOYma2xUoZGzvNXgc16DaiLHgwz93_Erk29Q7n287rkTV8izn7QvLuvx93sG5eVa8lUe_hQyaXziuHdU8qITidfG43YsxAFomUlk3i9q20O3PX6vgAWCOMNef_7IQiTqFQwCH_AF5rU1iMLtxkv4dpoxbazJ9LZaM9iNBRiw7vdsztbu8GRLK0zfG9uS3l8SSnYJxFZJZP5xkMZmwMIDUSdO4DXJ0qoyERbfKk3vVHZgamivTfHTTgf0lL241hbPjvglMTqL5cyLGeKZS2SCdVIWiJHkk4yBI_uuTSPMlRhV6vmRHdEzzOXL8kO8Bv9ueM260Wdm6Axk121810WQkHIIKvkR5tHLlr1xFw2V-SdpvaMbg02Mg=w1364-h919-no",
-		title: "North Carolina with Arthur and Vera - September 2011",
+		title: "North Carolina with cousins Arthur and Vera Cohen - September 2011",
     date: new Date("9/1/2011")
 	},{
 		"link": "https://photos.app.goo.gl/LFHCBxBFZxc9Vdeo1",
@@ -255,7 +255,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/doyrQmkn4PVFQM7W2",
 		"img": "https://lh3.googleusercontent.com/RtHnDp4T-GKRvCL07q8gvfhoeot7guPvXS4Vmg_Z1viUcTqAGr0T180FnMNSYdyvX9gtRnf9D7FxgnMsTwMX6yN_MUIoGOdgtTUBUy6FTOdHrAflExKqRi2sowX9LNZb5Ob9ZY1z_mHGqQmIHVGIyBieKkq08VwNHBTovcPeaewFnWYRZYeJADE-SiNr_TAZ1li_7srMFPRQk2eJ9D0BdMwV4XxNhraUQP_sY9zhYN-tnkVEEURXw4kRjgEGscRD1hOONhbnKf2jl5zaH0bkAify7-w4Z9swbTnR6CHwNPJ0xdT4pmqJH26AjHSm7f1wsm6EwAv8y-pecvwpSug1tEtJMrvYAeiZzSPI7teDdHyCyMY2mTBnJkpRM3I0vv9brpA1PkLr35uLmZ5-jsQBPIl4tE1WM0zPfg6PUvx4Fi38C2qsQ5xKo6HzKZYldVcOxZDBJPEOM-IfitW0s8gIRgosTa1I-8qxRMBrT1peLOdxsZyVziXvwSb4Pe1_ZfxX1kRrz6vHt4276Pq8W6X7hcKxmQvYCtde0VeuHoLmc6FVaIu7zckMZaoRgitwMSqbw6JF2b8ksCTRKdYjjcO0R5EUCACxZMBVstsfIrVZYTesBByrOxRTAknVxX32Hht_7f8U_2lobwKJNkIcgtc7TYsZK-u-yIBd9A=w1227-h919-no",
-		title: "New Hampshire with Lafargues - July, 2011",
+		title: "New Hampshire with cousins Lafargues - July, 2011",
     date: new Date("7/25/2011")
 	},{
 		"link": "https://photos.app.goo.gl/dTQ5hhgTjaBSBc9i1",
@@ -280,12 +280,12 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/XCpbmlEgznOnuCbP2",
 		"img": "https://lh3.googleusercontent.com/NOz9Rnb7vzOHMm0v2Ui-2ZNxtwBl1sdQC_eHggVgN0GbtOxXobpJB7r2-Xdm3HexGquDO80l39iPrVmlaW5TEyaJucaZY5v6UENUIghfpBFUaR9hO_NAGCuJz-BDc34rvsvXHXOng1D6QEskcBnOkCJwtwZurMbSBKn90TNi_OKv6f4dA7VZmziFT0VwxtqeB9mlOwizL_4SNiTZR18GLMsnVSTFMfb9NL351rRbYcbFh1t7ILk2ID50l2N119fLE0NHnRPD6NJiRc_4YRK3LtrIXR7Ql8koPzrxoWK0Ag-26monFe2PoYTmYhixsHL_cUcd1AKpZnCVBLXipcH0EzSEFq63BHR2yNjHOJzrQl_Z91uh0vm5TX5Osho5XrMUshPh8dG8GupRPYaVxqI7BGrhtu9hO25OxxhI-tkJF6bXt_QpLjUdwkPaPRxVYLyizclQZUUiwQ2xsYEUzOsT42DvQr8ZekWSnIDs7aHwZgsFLYGiGmlwx3Yjje7LuSuBHNvZBsN7nMkRLO7PUiBA8K6v-2lFAX9dx6XWVFRd81ldpCZUEEK4fIuLn7K-zYhW72yRJGXcByRYMTOdGRMZTamdgDjAXX74Mc84RAvRMaNzktz44RR93Hrd4r0YHpwLYJ-03iMoQPO64koH8EY4gB6jv9MLF_vryg=w1227-h919-no",
-		title: "Danny Cross Country - September, 2010",
+		title: "Danny Cross Country meet - September, 2010",
     date: new Date("9/2/2010")
 	},{
 		"link": "https://photos.app.goo.gl/iFTO44kLD1qXZnth1",
 		"img": "https://lh3.googleusercontent.com/fixmP8nsST8vezGM7H8AFIkmkiY_cTMmYM0sKIGVoA_Rb4HSW50mS7B9JvfVLjjXmBiOK1l5P4co13pfiaGtjgt7sZPSxPoq-F8WCw0XQPXM2WSry9rjP5ek4EM8i88GyUiQk2CleQlNKMfc4SJ4lERyKm8jz3WKW31BMoMF_oIt2UO2vjqCabxu5wf4RgW_w5uz85MsoXdkOtM0DoKamTXgkX7nb-XIOxsGTOOnI_erOKd4pWgIpW03jOt_0GCz6V7fHmRV8Hht8IHHxXIikkdASn8yNCBk9HIxjAHdlxE4fy_JZ1qmp6izIKIkqGU5IEieGRc3AQ6Hw-xctwwHbaUmXT_YR2SUaczv9iGysvaZ4lT6X56JmIqop-6mfN2y09WzHW93F2tXP1vnHYyVhNnVje-uYtSNnwh-tKBO6L-Cj-AU1DnForGK-lDzoo3URjTiLpfLMXw-VTFQDAndLg1BJjL08YRPlOT2AWAmL3t2_oAeNnYWxXPdEysKEgB3qrJQteSsN67r7XjyBz5G4K9wjdbFuKEJLgOyOVVHwQy_LsL86t92e1F-0vX0GdZUe0mIYZqVHhBNFmO9FN2AuKWV2vgNltuEAkNZ-NwUsgp0fgNBQ9FTXH69yjGMOWWO76vfH6Q3Q5_j4OtZa5sN_DrMYnrhsUDzQw=w640-h480-no",
-		title: "Susan NY/NH vacation & conference - Summer 2010",
+		title: "Susan NY/NH vacation & religious educators conference - Summer 2010",
     date: new Date("8/1/2010")
 	},{
 		"link": "https://photos.app.goo.gl/a5Eqfs7SctcMpH3t2",
