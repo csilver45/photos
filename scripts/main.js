@@ -4,7 +4,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/6RTXrTsAdTy51iN32",
 		"img": "https://lh3.googleusercontent.com/AmU1g3HtA6J6-JEGCN2uXqyjJytHyagHZiZ3mrB0ENmy8TcLzrDY7F-Bp1dP7q0UZod-y2mbQH5Xt5IDokZGs0NYUpbWKq2PvaBbcLlajdpjMqrlmCyvj_sCc74t5_O40C5Qg_IYeSSIyn6svxKgj908rg5VAf-fOElm-ndaUpkEWK5tqWpmhs3mYBoxqit2xnIonZvtM4ucu57Ck6ImR6vXJ0fb0rrXPIdYBgm-fK4tNU8DHGAV2M8l9ppkX-55huPugzlZzy4y0QhTOJgaWQWXIzQWbL9E6oubp56Zx7jqE_SXjlEQNJjVxm0qsz25jLWZX3D7JayiaeAWSxXsDhb12bROon2VsFFu_qIXISAG5vh5s89bEN1-V7i0Khet0wsGBAhgu1MJqK_kVnp7s-Mt8Xq6qLvGYMgzb9bq0h21xd7LXQ8kDCO1JHnSzFnkxC1KFy2HbrGxstpql7rNxyUqaCe3T7_MUg-jQekTRQSLxAzU0Kb3cNl1Q6oXk34YNtVim4r69WKZwIEB8qzMdGgEgahQkEdGq-WS6bzwBKUSKCGy4qGhqvZRKdkmeN5pO5XY4v7MAl99WrnBr2ckPKlSMPELz0wxww-EoVrZ0MeRR7DaquGAFP509lItwSqSF6-Mmjb8hKfIa3lrR1tQj1qTUPSutDy3ZQ=w690-h919-no",
-		"title": "Schwent baby shower in Denver - December 2017",
+		"title": "Schwent baby shower - December 2017",
     "date": new Date("12/2/2017")
 	},
 		 {
@@ -15,12 +15,12 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/iZkJf10z56gTPOyR2",
 		"img": "https://lh3.googleusercontent.com/a91bPWiXOl0SMQx81K1v-ziWDUm5lQ9wug2awzgHZvXltWYoNVvrDA9Oqx_UjFyBrdnAMyDPx57w1mc0_yKFdMvRwxIq-lhz0p63tP1qCaGIKJlbz5HFoLeT5tOxU05Sl7dt4figsqGk3polNJowEmo-LNKKVzAP4RtOo30DzYNFNpsQz3r7ddw5ZmBG9GCCGpFRfdHWlACTxJ89nGht3MJJuHv3T_P6sccrXNISX0TIqzO5Mhxi0MY95hY_3fSJZ6w0rNeftgLMuK1LEFsH1i6pS4N7ZhJqO5cmIrH0MYbTjT0_EHy3yytqMzzGCRxnNOSs-914Bie4q4CuzARBXtK49jmdPN_vgQdabZTtM5bHTKjKJE8E1XZiBj0-_GkCQHWIv1fhq19aDUHSLDBBPCc7p_OFtoFvdOZ2TANTNpwXpbJm0Iwkv-PuI2SCJ__wCiPaHvq7XE0SvIoTQfty7O1dr-W8YbsT9ZoPCnBCH9Ke9kQpZl9LqHW0KefyjSE-OYGD0OXYapb3q6DqFg5FmM8a6LK0SSqFcXxFlfJPLeRyS6fcFsJi5fzhuAqB0ZtgVo8q4jEInrObhRsxJ0g-VSv9MXvrbzG0t3H-ipDhhmlAMWjA0FdM7q0v_vXaAUH7FSzXpKaqM-dmVwTchj-Xr_3tmJVPH4kqPw=w1470-h828-no",
-		title: "Visit to Weiners in Florida - November 2017",
+		title: "Visit to Weiners - November 2017",
     date: new Date("11/19/2017")
 	},{
 		"link": "./Lauren_Babyshower.html",
 		"img": "https://lh3.googleusercontent.com/3EeBwUqIzzUKcpvCbUTj2ru8W_Q-TURJkwCiXgf2UxJdX9iObArHoSItXJzMGMbW7uT3ibcCPceuE6SpPmWy8LzReVwxPkxuaoqervSYaUY-53ZiLW8LNcl00C8JdPAQsixNnjfV-lU_NlphE6cJl8-mDG0r4LK-D6CJ1Et0Y2_pGwIfRKu-r4U278ozAFXFnq3EZx9T64XpCvPqUhAneZQVpN0_d-akTc7tj9d-pfssbQNYD4nl1qG1hG8ZIgoRx8RXdXzc3skIrTTbmT7oT2W-NROUv2H2SRrL4dI7DRNQpP04UT7iFWNtalmN01VfOISJs32AMXc1EPTJV2wz1TBUZbnsw0JkoK2Vc7k2o_NHbGwdV_8bpmuRftHmZlA_PR7qX-qBPZjsxrE2-NZcAZRW3SR_E1IevmsIf_U3oSw0vj5gJFGOHeemmELc80Bbkb9RhC41wxYYDmKG5zWadAUlkF0yceM1RXWwgB8xSg5ZPaLOT6-zs6z0H0ZyKeDn9hDYrHJe7UJk4QcT8CqCnH0Bhj9BYUb5EcwKz80k1pU0ivqJZ1SD5k8uAZVFrCMuQkou06ksQQfV0SPGMGUItsHtY5EN92Qm54izw6cJYuvVVDPPctcoD-fZ0lYWBPj-sLtdHla3Ugw-ougGx6azOHS_4E5PlFvl4Q=w518-h919-no",
-		title: "Lauren Baby Shower in NY - September 9,2017",
+		title: "Lauren Baby Shower - September 9,2017",
     date: new Date("9/9/2017")
 	},  {
 		"link": "https://photos.app.goo.gl/JbS8ytv8Eb5OOeA62",
@@ -75,7 +75,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	}, {
 		"link": "https://goo.gl/photos/TqwZVd5s3XDro8bM8",
 		"img": "https://lh3.googleusercontent.com/tkJZCkgLabFtw5oLlzR2KR3Lp2EtfqiVvn2m2JIFcmtfRpdYN5XhNnT8JQHLtXdXnGnwNWunNpqN0b495wQp-LppjZz-RxURRX9piPX6Y6RRVcaI9RdR6esT-cC0ngcaAHgLSlB3urRMKzkILD2gwy86XolH5j5kV8C9VZj9P9Zevyeq-mhSuqHObO2r2CX5zUkfOKr26rpmEwvpLU4G4LOLvWw70o--CMtyxS3y9iQ0vptQGS6wkWYGxLn6rUtREAD96o9IktjKFC4RYdgBy3LZpUEQqqUMrf2oCchGABMfoa69vYf4TWBN_lxEF3lLauQIykSI8u_ne3fHvTLgUEh_lO1ec-kd6LPwG56Ax0OoL4G_L2cPjYLvAsH4hB3LVUojY9vcn6yhjDFshWPvKEFAEXvajs6CFkz3mo9UTaoPT8Q5JZNt1eN0uSTfvYOvUGeQs-WuvoIDFPj5EMxU76pdJucfPl66UhV4dzSM0Qj8UlsAz3tqZN-PD4A_6V4wUYr_j6-y4Rex8rzKUvE41C8x7nuLNnj6MhOFJWeWrwZgHr5FgUTpV0a031vBveka_sgBn2OrnBl63ZKtderLvUscl2kOxUTGSdXb6ORop4a0Nkdd9Q=w519-h921-no",
-		title: "Susan and Craig visiting Gaia and family in November 2016",
+		title: "Susan and Craig visiting Gaia and family - November 2016",
     date: new Date("11/1/2016")
 	}, {
 		"link": "https://goo.gl/photos/kGxWfaEyLyASa1rS6",
@@ -85,7 +85,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	}, {
 		"link": "https://goo.gl/photos/2S8Ete8Ehe9HHv4E7",
 		"img": "https://lh3.googleusercontent.com/QchU3_sUhA-DhP-Ettnm0bIBFd6BJc8cw4DsrC6D-W-UQhkUA-wDq2OAcxlrZSPfNJzVeR2z0AWQ7poBwrcgFUV1F8YbDU-Sdj3hJB4ozbphW9WY7w8z3rNjyYrnHwHqxpbWNUOf1oPa9aROB6c3VJyKXabr-SRae2KUdoILqkYwS6MEboKphV6SoopqQd859gtiD6dtwPFfFrCJKd2dlroNFG-3Yrtd_WP651e3B3qZuAOUAT28tts1iAtVvxjYl2GWUbQg1e85jgPdyGByUjRdnY3LZsRW91Q8JCLC4DDjIU2jk_GcVhtR58Qz2jnfq6vlTQdopH3RKNOXfanuJEsGH5IwI-CtDygtC71Fv2MK0IACQT6rHhAwXHtWp9IznpALf8y1bLVi_pcHkyiYpUXup1FpIu-08ZPREv1z5CnBTu02QjHOSwPzvqQx1HCMjcacUf-trSfFyHiGUvoJFxI7mq-Fez1_4Tr5H8uQ0pQUddFIfIFk-Rm-taaUVYe-o1x2QmciftaoKfyOBtEYOGYWB1vC_pD5MlA8epLccAjKccZJlu6CAZh9Oke9R255yU5UJWL7vYqffTaVJ90uNx4ade9t6DmFm9MpdIEsAueKO2AwwA=w707-h942-no",
-		title: "Susan and Craig visit Danny - August 2016",
+		title: "Susan and Craig visit Danny in Seattle- August 2016",
     date: new Date("8/1/2016")
 	}, {
 		"link": "https://photos.app.goo.gl/vF9m7KLyhJyuLQDP2",
