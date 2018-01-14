@@ -2,6 +2,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "./Callan_First_Week.html",
+		"img": "https://lh3.googleusercontent.com/may-bDcxOt6fE-VEtmaeqiKV9vvTIRNUXqU0N272uyDm5TMTo0a0WrL_j_dF0Z-SZOO0nITpGN3GQybdTaNwG5rGiMMM9H0LYI_MIBP45ffAfyX5FjhWuE7IBsTVIinYifHEpV9a1KWe8TbrEK6PFjM4vduJFpOWjbgjyjNKQL-mfyy_EPezYB54hcrEPud0aO5s47sxKZs-OFOazjBOAocu9H2gremb0G-br1OUqYMoTp3oH9HbHLKvmfhEXhpSAED1DLcZnJM6FkPVOmGrslob7zQtdFL15xLNg3KVL9W_OwrMSyBg9aRF9rbbu_zKwjDuY36eHoK9MAfMLX4ODtc8lTkW9mnmuixLPBl1pI62NDHTeYmeGIXHW7spv7Ip7jfm0aeyWRTUWh5Lb2n4LAtg6DvJDciwikLXJB_SP6wuGPZXaRFxj9z2Ai4rTS5-5HM8IjJeKdX2wiB0b8qYZKR_ZfpuD9PfQhjYcenFW8q_y1-F9tQyXEhONC64yHMA3xZ6zL2EiCdtNeTzIwK2tAiZnZ_qsRzdSJNwyq94FyyIczbcZ_fcx_Y-OYCy1qn6vRCye0waO4s08UrAebBUsu3KVFmeW6Hf-ZhnxXj1UVmJTpzTsJAhWN2IQhipxiaQD2yb9712NJb0ZMjYryAPHlUbf2WoRNgloA=w1225-h919-no",
+		"title": "Callan James Schwent",
+    "date": new Date("12/2/2017")
+	},{
 		"link": "https://photos.app.goo.gl/6RTXrTsAdTy51iN32",
 		"img": "https://lh3.googleusercontent.com/AmU1g3HtA6J6-JEGCN2uXqyjJytHyagHZiZ3mrB0ENmy8TcLzrDY7F-Bp1dP7q0UZod-y2mbQH5Xt5IDokZGs0NYUpbWKq2PvaBbcLlajdpjMqrlmCyvj_sCc74t5_O40C5Qg_IYeSSIyn6svxKgj908rg5VAf-fOElm-ndaUpkEWK5tqWpmhs3mYBoxqit2xnIonZvtM4ucu57Ck6ImR6vXJ0fb0rrXPIdYBgm-fK4tNU8DHGAV2M8l9ppkX-55huPugzlZzy4y0QhTOJgaWQWXIzQWbL9E6oubp56Zx7jqE_SXjlEQNJjVxm0qsz25jLWZX3D7JayiaeAWSxXsDhb12bROon2VsFFu_qIXISAG5vh5s89bEN1-V7i0Khet0wsGBAhgu1MJqK_kVnp7s-Mt8Xq6qLvGYMgzb9bq0h21xd7LXQ8kDCO1JHnSzFnkxC1KFy2HbrGxstpql7rNxyUqaCe3T7_MUg-jQekTRQSLxAzU0Kb3cNl1Q6oXk34YNtVim4r69WKZwIEB8qzMdGgEgahQkEdGq-WS6bzwBKUSKCGy4qGhqvZRKdkmeN5pO5XY4v7MAl99WrnBr2ckPKlSMPELz0wxww-EoVrZ0MeRR7DaquGAFP509lItwSqSF6-Mmjb8hKfIa3lrR1tQj1qTUPSutDy3ZQ=w690-h919-no",
 		"title": "Schwent baby shower - December 2017",
