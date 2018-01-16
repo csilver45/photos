@@ -55,7 +55,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	}, {
 		"link": "https://photos.app.goo.gl/mXXGSblhBjx1o3HE3",
 		"img": "https://lh3.googleusercontent.com/jC_izFPt5C3YxLbJ1mB5H-rL6pPOBEZRVQcSumOd1UY5sd6-bQt51yXdK1pD_6n5oQ2dS44S5lDNk6BWZWlhtuJ0XpYFTiYBHhitWNFkoOJ0vdAh2HQsYbnFP0uIsv1wMtvizu_dmyeGgHbEFKCZMtKOWPVQkxrzldb0h_0P1dU2QzIvTnxmUtzSl5ozOcKRNmk4eaicfTl10nbqs_WHun84DHF4E3dtVn45-r0xM_kyIJgv6_Y3N6HG71wz0m34GZdmbabUhPM7Df0HWHm4Qfw-yHU75bxASQEfykwCg5Rh91rjKYQ5nEvhmE1lXHMWMSppmdhO2m0arHl-JkeDeSY76OH_VIuliIDpElZf6HFBBzWXsXqENfGPpiUi-j6I1nJCpCo2KowOB4Z4NTLjpkcQyp9unsH6rBU4wC3FmxxBrSAQBzhMleKFy8g_iLkJjvkTpeFjwbnxHulCiXlhK3HTnaZxaJ95kEGIlWwKYW7cy0t8ep1Uw3CIb00I6rhBlQlo9Ymw5Gky-XRFEsxgrDBinyNkKr1V0frh21FNKS5c9c6PKH7rSuRm8NfvfMZx3QiGSilOcx5c3zk6TvhjLzwCW4-ljtWRhOPMlCS-dLV5qWZ39A=w534-h950-no",
-		title: "Visit to St. Louis - Dec 16-21, 2015x",
+		title: "Visit to St. Louis - Dec 16-21, 2015",
     date: new Date("12/16/2015")
 	}, {
 		"link": "https://photos.app.goo.gl/8yJl1ubxsK8UrPRg1",
