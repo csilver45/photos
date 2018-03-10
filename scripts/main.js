@@ -5,8 +5,8 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"link": "https://photos.app.goo.gl/0vkduppx5Kpp5jRz1",
 		"img": "https://lh3.googleusercontent.com/QvNVyuzBuAIYDnISOLLsUKScEURbVLfkjr_ycl_GU15h9BSH64fW4xGyTn0GGY6xenGU4oIIeCOcIKy9ZR0TwDyeYIWjYQnEuef8AVelHDcV9OI0KVJlTzzGOiQ7sYtgi_UBqM9AY5XT6toi1p-Ms7eQtz33GyNzj9UGq_n8UQuMPgkNxRwj6Xn-Wetbj2TjJ08saXtLVI7smkV2zkVFdcoE2pN5oDmGuN8NH_Mwn0M2A3fRB3WZAqogVn3KEe2W2IMJpJghPVO9_JMkrzFhRr3zu9b58ABXeIYgNtKs34BAnzmXYBeSpe2aAkc1wNWKB0fqFaC5_Uc0S1XB33nPmCW5o4PCeVKpM-WGiMjcKjjNHDN9w6i6FB08BoexWBwwOok-kLv4oW9RTWlxb76t9r_F0WfK-FbNOdESaUb-QGrGahNBEXddvKW5p_VSnPHn40jnxqVrRpHyhJ-NyZiebgj8wHgsFSDrtiB18-sNFRcOllPAzOMdiWswtutgzdlacyLP71a7yB-IrSUUOWluugje_XWR2P67sQlWrPysZbjiPTwLHd0bBG7B-M6ygrnmdFnUVHRsFtG_9gzHAlMxoPQ6IJliJxFljSJDRVzUpanoLBMM9XZbvBTtI-T-Y5GDNq_YUkq_pS99XVFTTpky8QTM3W_qWyBilw=w1225-h919-no",
 		"title": "Susan, Jessica, Ryan, and Weiners visit Schwents",
-    "date": new Date("3/1/2018")
-	}
+ 		"date": new Date("3/1/2018")
+	},
 		{
 		"link": "./Callan_First_Week.html",
 		"img": "https://lh3.googleusercontent.com/may-bDcxOt6fE-VEtmaeqiKV9vvTIRNUXqU0N272uyDm5TMTo0a0WrL_j_dF0Z-SZOO0nITpGN3GQybdTaNwG5rGiMMM9H0LYI_MIBP45ffAfyX5FjhWuE7IBsTVIinYifHEpV9a1KWe8TbrEK6PFjM4vduJFpOWjbgjyjNKQL-mfyy_EPezYB54hcrEPud0aO5s47sxKZs-OFOazjBOAocu9H2gremb0G-br1OUqYMoTp3oH9HbHLKvmfhEXhpSAED1DLcZnJM6FkPVOmGrslob7zQtdFL15xLNg3KVL9W_OwrMSyBg9aRF9rbbu_zKwjDuY36eHoK9MAfMLX4ODtc8lTkW9mnmuixLPBl1pI62NDHTeYmeGIXHW7spv7Ip7jfm0aeyWRTUWh5Lb2n4LAtg6DvJDciwikLXJB_SP6wuGPZXaRFxj9z2Ai4rTS5-5HM8IjJeKdX2wiB0b8qYZKR_ZfpuD9PfQhjYcenFW8q_y1-F9tQyXEhONC64yHMA3xZ6zL2EiCdtNeTzIwK2tAiZnZ_qsRzdSJNwyq94FyyIczbcZ_fcx_Y-OYCy1qn6vRCye0waO4s08UrAebBUsu3KVFmeW6Hf-ZhnxXj1UVmJTpzTsJAhWN2IQhipxiaQD2yb9712NJb0ZMjYryAPHlUbf2WoRNgloA=w1225-h919-no",
