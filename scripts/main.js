@@ -4,7 +4,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/0vkduppx5Kpp5jRz1",
 		"img": "https://lh3.googleusercontent.com/QvNVyuzBuAIYDnISOLLsUKScEURbVLfkjr_ycl_GU15h9BSH64fW4xGyTn0GGY6xenGU4oIIeCOcIKy9ZR0TwDyeYIWjYQnEuef8AVelHDcV9OI0KVJlTzzGOiQ7sYtgi_UBqM9AY5XT6toi1p-Ms7eQtz33GyNzj9UGq_n8UQuMPgkNxRwj6Xn-Wetbj2TjJ08saXtLVI7smkV2zkVFdcoE2pN5oDmGuN8NH_Mwn0M2A3fRB3WZAqogVn3KEe2W2IMJpJghPVO9_JMkrzFhRr3zu9b58ABXeIYgNtKs34BAnzmXYBeSpe2aAkc1wNWKB0fqFaC5_Uc0S1XB33nPmCW5o4PCeVKpM-WGiMjcKjjNHDN9w6i6FB08BoexWBwwOok-kLv4oW9RTWlxb76t9r_F0WfK-FbNOdESaUb-QGrGahNBEXddvKW5p_VSnPHn40jnxqVrRpHyhJ-NyZiebgj8wHgsFSDrtiB18-sNFRcOllPAzOMdiWswtutgzdlacyLP71a7yB-IrSUUOWluugje_XWR2P67sQlWrPysZbjiPTwLHd0bBG7B-M6ygrnmdFnUVHRsFtG_9gzHAlMxoPQ6IJliJxFljSJDRVzUpanoLBMM9XZbvBTtI-T-Y5GDNq_YUkq_pS99XVFTTpky8QTM3W_qWyBilw=w1225-h919-no",
-		"title": "Susan, Jessica, Ryan, and Weiners visit Schwents",
+		"title": "Susan, Weiners, Jessica, and Ryan visit the Schwents",
  		"date": new Date("3/1/2018")
 	},
 		{
