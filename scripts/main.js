@@ -2,6 +2,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/2MCQYHknc4SPPzJw7",
+		"img": "https://photos.google.com/share/AF1QipNd6sYtsIONhy989B9YggZCPFvLAq2fguvgHuOm5T2uFzVBXlEXBHO6yD33fOm0cA/photo/AF1QipM2bjtA5gHyZMFc8SnATQe04Iq0baYpKCHbj3NL?key=UWR1elJiclBfQzBnblZEa1J5d04tVnlhNHYtWWt3",
+		"title": "Susan and Craig visit Callan, Julie, and Bill",
+ 		"date": new Date("4/19/2018")
+	},{
 		"link": "https://photos.app.goo.gl/xt9TzgQgHBJFMMW03",
 		"img": "https://lh3.googleusercontent.com/0qjReGCMXjR2rMBVgk_KnFpjsEJwJVUdNT1t3KwRcc-vOh-Ku0KBaEghRmvC_r24TzWWT-q0fIe_5XDXRG08UCHLWCddeAcgAVFIhYRVVRO2zMeP2SP0Xm7on19jASebzgLF-Vm1Ji8CZ30OU_JZb4hzPDe-BTIiz_EemWJuw9qgBZt4yg2gpVL0IR8_vd7n2eqNLxMi07Of4b94Hfnmjs1B2i_jiOw-ZvL9uDq--U5rln1uxhS0f14InoKjctnl4QNyLtFa18ZzRF9cZVdY2Tg0hbgFD6pgWd7PK_jlDeg1WR8zFkJlueKcbfigPDjZvR_zhMm9mtGxad2Og1SdU5LUaIih76EEUNCI2gXI8Yjdo2t8a9NWKPqQvjC0J1SvyPGK38z6h_DCC74fYBDTr9lHLA5fIO2cjysz99QeEXbWVDqbpDsdacRDQOwmcJ3yO2brOrAmqCicw2G_ty0kBNpt35Z2jxE0iPERbtIrhRFCXJx-MrcYQWtodKf0fJ0pVtMA0PLd6YxY2M72QTcPbvfL-6w6K4C0Ocp3j-R6U1-4B4jR2h0omAm1faCUIeIM-ta5z7m4cfqm7_51w3EIUNeGsLWNg1U_RwgMgumf=w690-h919-no",
 		"title": "Susan and Craig visit Gaya, Amanada, and John Schiff",
