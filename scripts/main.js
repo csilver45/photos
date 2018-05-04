@@ -3,7 +3,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
 		"link": "https://photos.app.goo.gl/2MCQYHknc4SPPzJw7",
-		"img": "https://photos.google.com/share/AF1QipNd6sYtsIONhy989B9YggZCPFvLAq2fguvgHuOm5T2uFzVBXlEXBHO6yD33fOm0cA/photo/AF1QipM2bjtA5gHyZMFc8SnATQe04Iq0baYpKCHbj3NL?key=UWR1elJiclBfQzBnblZEa1J5d04tVnlhNHYtWWt3",
+		"img": "https://photos.google.com/share/AF1QipNd6sYtsIONhy989B9YggZCPFvLAq2fguvgHuOm5T2uFzVBXlEXBHO6yD33fOm0cA/photo/AF1QipOSvxvFMGiKEqvmtAQ_xcKMgULdfgxHU42LD3xZ?key=UWR1elJiclBfQzBnblZEa1J5d04tVnlhNHYtWWt3",
 		"title": "Susan and Craig visit Callan, Julie, and Bill",
  		"date": new Date("4/19/2018")
 	},{
