@@ -4,7 +4,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/2MCQYHknc4SPPzJw7",
 		"img": "https://lh3.googleusercontent.com/OaeiM1ItXA8EYSArMcqRoERXn41FtAq4noH8mMEya1ZDUPKGjsXoEHbaFCUo51Ku8bMScGBvt3fOhKYoDGJHKIk6oOzfck_icLFaUuL3kEmNY9Elj-yZAXL0kbwLieqNzul9TRxclj0I59nMSeRIO470ePTmGL7CwnHyVeOKXAjLskAVm1XesqvoW085xFY4LFHWtUx_E8fV9-nRlvSLPxE8pgXK85LUfLaH0x69oc_xM5VfCJP2KRgAAlpohvAUYyxLWQtvNEKrPvC77SforFaCKfAxN3H-jQmIVg7IniyMZ2V3W7cZQY3qdw9NOiH39r7-lUrz3A_Do-AO3ZuqcVkNSFnPaIbpw9Kamap7ugTjptv1QuqpWJwUZE9kwOBsIYfxhSCeu_D9LeVAlwYlfWGCmTihW9iz85WleCiXLM0yytkrvtljlRrRjgIBc6XIwjIk-XdKXqJdadEmE_6xUpqWYT-7qgE5J-5oOAyDHOkpRKr4M2x0gLTsC8pUNVyM88uM9w0KXlqXvkHD9vYxG7LmpUY_a3dlYg_wIKZWsDFZpagmiuF9ySSeJo4b8wS91_PdZ5mlFS9EN3SyeBKMRSULrWTL1rmdC1tQquaV9fUQI6FsJrIlKH9L5VTHYc5LQfnCxmOzLZJ3n5HQ5ddaJZscZhxbTrHLEA=w690-h919-no",
-		"title": "Susan and Craig visit Callan, Julie, and Bill",
+		"title": "Susan and Craig visit Callan (3 months old), Julie, and Bill",
  		"date": new Date("4/19/2018")
 	},{
 		"link": "https://photos.app.goo.gl/xt9TzgQgHBJFMMW03",
