@@ -2,6 +2,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "./nyfamilygathering.html",
+		"img": "https://lh3.googleusercontent.com/YeWVz22NkcUr1ilx0fjuJbt9KPa_3ulfhQjqEmuJfBtFWy1a4FcCvaoLRBWQQAqAwu71Vm-kI0XGf3NdXnHN66tb8YtO71gj5lpy5d5d2zpZRCxfh8dQTNlfDAZJfEd4FqSoIn2CODChDqIjRIT_Eb6mue6N3GPoRs2QoXOqV5SKNWLFl3SMW9CLCSC_GO2ygoERgBUbjdw-BK0NSo-s4ANyNd_clqDHmIHXWwn9uxvLiJYr7ZnH5MkUnY0s6mGhEGlW-OFKwgc-e6hhDfLvAJWOucq3SGqi5Hq7rL7FphwKJ9GZ4x0Uh8FlUHXW86VlCxGs8UcPJV0XZ8Sp0UAW3lWtxLXtM8Um7UH98Nrh0Jo_bzRgkLIgjM2xjVHmucCk4MF-f4wYaO9xS_XqgXqP7QhyXbGZQHpQNgTwK9_ZYxU23MN6qomBi7yk44sshWOCtMPi-Ih0KMj4azViymgxPCAFdsS7ek5eC98kdRX092RHpKZi_UDqd5VSgBOK8hdulAb0LnnQ5eOQUYXfhFoISl_7tJKFNFzBx4KhVhuNTYI9zdM2AY_zRMx1mRd2EaK9QeF6Gztn13ZsEWaEqfgTgKN_7mS4oEL6PF3yGQQGkKFGtuXm2xXd6OO0HkKB5FAfyvf7w_l2jn2bknUlMxnAMxVrE1Aeugw4kw=w711-h947-no",
+		"title": "Family gathering @ Laura's house",
+ 		"date": new Date("7/1/2018")
+	},{
 		"link": "https://photos.app.goo.gl/2MCQYHknc4SPPzJw7",
 		"img": "https://lh3.googleusercontent.com/OaeiM1ItXA8EYSArMcqRoERXn41FtAq4noH8mMEya1ZDUPKGjsXoEHbaFCUo51Ku8bMScGBvt3fOhKYoDGJHKIk6oOzfck_icLFaUuL3kEmNY9Elj-yZAXL0kbwLieqNzul9TRxclj0I59nMSeRIO470ePTmGL7CwnHyVeOKXAjLskAVm1XesqvoW085xFY4LFHWtUx_E8fV9-nRlvSLPxE8pgXK85LUfLaH0x69oc_xM5VfCJP2KRgAAlpohvAUYyxLWQtvNEKrPvC77SforFaCKfAxN3H-jQmIVg7IniyMZ2V3W7cZQY3qdw9NOiH39r7-lUrz3A_Do-AO3ZuqcVkNSFnPaIbpw9Kamap7ugTjptv1QuqpWJwUZE9kwOBsIYfxhSCeu_D9LeVAlwYlfWGCmTihW9iz85WleCiXLM0yytkrvtljlRrRjgIBc6XIwjIk-XdKXqJdadEmE_6xUpqWYT-7qgE5J-5oOAyDHOkpRKr4M2x0gLTsC8pUNVyM88uM9w0KXlqXvkHD9vYxG7LmpUY_a3dlYg_wIKZWsDFZpagmiuF9ySSeJo4b8wS91_PdZ5mlFS9EN3SyeBKMRSULrWTL1rmdC1tQquaV9fUQI6FsJrIlKH9L5VTHYc5LQfnCxmOzLZJ3n5HQ5ddaJZscZhxbTrHLEA=w690-h919-no",
 		"title": "Susan and Craig visit Callan (3 months old), Julie, and Bill",
