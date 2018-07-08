@@ -1,1 +1,48 @@
-<foo>
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Family Gathering,New York,  July 2018</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">National Parks trip</h1>
+      <h2 class="project-tagline">Summer, 2003</h2>
+    </section>
+
+    <section class="main-content">
+    
+<!DOCTYPE html>
+<html>
+<body>
+
+<table style="width:100%">
+<col width=33%>
+<col width=33%>
+<col width=33%>
+
+<tr>
+<td align="center" valign="top">
+<a href="https://photos.app.goo.gl/HhaSFiQQX7hKmdtq6">
+<img src="https://lh3.googleusercontent.com/Buuq87EPUvyJH1MpIYyjUPYbjzosGcDc7DRDUtA7iQ9VMLo8Eg90UFAQ4Ai0MR1-2ol-nDmolJ_yaF0haSTi_5NZ-hyHIPPaSpVYFJprK5L6x_sJ-yzOVQPJ_GJYdEYrkPLsIWFPQpRmhF3g438jbWzrqg8_F__UUVgJl_-E6zks4jKu4SGGo9hsG4U4vd37_NH3N1bT_1w-BUwFoZc6yFPQgev0eUGW5mWzSDxamDZKma5UtTQiefeG77VP4kOV3PbGktufJfa6IDhfv1Lxw2X3dWqAkrcz80YMk86Tg1X3jk6xIw1wJSP4Pc0eupaMSTG6T2Uh82mv896XjCxb_JC4QnwA8AArLymxylB6nWOiZ8WPnh_n09FXX2731fxmyag5pLFkPNdKT7id0fONyUr4M87cScLNKTgzgNHbFJTvORzWknqvdaBlvl95koBijpLuU6L5vwme2mqgukFQXf0kduCmhupsLHZatFwY5NuCrywswDdeXXUXH9LBNs7TIpFmROOYMlly4Ou57jW6m2F1Y1ldlbMY8-LRRpCNvyE9wrCs-wRaIg_UzJD6CNSaHqqv0qfNTPiXVlmBx9ou5IiNh4txrbIAUms-CSciRJuZPul1g_5Rhb5URDNkT-hLijd8CZ_oHVgKN2ucWzsLPlbS-nv9QH_8lA=w1263-h947-no">
+<br />
+Laura
+</a></td>
+
+</tr>
+</table>
+
+
+
+</body>
+</html>
+    </section>
+
+  
+  </body>
+</html>
