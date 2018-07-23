@@ -2,6 +2,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/EgBFEW7wEJw3UHRf9",
+		"img": "https://lh3.googleusercontent.com/Vsv4ekmjlyqwrlS1Ud_c6Gh5nZ56w6KAEQ3OwGJf20ostqk5wm9bYqb3B3DvIMgIcTS9G37sp3O7lxX16si0DjbBAqDfUTU3pO0qNuojhhyOCTLRwOlF2qAywh-taTaJOgwNvCOFbenqoUDxk19rles6fH_XLojsnjyVzdwBEY3t3UwUzJ4I3uVt0nJ-OJ5bGqNMDCcAPSE7MtHuh31oWl-MNYGW2pDJpBWUdTSSc3AmK6w2k-PK0bSPtMixg6K7ITwVJhF8WavCnnCTqC9M-CDMmmtwqDDycFwYBTaGoONP0OOXSFDY1GSm2lci9lyvxu4BhcWRpu2rJS-oWjB4beNxfWIJgH-F9QBtBXS6LwETfprLG8v6Dy0_A0zzRRD-VS90ye2ijdV3AFzLGpYJ8wQChnWmJRBto7x-e7e_zjUTTohCoXU_8dOq0Kg1-ev0qc1ToaoDBr38ctkiRzTimzNO_EdURSjY427EthePs_gR2ODtWTOC6soqjfYRbyeMWj9epXSwTVHeWRRw24vTGVj_aeREtk9Rg2K4MVM_jpMgT4WdMcLwJT8SuKvHle7HHb21tAHMdYNQYw18OKo6mRNRJJLsEswXqQwwqGElkbJYiuT79zIwVBHK1RVDwpnVx9wFk3znLLwhyS65VyHZfhBEL_b6pfDo6w=w1579-h1184-no",
+		"title": "Susan visiting Schwents in Denver",
+ 		"date": new Date("7/23/2018")
+	},{
 		"link": "./nyfamilygathering.html",
 		"img": "https://lh3.googleusercontent.com/YeWVz22NkcUr1ilx0fjuJbt9KPa_3ulfhQjqEmuJfBtFWy1a4FcCvaoLRBWQQAqAwu71Vm-kI0XGf3NdXnHN66tb8YtO71gj5lpy5d5d2zpZRCxfh8dQTNlfDAZJfEd4FqSoIn2CODChDqIjRIT_Eb6mue6N3GPoRs2QoXOqV5SKNWLFl3SMW9CLCSC_GO2ygoERgBUbjdw-BK0NSo-s4ANyNd_clqDHmIHXWwn9uxvLiJYr7ZnH5MkUnY0s6mGhEGlW-OFKwgc-e6hhDfLvAJWOucq3SGqi5Hq7rL7FphwKJ9GZ4x0Uh8FlUHXW86VlCxGs8UcPJV0XZ8Sp0UAW3lWtxLXtM8Um7UH98Nrh0Jo_bzRgkLIgjM2xjVHmucCk4MF-f4wYaO9xS_XqgXqP7QhyXbGZQHpQNgTwK9_ZYxU23MN6qomBi7yk44sshWOCtMPi-Ih0KMj4azViymgxPCAFdsS7ek5eC98kdRX092RHpKZi_UDqd5VSgBOK8hdulAb0LnnQ5eOQUYXfhFoISl_7tJKFNFzBx4KhVhuNTYI9zdM2AY_zRMx1mRd2EaK9QeF6Gztn13ZsEWaEqfgTgKN_7mS4oEL6PF3yGQQGkKFGtuXm2xXd6OO0HkKB5FAfyvf7w_l2jn2bknUlMxnAMxVrE1Aeugw4kw=w711-h947-no",
 		"title": "Family gathering @ Laura's house",
