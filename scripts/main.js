@@ -2,6 +2,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/BBrLKqyyKjZ4kG3t8",
+		"img": "https://lh3.googleusercontent.com/jdc7MNXPVixPHUNw66P-shQ80_RMVy1mKyhM5n-J7VUceCyWDVaLil9ejsGrwR_ZwsgzuOObhXZte0wC_n3Qrg0oZ2EaYDh-INzhivWWj9476u3llRbxuZB47TIj53A-gO3hNwNWoR9HXzKMBc6GwqXk-0xMlEcWjvW4uynH5FXLcRBlbHku_ncCvl0zNs1HuQINu-JM5k3ofCBBRJzvJSDNrDaZR20ech9LGgnSmJxQLxzXc0jF1HwiBLYRF2v0esjDSv7pK0aQXpyMX2A__i7W5upBx5Xqe5Us_ov6Oxh1qMvDjeStYcMtvWOb_TGGTZpweYLmLejT1y4zv5uUQdSznkENOQtJgipFgWA1ZCcAckH0vWmWO0IKLUQrynidJeGGyVdpFj9t7wBDyISORtODSCRGyrIXGZbq8gC1OgGh3sjVutt-64emHpZ5HD76N7nxYO7uOaXP9wZs-efACnfK0cczlzDTgBf-1PAtbkEmoUjF1eoQM_sqcPvrerZyUKPrOpP9FY-n4Po2qwNUEEUJniLX4S4bevS5p9ZEnUB5eFtsU8-bpNeN6Nywg9Ekox04WCJffbs6st-U1KV7inyUFXP042KUSaGMMnG7OwwUxFBWEXhJXEDZV5xQ6w_oMDUuSs2iqAhv4O3LJmdhHooHAzsrMlsUWg=w888-h1184-no",
+		"title": "Susan visiting parents in Florida",
+ 		"date": new Date("7/23/2018")
+	},{
 		"link": "https://photos.app.goo.gl/EgBFEW7wEJw3UHRf9",
 		"img": "https://lh3.googleusercontent.com/Vsv4ekmjlyqwrlS1Ud_c6Gh5nZ56w6KAEQ3OwGJf20ostqk5wm9bYqb3B3DvIMgIcTS9G37sp3O7lxX16si0DjbBAqDfUTU3pO0qNuojhhyOCTLRwOlF2qAywh-taTaJOgwNvCOFbenqoUDxk19rles6fH_XLojsnjyVzdwBEY3t3UwUzJ4I3uVt0nJ-OJ5bGqNMDCcAPSE7MtHuh31oWl-MNYGW2pDJpBWUdTSSc3AmK6w2k-PK0bSPtMixg6K7ITwVJhF8WavCnnCTqC9M-CDMmmtwqDDycFwYBTaGoONP0OOXSFDY1GSm2lci9lyvxu4BhcWRpu2rJS-oWjB4beNxfWIJgH-F9QBtBXS6LwETfprLG8v6Dy0_A0zzRRD-VS90ye2ijdV3AFzLGpYJ8wQChnWmJRBto7x-e7e_zjUTTohCoXU_8dOq0Kg1-ev0qc1ToaoDBr38ctkiRzTimzNO_EdURSjY427EthePs_gR2ODtWTOC6soqjfYRbyeMWj9epXSwTVHeWRRw24vTGVj_aeREtk9Rg2K4MVM_jpMgT4WdMcLwJT8SuKvHle7HHb21tAHMdYNQYw18OKo6mRNRJJLsEswXqQwwqGElkbJYiuT79zIwVBHK1RVDwpnVx9wFk3znLLwhyS65VyHZfhBEL_b6pfDo6w=w1579-h1184-no",
 		"title": "Susan visiting Schwents in Denver",
