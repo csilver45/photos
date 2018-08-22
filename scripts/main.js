@@ -2,6 +2,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/gfXmrufW5mXUuLr5A",
+		"img": "https://lh3.googleusercontent.com/n3Qc6NBNfHacPxRLF4ikZVn6m2koYYlatFENOZn5AihNY31bVnHOZ_-DpNYHfIRCb0by7MVxozoITv7ivSuISjs7BqaljdNfHtU_m5tc4sAwWwpNar0H0zQ2GSJcDgRuvagjqYdCjElNxexW-usDdEkFXDin9GuJz7KycuyTLA6dvYzitta5tiuT7TF5Azy14iMEiCkKLEHB7oMscAUYhfkLBC0W-HubJAqApAfJVtvmsjXBfxlqyo4MM_Mb9PIhWLuW7KjqXbDeaGl18v6Dnu0oZc-GOJIL8snMtk9qTcU7TMfaRqrxyqNMFrYUNV4fRRO51-EHSTH_W6pGqCAxjW54uLoenI4dd-Ry4avl5sjOm6xpaPl0Mr8dynxdOHjSlCG8A13ybYhWzpkGMmPdP00twVGbPVQmww9aimdDHOLmSONThMM7M0wSBxHiZuwe9Kmz57-BaIeBm18ihic1jW1y1pYHSttlJjL0j_yZAQo4SdWwAVNa4ZaBglR-80xVXm-lUGXC6C3C8Dcppxp5C22Tyh3eb1yUD3NM90voonUrNqDd3fLulqJ-599Egv39ySdbX5kPfSBmnBgKVJOeptc-hSF1kZMCwdHz3Zwhd_C4n5Rp4Ie5_J_XxFokXN6lQ0kr-R9xB0oL6GYglra8XQQxiYIsFGnhnQ=w1572-h1179-no",
+		"title": "Susan and Craig visiting Schwents",
+ 		"date": new Date("8/15/2018")
+	},{
 		"link": "https://photos.app.goo.gl/BBrLKqyyKjZ4kG3t8",
 		"img": "https://lh3.googleusercontent.com/jdc7MNXPVixPHUNw66P-shQ80_RMVy1mKyhM5n-J7VUceCyWDVaLil9ejsGrwR_ZwsgzuOObhXZte0wC_n3Qrg0oZ2EaYDh-INzhivWWj9476u3llRbxuZB47TIj53A-gO3hNwNWoR9HXzKMBc6GwqXk-0xMlEcWjvW4uynH5FXLcRBlbHku_ncCvl0zNs1HuQINu-JM5k3ofCBBRJzvJSDNrDaZR20ech9LGgnSmJxQLxzXc0jF1HwiBLYRF2v0esjDSv7pK0aQXpyMX2A__i7W5upBx5Xqe5Us_ov6Oxh1qMvDjeStYcMtvWOb_TGGTZpweYLmLejT1y4zv5uUQdSznkENOQtJgipFgWA1ZCcAckH0vWmWO0IKLUQrynidJeGGyVdpFj9t7wBDyISORtODSCRGyrIXGZbq8gC1OgGh3sjVutt-64emHpZ5HD76N7nxYO7uOaXP9wZs-efACnfK0cczlzDTgBf-1PAtbkEmoUjF1eoQM_sqcPvrerZyUKPrOpP9FY-n4Po2qwNUEEUJniLX4S4bevS5p9ZEnUB5eFtsU8-bpNeN6Nywg9Ekox04WCJffbs6st-U1KV7inyUFXP042KUSaGMMnG7OwwUxFBWEXhJXEDZV5xQ6w_oMDUuSs2iqAhv4O3LJmdhHooHAzsrMlsUWg=w888-h1184-no",
 		"title": "Susan visiting parents in Florida",
