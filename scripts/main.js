@@ -4,50 +4,50 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/gfXmrufW5mXUuLr5A",
 		"img": "https://lh3.googleusercontent.com/n3Qc6NBNfHacPxRLF4ikZVn6m2koYYlatFENOZn5AihNY31bVnHOZ_-DpNYHfIRCb0by7MVxozoITv7ivSuISjs7BqaljdNfHtU_m5tc4sAwWwpNar0H0zQ2GSJcDgRuvagjqYdCjElNxexW-usDdEkFXDin9GuJz7KycuyTLA6dvYzitta5tiuT7TF5Azy14iMEiCkKLEHB7oMscAUYhfkLBC0W-HubJAqApAfJVtvmsjXBfxlqyo4MM_Mb9PIhWLuW7KjqXbDeaGl18v6Dnu0oZc-GOJIL8snMtk9qTcU7TMfaRqrxyqNMFrYUNV4fRRO51-EHSTH_W6pGqCAxjW54uLoenI4dd-Ry4avl5sjOm6xpaPl0Mr8dynxdOHjSlCG8A13ybYhWzpkGMmPdP00twVGbPVQmww9aimdDHOLmSONThMM7M0wSBxHiZuwe9Kmz57-BaIeBm18ihic1jW1y1pYHSttlJjL0j_yZAQo4SdWwAVNa4ZaBglR-80xVXm-lUGXC6C3C8Dcppxp5C22Tyh3eb1yUD3NM90voonUrNqDd3fLulqJ-599Egv39ySdbX5kPfSBmnBgKVJOeptc-hSF1kZMCwdHz3Zwhd_C4n5Rp4Ie5_J_XxFokXN6lQ0kr-R9xB0oL6GYglra8XQQxiYIsFGnhnQ=w1572-h1179-no",
-		"title": "Susan and Craig visiting Schwents",
+		"title": "Susan and Craig visiting Schwents, August 2018",
  		"date": new Date("8/15/2018")
 	},{
 		"link": "https://photos.app.goo.gl/BBrLKqyyKjZ4kG3t8",
 		"img": "https://lh3.googleusercontent.com/jdc7MNXPVixPHUNw66P-shQ80_RMVy1mKyhM5n-J7VUceCyWDVaLil9ejsGrwR_ZwsgzuOObhXZte0wC_n3Qrg0oZ2EaYDh-INzhivWWj9476u3llRbxuZB47TIj53A-gO3hNwNWoR9HXzKMBc6GwqXk-0xMlEcWjvW4uynH5FXLcRBlbHku_ncCvl0zNs1HuQINu-JM5k3ofCBBRJzvJSDNrDaZR20ech9LGgnSmJxQLxzXc0jF1HwiBLYRF2v0esjDSv7pK0aQXpyMX2A__i7W5upBx5Xqe5Us_ov6Oxh1qMvDjeStYcMtvWOb_TGGTZpweYLmLejT1y4zv5uUQdSznkENOQtJgipFgWA1ZCcAckH0vWmWO0IKLUQrynidJeGGyVdpFj9t7wBDyISORtODSCRGyrIXGZbq8gC1OgGh3sjVutt-64emHpZ5HD76N7nxYO7uOaXP9wZs-efACnfK0cczlzDTgBf-1PAtbkEmoUjF1eoQM_sqcPvrerZyUKPrOpP9FY-n4Po2qwNUEEUJniLX4S4bevS5p9ZEnUB5eFtsU8-bpNeN6Nywg9Ekox04WCJffbs6st-U1KV7inyUFXP042KUSaGMMnG7OwwUxFBWEXhJXEDZV5xQ6w_oMDUuSs2iqAhv4O3LJmdhHooHAzsrMlsUWg=w888-h1184-no",
-		"title": "Susan visiting parents in Florida",
+		"title": "Susan visiting parents in Florida, July 2018",
  		"date": new Date("7/23/2018")
 	},{
 		"link": "https://photos.app.goo.gl/EgBFEW7wEJw3UHRf9",
 		"img": "https://lh3.googleusercontent.com/Vsv4ekmjlyqwrlS1Ud_c6Gh5nZ56w6KAEQ3OwGJf20ostqk5wm9bYqb3B3DvIMgIcTS9G37sp3O7lxX16si0DjbBAqDfUTU3pO0qNuojhhyOCTLRwOlF2qAywh-taTaJOgwNvCOFbenqoUDxk19rles6fH_XLojsnjyVzdwBEY3t3UwUzJ4I3uVt0nJ-OJ5bGqNMDCcAPSE7MtHuh31oWl-MNYGW2pDJpBWUdTSSc3AmK6w2k-PK0bSPtMixg6K7ITwVJhF8WavCnnCTqC9M-CDMmmtwqDDycFwYBTaGoONP0OOXSFDY1GSm2lci9lyvxu4BhcWRpu2rJS-oWjB4beNxfWIJgH-F9QBtBXS6LwETfprLG8v6Dy0_A0zzRRD-VS90ye2ijdV3AFzLGpYJ8wQChnWmJRBto7x-e7e_zjUTTohCoXU_8dOq0Kg1-ev0qc1ToaoDBr38ctkiRzTimzNO_EdURSjY427EthePs_gR2ODtWTOC6soqjfYRbyeMWj9epXSwTVHeWRRw24vTGVj_aeREtk9Rg2K4MVM_jpMgT4WdMcLwJT8SuKvHle7HHb21tAHMdYNQYw18OKo6mRNRJJLsEswXqQwwqGElkbJYiuT79zIwVBHK1RVDwpnVx9wFk3znLLwhyS65VyHZfhBEL_b6pfDo6w=w1579-h1184-no",
-		"title": "Susan visiting Schwents in Denver",
+		"title": "Susan visiting Schwents in Denver, July 2018",
  		"date": new Date("7/23/2018")
 	},{
 		"link": "./nyfamilygathering.html",
 		"img": "https://lh3.googleusercontent.com/YeWVz22NkcUr1ilx0fjuJbt9KPa_3ulfhQjqEmuJfBtFWy1a4FcCvaoLRBWQQAqAwu71Vm-kI0XGf3NdXnHN66tb8YtO71gj5lpy5d5d2zpZRCxfh8dQTNlfDAZJfEd4FqSoIn2CODChDqIjRIT_Eb6mue6N3GPoRs2QoXOqV5SKNWLFl3SMW9CLCSC_GO2ygoERgBUbjdw-BK0NSo-s4ANyNd_clqDHmIHXWwn9uxvLiJYr7ZnH5MkUnY0s6mGhEGlW-OFKwgc-e6hhDfLvAJWOucq3SGqi5Hq7rL7FphwKJ9GZ4x0Uh8FlUHXW86VlCxGs8UcPJV0XZ8Sp0UAW3lWtxLXtM8Um7UH98Nrh0Jo_bzRgkLIgjM2xjVHmucCk4MF-f4wYaO9xS_XqgXqP7QhyXbGZQHpQNgTwK9_ZYxU23MN6qomBi7yk44sshWOCtMPi-Ih0KMj4azViymgxPCAFdsS7ek5eC98kdRX092RHpKZi_UDqd5VSgBOK8hdulAb0LnnQ5eOQUYXfhFoISl_7tJKFNFzBx4KhVhuNTYI9zdM2AY_zRMx1mRd2EaK9QeF6Gztn13ZsEWaEqfgTgKN_7mS4oEL6PF3yGQQGkKFGtuXm2xXd6OO0HkKB5FAfyvf7w_l2jn2bknUlMxnAMxVrE1Aeugw4kw=w711-h947-no",
-		"title": "Family gathering @ Laura's house",
+		"title": "Family gathering @ Laura's house, July 2018",
  		"date": new Date("7/1/2018")
 	},{
 		"link": "https://photos.app.goo.gl/2MCQYHknc4SPPzJw7",
 		"img": "https://lh3.googleusercontent.com/OaeiM1ItXA8EYSArMcqRoERXn41FtAq4noH8mMEya1ZDUPKGjsXoEHbaFCUo51Ku8bMScGBvt3fOhKYoDGJHKIk6oOzfck_icLFaUuL3kEmNY9Elj-yZAXL0kbwLieqNzul9TRxclj0I59nMSeRIO470ePTmGL7CwnHyVeOKXAjLskAVm1XesqvoW085xFY4LFHWtUx_E8fV9-nRlvSLPxE8pgXK85LUfLaH0x69oc_xM5VfCJP2KRgAAlpohvAUYyxLWQtvNEKrPvC77SforFaCKfAxN3H-jQmIVg7IniyMZ2V3W7cZQY3qdw9NOiH39r7-lUrz3A_Do-AO3ZuqcVkNSFnPaIbpw9Kamap7ugTjptv1QuqpWJwUZE9kwOBsIYfxhSCeu_D9LeVAlwYlfWGCmTihW9iz85WleCiXLM0yytkrvtljlRrRjgIBc6XIwjIk-XdKXqJdadEmE_6xUpqWYT-7qgE5J-5oOAyDHOkpRKr4M2x0gLTsC8pUNVyM88uM9w0KXlqXvkHD9vYxG7LmpUY_a3dlYg_wIKZWsDFZpagmiuF9ySSeJo4b8wS91_PdZ5mlFS9EN3SyeBKMRSULrWTL1rmdC1tQquaV9fUQI6FsJrIlKH9L5VTHYc5LQfnCxmOzLZJ3n5HQ5ddaJZscZhxbTrHLEA=w690-h919-no",
-		"title": "Susan and Craig visit Callan (3 months old), Julie, and Bill",
+		"title": "Susan and Craig visit Callan (3 months old), Julie, and Bill, April 2018",
  		"date": new Date("4/19/2018")
 	},{
 		"link": "https://photos.app.goo.gl/xt9TzgQgHBJFMMW03",
 		"img": "https://lh3.googleusercontent.com/0qjReGCMXjR2rMBVgk_KnFpjsEJwJVUdNT1t3KwRcc-vOh-Ku0KBaEghRmvC_r24TzWWT-q0fIe_5XDXRG08UCHLWCddeAcgAVFIhYRVVRO2zMeP2SP0Xm7on19jASebzgLF-Vm1Ji8CZ30OU_JZb4hzPDe-BTIiz_EemWJuw9qgBZt4yg2gpVL0IR8_vd7n2eqNLxMi07Of4b94Hfnmjs1B2i_jiOw-ZvL9uDq--U5rln1uxhS0f14InoKjctnl4QNyLtFa18ZzRF9cZVdY2Tg0hbgFD6pgWd7PK_jlDeg1WR8zFkJlueKcbfigPDjZvR_zhMm9mtGxad2Og1SdU5LUaIih76EEUNCI2gXI8Yjdo2t8a9NWKPqQvjC0J1SvyPGK38z6h_DCC74fYBDTr9lHLA5fIO2cjysz99QeEXbWVDqbpDsdacRDQOwmcJ3yO2brOrAmqCicw2G_ty0kBNpt35Z2jxE0iPERbtIrhRFCXJx-MrcYQWtodKf0fJ0pVtMA0PLd6YxY2M72QTcPbvfL-6w6K4C0Ocp3j-R6U1-4B4jR2h0omAm1faCUIeIM-ta5z7m4cfqm7_51w3EIUNeGsLWNg1U_RwgMgumf=w690-h919-no",
-		"title": "Susan and Craig visit Gaya, Amanada, and John",
+		"title": "Susan and Craig visit Gaya, Amanada, and John, march 2018",
  		"date": new Date("3/21/2018")
 	},
 		{
 		"link": "https://photos.app.goo.gl/lmIbpX9PLXjhSIOT2",
 		"img": "https://lh3.googleusercontent.com/DHbpcS0RmfTjIBO0wUg24sLzg_jPBUHig3Gm4PbKtNQW1I2oFqAhAyGg1rr62uNrPV2fGxw0RPtgBJ1zAOtyIW3Cf8rDPCbBtCPmMf_l_Yx0kr04mMKua1p9Ql1JREXu1DWr1bM5Cu0S-GoYxuZ6D16JvpjFK_uW3gLzihqXnFoscuovajmohW_EI3_c63_t6HAD_eLs8jWlZfyvdD9ibHiarJ4o5SA7uUULYGw88eWUsLnex8ZkVsZ-OwvVOmhrVsdoxjY3rKa837cvPOYAwuaHr_j7rZFbQkYfEGjWE8aMPrNr_jPEuQyY5c7918MFElDmrCDs7Bo2c4H7c2LQHikPWBE3G2gjyBMM-z2T2HDp8jpX-AD_t3uxRnIfTLVXCFAxh5To8VSEDZQYXDoVnGKwi5fPx0b1BOYshkaEdblqgzuv0SGq5JvCf9bKRqvypZQpXzRHJiRnGOzOU1BXhvWJT1_SJPEu2etpkpKREgIaVBTUNaN-nJ3hkVyjI6tjzX_SeFiSyEJfmEqonJpBshj0LANdtwaM_Ek14jU7ECbdW4nPIp4OueKk6JkfpUNq1lSbBXqsG5c5ozA_gz1ue-o3h1wpkglK58xGKgjat0rIbkutjIIMOcLiElM8xOhdvTYNEfdcAB2u3Lsxfyi2QUrWw1h9D8dBrg=w690-h919-no",
-		"title": "Why we love New Hampshire - Snow!",
+		"title": "Why we love New Hampshire - Snow! - March 2018",
  		"date": new Date("3/13/2018")
 	},
 		{
 		"link": "https://photos.app.goo.gl/0vkduppx5Kpp5jRz1",
 		"img": "https://lh3.googleusercontent.com/QvNVyuzBuAIYDnISOLLsUKScEURbVLfkjr_ycl_GU15h9BSH64fW4xGyTn0GGY6xenGU4oIIeCOcIKy9ZR0TwDyeYIWjYQnEuef8AVelHDcV9OI0KVJlTzzGOiQ7sYtgi_UBqM9AY5XT6toi1p-Ms7eQtz33GyNzj9UGq_n8UQuMPgkNxRwj6Xn-Wetbj2TjJ08saXtLVI7smkV2zkVFdcoE2pN5oDmGuN8NH_Mwn0M2A3fRB3WZAqogVn3KEe2W2IMJpJghPVO9_JMkrzFhRr3zu9b58ABXeIYgNtKs34BAnzmXYBeSpe2aAkc1wNWKB0fqFaC5_Uc0S1XB33nPmCW5o4PCeVKpM-WGiMjcKjjNHDN9w6i6FB08BoexWBwwOok-kLv4oW9RTWlxb76t9r_F0WfK-FbNOdESaUb-QGrGahNBEXddvKW5p_VSnPHn40jnxqVrRpHyhJ-NyZiebgj8wHgsFSDrtiB18-sNFRcOllPAzOMdiWswtutgzdlacyLP71a7yB-IrSUUOWluugje_XWR2P67sQlWrPysZbjiPTwLHd0bBG7B-M6ygrnmdFnUVHRsFtG_9gzHAlMxoPQ6IJliJxFljSJDRVzUpanoLBMM9XZbvBTtI-T-Y5GDNq_YUkq_pS99XVFTTpky8QTM3W_qWyBilw=w1225-h919-no",
-		"title": "Susan, Weiners, Jessica, and Ryan visit the Schwents",
+		"title": "Susan, Weiners, Jessica, and Ryan visit the Schwents, March 2018",
  		"date": new Date("3/1/2018")
 	},
 		{
 		"link": "./Callan_First_Week.html",
 		"img": "https://lh3.googleusercontent.com/may-bDcxOt6fE-VEtmaeqiKV9vvTIRNUXqU0N272uyDm5TMTo0a0WrL_j_dF0Z-SZOO0nITpGN3GQybdTaNwG5rGiMMM9H0LYI_MIBP45ffAfyX5FjhWuE7IBsTVIinYifHEpV9a1KWe8TbrEK6PFjM4vduJFpOWjbgjyjNKQL-mfyy_EPezYB54hcrEPud0aO5s47sxKZs-OFOazjBOAocu9H2gremb0G-br1OUqYMoTp3oH9HbHLKvmfhEXhpSAED1DLcZnJM6FkPVOmGrslob7zQtdFL15xLNg3KVL9W_OwrMSyBg9aRF9rbbu_zKwjDuY36eHoK9MAfMLX4ODtc8lTkW9mnmuixLPBl1pI62NDHTeYmeGIXHW7spv7Ip7jfm0aeyWRTUWh5Lb2n4LAtg6DvJDciwikLXJB_SP6wuGPZXaRFxj9z2Ai4rTS5-5HM8IjJeKdX2wiB0b8qYZKR_ZfpuD9PfQhjYcenFW8q_y1-F9tQyXEhONC64yHMA3xZ6zL2EiCdtNeTzIwK2tAiZnZ_qsRzdSJNwyq94FyyIczbcZ_fcx_Y-OYCy1qn6vRCye0waO4s08UrAebBUsu3KVFmeW6Hf-ZhnxXj1UVmJTpzTsJAhWN2IQhipxiaQD2yb9712NJb0ZMjYryAPHlUbf2WoRNgloA=w1225-h919-no",
-		"title": "Callan James Schwent is born",
+		"title": "Callan James Schwent is born, December 2017",
     "date": new Date("12/2/2017")
 	},{
 		"link": "https://photos.app.goo.gl/6RTXrTsAdTy51iN32",
