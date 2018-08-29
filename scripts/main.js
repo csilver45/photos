@@ -2,6 +2,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/eQ5DhpMnTMZRjAJF8",
+		"img": "https://lh3.googleusercontent.com/GTwYKAqpVlpS4tjrHCTEB9-CRUboiE_Xj-R_Q3jD1Gu9gHj8ps7ZouruBkZi_tWUNtgwawuB112azYkjtSIE2XveiDYpL8_jrBnW-2CHE4zIlK5lx_gowYrUK_rl8LhySFmMEYqeThq2XCnw8HjGGYozHRa48s1qjLjkWxto2CRGKTT3GMzTWbQHtMhT4xFstVHIBP_h0lKyhW1BaJ-F4LVGoTMNtTrCdB5J5GvQ-vSuPUqRMi-OPFVeYm020VWbkzoXp77lVY3qg-fZb1tHAfbQ6csCbcxmo-lggm10qYziwMeYwTHh--qIXIAUJWsjFq_ngw7ca5RttajsPbiz09CsbBxDIQQZGylBJ1zbnX9REmOjxCeJEn85rkv_4EuSA83AcVw_cjCk-vEmBVQ9qbGS1HBcQDuyGLLFsiAov2eBdfXgPdUw2E4xVBicjocD46i9Tfb2HtClMnjzEHAT_Jqf9CmUWvRTfAJ17_BjETauYEK7KNCCRzVjqmsrubchmqCtFM4nuEPjS3yGyEnhC5urRvJI_TqNhMEi_LnQXneH9Omh0EDeHrJU3tsbW8UtKBTbkjDdw2OWDXDnHOr50FTYMsbf2flys-HyF7qJgnxDempJzG6lrwa991AG4w9aROoCEkz92frNJJrUH8nRmCa_iWxbuDx6hul16O4mjE86bNoVadldM5qUsQ=w1572-h1179-no",
+		"title": "Susan and Craig visiting Montrael enroute to Square Dancing, August 2018",
+ 		"date": new Date("8/29/2018")
+	},{
 		"link": "https://photos.app.goo.gl/gfXmrufW5mXUuLr5A",
 		"img": "https://lh3.googleusercontent.com/n3Qc6NBNfHacPxRLF4ikZVn6m2koYYlatFENOZn5AihNY31bVnHOZ_-DpNYHfIRCb0by7MVxozoITv7ivSuISjs7BqaljdNfHtU_m5tc4sAwWwpNar0H0zQ2GSJcDgRuvagjqYdCjElNxexW-usDdEkFXDin9GuJz7KycuyTLA6dvYzitta5tiuT7TF5Azy14iMEiCkKLEHB7oMscAUYhfkLBC0W-HubJAqApAfJVtvmsjXBfxlqyo4MM_Mb9PIhWLuW7KjqXbDeaGl18v6Dnu0oZc-GOJIL8snMtk9qTcU7TMfaRqrxyqNMFrYUNV4fRRO51-EHSTH_W6pGqCAxjW54uLoenI4dd-Ry4avl5sjOm6xpaPl0Mr8dynxdOHjSlCG8A13ybYhWzpkGMmPdP00twVGbPVQmww9aimdDHOLmSONThMM7M0wSBxHiZuwe9Kmz57-BaIeBm18ihic1jW1y1pYHSttlJjL0j_yZAQo4SdWwAVNa4ZaBglR-80xVXm-lUGXC6C3C8Dcppxp5C22Tyh3eb1yUD3NM90voonUrNqDd3fLulqJ-599Egv39ySdbX5kPfSBmnBgKVJOeptc-hSF1kZMCwdHz3Zwhd_C4n5Rp4Ie5_J_XxFokXN6lQ0kr-R9xB0oL6GYglra8XQQxiYIsFGnhnQ=w1572-h1179-no",
 		"title": "Susan and Craig visiting Schwents, August 2018",
