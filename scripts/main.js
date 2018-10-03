@@ -2,6 +2,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/AGXxAqetgoBrMV2X9",
+		"img": "https://lh3.googleusercontent.com/NM03B11v5Dxzncl6OEfird-u8MeWk4HWVULUaQ61Nza9ZBxH_FjfidouM4vnO5ndwpcUn0GO7GMp4UQPjr23-ga0qqY0Ha9mdn2eI738UM6jBKyA5CakS2EKMfdat7pKCbodrJZSYvQuARgCDGNf6N4zKOv9R11IZ0lYXleGgGQOQMiaTKFZ1ZWUfIJE9UQWk-TszTYPelyFmYL6oZommKowouuq97zqr6kSdXr4X6lvM7lhaubcbBqDNwVRQTXN9Pv-D35LbLSD07f325uYYkGj3-utC7RzMOBmJ03wFyXSD6rbwb8-W1ssVV91UqiZ9QBVmjIo_pxttGrc3CLf_iDL7VIh4X-kpFR-zGWBbKKWLdUWmynWDinQEWL65hMcN4pnPJ4y9uqkac1dRXR_TuTGFDB4Kxcia5phbaunC-KLXjt7fDxY0mLGpi4eJ0B41-3tAafLP6di_5tVytUJN4xI5uhp-m8d7Vpe8VECN1jQDETKo93m7WvekV-nMQW13XmyKgH1lclEjxo3cwDebFD6HMjxOjO2CKnxvlIkzMY-UI685WFDAQDiQDPrwdVtQ_qVTspYIriLFf0phBjoyp4aueH9tl7n-_6ZyqsueK25x9atX1EQuj4MJFhSnusc=w880-h1173-no",
+		"title": "Susan and Craig visiting Callan, Julie, and Bill in September 2018",
+ 		"date": new Date("10/3/2018")
+	},{
 		"link": "https://photos.app.goo.gl/eQ5DhpMnTMZRjAJF8",
 		"img": "https://lh3.googleusercontent.com/GTwYKAqpVlpS4tjrHCTEB9-CRUboiE_Xj-R_Q3jD1Gu9gHj8ps7ZouruBkZi_tWUNtgwawuB112azYkjtSIE2XveiDYpL8_jrBnW-2CHE4zIlK5lx_gowYrUK_rl8LhySFmMEYqeThq2XCnw8HjGGYozHRa48s1qjLjkWxto2CRGKTT3GMzTWbQHtMhT4xFstVHIBP_h0lKyhW1BaJ-F4LVGoTMNtTrCdB5J5GvQ-vSuPUqRMi-OPFVeYm020VWbkzoXp77lVY3qg-fZb1tHAfbQ6csCbcxmo-lggm10qYziwMeYwTHh--qIXIAUJWsjFq_ngw7ca5RttajsPbiz09CsbBxDIQQZGylBJ1zbnX9REmOjxCeJEn85rkv_4EuSA83AcVw_cjCk-vEmBVQ9qbGS1HBcQDuyGLLFsiAov2eBdfXgPdUw2E4xVBicjocD46i9Tfb2HtClMnjzEHAT_Jqf9CmUWvRTfAJ17_BjETauYEK7KNCCRzVjqmsrubchmqCtFM4nuEPjS3yGyEnhC5urRvJI_TqNhMEi_LnQXneH9Omh0EDeHrJU3tsbW8UtKBTbkjDdw2OWDXDnHOr50FTYMsbf2flys-HyF7qJgnxDempJzG6lrwa991AG4w9aROoCEkz92frNJJrUH8nRmCa_iWxbuDx6hul16O4mjE86bNoVadldM5qUsQ=w1572-h1179-no",
 		"title": "Susan and Craig visiting Montrael enroute to Square Dancing, August 2018",
