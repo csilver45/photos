@@ -2,6 +2,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/NjoSzWavtXDgSAdHA",
+		"img": "https://lh3.googleusercontent.com/8me9ayc0Gjb4COPZr7nNI_sy6ER1gFHZezPL-9GdduUyCvHqEA8u7-m5Lsrgv3bUMkHJJpcMzokPVkWhkGom3-Mnsqx0sEKgt91apaLBaqLtaLGtH5m9G9RjzEIrdSwVHY0bzacldriMiNX6KToUVlJgqj_uO5yD7VGm1gdYws3Fwpb4zfMEmfERwW6uJWwe7DNz8oNlNq3kLXtwNQ9NOtoYAWfFLpDyoNO-M-mOpoMDJs0ry2_VeE17rQBXV7BCC198ngVc4FVWESnS5uQmNGNax1kHKN_bTRwvke0HSl1GNdgEnyqvjxjZ4QWJmR46pvEdKPo9oEIRUW1Wx5XUbSLo4YVeGS05Wl-cSjb5vOkwmIRujWP_MCYY4Xz33mWlQTelrXc5CMRGg4Oe-zWOajawMbEe1j_XebhoETWtGqTbR5P4_0AfY-kcybwGTIor4GX4i7MwGxW2SL-G2aOUdT5bPSL6o8EIFf-TRFLO_y_SwqbivIJdS5MZ-jl04sLbFGjIMaSp0-vRar46I50iSx-fzvFLZCJDpdK_YuBKwE5R8nV4DCDK8RPTMEhtAERVt4UCkcS8ZffcD5GqbmksZaP2XKh54DSNiT67HE8F13FJZC7Qr2q63R9Snwk0G20Cz37uksLtMpS85ShKGCMi60zW4t-I2mmGGAuin28k7bzZuLbAFMFSDRS94VuIJ1Y05AKgV_avclBfGqV-XtY=w880-h1173-no",
+		"title": "Susan and Craig sitting for Callan in December, 2018",
+ 		"date": new Date("12/1/2018")
+	},{
 		"link": "https://photos.app.goo.gl/LmPs5EnW1K3iNnfLA",
 		"img": "https://lh3.googleusercontent.com/y_pmgYM4Q-PCGDHDL9egy2HpBSql8uKiAavA3xNSn4aez7zAjCTkGvzIBVpa0Z4J2pcI7e6rG9dLvMlb9Rv2UwIqVK5shNeHDb5NdHD47ld39EMsuwasrE2Qn_bpMIbQnf5N3TR7VdeD5B8EUQgPIXro2rp8IdcIqctr50wtymf1FsDv3-qbXBQROaOtz8qBhvPwTMI84XHrqB6a5fTFSZLVs3KqeR-smdYaqTlLaClz5w-ZtvkLE7cyH6kOzCuYwiBLtjhkFM5NFeigCS7j2hMZ-bTPyjL0i9W4tQ9fZ8DIMSEBW-AVtP5NR6PdE8Ri5okzd0E-_ut4-l1YJJqextC2WMAAUCVbGY2qW4tTSsknBQOmFhfVjcZRtkzui1Cg1RC63oDN5uxN9LkezPT368lY9w9zyUpA_9rajcMsoVXsjwGj6hpHiiumGClkBFRVz2TxO9LOI-69NRCPL7Is7p1fbERrLgDupH7nAqYyv9fqEbPVJHUGT9iy1Th9t-8q2_S9UeJvLIr0RbdFFh8ByUnBxedvv3aLxYS1Me_LkCk_SgHYt9rto7TXlJ16o7FsYua2X4_MQyQl6GEBSiHC1E-LgxY6-Xr1hJj5_Spo99LoFQFSJ4DyOWEdg3FTkIeDj9Z31hiUjSItIyvTqF-KlUxlEA=w1564-h1173-no",
 		"title": "Susan and Craig visiting Jessica, Ryan, and Lucie in Lake St. Louis in October, 2018",
