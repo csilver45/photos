@@ -2,6 +2,16 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/EA5zY1BhQa41DXFH8",
+		"img": "https://lh3.googleusercontent.com/N6rrYEzkiZLJiF4bmPqjCqN4UUvLZAJAmfpNR6rykQEO9XC-vyGL1By4RCSAT64Bt8x4b9fM4oS-ZNKR0azGehdH7oxydInH3Vftcg_Gz5FAUbTO9Pl094bInfM9i1m2RwuyEjcgRRB0S4zk7AKHzP9mZrj9KmbNzhhqNEaxzPUb-ilUNr7xjD36t1f6FJskMu0miwmQXlIcEP_4yHO-CIvcZsIe-U3iMPx0GtS_p1XTjl9RXFxPO_a0tTPJ3KTcUtqtrFHmbCm61KQS7NDX6PUCy-Z6xNsmpeGfyDCQdwqptqKk2qroxMomIL80ZujzSOhk7bZng8qqpNYzgqa8lhDZNlgU4Px0W6Dam1LW4NWNevdgVTxiJSIfHKtvAc2X5sRh6wCjCpf1akjIHOJrL_rRV0IiYk8IaJ5SwtzejN6rSyWLbEEJ3W6WNv7y2Bwi3nGauH0EsQoj7-IEMpsqFBmeJ8hNuOc8ZNKRfPDYRJs6u8poKszJgc5DF7YumF5-8Xi9wyLzh2ccafkZEUzO53L2F_zeeJuhxm7eI6yNbfDJK_9phnxAA2TcJ5kN-fa8v6hGTckJGnj5ACUPSgdSE_FqSwysTomgC1wM5_DE510KhcjsYzyr1qOG1XfIHaIMNt7YODNee6R758Rhc1W-9BWw3UD2DpkmYpzuZS4dmOIpZwQZUGhdtOcHso7NYT5DbzoEksgjzJmsbPN0Alw=w880-h1173-no",
+		"title": "Callan's first birthday",
+ 		"date": new Date("1/13/2019")
+	},{
+		"link": "https://photos.app.goo.gl/CqV1ZH3tdGth5DhL7",
+		"img": "https://lh3.googleusercontent.com/jwLYBDHkFauEtzqj2uYCT-4-F-NQwMNVf01lya9e6FxQ9kDdRdzm7hjbPYqJUl59JDj1qgLuRgA3E2MTMmsySHZ5xOFMhjlEhCgdgONs8C6Tra0b8_QdTkrCbC1c3pzW7Y-uhntm9UnBfiAvB1GPlprqpQ0yF8q1ja3_uOd6FGK7-fZxv-5_hYlehECWhoGFqKbqsdKQUqPMw4YZKA6BNnXnSVRl8T4skGIr1NhTX6nV7lAnZRh7i1OGacS_gb5YkpDeWXYbxbB72kQlFW62j8ntmLFOW2lwPVHh9Gcu-0q4KurmAmmIvHlDqetuyEmjzlxLLIHqQqpA9a0J6OSlH4s4hHgjSkJPnsT9Fqo0z1Lt51vcNIIK6h97KFehPZNYnN1Jl-17DMg19HuQhVWkD39F3JUoUsl-fQJx1btjOOufD0FHOfFHNwy4FP39cjvwCwoylz5ldyZaoyJVcQKyH4cNAK6JVHoLZFuyKPoG-6DdRq0BQ_Yk6ENznFw-_ElJR82zbge8wR_Y4n1K5UNSz2IyjWZnItLGQY86RMy0-MiLFBqBFwLTXunRzhjzw7mCdVU-OlwPWAj8HgbrffT9Ubdj7j7pUJqG6Crc3f4JSBrcPIoTY5o7mg_NWwxaRxsArok4Eg9M2_Iw2rocTHJbDuSoAEzg7ac3gtzK_X8s91n6Ma4ArEg9SqYLmpnD8NOrlXDjuliDyS64ci3KdKE=w1564-h1173-no",
+		"title": "Susan and Craig visiting Schwents around New Years 2018-2019",
+ 		"date": new Date("1/13/2019")
+	},{
 		"link": "https://photos.app.goo.gl/NjoSzWavtXDgSAdHA",
 		"img": "https://lh3.googleusercontent.com/8me9ayc0Gjb4COPZr7nNI_sy6ER1gFHZezPL-9GdduUyCvHqEA8u7-m5Lsrgv3bUMkHJJpcMzokPVkWhkGom3-Mnsqx0sEKgt91apaLBaqLtaLGtH5m9G9RjzEIrdSwVHY0bzacldriMiNX6KToUVlJgqj_uO5yD7VGm1gdYws3Fwpb4zfMEmfERwW6uJWwe7DNz8oNlNq3kLXtwNQ9NOtoYAWfFLpDyoNO-M-mOpoMDJs0ry2_VeE17rQBXV7BCC198ngVc4FVWESnS5uQmNGNax1kHKN_bTRwvke0HSl1GNdgEnyqvjxjZ4QWJmR46pvEdKPo9oEIRUW1Wx5XUbSLo4YVeGS05Wl-cSjb5vOkwmIRujWP_MCYY4Xz33mWlQTelrXc5CMRGg4Oe-zWOajawMbEe1j_XebhoETWtGqTbR5P4_0AfY-kcybwGTIor4GX4i7MwGxW2SL-G2aOUdT5bPSL6o8EIFf-TRFLO_y_SwqbivIJdS5MZ-jl04sLbFGjIMaSp0-vRar46I50iSx-fzvFLZCJDpdK_YuBKwE5R8nV4DCDK8RPTMEhtAERVt4UCkcS8ZffcD5GqbmksZaP2XKh54DSNiT67HE8F13FJZC7Qr2q63R9Snwk0G20Cz37uksLtMpS85ShKGCMi60zW4t-I2mmGGAuin28k7bzZuLbAFMFSDRS94VuIJ1Y05AKgV_avclBfGqV-XtY=w880-h1173-no",
 		"title": "Susan and Craig sitting for Callan in December, 2018",
