@@ -4,7 +4,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/Bq1E7SSoWjZhjLmv7",
 		"img": "https://lh3.googleusercontent.com/Yfp_oet_ohcWhSNN6ObnvubNOEOKEtN88qP3H2aS-w8Oo0D6UfSZ1jBg50m-4kqTMnBf1wiQgBQdifbjueZPQ0BX1tkgaOFgOeUUwYPAyI61nM_n0x_E8_kpH-13HBzg4Zr3BsdPixBAVmJpJfaxpUvP334pN0OvKgqa19Rfj9KpfaAKuwZsQxMztkY7hA5RwZrcoihqvkPQIZPp6-FxBn_dkG7Lp0nIakDhjy_PGa_x_IIxAqNsqkCGhzNEmXYMycroynaJuStNdIxcLYyaYDqhh5sVHpLPc-xQUIdv8jo_oRz1xRJJNycyew_tMiXshErycuYr30EaHsHDZB2300kqUmRvVPJ3_BXkXN0k5IeGOqPFP6sq5upu4_hGwLHOKfbTigBFJQOJclYF1Ij8AGr90jEiEoyNcrLVGW7luLLIUZYBxzapcQeDICSVWhnWdgCaG4HKavl_ujTIoIDDajuBdogLJG6qbq-xrEJR08bus-vHrUAW0VLIyUjdOES1PDJLwCVTW2sq9nrRP8BTDBmAD-DxCnO1y9R5Q01l6U_l16sHLK4PSxWNc1WRmqNfXxAtTlKHnaKqtfqY629cBncp5wi78u3bqLEQEPPs-ZyuceV_sCEdYJe1M1mj7RrMPniOmKkItjZc1H4h5jNBm2ilCryJ2n2XozeTECH8wASvPe18VbLptc90nIUVFdehWytwgvd7tup7l_qZY0r4jtQNNg=w1562-h1171-no",
-		"title": "Susan visits her parents",
+		"title": "Susan visits her parents - Feb 1, 2019",
  		"date": new Date("2/1/2019")
 	},{
 		"link": "https://photos.app.goo.gl/EA5zY1BhQa41DXFH8",
