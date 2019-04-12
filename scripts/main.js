@@ -2,6 +2,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/8vBfFYJtWj12DT7p7",
+		"img": "https://lh3.googleusercontent.com/h0oqM164Lz5PkE-T1doNEOh1t3RPEGvqbdm9Crb5ZNGS5srQOZwuz7MFlek3OMFjqBuX1e7_02FCIM6BL69JDxVkBRwCvSsmpLfhiTNrPjNuJ7KVQUv694mHz8Bo98dOCZqP608U2aATk6JufDmDIsPiljrcPraZV_b7Kx_1nPSW8jaODQykqa4sSvt4bLlYbOT0APEfe7gXcfHh7ieqcwWCq7STQv1CWvrs4003uwE_wc0kGxC2jwXyZdnIcAdqke3hHJMpknlIasvAln2Gj-dg5FaePHFEk0qigtLpj4B2KJ3iM_PJQd_9N11YIGPA2iMu5gLEY4sc03veeC7kF-i77wrQCVjGrgs2bqvVhhiFXCPNHi0VW5cyW0wLAbmp2S9X8USmLYP0FEXfZzW-MPa6NDY_yElc9pwodHkUnGjAJZv4ydF85o-_7u1xp1pGtxJXQCLNtIe1R0vWC7-WuazsG6L_oIro6qe-w48TZnfw81DkZUqm_ecWiZivLMLxVFELm5jS3CrYjwfbrvE_WxeUPI_etJ5c3OZg8pTnRZO1KvNHz0cGmRL30-RF1_IN03EjHLi_QCbDvKFa6kEofuGo4_i-jTvcfY8SsH1mU0_yGKWheRyW_eo6J_l_GjUogmrrASVQQNsW4K0Rxhe-bjNALQVfT-1fm5gZuVGQJqXtEY08aPHRdEp5UDHrXoBaAB6-4BBmQQEWPojOG_5sxtieAw=w1562-h1171-no",
+		"title": "Susan and Craig visit the Schwents, February, 2019",
+ 		"date": new Date("2/20/2019")
+	},{
 		"link": "https://photos.app.goo.gl/Bq1E7SSoWjZhjLmv7",
 		"img": "https://lh3.googleusercontent.com/Yfp_oet_ohcWhSNN6ObnvubNOEOKEtN88qP3H2aS-w8Oo0D6UfSZ1jBg50m-4kqTMnBf1wiQgBQdifbjueZPQ0BX1tkgaOFgOeUUwYPAyI61nM_n0x_E8_kpH-13HBzg4Zr3BsdPixBAVmJpJfaxpUvP334pN0OvKgqa19Rfj9KpfaAKuwZsQxMztkY7hA5RwZrcoihqvkPQIZPp6-FxBn_dkG7Lp0nIakDhjy_PGa_x_IIxAqNsqkCGhzNEmXYMycroynaJuStNdIxcLYyaYDqhh5sVHpLPc-xQUIdv8jo_oRz1xRJJNycyew_tMiXshErycuYr30EaHsHDZB2300kqUmRvVPJ3_BXkXN0k5IeGOqPFP6sq5upu4_hGwLHOKfbTigBFJQOJclYF1Ij8AGr90jEiEoyNcrLVGW7luLLIUZYBxzapcQeDICSVWhnWdgCaG4HKavl_ujTIoIDDajuBdogLJG6qbq-xrEJR08bus-vHrUAW0VLIyUjdOES1PDJLwCVTW2sq9nrRP8BTDBmAD-DxCnO1y9R5Q01l6U_l16sHLK4PSxWNc1WRmqNfXxAtTlKHnaKqtfqY629cBncp5wi78u3bqLEQEPPs-ZyuceV_sCEdYJe1M1mj7RrMPniOmKkItjZc1H4h5jNBm2ilCryJ2n2XozeTECH8wASvPe18VbLptc90nIUVFdehWytwgvd7tup7l_qZY0r4jtQNNg=w1562-h1171-no",
 		"title": "Susan visits her parents - Feb 1, 2019",
