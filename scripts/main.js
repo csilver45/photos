@@ -2,6 +2,21 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/uMK6aP5j38mSYc1Q7",
+		"img": "https://lh3.googleusercontent.com/SeC85z9C8c8BxqVm_D5w5bxvY9BqGpMzaWCO5-TupBD7a6jEhZVDZfuTXPsoqpcrBH3q1YtLYAlkdb6x-pJMeZSAfRydyZSNU6ZDpS-n0506XQYqluij6LvgHjh1FM5SLGd6NB9cvDs9Qhvs6nZqWpjdy2DA14JaoHXnb1Lwl0i7DhIQdq35X_FIJ5FQwx07sMGMQ0VHCP2PKCtzd_J0TThIxyoceCOtARNV_7PW4r5sh9sePpzG0dGzYbLvY74E8vGuSPi22Y8ZLFixHDCHQZnThla0fAkiyUCg2JTUQAlUbvePzBsmt_dmvRIfHSSqWnwO9ugIlnexA8GRmsDN516umk406xQRhCp6U49HViJgXJAmAR7lSBHIw-rKY7OW3PtQxS7P1HRuj9aSbRAh57WSqtYXnhlthgIsYI7ImLHyUdp2putYRwthT38oMxjSUuKIUiAaGvHKPqkOMfsUzXmTagLNG6dAug-FWGAQAf0MV9WWd3yGZBSrD9zaYhVNEY0hBIBzoZFavxt-Aq8WjZXw0KvrZSVSjTnVH4qx-XOWwOhBG_TgIiD3DVjFrZWhUk8W7SbvbfT3mmW0YecnmWZ1aKqFwmJS0pgGTYMR4x4L66mI6iSMSl38rtaQpPm_B9yrbdklAQEuf15AMrwlHHVR03XW5Cpw=w879-h1171-no",
+		"title": "Susan and Craig visit Jessica, Ryan, and Lucie, April 2019",
+ 		"date": new Date("4/23/2019")
+	},{
+		"link": "https://photos.app.goo.gl/2adv3LBhdgXz9cnX6",
+		"img": "https://lh3.googleusercontent.com/Fa5QaEulxaSmddkxOD7J0icOkf9a3VepM8znBHibdTuUqCtrak2urRKUNW3Sn0_Mh_hxThlMXBCjcSuI2fX6gls4cqz5jdAAAJ4K_7XImZI8_aPSz4O-ytn_Es26XlRTVKLuOiYzTdBNlSd0TT8AASEUIXrXEGE5xzG9Hlbj1KzK2G07DGfGpGvs6EfAWocSff1wD2ZGpSHcakQhONbhDClwtDkUv4PunzYoUToncYeyXYYnlJAf9xchHvQuid3qHpmnvXFs9S_wJ-kDgQVpn47c7_1O45iZt9TV7Pw4ncOZ1FBqMP77TKXGRLrxv0RQkMAR4cDGCaSrkzUltZet30JP87KPrgdz6w5NUWMrIfyqC8m0hAWW3_yhXWBYTd4t73vrvd7dZlsUC44lAgSaIaMCDWsPNNs85rtN1htGKWdG8tCKDtZ9euwAks4n4mvKXkt74vFAqXr0ZOW3HJfsLPLja0Bux5htxsSii3-nLjB3aVVCEU2EAFAmJpGnthfFM8I8rGMYXEzYD9c1O1LRVixcTDFP7fgx_M3RYaKqmhKmGbQplYnuFTIWraVqmt4Cl0_bxT35lA-D4DPBewr6sw5MyqiSuJRFYHtggF6JcoJSvgSZXrKc-_hWJo70gH45I5fv0kJSGC-r7GccSinH-GtBUIKI2fiidBt8enSxkJ-fgEkOOkOighsp9Wwtdw_oxL5xSo4HL-lpt9auNVrKyXuxpA=w879-h1171-no",
+		"title": "Susan and Craig visit Schwents in Denver, April 2019",
+ 		"date": new Date(""4/19/2019)
+	},{
+		"link": "https://photos.app.goo.gl/317Xe7EFgk1wkiaN6",
+		"img": "https://lh3.googleusercontent.com/rEwgkNs9ZfW287-qq9Mat1oiY_oqvb3QwBHbWEf9Tw-wpFX-iXHzHT14yEUrRAxSkEZPjVFQs4i1GuMDHS0B6ZL7tJxDaLOxwXlEBhYc6AaBEPPcwgMQZphKMUz1is08sQZuuh771PGFA75N73_6dI_yohgFb--FyrSjTM4Dr3kVlS9gpqVRChrvLAd2ygrji6xVhUieiQAhSVTOXZPrL9FXsWV1UgMAWgBIG_Xjn9gt9Bjs9qt2ab14h1ndNYwXAYxlJiepTmTi93I0nZpLitCMIDLQZFBXlUJ-Gnowf6WYEbtpXrJ9Hj6MxNEXShpayoSDNjbuvvZpeMDIG0-5K-1-V9RW4TVKAB3tE53Fc4iWPbqiTLaG1WKjz-ifd7PwNcm0gd_YcGYaS-tYSQCoYcvApe9MLs0wFgNtfRG5QxoWTZOWYZXaN9jPHDq5iYeYel1BgF5jiVgqGHt0AuhoFBWkL0WG70HztJHa6vL8XoK1f59QgqVKLpgkkvBY1AONHSxo5QhAO77Ibu_sgIk6boCa7w5AdaXeMPzV2gtnqGDjYCUcD3T5W56rXmpTGY2qiyJqR59jPU9miXPw1UHxtPIEBOSJbg6nEGKhpFeTmAKfOvOeEVgP5LGMm6GQZGU3xHjo66n7sR_FqDqvyksdSVTfW9AhXPuyfWosQHVqmj-B2Rd4LpQujrrIve0pFTqfinWujGVqbPmx4Q_DiKCYTUqllQ=w879-h1171-no",
+		"title": "Susan and Craig meet Jace Yembrick, March, 2019",
+ 		"date": new Date("3/30/2019")
+	},{
 		"link": "https://photos.app.goo.gl/8vBfFYJtWj12DT7p7",
 		"img": "https://lh3.googleusercontent.com/h0oqM164Lz5PkE-T1doNEOh1t3RPEGvqbdm9Crb5ZNGS5srQOZwuz7MFlek3OMFjqBuX1e7_02FCIM6BL69JDxVkBRwCvSsmpLfhiTNrPjNuJ7KVQUv694mHz8Bo98dOCZqP608U2aATk6JufDmDIsPiljrcPraZV_b7Kx_1nPSW8jaODQykqa4sSvt4bLlYbOT0APEfe7gXcfHh7ieqcwWCq7STQv1CWvrs4003uwE_wc0kGxC2jwXyZdnIcAdqke3hHJMpknlIasvAln2Gj-dg5FaePHFEk0qigtLpj4B2KJ3iM_PJQd_9N11YIGPA2iMu5gLEY4sc03veeC7kF-i77wrQCVjGrgs2bqvVhhiFXCPNHi0VW5cyW0wLAbmp2S9X8USmLYP0FEXfZzW-MPa6NDY_yElc9pwodHkUnGjAJZv4ydF85o-_7u1xp1pGtxJXQCLNtIe1R0vWC7-WuazsG6L_oIro6qe-w48TZnfw81DkZUqm_ecWiZivLMLxVFELm5jS3CrYjwfbrvE_WxeUPI_etJ5c3OZg8pTnRZO1KvNHz0cGmRL30-RF1_IN03EjHLi_QCbDvKFa6kEofuGo4_i-jTvcfY8SsH1mU0_yGKWheRyW_eo6J_l_GjUogmrrASVQQNsW4K0Rxhe-bjNALQVfT-1fm5gZuVGQJqXtEY08aPHRdEp5UDHrXoBaAB6-4BBmQQEWPojOG_5sxtieAw=w1562-h1171-no",
 		"title": "Susan and Craig visit the Schwents, February, 2019",
