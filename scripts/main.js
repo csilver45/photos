@@ -2,6 +2,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "./nuemann_wedding.html", 
+		"img": "https://lh3.googleusercontent.com/qVmtRDlmYDhBArN2viWRK5_91BzyrcxtiayzPcv6ha-j6DF6l3W19Z17yH0jaY3lgU_hbcIcFj37X7BPlGDqH587dAJ0YTfr_Tx04hHH7y57M0Iz1MztED8dZEpf289RqPO4pMb99OLnnfNzvcvyqP9OdKpZl1lyl2Dmemf9iljAhrx128TEKNJP5RjEdoijZrPR4GyD_Esmwi_RI7HVGOdgkzSrFOb9_SIJEhfKL217FtYXvLK7wBqtGcJtCXU5ObgKxIbY_aWo1l08iUzVBdsg0ZUwJT8Rc5jF9mk-iqTFzm0B6lyfQHZLVb4wUgCXwqSwlvN4c98wDKztMvcL2tmLMxioitq1k14qE-awP4LgZ0ZpTXs6IOoM9_K8pzJ8eFOGsb6D0s7tXu7_nX6a2qyyfn_wtPBEctEfcvsm2UuaQvPwZu9pff-e__PdO2-c9XuHfm_hWhdtBh5BTX0PFq56lGLtoJl-cxvxYOf8XjlBSne-i9C6W-i3zL5BDd5zEWuLf09tjjpIXbDSx5NpG0rD00sYvEvJYqD7xCm7ejn3sC3WkVAsqkicwL_R6maL35X3ZDvYobYAWABHVPL-i1A8mNnfBb5plcSOP5g4uNy1UAKDrjb0h8Z7Yf1GDVvvbDv5LqZTEiMn85keu_11WyGws-lgpgyqlw=w684-h908-no",
+		title: "Jessica and Ryan's wedding weekend - May 30 - June 2, 2019",
+    date: new Date("6/2/2019")
+	},{
 		"link": "https://photos.app.goo.gl/uMK6aP5j38mSYc1Q7",
 		"img": "https://lh3.googleusercontent.com/SeC85z9C8c8BxqVm_D5w5bxvY9BqGpMzaWCO5-TupBD7a6jEhZVDZfuTXPsoqpcrBH3q1YtLYAlkdb6x-pJMeZSAfRydyZSNU6ZDpS-n0506XQYqluij6LvgHjh1FM5SLGd6NB9cvDs9Qhvs6nZqWpjdy2DA14JaoHXnb1Lwl0i7DhIQdq35X_FIJ5FQwx07sMGMQ0VHCP2PKCtzd_J0TThIxyoceCOtARNV_7PW4r5sh9sePpzG0dGzYbLvY74E8vGuSPi22Y8ZLFixHDCHQZnThla0fAkiyUCg2JTUQAlUbvePzBsmt_dmvRIfHSSqWnwO9ugIlnexA8GRmsDN516umk406xQRhCp6U49HViJgXJAmAR7lSBHIw-rKY7OW3PtQxS7P1HRuj9aSbRAh57WSqtYXnhlthgIsYI7ImLHyUdp2putYRwthT38oMxjSUuKIUiAaGvHKPqkOMfsUzXmTagLNG6dAug-FWGAQAf0MV9WWd3yGZBSrD9zaYhVNEY0hBIBzoZFavxt-Aq8WjZXw0KvrZSVSjTnVH4qx-XOWwOhBG_TgIiD3DVjFrZWhUk8W7SbvbfT3mmW0YecnmWZ1aKqFwmJS0pgGTYMR4x4L66mI6iSMSl38rtaQpPm_B9yrbdklAQEuf15AMrwlHHVR03XW5Cpw=w879-h1171-no",
 		"title": "Susan and Craig visit Jessica, Ryan, and Lucie, April 2019",
