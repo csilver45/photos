@@ -2,8 +2,8 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
-		"link": "./nuemann_wedding.html", 
-		"img": "https://lh3.googleusercontent.com/qVmtRDlmYDhBArN2viWRK5_91BzyrcxtiayzPcv6ha-j6DF6l3W19Z17yH0jaY3lgU_hbcIcFj37X7BPlGDqH587dAJ0YTfr_Tx04hHH7y57M0Iz1MztED8dZEpf289RqPO4pMb99OLnnfNzvcvyqP9OdKpZl1lyl2Dmemf9iljAhrx128TEKNJP5RjEdoijZrPR4GyD_Esmwi_RI7HVGOdgkzSrFOb9_SIJEhfKL217FtYXvLK7wBqtGcJtCXU5ObgKxIbY_aWo1l08iUzVBdsg0ZUwJT8Rc5jF9mk-iqTFzm0B6lyfQHZLVb4wUgCXwqSwlvN4c98wDKztMvcL2tmLMxioitq1k14qE-awP4LgZ0ZpTXs6IOoM9_K8pzJ8eFOGsb6D0s7tXu7_nX6a2qyyfn_wtPBEctEfcvsm2UuaQvPwZu9pff-e__PdO2-c9XuHfm_hWhdtBh5BTX0PFq56lGLtoJl-cxvxYOf8XjlBSne-i9C6W-i3zL5BDd5zEWuLf09tjjpIXbDSx5NpG0rD00sYvEvJYqD7xCm7ejn3sC3WkVAsqkicwL_R6maL35X3ZDvYobYAWABHVPL-i1A8mNnfBb5plcSOP5g4uNy1UAKDrjb0h8Z7Yf1GDVvvbDv5LqZTEiMn85keu_11WyGws-lgpgyqlw=w684-h908-no",
+		"link": "./neumann_wedding.html", 
+		"img": "https://lh3.googleusercontent.com/C9W_5ympzgK5eeBdEYfZ-loaEjcuxBtjZfJb6xca2SRCflN2IApdHP1_de4MSl0QTXaS5Ko3pzCDvTZYcLrM5oF1ZPgg7XHJmw_quXJoEL4RDUS6-Q1MCMwJ0dHeLlDZY4Jq2Ya0O6fmrRxJNvQKpW9qc3Ka61fBaQxhtwOQ2fvUQhqlercbLJC-hCbMDj2p9BLDi_5zKp9q3YU_T4CXNk8ODivfTrtIcKJzRTa5uSYm6NY5_NVuVxEr1FXOb89iHv2jJGhPhakCL2pykAsAbrj23li7Pb9nrQCi-7SUL9mMkAB4yGfTuKctyjhSDpIqHUT4t1ebybpfvKHi1pf2v-_O6YHntliIlWRPzllSCBtquaw22J8LYoXD0Q4K9n5UoLvrthgoyHmCjlKCB62A9RszqeKunk8KKru1nIEad4sqFYOgzUTqFHDSU3gQO54xeLrhWVqL_-sfDPrQPDIpI1-9RaDAFU1_w4ae_dlIH6lrt728vjsdVISLsQ4V_9gfHA9dt85XMLRxwff-PCp0R35IH4cgTrlChljKiQ-iAGkTEk_WIy2ZX2nh25jPPRCF0-ip31kIYupCmh61s_i_s-fYpoFOdj3qF2eB-jsuX6ozxhDvd3S9QIZgFItpg_VP5pNkOsB0voNEPvF2WpL-IDGEeAyl-St-=w384-h512-no",
 		title: "Jessica and Ryan's wedding weekend - May 30 - June 2, 2019",
     date: new Date("6/2/2019")
 	},{
