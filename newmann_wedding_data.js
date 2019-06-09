@@ -53,13 +53,13 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"link": "https://youtu.be/rAJ98fHWnCQ",
 		"img": "https://lh3.googleusercontent.com/nH2ihe3e4h0zU-hjQONRYqv45Xk5tDyGlo_c9aywb2Xm4iTFOtk9y-L-BKvzvMd29nAjRhMQaQ_7hXVo_1TLqzfFN2uI0oO2zTOigRMevglw12F4oeXwpkqELGY6ZvXdy60ETeOWf5Lm-IfgaEoSmNZWiEGqoHj6ZhvxCjvhE8cw70OZAKziwI34Y4kRGQDid1seuvBGNm1_Pns0pcoTkSwghh2KXr7PzfKE4XfKOUKcwPu3hDiBbyKZfcGOD2nlIpvntjlQSmAXtXKN27PzNjF88P6ENIe6O-ZFsQC-BPedkMCZt9kgmu7GvqgtnR4a0LZ05q5J7TJ33tR380ULkdK0ua4zWtfGn7TEE5pmYYtUw5Wzh35p5AhW-y2uos3FFaA8q99Jxuw4uVLijkZ2H9lb_qJTh2z2ouYT1oD_CWG6KstFCMzTqQUmjTQK-5LCZC7VX6IF8j62UgU4aD127TgEWU7lIEItE1n7dwXoITZaERk4DMAtSlJrXKoi1Z-zqpwo9QRMLiMxSo_rzRM2mA4cSTlqEObiVZ3SLHhbMj8IdYykKr6gUMQRGgqe6yzO4EnqACvutR11z6PP9UYgVeUZyN8lZ5bVLBQ_qqHwDpfOCkTE8mOiUcxg_T4BEv-UZIu10tj0r9SgB_szbsZpRkkdObhN11p2ER-v9GRDfqhMR5SEa7PoZYxm1hBHU4hP9tuy-gyvBAPogeutI-HZeUniKA=w384-h512-no",
 		"title": "First dance with fireworks",
-    		"date": new Date("1/1/2008")
+    		"date": new Date("6/8/2019")
 	},
 	{
 	"link": "https://shanatozerphotography.pixieset.com/jessicaandryanneumann/",
-	"img": "https://shanatozerphotography.pixieset.com/jessicaandryanneumann/?pid=2923356175&id=157&h=NTE0MzAwODMw",
+	"img": "https://lh3.googleusercontent.com/7YpjENoBF94kLEY4cfwMUwURQVJfu7Za78qELjonCPRUCPUkRcv9SIS3WzPSkhcIcpUN5OwTJHEpPwC_2pOrTems5f5TOxX1Gga7eeeIx1eUwyDWY6vw7MTb_QVJazJYmRQ7jQj-do4R4uL6J8AZaw7t-KNhszFZck7-kRjju3MlzrhFld6mRUinDeVdHRQN4HK4q3LAXvPrk8SzS8WwchGGUivNHD5ppFj0EDGlGpxz2UTfQd3EWZlOGM-pUSiCmdknZODikwZe94Rk59ydOc3DZT4fUXy3f-JmxF0qy4Kje7mW9IYex7kdUinOwZaj8bv3Zr-bfqKOJ5L0oCXPlW78cWA2o7EnY4-QMVUyj8i3HsqaXen7XUhH7iHwH1stntZfGXo_E-XnpVLvYgv7xzo6WRtOrqgBGYx7jnpoErI3UYdAbKi3FbwOWfjrxBj9CeDXFdfsTcvFj0Fc5D1NJwqlMcbpkVLJuW5kSrsxl1qGNcbQ9ekzvG2qPa51l5CAyKgT8WOmwUQgkJDai9_Jz8UkoBgve-Meje-xXVGYg3vMt5skLnlPGcF5Al451zxWfK3I-jvZiQ9QkPp1CBnRie_uJXLI5XzyTFzXcLzyUP96aagRz1_3Duk22Rf2-fYlUfPXe6C4bbtPj0rbTw_5n5eiVtpI1g0lJxyFkI-CdfkGqh5D5THyGDJ_kT7j-6KgGI9J8Vz6AlGRPg3-r8ixfFlgDw=w879-h1171-no",
 	"title": "Semi-professional pictures by Shana on Thursday and Saturday",
-  	"date": new Date("1/1/2008")
+  	"date": new Date("6/9/2019")
 	}
 	/* {
 		"link": "",
