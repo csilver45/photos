@@ -54,6 +54,12 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"img": "https://lh3.googleusercontent.com/nH2ihe3e4h0zU-hjQONRYqv45Xk5tDyGlo_c9aywb2Xm4iTFOtk9y-L-BKvzvMd29nAjRhMQaQ_7hXVo_1TLqzfFN2uI0oO2zTOigRMevglw12F4oeXwpkqELGY6ZvXdy60ETeOWf5Lm-IfgaEoSmNZWiEGqoHj6ZhvxCjvhE8cw70OZAKziwI34Y4kRGQDid1seuvBGNm1_Pns0pcoTkSwghh2KXr7PzfKE4XfKOUKcwPu3hDiBbyKZfcGOD2nlIpvntjlQSmAXtXKN27PzNjF88P6ENIe6O-ZFsQC-BPedkMCZt9kgmu7GvqgtnR4a0LZ05q5J7TJ33tR380ULkdK0ua4zWtfGn7TEE5pmYYtUw5Wzh35p5AhW-y2uos3FFaA8q99Jxuw4uVLijkZ2H9lb_qJTh2z2ouYT1oD_CWG6KstFCMzTqQUmjTQK-5LCZC7VX6IF8j62UgU4aD127TgEWU7lIEItE1n7dwXoITZaERk4DMAtSlJrXKoi1Z-zqpwo9QRMLiMxSo_rzRM2mA4cSTlqEObiVZ3SLHhbMj8IdYykKr6gUMQRGgqe6yzO4EnqACvutR11z6PP9UYgVeUZyN8lZ5bVLBQ_qqHwDpfOCkTE8mOiUcxg_T4BEv-UZIu10tj0r9SgB_szbsZpRkkdObhN11p2ER-v9GRDfqhMR5SEa7PoZYxm1hBHU4hP9tuy-gyvBAPogeutI-HZeUniKA=w384-h512-no",
 		"title": "First dance with fireworks",
     		"date": new Date("1/1/2008")
+	},
+	{
+	"link": "https://shanatozerphotography.pixieset.com/jessicaandryanneumann/",
+	"img": "https://shanatozerphotography.pixieset.com/jessicaandryanneumann/?pid=2923356175&id=157&h=NTE0MzAwODMw",
+	"title": "Semi-professional pictures by Shana on Thursday and Saturday",
+  	"date": new Date("1/1/2008")
 	}
 	/* {
 		"link": "",
