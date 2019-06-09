@@ -48,8 +48,20 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"img": "https://lh3.googleusercontent.com/ZuBABXKDUEE5ON01pOtF4za3ZC2ebinHRvJXtp8OLTOJB8ibn7cPf7kR6Z8-wY8RLP9-cN9mddGFhI8PSku5DcyfxK_sava2VQtM5vaFACXdzntjauapxde_INbbGWPe4vU9_hF19h85NYMNHnvPgUZ54gUMEpbnxmtp-1SkmEzAsF8y0HIY2sYlTa2yfMpUvUEmx3jWyJLBxG--VPedWgbouPeLx6vdIKJQinv9qDGZB-oh9biP1HdTR7PVjW7OgpZqTKuGiMnGR6Mz51-FyUbXeuNYRG0BdoTq78Ry41b1Z5JXX2Zkvtj6_ifoubHEsusmVwzYDDXC-p69foXKRt2b_NLFH4Cr5WBCRt6EHhr7QwIvJytU2fpK5w9CVYd6tul_31Z7WxKnTc-DziBOjTCE1W1QutmXJ1cPVbYioseHRM-lD8sak5272dRPmD3AHyvr76Kvz9l9j3lMjcxJySdRgiWvUbV9cN0l1OHTBDBHYpmn6WeH5_fewMMtZNrBzIOgKriT1M0U8MwQd1ssdw2aH43U8iKGNNHsespDlTUrDZQFhA72WMsExqAs7xody6U0TJY9f0utVp4qTK34fJvyaUQC-j0ONwJC1xXWkhNKUcfcvDQkiIvexu8vkkKJoLW6CST3bopTpyT1HTgAhL7iQPGWJ3RI0WhUzD8o11JKoTF1Unxhy9-stIuIk7oAW2F_kNmfuGZXE-CZJMr8973c-w=w879-h1171-no",
 		"title": "From Emily & Michael",
  		"date": new Date("6/1/2019")
+	},
+	{
+		"link": "https://youtu.be/rAJ98fHWnCQ",
+		"img": "https://photos.google.com/share/AF1QipNHBPw-yaxChMhc86Q36srHau_dKaz-AVz-0-mvYATcs_Gs_tsygGCjztxQqWvycg/photo/AF1QipMNc_7Md706M5X1M-B0S__ZY59SuL71C5IDF8ON?key=eko1bFlLME1za1RQTGRlcE5ZN3lTZ3ZnV1JEZG9B",
+		title: "First dance with fireworks",
+    		date: new Date("1/1/2008")
 	}
-	
+	/* {
+		"link": "",
+		"img": "",
+		title: "",
+    date: new Date("1/1/2008")
+	}
+*/
 	];
 
 	$scope.loading = true;
