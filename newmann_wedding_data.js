@@ -52,14 +52,14 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	{
 		"link": "https://youtu.be/rAJ98fHWnCQ",
 		"img": "https://photos.google.com/share/AF1QipNHBPw-yaxChMhc86Q36srHau_dKaz-AVz-0-mvYATcs_Gs_tsygGCjztxQqWvycg/photo/AF1QipMNc_7Md706M5X1M-B0S__ZY59SuL71C5IDF8ON?key=eko1bFlLME1za1RQTGRlcE5ZN3lTZ3ZnV1JEZG9B",
-		title: "First dance with fireworks",
-    		date: new Date("1/1/2008")
+		"title": "First dance with fireworks",
+    		"date": new Date("1/1/2008")
 	}
 	/* {
 		"link": "",
 		"img": "",
-		title: "",
-    date: new Date("1/1/2008")
+		"title": "",
+  		"date": new Date("1/1/2008")
 	}
 */
 	];
