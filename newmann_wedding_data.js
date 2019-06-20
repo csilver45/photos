@@ -2,6 +2,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.subalbums = [
 		{
+		"link": "https://photos.app.goo.gl/AMNCbDLdXtg99GP97",
+		"img": "https://lh3.googleusercontent.com/xp6TO8mxFIwzaYPF6MF1TwoGRSYDEuDjUcdQC4uAUdB9Xy7Vvb_YJjL_Y9KhKjyaCEDCruIw_E4oIBqv36p28if11UIW2Y_mD-BvRWCu72IkJcesYe_eLMcxdhmedfYFliwOmO74P2d8GxUH6GYANRD9Lg4WwmkDn7hXysE3apT4IH-aEXIoVXj1cPKGwt2MhxmtNPfie-ho48LPDygulwoSh0umG0QKbMWuhuR-ohNSi8AWeLXfmiMxGV_RgLLG8dYLDuzDX-sGzuwPnbsuHeU0-9cxZOC5GlaLRWkNv0zVGTyY6p6zECqy9bUPjw-GHqY-YMqo011-ejWcvn3Yk5pCS1c72g3_G5bl9GyQs4nDeNvBB2Nguo2ffwgk1fTqN_qIM09xZQ39TNm74fVXkoQbuD7V1TO-FJ_HaZAaH2Do35DUPjAilAD0dsUHZVZ_F0SXkeC1urr2zOPU0dfv84rMRcUFOQQOQ50Kmp8DlukH0HsR2Xuhd1-S7xRnDsnnxq0T-ebCaS-53NcohCIbtIGhcMRgJBBNzGOs_QUq5z1R54sVKz2u3sXtlEz4qEGpUQjfyKKmH0UpVNnqjpmBTt-UHHd8rcBkHuPC-wNw11kacjRtAXaD1eGOoo6HXTX6OYlygFNi8xjKtZczyufpdl0l9r7rY-2crZxP902IQRegh0P67GvfBKgCEcZ6VQzH0gmwh-W-eE3r4D28PNGwVQMODA=w833-h1110-no",
+		"title": "From Weiners",
+ 		"date": new Date("6/19/2019")
+	},{
 		"link": "https://photos.app.goo.gl/P8kthWr3JYpPL6TS7",
 		"img": "https://lh3.googleusercontent.com/LE2nfh2KaZd5rI0J3v2HdqhZmVUyx7TboUsw_nwEoV6UHQdIKHVGqas4jI6666Uj_ql73lGhYyhpwCBhc8oJd9uclsyffpxWPztYx2KSx9FenRRb3iuQWnLc4ez3MHV_j6mblspEmtwsdt_F0HN5LPRCBC2AvB1sDW2_Pg4fws0irLiPVj9VgORsHGkSIadHiCrVJCuwnAxS_B4-dYDZrYH7EutReDE_qJ130mJBVHYSjtzdV_9hdQ4sRefi9TWS7vMDl1ymVuL0AXxIrVMsIeOARwIrpxyAEKLro4dZtq4Qu9eoUtOE4kStvPUG06kV9sfdK1HO1NT6GHa4cu1TCz8-rsbKmaJBC4rVQIk7Vchgnf4ZRBe2ntClFwA-Mt8FvOz8lEktrDJzXW-QtK9wAWng8Rp9fppd6Bm2S4yphaocNRoiYuo7vlHwduYgRyCNIxsP1aD-QjlJE5_AnZH7wrOrE50wgSV_3uKF5YOGRR7M-EWL3DL_x8lMrSdVzgvYyXNWBM0VZ2-C2h9TNro4ie01cst30Lpejxq2GrInpLQghpt4kB0iGGAljfAO3ephUxV482QRL3vYpDuAmshcGk-5YsHld01n_6ZmGoFqTYaHvNAjabpJCaHlJE_FnLSeuUPYZd_UpkWDySaxL0GgGea1yLH7cjKKvWwQoRmBRgFqdwEXVmm5YbxGLebmLYrtqufgX7zxtDzlSsYHpK7Kc0tLIA=w880-h1171-no",
 		"title": "From Dito",
