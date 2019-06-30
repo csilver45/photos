@@ -4,7 +4,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/dbevCc8iEQFjvou68",
 		"img": "https://lh3.googleusercontent.com/bBgtY2vLxAfQyFTgicgA7nme6kS6egEmf9AW1hGahpeVWRMfI7alpJmjEbl2xzBvNg17PBxJjAC-pFShJeomuwwgf0GSzQ7xyl1QYOJ2eexsFEU0g3LdI-Ky3TEtf7cs7HYBMMbBtD-rqduvB675y5avwT8oTwu39G6szktBRWZhL5NBqTMlD-U_bbaq0UvMusgpVK8-5rYpYJ0REio2lgNIGjBGKsFH1Twg8K6X7oWehZ6Sj0uh4FCFvmnHy8FxiFfXKxGGYWWEhjtOi3BKVIGIyt-ve2l2LIwFqSiip11XAP3y7txbX0Spd2cVLZOrfoLahETBrl47VcC8275NmsxJf7LRSQceAOKY7ZGUDU4OD3UT_2JBEje6-botNFAE3vCi4nXRGcAj6xsbbaRnk52QyHKw8yS8ZPm0ZUg_azIkP0Y-P4ftKF5oFNG_nA1p3AWU1US5eUjQjvb0lnRguAEQZo72GrAGHa7xu3sme5R_o863YlwjP0ksdb33gUvFEhYLWisY__2pl93xaBWl1vO8SvGP2VDnhgFtjaoYKrDItkOIVL0sl-yGA5c6GY0caH2UZgpmE-pcTrvl_2tzIjYc7-lUxCp_B8lGZRuOp9Wf8tAClU9oVTxddXfQhzl_kdTrUxPzV60RMPIkmN1RIfawgtKmthaeGHYgEsaOHofQAVmlXW7UxCx6H-0z-tM3K-D9B7b15ZgbCP2ramb1RWf4YQ=w1280-h960-no",
-		"title": "Susan and Russell Gold",
+		"title": "From Susan and Russell Gold",
  		"date": new Date("6/2/2019")
 	},{
 		"link": "https://photos.app.goo.gl/rB3WcByC3RZN6Yrc9",
