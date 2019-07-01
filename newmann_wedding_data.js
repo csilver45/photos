@@ -82,10 +82,10 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
     		"date": new Date("6/16/2019")
 	},
 	{
-	"link": "https://shanatozerphotography.pixieset.com/jessicaandryanneumann/",
-	"img": "https://lh3.googleusercontent.com/7YpjENoBF94kLEY4cfwMUwURQVJfu7Za78qELjonCPRUCPUkRcv9SIS3WzPSkhcIcpUN5OwTJHEpPwC_2pOrTems5f5TOxX1Gga7eeeIx1eUwyDWY6vw7MTb_QVJazJYmRQ7jQj-do4R4uL6J8AZaw7t-KNhszFZck7-kRjju3MlzrhFld6mRUinDeVdHRQN4HK4q3LAXvPrk8SzS8WwchGGUivNHD5ppFj0EDGlGpxz2UTfQd3EWZlOGM-pUSiCmdknZODikwZe94Rk59ydOc3DZT4fUXy3f-JmxF0qy4Kje7mW9IYex7kdUinOwZaj8bv3Zr-bfqKOJ5L0oCXPlW78cWA2o7EnY4-QMVUyj8i3HsqaXen7XUhH7iHwH1stntZfGXo_E-XnpVLvYgv7xzo6WRtOrqgBGYx7jnpoErI3UYdAbKi3FbwOWfjrxBj9CeDXFdfsTcvFj0Fc5D1NJwqlMcbpkVLJuW5kSrsxl1qGNcbQ9ekzvG2qPa51l5CAyKgT8WOmwUQgkJDai9_Jz8UkoBgve-Meje-xXVGYg3vMt5skLnlPGcF5Al451zxWfK3I-jvZiQ9QkPp1CBnRie_uJXLI5XzyTFzXcLzyUP96aagRz1_3Duk22Rf2-fYlUfPXe6C4bbtPj0rbTw_5n5eiVtpI1g0lJxyFkI-CdfkGqh5D5THyGDJ_kT7j-6KgGI9J8Vz6AlGRPg3-r8ixfFlgDw=w879-h1171-no",
+	"link": "https://photos.app.goo.gl/YZtsiBhR4tza3TVA8",
+	"img": "https://lh3.googleusercontent.com/JJoqGZt1ausM4HIrQYQVitMEnFYaIZM8fMFGm8luiSV8sxJEj-en8TiwZ2SBXar_Hn0Vqli_rzLy9PaA3MachQFcw8eC96xlmacSaFiVBC0I8exdHRMegQKPJShVoNiumrn--tKtg0Fs9jiiGhmhm94_wNGyF0KRGSrf6w10BVuiGr3OVeJmFvft5oKxQxQ6dLq2rN-_cGW3jSILXcX-IrGCNDZt5ykmVJGU5GkEd0HyLXlt1x51Kr1saBtb6jK63n1jBdWWvvmrq5DTo3SJ46HrKnoydX17A7wPtclrs5Soe5rhnelVeWXpdGZf1k5g2BiXpo1DZ3oRaWh1Oq_hmG9CcjjtprwSAK7kcKdVEEvOum0ythGupPBMMOJzwfS8tbUOhO5g8wn_gMBF9CN0yvTCLSX9SK27KC9erl25Qu-TEb3AxOUjs40c3N4NFgeklkXVxYDSydLVO3WrOM--3-X7nYuwQABEeXUSikBz1aTIBo8_UL8bkjZx4e7O-rjPKf_zeeKm8UuqPquqDs2ZlmsfB0B-ttuKdR7R4vsfOcrF0P3xXIVfEAfn5HG-i0Qbc1LzygqgZ_BS7fCXWD2mE_GHdbLIDUnW7vIr4B3y6AXKvyc-rpHPTgULwP2pTmabWsvx5FGhtysjr4Tuibs90_mfO8Jm7SeoDIu4Z27Rlsa2JcCq2u6K_RRwRH3FRElJa1bCZFGnwuC_j3tOv2az5RCBwA=w1757-h1171-no",
 	"title": "Semi-professional pictures by Shana on Thursday and Saturday",
-  	"date": new Date("6/9/2019")
+  	"date": new Date("7/1/2019")
 	}
 	/* {
 		"link": "",
