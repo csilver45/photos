@@ -2,10 +2,15 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/5UPfuToJZT1jFk2y6", 
+		"img": "https://lh3.googleusercontent.com/YvyrNyqB9Fu8SUJsU2UG-qIPGdjKRKI0fGzJFbkl6vYEjR7-Wxzz79ns4fjvyIv3rr39B9cxuKdMCpcAdHXRNDrkKO_ERAXf8RvdiBR5Vok3Kczrr9hgEOypzGmTeoIF3-j5U41AT-k8WPbVCuwztiAlBfWEUAYRWICm6G-MwAIVMHBcpkyM7l1gMob8afRHhoLJH8UcpARWpbtg0VG1mqSiJReHux7jglAzCJQRGpa-1Zzo0kYbjIVjdhAXsa_IhKVGIeJzkZ7bd6rx5RgnHYt5-ErlO3FEvj_E9mT-dCZrfKR0SG8Lv2Tf6lH9wZdk5Z_528UhXd99CqQj0S1-7Txg5F7ssucN-83sjPDlCiODjZY-FpdQRoQ62y4QZUpPC_u0vKfZUSIzZUQigC0Iyusnl_Y9nLnZ3SCHvqcwEyLU2_k_-KIxf65GsUxJZGqz0D2taCPYWhpQuWNBx9ikWi3825_olqMzIfkhbDP7lomBIYo_Nc0fq4FAY6yOHB_j-kDMb4X_0h_M2dz1MAAv0FVKh9PWUKwZ2wkeyjZwo7bn-3GqpegOweRd5di1Hna6XrGdO0qUrZaU3fBRg1DnvKd2efryoQkPPO6f0HBXL1sEF69wXHu3hDBMjxLQ4lUdW9hbttcgKqlTyjvBv_opPVMQvDKw6kEu=w1562-h1171-no",
+		title: "Susan visiting Schwents in July 2019",
+ 		 date: new Date("7/21/2019")
+	},{
 		"link": "./neumann_wedding.html", 
 		"img": "https://lh3.googleusercontent.com/C9W_5ympzgK5eeBdEYfZ-loaEjcuxBtjZfJb6xca2SRCflN2IApdHP1_de4MSl0QTXaS5Ko3pzCDvTZYcLrM5oF1ZPgg7XHJmw_quXJoEL4RDUS6-Q1MCMwJ0dHeLlDZY4Jq2Ya0O6fmrRxJNvQKpW9qc3Ka61fBaQxhtwOQ2fvUQhqlercbLJC-hCbMDj2p9BLDi_5zKp9q3YU_T4CXNk8ODivfTrtIcKJzRTa5uSYm6NY5_NVuVxEr1FXOb89iHv2jJGhPhakCL2pykAsAbrj23li7Pb9nrQCi-7SUL9mMkAB4yGfTuKctyjhSDpIqHUT4t1ebybpfvKHi1pf2v-_O6YHntliIlWRPzllSCBtquaw22J8LYoXD0Q4K9n5UoLvrthgoyHmCjlKCB62A9RszqeKunk8KKru1nIEad4sqFYOgzUTqFHDSU3gQO54xeLrhWVqL_-sfDPrQPDIpI1-9RaDAFU1_w4ae_dlIH6lrt728vjsdVISLsQ4V_9gfHA9dt85XMLRxwff-PCp0R35IH4cgTrlChljKiQ-iAGkTEk_WIy2ZX2nh25jPPRCF0-ip31kIYupCmh61s_i_s-fYpoFOdj3qF2eB-jsuX6ozxhDvd3S9QIZgFItpg_VP5pNkOsB0voNEPvF2WpL-IDGEeAyl-St-=w384-h512-no",
 		title: "Jessica and Ryan's wedding weekend - May 30 - June 2, 2019",
-    date: new Date("6/2/2019")
+ 		 date: new Date("6/2/2019")
 	},{
 		"link": "https://photos.app.goo.gl/uMK6aP5j38mSYc1Q7",
 		"img": "https://lh3.googleusercontent.com/SeC85z9C8c8BxqVm_D5w5bxvY9BqGpMzaWCO5-TupBD7a6jEhZVDZfuTXPsoqpcrBH3q1YtLYAlkdb6x-pJMeZSAfRydyZSNU6ZDpS-n0506XQYqluij6LvgHjh1FM5SLGd6NB9cvDs9Qhvs6nZqWpjdy2DA14JaoHXnb1Lwl0i7DhIQdq35X_FIJ5FQwx07sMGMQ0VHCP2PKCtzd_J0TThIxyoceCOtARNV_7PW4r5sh9sePpzG0dGzYbLvY74E8vGuSPi22Y8ZLFixHDCHQZnThla0fAkiyUCg2JTUQAlUbvePzBsmt_dmvRIfHSSqWnwO9ugIlnexA8GRmsDN516umk406xQRhCp6U49HViJgXJAmAR7lSBHIw-rKY7OW3PtQxS7P1HRuj9aSbRAh57WSqtYXnhlthgIsYI7ImLHyUdp2putYRwthT38oMxjSUuKIUiAaGvHKPqkOMfsUzXmTagLNG6dAug-FWGAQAf0MV9WWd3yGZBSrD9zaYhVNEY0hBIBzoZFavxt-Aq8WjZXw0KvrZSVSjTnVH4qx-XOWwOhBG_TgIiD3DVjFrZWhUk8W7SbvbfT3mmW0YecnmWZ1aKqFwmJS0pgGTYMR4x4L66mI6iSMSl38rtaQpPm_B9yrbdklAQEuf15AMrwlHHVR03XW5Cpw=w879-h1171-no",
