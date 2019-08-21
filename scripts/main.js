@@ -1,4 +1,4 @@
-/* get the img by inspecting a photo on google album, find data-latest-bg=<url>
+/* get the img by inspecting a photo on google album, find data-latest-bg=<url> - double-click on the url to copy it
 */
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
@@ -40,13 +40,13 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
  		"date": new Date("2/20/2019")
 	},{
 		"link": "https://photos.app.goo.gl/Bq1E7SSoWjZhjLmv7",
-		"img": "https://lh3.googleusercontent.com/Yfp_oet_ohcWhSNN6ObnvubNOEOKEtN88qP3H2aS-w8Oo0D6UfSZ1jBg50m-4kqTMnBf1wiQgBQdifbjueZPQ0BX1tkgaOFgOeUUwYPAyI61nM_n0x_E8_kpH-13HBzg4Zr3BsdPixBAVmJpJfaxpUvP334pN0OvKgqa19Rfj9KpfaAKuwZsQxMztkY7hA5RwZrcoihqvkPQIZPp6-FxBn_dkG7Lp0nIakDhjy_PGa_x_IIxAqNsqkCGhzNEmXYMycroynaJuStNdIxcLYyaYDqhh5sVHpLPc-xQUIdv8jo_oRz1xRJJNycyew_tMiXshErycuYr30EaHsHDZB2300kqUmRvVPJ3_BXkXN0k5IeGOqPFP6sq5upu4_hGwLHOKfbTigBFJQOJclYF1Ij8AGr90jEiEoyNcrLVGW7luLLIUZYBxzapcQeDICSVWhnWdgCaG4HKavl_ujTIoIDDajuBdogLJG6qbq-xrEJR08bus-vHrUAW0VLIyUjdOES1PDJLwCVTW2sq9nrRP8BTDBmAD-DxCnO1y9R5Q01l6U_l16sHLK4PSxWNc1WRmqNfXxAtTlKHnaKqtfqY629cBncp5wi78u3bqLEQEPPs-ZyuceV_sCEdYJe1M1mj7RrMPniOmKkItjZc1H4h5jNBm2ilCryJ2n2XozeTECH8wASvPe18VbLptc90nIUVFdehWytwgvd7tup7l_qZY0r4jtQNNg=w1562-h1171-no",
-		"title": "Susan visits her parents - Feb 1, 2019",
+		"img": "https://lh3.googleusercontent.com/zaUAJXy2tO09xkRhLW_O0kGjWtB5d5UDYBTzGTEKFyBpqkVQIvXytyRRXrhe5ysxhGTBIoTxLnPFj5cyjW1zDLwG6ILS2U2EMGPaTdNi0svNwY6QfGJ77BZ293oH5cBJZ_piTh26P4P-gGEIT9BEI_e_USqH8u_ni4Oub0Y4kFZXiSS5bfzK9wGEBwAk557xYWoYamtjqOWk2n6c4Vmm5nsui8O_-repyHVrhTueh7WG7RYx1jd1mc05YZNZpOmCwOqj7X1_SXuj3C2RXTnPk1PX8dV4UYgwEnyZ3BfgQZ5K6-mRre3xdsZvKd4-URSkf0FMbPsEke8ZkdL47r87weXL9buezInjSK4jrQHTdAuzHjbhq8BUT6EWwLb6twXe80joLZtJo8Z2rZqEVT-BtyHlo8chLNjf-rua9GdjJzI1loYH3h7tf0ZRKoxlOJ1YsDRu2aq49AQda4tWnzxnWO1N30N0sukNN436xXlHIydOKsxjSBTDfxwijfPy3qU3dCVQEK2Hhn-KEH3wt4q4p1UXGOK8xA91KUJyYyebmDuaF-cNwsgm2wqnLPmOLYG4QXtZFgQa4Eja2OOzdsYjfJc9DCnwZ1I5t-ykIlIMblse_lQXOPQFtiRVBLxYQXjyU4hTX0od7_1FM0f1Mx58PwvQP4AnkKUYy5RoFRO1__8Y-BNk6qrpGBNCM29JLDJclDwZJeMLQcHC3p3EJI_bQVFzRA=w436-h327-no",
+		"title": "Susan visits her parents - Feb 1, 2019.",
  		"date": new Date("2/1/2019")
 	},{
 		"link": "https://photos.app.goo.gl/EA5zY1BhQa41DXFH8",
-		"img": "https://lh3.googleusercontent.com/N6rrYEzkiZLJiF4bmPqjCqN4UUvLZAJAmfpNR6rykQEO9XC-vyGL1By4RCSAT64Bt8x4b9fM4oS-ZNKR0azGehdH7oxydInH3Vftcg_Gz5FAUbTO9Pl094bInfM9i1m2RwuyEjcgRRB0S4zk7AKHzP9mZrj9KmbNzhhqNEaxzPUb-ilUNr7xjD36t1f6FJskMu0miwmQXlIcEP_4yHO-CIvcZsIe-U3iMPx0GtS_p1XTjl9RXFxPO_a0tTPJ3KTcUtqtrFHmbCm61KQS7NDX6PUCy-Z6xNsmpeGfyDCQdwqptqKk2qroxMomIL80ZujzSOhk7bZng8qqpNYzgqa8lhDZNlgU4Px0W6Dam1LW4NWNevdgVTxiJSIfHKtvAc2X5sRh6wCjCpf1akjIHOJrL_rRV0IiYk8IaJ5SwtzejN6rSyWLbEEJ3W6WNv7y2Bwi3nGauH0EsQoj7-IEMpsqFBmeJ8hNuOc8ZNKRfPDYRJs6u8poKszJgc5DF7YumF5-8Xi9wyLzh2ccafkZEUzO53L2F_zeeJuhxm7eI6yNbfDJK_9phnxAA2TcJ5kN-fa8v6hGTckJGnj5ACUPSgdSE_FqSwysTomgC1wM5_DE510KhcjsYzyr1qOG1XfIHaIMNt7YODNee6R758Rhc1W-9BWw3UD2DpkmYpzuZS4dmOIpZwQZUGhdtOcHso7NYT5DbzoEksgjzJmsbPN0Alw=w880-h1173-no",
-		"title": "Callan's first birthday",
+		"img": "https://lh3.googleusercontent.com/2kUpYgR-DWy2WXTfISn8tD96QWh8vjT52BivTBM_fjK0UbCnMx2nIKkYhOl3xczi7ujH-JypTfnLIFI2ZxDoLUlk3PJN4OFUPXZXiPCSzvnt56jBuZ25fTmfq19ch4T4z5Gx1XbFJ3ur0JdL0SV1H0_N-5U1MOfpnPxj5IIfMMlIQDn4cXsldsA33TsP_sqs6h_jF46dFHt2nQ2wlJxJiTE_mdlyWiE1dI0agPuCqwPlvBMBxyGW6gDtmqje_3f_4lyhbbqE4rY7aqjxXL591_mxIw1Y3SjK43zykp8e9vCXh7D3mhwYaXkMSGUAgw_ARZhNqHQLqB531fvfGv_N2rbdRoUZN_l0jQJzow9JqUpeA7_UlkmlGlzUzwuDaNiDbbrO8RPdftjUSC6yL9DTn9YfRozL85kS8l4UU7XodZQyu8pxrqpCM1s6kpxFbkK9p6SlD_xHQ9cWdeXBEz6IYSXrtpIDhI73BqSiI2yhCyB-a-cj9xihB2Jxi1xFTrU_caStL6yWnqOYKtiIydLvl4NZwO_FP5WfB5C8FmOYBWaKAhcpb-wlq2e5jalaHkvjJu965RmqyZ2rcWl3ah0dJqNkUmJZj5LBgJZBN1N1EU6qB0pS1LCEj_k9HdLakvs0O9JY63_qnSoLFbovG1avNSEqn_hRnK7Q9rUYqBz0PVNV3ZYs4PPFEZ9RXotup9_eJZN0m4-qS6l3NZ5w0-JuJ5L0MA=w215-h285-no",
+		"title": "Callan's first birthday.",
  		"date": new Date("1/13/2019")
 	},{
 		"link": "https://photos.app.goo.gl/CqV1ZH3tdGth5DhL7",
