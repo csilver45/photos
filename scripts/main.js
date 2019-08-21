@@ -3,8 +3,8 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
 		"link": "https://photos.app.goo.gl/Hu9BzxDTRoRsj2nM9", 
-		"img": "https://lh3.googleusercontent.com/1h1qMyblWUbYycVL2yYVUxHHHpq2CfSGuDEd-R2OsDjeEWeDK4dbloap1TixbVV7-56cwZCree8s0kfolYwa4jLloH3J3QZC6LTu3V8CpYkHDs3i2o_Vv1vClEsT5UaJvoHStAcSGKEGuOfr1R1nvWXvYLVwJ7Iy8c43pJUabxeq-VspdFtQqLhM6oIHipAye3xpgygKIHDUzeSPueWs376w1-I_nOSe-68YEzaqjYJsv1-tQRHKnARib7h3LHnM0-yceLqf81Rr-_Y2mvR0sJXDWCkP4icOaifqhLnb6pOYzeelK8S5kviiaAaC1ywVRB8khK9hffFKIrWCW7eo5aXcS42MCmTDXX7k16W6BxMsV7qCNdkP92PzX5RPdV-LC3xykdcDqKJ4moEZUro1VFu5FFIZDpEgjLRz7c7QzX2pFZbSgWup4BiIaQ7mBjHU00TnLu3JhJbsmw5OutJEUO4JJ9OPPEivYMnJK8avTDyxuAV0sJ2GY63QmHyYwE26Rs_Ny_bFBROMvqbLef53v0OKoWpS_n0r0wR0XVClfjMcp5C77Lb73dAsJ-UtFet-lFLZqTQB2uiczCzdaZX_92Jeb9e-AkB_JMOecCCooEHEdoLjur5-CrRdG9CW_cqWOucQaw7UX9VnJz5qg6d3n_yv9CtlxzFs=w1562-h1171-no",
-		"title": "2 weeks in Denver, August 2019",
+		"img": "https://lh3.googleusercontent.com/DidjPUm1LdAIVcNAufodezD-n0WIgElKwnD9RKvEb70rDzKuTtLLe9QoSNN8D_QMbADSfyupKvJSZQHhBkTEbgesWiFkfEbXCT7C6Ju869yuxu-A2UXAuoDvfcJaTlvxyAR6WEr_DR7Nv_JF9UWQVJqfqN6FmmBGO6YCPHloM8ry11hm4Y1EaHiiE6Yraf8jUSPd4240mmKTkH2HtYQSSpND1sHvYZq4L_qaAJcPeeh1R5wgvUGPC1A8Y3jloXSx3QDsc0QkUvX0pAZEPjLg7lbT7e7js0htqWFj798a2by6SIWthmXQ0H0ZR5wkUmEEH1-YNrmQka4ylFx8TKhwmB_t9nhmWP17oIbvt5eGrekCG740Kd7jhXnRdOynQp-3z6Bz1BeHPuYlmlhLs-NVvpYrsBBAzurL0PoeZ6toMOgP3PY5FaeVjUBNy-epkA4jB1OJtI1BE035hwkUEJyDGnJwi5ASUWJUp7sUee9LE5HvZ3nnT-WxqQ5CFeMwAYyuhQg2hoXopOL5PONtP-AKGl3EISjg4lNhjyvQypJUXAUcryyE95dLFRm6hu6Zb0jfUCaUS1c3ZVdmRYWo1XiRG3aBvLJmVR3-s-xbq0kssTIE4qyzOSBd47Qm_OTYbZk7QU5d-cLYqHe0ge6iqkoLPN-vHhgpCX_JsIZ_HyM1syReS3Ruy7fkDbYOxvoeGexR5zp03Vdzd2BJ2M3XZ3nrQHdI2w=w396-h297-no",
+		"title": "2 weeks in Denver, August 2019.",
  		 "date": new Date("8/18/2019")
 	},{
 		"link": "https://photos.app.goo.gl/5UPfuToJZT1jFk2y6", 
