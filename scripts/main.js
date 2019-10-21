@@ -6,7 +6,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/kxQrugGve2voAe928", 
 		"img": "https://lh3.googleusercontent.com/gFUGzgABp9CzBOKWbupO9E2w4hI0AM1IeaKcgh97j0PTm9kp-7PeTxVHOUF5-oNDn4OXHXgE3hS8kDucXEDxSBeIJrQPlRZak4zbLjdra32Mn6MLM4Hrx3o9Pcb_xv3ZEMO4krM44Z7vmVDohuHX9B4F8XEs0y90KEAb-vizw5rSpLMK68r-b4ChUkaaRuYNEWCmvkpKwOryJHEFIjRE89eL0OZ3qepjA3gIwCr3iVENF8NWg5eoFCtBuv4rNQQJVJnaPNPFzmftrB6MusmVgVmJuRKNv4kmGiCExiWzfWL0Co91Hd9jfODOx0eWjHnLKCC8iiGC6EnvUrJDDxm75tTdNTwoQOdFlUZolweBLfEo3FQo5PCMgMR_wq1iqQLHDpl2rg6q33IdmOiVDT0yOhcryH9wZ-HpSCB_kfDffM08r9sKb4CMKpVKZoX1XHqHzsb_ZEJOvub0Yiv7U7ZJ_dNu3NvKAgUqk7fT5tVO5guKiZpYZVtp2h4QLNMHDOBTnlIH3yBJ46o2lresgYX_yaL_G3h8c3WmlRkKB-I8HTHOrVmKvH0oVLTflEf0iE9VeblEcSRdbS6YGGqV05SN6i61nirBIQKVmNCr1jCa0bMlcFYaFG8B7vup8F0vPd7QfE89Mmd6mJHGq_Z-hX2-jUM8E2CJd-HSANgAD4j6AgDxhoPVpvoOc0eD=w542-h305-no",
-		"title": "Susan and Craig visit Schwents, Sept. 2019",
+		"title": "Susan, Craig, Dan visit Schwents, Sept. 2019",
  		 "date": new Date("9/24/2019")
 	},{
 		"link": "https://photos.app.goo.gl/Hu9BzxDTRoRsj2nM9", 
