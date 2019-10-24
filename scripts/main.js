@@ -4,6 +4,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/5WeTAmJe9dqB3Pva6", 
+		"img": "https://lh3.googleusercontent.com/GaqO5gRhZpZC8MwN9t3OvXr3YvtJhnEAZC87cCFgKqQ1rXE9Q367Ru5QgtED-DCtzD1NYfu75hPNXp4a728oejlePGWoCFx5VdG6pdF9N5HwP15xlvcb5rG9uWNVo8M629ws1lPP8TaQkMddxtl9hXdsd02m8vkqskmQWIJ9w94dW9Z2BQb-2BEpgeCZuw_gg1TQ6oAAX_P1TA6RnwUQYvWq4n0YX5bjvcjuO0lY_2GXqGyJJwDdNAJ6oAuK7fTNVHoUci3cqlf8T5xxCDgW5hcQEZismNpD-47oFXPSTdi3uH5EcMDeaU03_QFF4uf66MWRu26neX2--VdnYfHa950UZSQaylC26vADP6TLadctKUi5Oyjb3vrXi1A8j04z4WlwIZfICPExllZVnpCybdeJo5blJyEVdyWSLphl4IQU1z1nMS89vGDHCdYdjY0zfiZwcBE1yp9Kkh4E5i_TEVtV-GaTTRcmH2Q9gd5FvlMO6C1Y65xVetp0xc365zlbLknzDkPR3YzJ-0GfEWEbU7vNS_jeXLfNmcTrzm0VR8r9vp7e5-qfpKGcWzmY1nGInsuqWcmXhlCELTAS9ncjMpO8ak81T_-ODMj8yafsCyJVM-iUViMM5SjRrVlp75qvplC_fGFY224Dr4cWBvPfbBanud-KHX8jFur4huSuoi85FaJ78qDAnltG=w449-h337-no",
+		"title": "Susan visiting her parents, August 2019",
+ 		 "date": new Date("9/24/2019")
+	},{
 		"link": "https://photos.app.goo.gl/kxQrugGve2voAe928", 
 		"img": "https://lh3.googleusercontent.com/BIH6j05YJvtKfGCDHyyRmO68DzAcERIRNN6W1ywC_LUBAyts9Qf6tZjJwA2DJeZnhzoA_2S6zKgXUpKzHzvvNKIjD8-mLZSD5ym3MQOT7niTYmG0cMb3fvksXzw06N05JZxWpvlcq5jnyXY--fZtEW04onVhUBRF8t2vBKYI4x74sw2iAbMr5eQpevjr1d7qM3Mj2DKPeD_GiYCAhq_7vcPbKuhEA_e0cHZKbktpOoVQIjNqVEDf1cH0MXvEE4JCQo01ogJhxWDZy5PXWIpCyN65vyPa9CPC-AoiuAIupMvIf5eTGtIy9XC2WZa8qrHvt9-d7iRkp6dBU_0RP157jx7dVoHQTgymUr26etBru7SlwTEzIa-0LuE41XvoY2RKRcJVSP7u8xfcx6osHbucL0O_w2fmx3hVsAmvSoBN197nQICSBKmHZqGpdY9eofICFZ0dzkeYLvU0fNPBNKtdud-4E7YaZWWJHkHxnREv3k6tzVIM4w3Cz4i8_2zCuebcidDlKdG2XKnwVVvNT54yPbfAZt36IbsH3QMDpDNDgJb0eczHz4s0ZegwmcCznCh8XxCf0pRB0VWsm0M5L2HpK-gwADZ0lIIcqnVDVWfKM2H4nf1yr_frtD0mLVD_xwJDWSSM9U2HNetg6R1u_apZ7rsfy9Lw5qVaHqVY3QwdoSPbKkcOQFLPgB88NnZFY4CwpJolGmm5df8BEykGU22FN3yXhDrYGCFmUU3VZjQkw1XmZTuYKQ=w549-h309-no",
 		"title": "Susan, Craig, Dan visit Schwents, Sept. 2019",
