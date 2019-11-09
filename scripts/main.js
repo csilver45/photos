@@ -4,6 +4,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "./familyNov19.html", 
+		"img": "https://lh3.googleusercontent.com/F3cQpA7FneDX29OOnW73K-AjXaiRJgoje2-IzFWY7AtpOvTVX3nzwxuzKZcQ7zWuh6TdJeveSRhkPDCG06j9nEpUGEu-ufDVoLzAhJ3FSEt8WOAS5bONG7b9OwiuBDGj-Rxq6xl4CkC1HjStzJGHTR_vg5EDZpMIDYA4SfvJyfXKVZqaads0JLYgdOI4_Ekk_RI8jA7Fum22UW7iC-v8vm-j4C5nHINwq78yhAJjLO-d8WhoHpBjYOmoRNSY0WH8oVbjKxi6GknjvMWDbQfIfUsRKqYDxB5KH9aGQKj0ugSA5gEFWdTK3z9xY7IOxnlpLXXk7uxYE6Oag8DTM5J3gWH7Wxx4IORqzQ-F3Xlf9zFMW-EEXYD9O6HUk4lE4T4TgAGl2IpWM7swfk7C9Ld71uhYBj7e5vPrdYttOhj33PW48dW0AvRX4YLO9ImsE3xG4eMSx9T91gyIQFHRLC7_pBuN-afq_XOdlmV1_vusacmgVhmNVoKH5rL-J2tE2ucu4ucaHqDoWohOZbiIAG48oEzwZdWUBJk9Sn-zuTRUWIGV9EeY0hAoDPxNz8AU5gM3CeejoVyazMZcL4E6GhByvVQ6DXzQujcpMKzJBx21jWgrR8Q96Milm1tzz3VxKHjJBuFYcVhkGBr7Qw1xpb6fa4GkCXstJuG9AIgJIAsHGY1x9K4Zo8IpWjQOGYT3Sr5zTWTX10KR9AE5UICe5ix9idmwVQ=w478-h318-no",
+		"title": "Family gathering in Falls Church, VA - November, 2019.",
+ 		 "date": new Date("10/2/2019")
+	},{
 		"link": "https://photos.app.goo.gl/5WeTAmJe9dqB3Pva6", 
 		"img": "https://lh3.googleusercontent.com/GaqO5gRhZpZC8MwN9t3OvXr3YvtJhnEAZC87cCFgKqQ1rXE9Q367Ru5QgtED-DCtzD1NYfu75hPNXp4a728oejlePGWoCFx5VdG6pdF9N5HwP15xlvcb5rG9uWNVo8M629ws1lPP8TaQkMddxtl9hXdsd02m8vkqskmQWIJ9w94dW9Z2BQb-2BEpgeCZuw_gg1TQ6oAAX_P1TA6RnwUQYvWq4n0YX5bjvcjuO0lY_2GXqGyJJwDdNAJ6oAuK7fTNVHoUci3cqlf8T5xxCDgW5hcQEZismNpD-47oFXPSTdi3uH5EcMDeaU03_QFF4uf66MWRu26neX2--VdnYfHa950UZSQaylC26vADP6TLadctKUi5Oyjb3vrXi1A8j04z4WlwIZfICPExllZVnpCybdeJo5blJyEVdyWSLphl4IQU1z1nMS89vGDHCdYdjY0zfiZwcBE1yp9Kkh4E5i_TEVtV-GaTTRcmH2Q9gd5FvlMO6C1Y65xVetp0xc365zlbLknzDkPR3YzJ-0GfEWEbU7vNS_jeXLfNmcTrzm0VR8r9vp7e5-qfpKGcWzmY1nGInsuqWcmXhlCELTAS9ncjMpO8ak81T_-ODMj8yafsCyJVM-iUViMM5SjRrVlp75qvplC_fGFY224Dr4cWBvPfbBanud-KHX8jFur4huSuoi85FaJ78qDAnltG=w449-h337-no",
 		"title": "Susan visiting her parents, August 2019",
