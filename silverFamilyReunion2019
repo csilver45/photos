@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Photos by csilver45</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+    <script src="scripts/masonry.js"></script>
+    <script src="./silverfamilyreunion2019.js"></script>
+    
+  </head>
+  <body ng-app="photos" ng-controller="PhotosController">
+    <section class="page-header">
+      <h1 class="project-name">Extended Silver Family Gathering</h1>
+      <h2 class="project-tagline">November, 2019</h2>
+      <br>
+      <small>Last Updated on November 10, 2019</small>
+    </section>
+
+    <section class="main-content">
+      <img src="spin.svg" ng-show="loading">
+      <div class="grid" ng-show="!loading">
+        <div ng-repeat="subalbum in subalbums | orderBy: '-date'" class="grid-item">
+          <a href="{{subalbum.link}}">
+            <img ng-src="{{subalbum.img}}">
+            {{subalbum.title}}
+          </a>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>
