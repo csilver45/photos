@@ -19,9 +19,9 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
  		"date": new Date("11/9/2019")
 	},
 		{
-		"link": "https://photos.app.goo.gl/Jg4M1EvKarrhx3Kp9",
-		"img": "https://lh3.googleusercontent.com/8_7ur6WqvRLuVzOdIX-xoxb8krgOX2x-kHfwDTW7Huz7G0UdUNAwC0dFFXcqFZDR0CH_VEBSV25NRkweMQsSMktjNX2zDFrxqZtZySvqGNro1tXxk3shkviSYCQnG9_rUzlK9TTsyj3EoUyRgnR7F2Twxg1MKogc_sXhAfdiDmbhlDR_Mxi-0LoK1yGBc77mriR0ND1KDyDueZDbIvlH2_rYpPuCR0N-Dn_ULOruwJxNlNLfkE-p0ymSZU_0-Wam9gw-Wmx1HaKjKVwFoS0q8--QUg1L79jRYFQEnz3MQDFnXnIEBsj5ORSX53O1tbBbJbKQt7LLsPa_RqK7huUH45kEl9KNC8GSJN4n1N1gcgDugNIIbDpHqloUba1IVk2xi5e6JWw2IuXSKp9RomK0aF5vyKS0bs_F18OO5nB__Fs87TiC0DJPXUAtGUYQhbt6UCpioc0_h_YelIyoI2i_OH_Cu4TVvzV6x6p4m8Fq0Go60ocl47bYwVWkPf6OLLHvR5rnJoOsIIDUXk1nMZkRQP-tVzWX0axlQun6BwtIuvWC3-NG35j6H-JBUCQy3sQjVYofiISbCXOGQILZU93ublDbFNqSZMgJU-QUVq86ipnwpOeDcVh_7tYiYgU4xuGzr80G7Y4Y2QAI52TCxdAvFhufbpSSWTNG0yBXjKiBhbQ2wozOREXntmIGee8PizSY4Oqt4iEh5p9d-3sKp5ZQVBWxSbAE1MhJ5IbB-1oEgkq22eD1Dg=w477-h358-no",
-		"title": "Susan and Craig",
+		"link": "https://photos.app.goo.gl/x1Gh4d8nJKmrrvj58",
+		"img": "https://lh3.googleusercontent.com/eSQi7GYKqTE7ChrbUpnqNINt7TobX-XrlxU-hAcVbC8ePfKge3O-JTBrp5F04pFjEoHgZJhQUNHBo8fjJd5tCmGrAM0zIiWLVXErBD-RzKBWFaFJIn1TwJ1uHQ2wuM_iSMVf6cYN18STcm0aig5En1AbbV-YlIQJmnxmp3bUEJ5DGbQ7Ax6f4aajqN0Cjlbp2-TEL2Dn4vWoJQiXw6W8KUM-1aRrjQ44VwsSsgk3uS9oIo5JL_p1RNuuIpauBvRhRkYcQ7sVbpLFqwphvvi4MIY4F8K8dBN82hbOU_5Owu08KQ-GighkxEiVy6h6ssslfweeA8L8ADVM3r3gPwWxGA5tuS0DOK_aaTCVSdRHhhmPbXqxhGPU33TvWKiusAOtfSXm8Gk5z60rM_D31_hWY5X5-fiTG0-1H34FU1Wmi3Ni2GqddMM-IhWGQ9p451pzYmLtDWzpjNHVApX2B32YRHFClVzCYDEUi4OLwxD3ZEX-Gh4iDmaEnTdSZS3BQwBPFQq0SK-py2gzcIpLzfdm02KQLL_fFiNnWU8EshBjASsKeMM6OhzCZDEdybFJlQoJc6JJNPXv9TThpQrtuIMXxblKjCvGGk8uYDwulv3j03cjLqNpWC-uEI18WnPISHcl5nwv9880dBKLArAD4c2a9n-CR_2CtB_yvMzyp0oMi6JxzPn91_Ocb2F9=w477-h358-no",
+		"title": "Susan and Craig, take 2",
  		"date": new Date("11/10/2019")
 	}
 	/* {
