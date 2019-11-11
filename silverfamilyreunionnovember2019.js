@@ -21,7 +21,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/x1Gh4d8nJKmrrvj58",
 		"img": "https://lh3.googleusercontent.com/eSQi7GYKqTE7ChrbUpnqNINt7TobX-XrlxU-hAcVbC8ePfKge3O-JTBrp5F04pFjEoHgZJhQUNHBo8fjJd5tCmGrAM0zIiWLVXErBD-RzKBWFaFJIn1TwJ1uHQ2wuM_iSMVf6cYN18STcm0aig5En1AbbV-YlIQJmnxmp3bUEJ5DGbQ7Ax6f4aajqN0Cjlbp2-TEL2Dn4vWoJQiXw6W8KUM-1aRrjQ44VwsSsgk3uS9oIo5JL_p1RNuuIpauBvRhRkYcQ7sVbpLFqwphvvi4MIY4F8K8dBN82hbOU_5Owu08KQ-GighkxEiVy6h6ssslfweeA8L8ADVM3r3gPwWxGA5tuS0DOK_aaTCVSdRHhhmPbXqxhGPU33TvWKiusAOtfSXm8Gk5z60rM_D31_hWY5X5-fiTG0-1H34FU1Wmi3Ni2GqddMM-IhWGQ9p451pzYmLtDWzpjNHVApX2B32YRHFClVzCYDEUi4OLwxD3ZEX-Gh4iDmaEnTdSZS3BQwBPFQq0SK-py2gzcIpLzfdm02KQLL_fFiNnWU8EshBjASsKeMM6OhzCZDEdybFJlQoJc6JJNPXv9TThpQrtuIMXxblKjCvGGk8uYDwulv3j03cjLqNpWC-uEI18WnPISHcl5nwv9880dBKLArAD4c2a9n-CR_2CtB_yvMzyp0oMi6JxzPn91_Ocb2F9=w477-h358-no",
-		"title": "Susan and Craig, take 2",
+		"title": "Susan and Craig",
  		"date": new Date("11/10/2019")
 	}
 	/* {
