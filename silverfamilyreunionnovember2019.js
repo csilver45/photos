@@ -23,6 +23,12 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"img": "https://lh3.googleusercontent.com/eSQi7GYKqTE7ChrbUpnqNINt7TobX-XrlxU-hAcVbC8ePfKge3O-JTBrp5F04pFjEoHgZJhQUNHBo8fjJd5tCmGrAM0zIiWLVXErBD-RzKBWFaFJIn1TwJ1uHQ2wuM_iSMVf6cYN18STcm0aig5En1AbbV-YlIQJmnxmp3bUEJ5DGbQ7Ax6f4aajqN0Cjlbp2-TEL2Dn4vWoJQiXw6W8KUM-1aRrjQ44VwsSsgk3uS9oIo5JL_p1RNuuIpauBvRhRkYcQ7sVbpLFqwphvvi4MIY4F8K8dBN82hbOU_5Owu08KQ-GighkxEiVy6h6ssslfweeA8L8ADVM3r3gPwWxGA5tuS0DOK_aaTCVSdRHhhmPbXqxhGPU33TvWKiusAOtfSXm8Gk5z60rM_D31_hWY5X5-fiTG0-1H34FU1Wmi3Ni2GqddMM-IhWGQ9p451pzYmLtDWzpjNHVApX2B32YRHFClVzCYDEUi4OLwxD3ZEX-Gh4iDmaEnTdSZS3BQwBPFQq0SK-py2gzcIpLzfdm02KQLL_fFiNnWU8EshBjASsKeMM6OhzCZDEdybFJlQoJc6JJNPXv9TThpQrtuIMXxblKjCvGGk8uYDwulv3j03cjLqNpWC-uEI18WnPISHcl5nwv9880dBKLArAD4c2a9n-CR_2CtB_yvMzyp0oMi6JxzPn91_Ocb2F9=w477-h358-no",
 		"title": "Susan and Craig",
  		"date": new Date("11/10/2019")
+	},
+		{
+		"link": "https://photos.google.com/share/AF1QipO1vIr88lDaMDvxUXZoXHWLpFRdxhk4pfLvF1KiY7a-J0kEYjBkS9jJ6BmZwIG8pA?key=a3J6TE9KdVdlN3V2NVd5cE9Vd3U1NV9ER2RSNWpR",
+		"img": "https://lh3.googleusercontent.com/Q2zWVk0ckchXs8SYIppDhR502_vrKklRhRNEi-7TaZ-sMaZJlxHSL85JAxrzDA9qGUH7J3TWIJKAJfkD2-kiogrv6i-GbaonoDdvwYJ0OW4rtHxpXIJe7vc0wmnfRGYo8wqkFvTXrZZOQGu0stK-mG8fNFB0HloFKLd1Z1F8zMvQY0nlsnavJtjFMV0DQL5oT2L00ZvdJaavG8u5-ik0waNotpsRf3sdPpn9N5Eyd4YaUHRtZ3D6H8ZHzH1ETZn720-oSgRaQ8isEFs3AQh3gK3J-GLvkbt122qPG5Cxrhu9N45E33IB_e6V6suqgF6Yhq-_i28o4BoJG3sncgDInJ0vZEQxQx9CrhAzaTdAfUveqG7sGD8d2Z0pwZ5JK0taEEDGIFRqO98-UmQpqEv9HfmvomYRYYHBH23qRyvVBTZEWJX9wwhr_JhbtO0J4o-XvFN-HwbiAQWtIEFyllIvy4uvnIYMld-eViCUfR4vOte4UodMk_hxvWyumCdpYwfPrpUF2yQn3PT27fAiTgDEgJRI4HKbzr3Ovix9NzzDPBv3YXugDffmHQKAK5cEf-peC9MSHOZOZQYCfH4EVWRaJeGohBnv83HGJ1P6w4gL7dufoxnk6OzrtmYUz6UlDfIpjbgfu5no5tK-S_XJ4BgF0vD3Bv_FLznx79xjdpiHZQOKjWVrvTehLHXTsVbsOYZLfz_voAqhrS9F6YRjUwk2GQjbVAF9S0rcUcy5RgTEDSJiHBPV=w270-h360-no",
+		"title": "Laura",
+  		"date": new Date("11/11/2019")
 	}
 	/* {
 		"link": "",
