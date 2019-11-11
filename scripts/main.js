@@ -4,7 +4,7 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
-		"link": "./familyNov19.html",
+		"link": "./silverFamilyReunion2019.html",
 		"img": "https://lh3.googleusercontent.com/8_7ur6WqvRLuVzOdIX-xoxb8krgOX2x-kHfwDTW7Huz7G0UdUNAwC0dFFXcqFZDR0CH_VEBSV25NRkweMQsSMktjNX2zDFrxqZtZySvqGNro1tXxk3shkviSYCQnG9_rUzlK9TTsyj3EoUyRgnR7F2Twxg1MKogc_sXhAfdiDmbhlDR_Mxi-0LoK1yGBc77mriR0ND1KDyDueZDbIvlH2_rYpPuCR0N-Dn_ULOruwJxNlNLfkE-p0ymSZU_0-Wam9gw-Wmx1HaKjKVwFoS0q8--QUg1L79jRYFQEnz3MQDFnXnIEBsj5ORSX53O1tbBbJbKQt7LLsPa_RqK7huUH45kEl9KNC8GSJN4n1N1gcgDugNIIbDpHqloUba1IVk2xi5e6JWw2IuXSKp9RomK0aF5vyKS0bs_F18OO5nB__Fs87TiC0DJPXUAtGUYQhbt6UCpioc0_h_YelIyoI2i_OH_Cu4TVvzV6x6p4m8Fq0Go60ocl47bYwVWkPf6OLLHvR5rnJoOsIIDUXk1nMZkRQP-tVzWX0axlQun6BwtIuvWC3-NG35j6H-JBUCQy3sQjVYofiISbCXOGQILZU93ublDbFNqSZMgJU-QUVq86ipnwpOeDcVh_7tYiYgU4xuGzr80G7Y4Y2QAI52TCxdAvFhufbpSSWTNG0yBXjKiBhbQ2wozOREXntmIGee8PizSY4Oqt4iEh5p9d-3sKp5ZQVBWxSbAE1MhJ5IbB-1oEgkq22eD1Dg=w477-h358-no",
 		"title": "Family gathering in Falls Church, VA - November, 2019.",
  		 "date": new Date("10/2/2019")
