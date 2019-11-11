@@ -16,7 +16,13 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"link": "https://photos.google.com/share/AF1QipPVWN5nuZk7cIIuL7_bgJ-bDCvz8vAPGo76EUxge2fvS7qauY8jDYoCWCr7QsLVuw?key=UnQwS0FtdUo4dFlCQkpKVVFmenJZS2JuREJZbmdR",
 		"img": "https://lh3.googleusercontent.com/nVxF5bBhCIOPZm8N2nis1MPCioYn9KRkXVSsn9PZd4wMqvQuOGPYgxuMfeVH3yLNZn-_pekB0h8wOIOgd6XVQsCB4fFRiKGhXvjY6AX1QMcNtIkAg9CJvvxajVTsD-NgIR-mokyxRzPJgcqVBLB0FIQu2NILce941zZzko227D4UjlIzLWnnGkZ_T8uXbEUfVSjDieUgLOxlb8BFQI_JunAjpIDElVu7rwoYI7UmuHxkMZgyPNJjUu4bp0xZUDKyae4b8H-zqr8SK2M4DttaswE-QgUbIOU94xN1Yhrvmza7KQLhA_zOf6LamdH4n-sALi2C1Ri3S5GSBVuxZOqFKxcBbYaX0WPdUwlz_LJL-e4b1IHIv3i3dJTs_tXMD6rUuGY7lUG4FgHnquAmvWvpphWxuWjDbriANG6GPclyekWSaKx5pSlRV15cqUtKee58Y1pngTrBfiTcP6Y2HLS7PVwkPG_6VI0LpUhKl1XnjPL_gXEfuJzY2vvc16750qYYhplE_QMkyxtw2Vm_X-2iUpXcl6m3B2p1Sn43jJz3f0gkvE1yvrGK8elvEWG0Qp8SXGG0MtPHmHrJIoQoAYlZ6h9zf6QIW4-b_pP0sFzPd_hDry0K_Llqr6wHD8T3bFo9OPbd2_SUa8wgM82wJb5D9tvk1KJ_jSOslQ0ljTzVbkgEvFg9TqZnLp7GdJYIwMIjTIV0s5SBb1A9EluYt9iBd8z8LKmKuHal4JVlmPlRJ2gcdcdo2A=w461-h346-no",
 		"title": "Julie and Callan",
- 		"date": new Date("6/28/2019")
+ 		"date": new Date("11/9/2019")
+	},
+		{
+		"link": "https://photos.app.goo.gl/Jg4M1EvKarrhx3Kp9",
+		"img": "https://lh3.googleusercontent.com/8_7ur6WqvRLuVzOdIX-xoxb8krgOX2x-kHfwDTW7Huz7G0UdUNAwC0dFFXcqFZDR0CH_VEBSV25NRkweMQsSMktjNX2zDFrxqZtZySvqGNro1tXxk3shkviSYCQnG9_rUzlK9TTsyj3EoUyRgnR7F2Twxg1MKogc_sXhAfdiDmbhlDR_Mxi-0LoK1yGBc77mriR0ND1KDyDueZDbIvlH2_rYpPuCR0N-Dn_ULOruwJxNlNLfkE-p0ymSZU_0-Wam9gw-Wmx1HaKjKVwFoS0q8--QUg1L79jRYFQEnz3MQDFnXnIEBsj5ORSX53O1tbBbJbKQt7LLsPa_RqK7huUH45kEl9KNC8GSJN4n1N1gcgDugNIIbDpHqloUba1IVk2xi5e6JWw2IuXSKp9RomK0aF5vyKS0bs_F18OO5nB__Fs87TiC0DJPXUAtGUYQhbt6UCpioc0_h_YelIyoI2i_OH_Cu4TVvzV6x6p4m8Fq0Go60ocl47bYwVWkPf6OLLHvR5rnJoOsIIDUXk1nMZkRQP-tVzWX0axlQun6BwtIuvWC3-NG35j6H-JBUCQy3sQjVYofiISbCXOGQILZU93ublDbFNqSZMgJU-QUVq86ipnwpOeDcVh_7tYiYgU4xuGzr80G7Y4Y2QAI52TCxdAvFhufbpSSWTNG0yBXjKiBhbQ2wozOREXntmIGee8PizSY4Oqt4iEh5p9d-3sKp5ZQVBWxSbAE1MhJ5IbB-1oEgkq22eD1Dg=w477-h358-no",
+		"title": "Susan and Craig",
+ 		"date": new Date("11/10/2019")
 	}
 	/* {
 		"link": "",
