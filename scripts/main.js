@@ -4,6 +4,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/W8ypfCT994VQkPmq8",
+		"img": "https://lh3.googleusercontent.com/H5zW-SusKG7-Rq0PUHuZN5GCzxcyEsFBIMTPMwFS5Hh3B50BVkQ-o1kP6YX0KPG_br9XAV6IggCm9pmEtUAycCqJ3esgVAdGzvFI2Ci9hkz33nCennWuclEMKL-5HjnHK1whFgTfs9Lx04dNdcmb8vDuuRxamjahyNYicRpeJaT9S36n65nX-F1zk0t3JkJkzox8pOykXh3FWivy8lsROJFvLKfGjej6usWMRYXOSQne4k8MOOv-Kd7qpLwEn4_35Lvz7Sx3IjGmKGU6EZErAdYNha-g27MI1MWzzh8Kts-yBabsOejEGViUp57Chwd6a096M0NC32hKWvKkhZGeprBb9mQOzyRzSLb_ilUwxzltqhP_aI0C119PQsn3rFfgougbKarXCmnB32cdZp_65xj_fh4USogP-xlICtPAWJBwAclCmQmBlBCEkWVK91irPDnk03y6jcCDJ2EgupCbbSRtuGV3wBkoV4n4UW-PxvUSLX9PFEnITeD-sfy_SQL3OspXNt_mnqSozsl7XDZxzkPMl9kb9wv1pa5rz9byN1SudXj08xp_m02R6qlOH7as5eV74j7jqohngyVA_bBaukoLP8VW73RPiLtk-rZa2gzIi6VoPKNt8OFNBjbJtHjMYODN8rdBE1zR3Lv-wJkPdEd90DvjCO1FW62IbQq6nJBtQINFr74MIwmObxGUjx3XC1T-YGwI8Fk5AEYkIU2HhbwkBChwL4g59pTKJ02WnLwy7lka-A=w400-h301-no",
+		"title": "St. Louis, December 2019",
+ 		 "date": new Date("1/5/2020")
+	},{
 		"link": "./silverFamilyReunion2019.html",
 		"img": "https://lh3.googleusercontent.com/8_7ur6WqvRLuVzOdIX-xoxb8krgOX2x-kHfwDTW7Huz7G0UdUNAwC0dFFXcqFZDR0CH_VEBSV25NRkweMQsSMktjNX2zDFrxqZtZySvqGNro1tXxk3shkviSYCQnG9_rUzlK9TTsyj3EoUyRgnR7F2Twxg1MKogc_sXhAfdiDmbhlDR_Mxi-0LoK1yGBc77mriR0ND1KDyDueZDbIvlH2_rYpPuCR0N-Dn_ULOruwJxNlNLfkE-p0ymSZU_0-Wam9gw-Wmx1HaKjKVwFoS0q8--QUg1L79jRYFQEnz3MQDFnXnIEBsj5ORSX53O1tbBbJbKQt7LLsPa_RqK7huUH45kEl9KNC8GSJN4n1N1gcgDugNIIbDpHqloUba1IVk2xi5e6JWw2IuXSKp9RomK0aF5vyKS0bs_F18OO5nB__Fs87TiC0DJPXUAtGUYQhbt6UCpioc0_h_YelIyoI2i_OH_Cu4TVvzV6x6p4m8Fq0Go60ocl47bYwVWkPf6OLLHvR5rnJoOsIIDUXk1nMZkRQP-tVzWX0axlQun6BwtIuvWC3-NG35j6H-JBUCQy3sQjVYofiISbCXOGQILZU93ublDbFNqSZMgJU-QUVq86ipnwpOeDcVh_7tYiYgU4xuGzr80G7Y4Y2QAI52TCxdAvFhufbpSSWTNG0yBXjKiBhbQ2wozOREXntmIGee8PizSY4Oqt4iEh5p9d-3sKp5ZQVBWxSbAE1MhJ5IbB-1oEgkq22eD1Dg=w477-h358-no",
 		"title": "Family gathering in Falls Church, VA - November, 2019",
