@@ -4,7 +4,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/azdkSGAPTSJjgAva6",
 		"img": "https://lh3.googleusercontent.com/zOE_C3H6cjez8fxiUHbwGZaCeIcO_nxaYPpZToruNqV-tpCSnS6SzbM1xhMQcWMtscpWO_ifCQZZBh1GPCeqz8bCSJTKSqqnjoKcvqAQRemjVVG6aYmDFdsBCy7vpBeMhLTc07u7OunFHYSLoUnARcSt8lKc9t8yt1In9eY3uf1SnpQc-vSjCEHWKHYKyxe4CFFiL9gvVVEsm2XYkfM3Ri7UH0_0BZWHrcWTvd7rLAWHNFdoOl9zQUVQKDxSr_RW251WA74_GRGXPAZ4O_buZfFb34KxrZRG5lmwRfEIPojZVOOfWkF5eEfzl-VCjEsYKr--G8LNtTHcv7KrSz9cBXMI_X95mQeIHevEyGmkwH-ENokv0FUqzlE8y4JkQCLKOPQqSK24PyBz2sQzsFvRJg50Cspa6oAKu9i66VQfgDeCdd_Mkf5S4Pm8Ctq6rV0sEC46VRQfcNTWhq30DYD5RrKo5afpobS9uNOBdr32mnL1EUWCl3SkKp_uHEotmahTuin3K09JpFe0ZnTyKxG273g06hXeQrTu4lVYZL9-Wid2dX8MhvDRgG8yGnDVL0cg9fi0nwHeTmQSMm2AVaxOcbp-bKp6HJ4AohcNabPuBhpMG5szpgWseyb1Iqz-9C2_8j1h2cBFBvHiY39GWdaZZeQt-BbYTNLqqOZ3vMsf6AjNlDCcRk_G7XBkmS_pwg2IZT1GDfi12UqylHmjWlJc-89e4cx6iEyvIlEvtyjMgJAk0iYR=w559-h419-no",
-		"title": "Lisa",
+		"title": "Sue Sheroff",
  		"date": new Date("10/4/2019")
 	},{
 		"link": "https://photos.app.goo.gl/stHFovEQrmerthY59",
