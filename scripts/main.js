@@ -4,6 +4,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/q3UECJMPTrYCP7Fa7",
+		"img": "https://lh3.googleusercontent.com/nEwnOGP-evqEtPD1uYyCT3uwQQU9oKmYdvlQHPSPpAE-oc7Z0wMsf4-0u4nZbL6QgZ9sm5oHeTfbed-HAgYqttUNEh57arSweBh6QKG849XZIMekPdYWG6sK47uo8bKP0mGIhm9jr9tFMvsqyS0d-9dCQVi6AYkm6uDCS8uNhbPm02rCpnYwyqqE3yL_nHvTKeg4I6i18SnRcLpSOpCryXeqiZGywHeCenC46daFMijANJZygqx6q9-wppt67XinM32WWu0ZM5zh_ngx_eMx9jYzm5ACYHdO11SlBlOz4Y1f91P7XQg69MnAnHa8mzLOXS7S4utqn4sXuUQ7MDeg_yTpGoFORApslk0tHixIfTu5_6UHLg_Ko8fFtrPOsRuXy4l9MQAuI4HpGwQyNoWe2BVSugErGYbU2OQ8WY-5gXduOS1Ic4aVr6IX2oj8u5FrnqmkbWr-x4jGLFYKdD8LEI0WcWgkSUMTJJ2SOBkuociWnrEPPpLJ0K0os5yp2_hetp_zoT4_qGsWPmZyrFcv3kB5VzkGVOe_MTjFrDc89rmTATA2AkCgA2glfclEKB0d_W_2evpjcAtYQtMTz0_OycGjohwTpCG0bjfmikj8QBVI7mYeAhNahYV7NJj5dYApXeaRwybv-bgiyrjpt7MWJJBdhxdzONdc41x9VbNe9Tq9_qxJ5p6S0CAc=w478-h358-no",
+		"title": "Florida visit with grandparents, Schwents, Barry 2020",
+ 		 "date": new Date("1/22/2020")
+	},{
 		"link": "https://photos.app.goo.gl/ZkbYgdt6WUTyzJCG9",
 		"img": "https://lh3.googleusercontent.com/5ooaZ9GQUqelHD78aNbpKwCH1M0CKPMmDjvnhzYRb06LhLR9nSnf8SbPyohMSAtkTxGdzEUeizwrQIv85j9Rg2ufJz8l4_lVO7uW80Gg5ex60YYat4ugAZpElY49SCNJ_qqa0d6AEJ-plpx2QZv6mGKj78haOXVKG3jspT33HO_if-Ty9P_e4JQXGg2r3OPJiStjiiAXdne_whd8Az-NxL0u_GramVhmrepBRYB05hUVu9ZoL1Pk-_fVmOFr89xxdwbns4cD6guibZ1tzULGB-tFkIRjPeJQyQnPh0eZRmBa6DDCAjAHqmbtu-3x-K5-c0q0P9A017FqGDGhQDtz1ymq5Wv9vSwq_4kVrCxmLDkkFNMrUFcRJTGgV5h4OA8PVCOVtAhdW5fgzOcrVItpeSWpcjsV5KG-gh0lXF3x4Xcxz2tgqbtgUU_GIYITc_edM_x-LOhU4EyFWPuXh_5wngjy171XTOMAhzhjWs_CTKWrrWZxa0c3RoCZ692DUvbyaFCqWwLiMRRu92zZOQdtCayx5FWus_5nFIODldFtdeejdrbmyITLKdkPs8yGWTJmlTQ5FQPK7H2sdNSDLFXmewNJbmagXynBMet_sbV3_M-4VMaENO0TnAlMFmPxjrfdywbU_WTWklckQ0u4EXEPPcNxYGonuqmSX1V94GTVot4RP0CiNNrgxjs7=w458-h366-no",
 		"title": "Cruise, winter 2020",
