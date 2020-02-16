@@ -33,7 +33,9 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"img": "https://lh3.googleusercontent.com/BIH6j05YJvtKfGCDHyyRmO68DzAcERIRNN6W1ywC_LUBAyts9Qf6tZjJwA2DJeZnhzoA_2S6zKgXUpKzHzvvNKIjD8-mLZSD5ym3MQOT7niTYmG0cMb3fvksXzw06N05JZxWpvlcq5jnyXY--fZtEW04onVhUBRF8t2vBKYI4x74sw2iAbMr5eQpevjr1d7qM3Mj2DKPeD_GiYCAhq_7vcPbKuhEA_e0cHZKbktpOoVQIjNqVEDf1cH0MXvEE4JCQo01ogJhxWDZy5PXWIpCyN65vyPa9CPC-AoiuAIupMvIf5eTGtIy9XC2WZa8qrHvt9-d7iRkp6dBU_0RP157jx7dVoHQTgymUr26etBru7SlwTEzIa-0LuE41XvoY2RKRcJVSP7u8xfcx6osHbucL0O_w2fmx3hVsAmvSoBN197nQICSBKmHZqGpdY9eofICFZ0dzkeYLvU0fNPBNKtdud-4E7YaZWWJHkHxnREv3k6tzVIM4w3Cz4i8_2zCuebcidDlKdG2XKnwVVvNT54yPbfAZt36IbsH3QMDpDNDgJb0eczHz4s0ZegwmcCznCh8XxCf0pRB0VWsm0M5L2HpK-gwADZ0lIIcqnVDVWfKM2H4nf1yr_frtD0mLVD_xwJDWSSM9U2HNetg6R1u_apZ7rsfy9Lw5qVaHqVY3QwdoSPbKkcOQFLPgB88NnZFY4CwpJolGmm5df8BEykGU22FN3yXhDrYGCFmUU3VZjQkw1XmZTuYKQ=w549-h309-no",
 		"title": "Susan, Craig, Dan visit Schwents, Sept. 2019",
  		 "date": new Date("9/24/2019")
-	},{
+	}
+		/*
+		,{
 		"link": "https://photos.app.goo.gl/Hu9BzxDTRoRsj2nM9", 
 		"img": "https://lh3.googleusercontent.com/DidjPUm1LdAIVcNAufodezD-n0WIgElKwnD9RKvEb70rDzKuTtLLe9QoSNN8D_QMbADSfyupKvJSZQHhBkTEbgesWiFkfEbXCT7C6Ju869yuxu-A2UXAuoDvfcJaTlvxyAR6WEr_DR7Nv_JF9UWQVJqfqN6FmmBGO6YCPHloM8ry11hm4Y1EaHiiE6Yraf8jUSPd4240mmKTkH2HtYQSSpND1sHvYZq4L_qaAJcPeeh1R5wgvUGPC1A8Y3jloXSx3QDsc0QkUvX0pAZEPjLg7lbT7e7js0htqWFj798a2by6SIWthmXQ0H0ZR5wkUmEEH1-YNrmQka4ylFx8TKhwmB_t9nhmWP17oIbvt5eGrekCG740Kd7jhXnRdOynQp-3z6Bz1BeHPuYlmlhLs-NVvpYrsBBAzurL0PoeZ6toMOgP3PY5FaeVjUBNy-epkA4jB1OJtI1BE035hwkUEJyDGnJwi5ASUWJUp7sUee9LE5HvZ3nnT-WxqQ5CFeMwAYyuhQg2hoXopOL5PONtP-AKGl3EISjg4lNhjyvQypJUXAUcryyE95dLFRm6hu6Zb0jfUCaUS1c3ZVdmRYWo1XiRG3aBvLJmVR3-s-xbq0kssTIE4qyzOSBd47Qm_OTYbZk7QU5d-cLYqHe0ge6iqkoLPN-vHhgpCX_JsIZ_HyM1syReS3Ruy7fkDbYOxvoeGexR5zp03Vdzd2BJ2M3XZ3nrQHdI2w=w396-h297-no",
 		"title": "2 weeks in Denver, August 2019.",
@@ -647,7 +649,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"img": "https://lh3.googleusercontent.com/qVmtRDlmYDhBArN2viWRK5_91BzyrcxtiayzPcv6ha-j6DF6l3W19Z17yH0jaY3lgU_hbcIcFj37X7BPlGDqH587dAJ0YTfr_Tx04hHH7y57M0Iz1MztED8dZEpf289RqPO4pMb99OLnnfNzvcvyqP9OdKpZl1lyl2Dmemf9iljAhrx128TEKNJP5RjEdoijZrPR4GyD_Esmwi_RI7HVGOdgkzSrFOb9_SIJEhfKL217FtYXvLK7wBqtGcJtCXU5ObgKxIbY_aWo1l08iUzVBdsg0ZUwJT8Rc5jF9mk-iqTFzm0B6lyfQHZLVb4wUgCXwqSwlvN4c98wDKztMvcL2tmLMxioitq1k14qE-awP4LgZ0ZpTXs6IOoM9_K8pzJ8eFOGsb6D0s7tXu7_nX6a2qyyfn_wtPBEctEfcvsm2UuaQvPwZu9pff-e__PdO2-c9XuHfm_hWhdtBh5BTX0PFq56lGLtoJl-cxvxYOf8XjlBSne-i9C6W-i3zL5BDd5zEWuLf09tjjpIXbDSx5NpG0rD00sYvEvJYqD7xCm7ejn3sC3WkVAsqkicwL_R6maL35X3ZDvYobYAWABHVPL-i1A8mNnfBb5plcSOP5g4uNy1UAKDrjb0h8Z7Yf1GDVvvbDv5LqZTEiMn85keu_11WyGws-lgpgyqlw=w684-h908-no",
 		title: "National Parks vacation - Summer, 2003",
     date: new Date("7/1/2003")
-	}
+	}*/
 		
 /* {
 		"link": "",
