@@ -4,6 +4,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/ZkbYgdt6WUTyzJCG9",
+		"img": "https://lh3.googleusercontent.com/5ooaZ9GQUqelHD78aNbpKwCH1M0CKPMmDjvnhzYRb06LhLR9nSnf8SbPyohMSAtkTxGdzEUeizwrQIv85j9Rg2ufJz8l4_lVO7uW80Gg5ex60YYat4ugAZpElY49SCNJ_qqa0d6AEJ-plpx2QZv6mGKj78haOXVKG3jspT33HO_if-Ty9P_e4JQXGg2r3OPJiStjiiAXdne_whd8Az-NxL0u_GramVhmrepBRYB05hUVu9ZoL1Pk-_fVmOFr89xxdwbns4cD6guibZ1tzULGB-tFkIRjPeJQyQnPh0eZRmBa6DDCAjAHqmbtu-3x-K5-c0q0P9A017FqGDGhQDtz1ymq5Wv9vSwq_4kVrCxmLDkkFNMrUFcRJTGgV5h4OA8PVCOVtAhdW5fgzOcrVItpeSWpcjsV5KG-gh0lXF3x4Xcxz2tgqbtgUU_GIYITc_edM_x-LOhU4EyFWPuXh_5wngjy171XTOMAhzhjWs_CTKWrrWZxa0c3RoCZ692DUvbyaFCqWwLiMRRu92zZOQdtCayx5FWus_5nFIODldFtdeejdrbmyITLKdkPs8yGWTJmlTQ5FQPK7H2sdNSDLFXmewNJbmagXynBMet_sbV3_M-4VMaENO0TnAlMFmPxjrfdywbU_WTWklckQ0u4EXEPPcNxYGonuqmSX1V94GTVot4RP0CiNNrgxjs7=w458-h366-no",
+		"title": "Cruise, winter 2020",
+ 		 "date": new Date("2/1/2020")
+	},{
 		"link": "https://photos.app.goo.gl/W8ypfCT994VQkPmq8",
 		"img": "https://lh3.googleusercontent.com/H5zW-SusKG7-Rq0PUHuZN5GCzxcyEsFBIMTPMwFS5Hh3B50BVkQ-o1kP6YX0KPG_br9XAV6IggCm9pmEtUAycCqJ3esgVAdGzvFI2Ci9hkz33nCennWuclEMKL-5HjnHK1whFgTfs9Lx04dNdcmb8vDuuRxamjahyNYicRpeJaT9S36n65nX-F1zk0t3JkJkzox8pOykXh3FWivy8lsROJFvLKfGjej6usWMRYXOSQne4k8MOOv-Kd7qpLwEn4_35Lvz7Sx3IjGmKGU6EZErAdYNha-g27MI1MWzzh8Kts-yBabsOejEGViUp57Chwd6a096M0NC32hKWvKkhZGeprBb9mQOzyRzSLb_ilUwxzltqhP_aI0C119PQsn3rFfgougbKarXCmnB32cdZp_65xj_fh4USogP-xlICtPAWJBwAclCmQmBlBCEkWVK91irPDnk03y6jcCDJ2EgupCbbSRtuGV3wBkoV4n4UW-PxvUSLX9PFEnITeD-sfy_SQL3OspXNt_mnqSozsl7XDZxzkPMl9kb9wv1pa5rz9byN1SudXj08xp_m02R6qlOH7as5eV74j7jqohngyVA_bBaukoLP8VW73RPiLtk-rZa2gzIi6VoPKNt8OFNBjbJtHjMYODN8rdBE1zR3Lv-wJkPdEd90DvjCO1FW62IbQq6nJBtQINFr74MIwmObxGUjx3XC1T-YGwI8Fk5AEYkIU2HhbwkBChwL4g59pTKJ02WnLwy7lka-A=w400-h301-no",
 		"title": "St. Louis, December 2019",
