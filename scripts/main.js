@@ -11,7 +11,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/ZkbYgdt6WUTyzJCG9",
 		"img": "https://lh3.googleusercontent.com/5ooaZ9GQUqelHD78aNbpKwCH1M0CKPMmDjvnhzYRb06LhLR9nSnf8SbPyohMSAtkTxGdzEUeizwrQIv85j9Rg2ufJz8l4_lVO7uW80Gg5ex60YYat4ugAZpElY49SCNJ_qqa0d6AEJ-plpx2QZv6mGKj78haOXVKG3jspT33HO_if-Ty9P_e4JQXGg2r3OPJiStjiiAXdne_whd8Az-NxL0u_GramVhmrepBRYB05hUVu9ZoL1Pk-_fVmOFr89xxdwbns4cD6guibZ1tzULGB-tFkIRjPeJQyQnPh0eZRmBa6DDCAjAHqmbtu-3x-K5-c0q0P9A017FqGDGhQDtz1ymq5Wv9vSwq_4kVrCxmLDkkFNMrUFcRJTGgV5h4OA8PVCOVtAhdW5fgzOcrVItpeSWpcjsV5KG-gh0lXF3x4Xcxz2tgqbtgUU_GIYITc_edM_x-LOhU4EyFWPuXh_5wngjy171XTOMAhzhjWs_CTKWrrWZxa0c3RoCZ692DUvbyaFCqWwLiMRRu92zZOQdtCayx5FWus_5nFIODldFtdeejdrbmyITLKdkPs8yGWTJmlTQ5FQPK7H2sdNSDLFXmewNJbmagXynBMet_sbV3_M-4VMaENO0TnAlMFmPxjrfdywbU_WTWklckQ0u4EXEPPcNxYGonuqmSX1V94GTVot4RP0CiNNrgxjs7=w458-h366-no",
-		"title": "yCruise, winter 2020",
+		"title": "Cruise, winter 2020",
  		 "date": new Date("2/1/2020")
 	},{
 		"link": "https://photos.app.goo.gl/W8ypfCT994VQkPmq8",
