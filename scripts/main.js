@@ -9,9 +9,9 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"title": "Florida visit with grandparents, Schwents, Barry 2020",
  		 "date": new Date("1/22/2020")
 	},{
-		"link": "https://photos.app.goo.gl/ZkbYgdt6WUTyzJCG9",
-		"img": "",
-		"title": "Cruise, winter 2020 (ALBUM BROKEN, WILL BE FIXED SOON)",
+		"link": "https://photos.app.goo.gl/77oB8VPRMsVQvBK69",
+		"img": "https://lh3.googleusercontent.com/ptMLyAG8Gd_vWMUYlH7YoF5jAkZtcAZJa6dcRGSVXWIaavqq1amXS7OCn3mU3c5HHpkrkewz3x6P6JEqUT_SOhFQBUTOeOWXtP4dcY6m7uLkndt9L7vtTve7QbUBC3k18gmbfNmknHetEvIZcFanKL18nWrrASJKVvvneYZw_Ecl3MQ0WXIEo28CGOaokjmlR0shAH7mWBqn-8obA6TnVKWb1m5r75qc9IVKhezRq--nNsvhXk4SHerYc05St-HW6P4dVCQpq4w6vhTSE8S8n_3bYM2_qLNxRxUF22Ev8eKS0YqnhS1TIo5Fex-aIfHrSinmWfEkFM-Pu1VI-TY3ckJxzo1jwH0kt3ybdjYdaOOOsiIU9ZchF-Yl5-xLKqHbY5gfwmxy3WFF2HkGb-tyfdp6rUNYuYlbGZdNDkPbBAgv2XVvV9vWjbSTHd2eehc6hxTyCZzAyzioarrN1Smly4TdA_eEdvz3bzvKFUzhVA1UBRgu9Jo2DKJT7SoR4Ek8gBUmcaJG6qrukF9NBG1ywMgX994PSft6uOn2Ms0ENyqYs_c-GxXeOlryXpbx5QwSLCO53c3ulLRSTEYoq60eKYOoInA1n1MHPLUY749MxJjEyJ3Y6y7ERxdfZpkSE9mmxdlhZJoea-_kd16wvEtnMzL5g8l2QvGGjVcAQdjjA_p7z8TBCaVvufBI=w285-h356-no",
+		"title": "Cruise, winter 2020",
  		 "date": new Date("2/1/2020")
 	},{
 		"link": "https://photos.app.goo.gl/W8ypfCT994VQkPmq8",
