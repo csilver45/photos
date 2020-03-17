@@ -6,7 +6,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/Uqd7cfeo8Vivg2oP9",
 		"img": "https://lh3.googleusercontent.com/IhinRp-VbywAiUkZLfx9POx78IDDq7k0mLfSo0_rTHEFgwfD-b1LLPo9q10FlVGkqb0miFHcqB_NL5bTPF0-lVC2xfgKOreIf2hwZYe5FjzKlqFg4reJ3X5BT9UVt3Por12KjsVPvMSIscFtzfQvfeHCdvahcc3SzE9xGeNOjzfASW3K6PfbsPYfEgkDvYTOVsxV6VIH3rRYUKnc8xnXpAGiTDDyf144yBqiCHXMp--qDBXgPAM_YR5PoqIs-AsDn_XAFhVCIEOJjBeN3_sdySXvngL9pDjLlUQgRi17peWFEsSi015TDduZeFarTL7ZjYVfoooh1oSZcb2YPJuU7cmz0gt0z7rPTZl10UIXMYE1qqm2nkjic9EU3jvLXQ_Z6flmIDuIRj37TTEFfs723hwuA2g03cb2Fd9BRkIglvTsp9d-mcXeCCjLOwesoVptspWMXCn4kDUpHXhDsjSS6PCjrM3ZUcwy8wmA8CQUlhSdjVvtcp13CNPa388f8P_ah6iycqs0aYjbWxsMl8R4cJ1pRBuZBOMs9HibrSid83ITdH0AD7x4bHjiI63dauZEEfJXW1YSWbmcbrtDZyghGxAiLdTH5gJCQhmyCWmCysNX-qdWa0RhiIS2W6ivn2Fih9vZFvCEfQWdfbIctAzpVtQhyG67BuHn9J_mcJLGilECDKqPlQlrOl6CvnW9fHRrUxx3UkQc-CzVhAtuDZKUkHGCTzvWA3P2GKrBeB4RZ5Nj3vC9hmQefWtz=w457-h343-no",
-		"title": "Visiting Schwents, Feb 2020",
+		"title": "Denver Feb 2020",
  		 "date": new Date("3/16/2020")
 	},{
 		"link": "https://photos.app.goo.gl/q3UECJMPTrYCP7Fa7",
