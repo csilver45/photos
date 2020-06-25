@@ -4,6 +4,18 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/3bUAFxw1FNeDFcFT7",
+		"img": "https://lh3.googleusercontent.com/nLZAtJIfVSGaoKdj5w_fygF1OIksmT0__LQFfS9S7A-oPQapN8UEAhHKZ3TrWGjnSM5gSPhFXAFVk7e0Tu2MkBL-r-hFDN8snY74iK2oecdhIkV9s5ryxkXHBrRm-7v0zbQTlbjsG3raLhfLWO4m1sm1oVd8zeLl61i-dR2Wb1EhslJTJN37wlfUzx4XPX6Q_V1hIL78KHj1gqtm0pf7sP1edNHpZd5A8q4QQauu-oe0CnMOeCVSJt7OpVqqutBYp9E3GXrvkM6Dj5IuaBjV56YZas5cjUnhNbpS3ofXtVvbZGYLSNT9ydPZQ0JDDjXmmVwmOAks3xZaXBos_SdLQPJ-fM64eEJM1vBx43qwHv-wQ1b6_tGvA6-9KS6C03wFZq4pZuN5Vh8M4BJnY6iAzjmt9NuRJcVodwc8_aESWjbFrTCW5f5q2WWkDvo_kkoZrZgIRMIb2v8-r4BXQE8CxcTXiyTayOtvVgcVgXtqW2zr9Q_827Zv_R0DjmKaROAsQ7YerDVg2vaO_4mA1RvhSQVwbI-WN_-eDYhG5SR8V1UL3ejj04oVDVvdqbPomeCMoSAV87M3DXj3BuLMP0VVzktDaxQK6SJFUsLtu9aY1e0X--ze86WC1SHy_8cibV-g-ZGGJQ5f8BB3Ug7XuqI3vPfWfaYSsgLv6pL46nSDDxL-3k4KbG2xze8PsQjEAsY=w214-h285-no?authuser=0",
+		title: "Cassidy Blake Neumann newborn pics",
+    date: new Date("6/15/2020")
+	},
+		{
+		"link": "https://photos.app.goo.gl/huPhfef78it41TKS7",
+		"img": "https://lh3.googleusercontent.com/64ASM-lCH3-XAsPSGxKYGAhwEYrNgnAeVBA4lJuhuORwiWs4-5GrMTRIgOWEIOjL17EpjD5TZ9hvy6n30wOgUvEBjmwEP47g66qsyOxIEUm4qzywzCpWKUudD9aJnFlac8kDFEYtY39DL5qqvJ2APQ1R05K3__rhLBVGEbv2rARVJFuNZu9B9g6S3_0KdbgDvXpF2MQ28P6glxUZHs-vYdr7e_689hto5r-Iq3NFK-XR9_bg1YPf3VjbQhFGenTc-RKn9aQ5nWU5-ElBCfr26ldDU9emEmaUlLpU5ZjudgG8hXX2AQz1jRS8TQRj_aUhPqi3fjHKNGeYWizMmaOPiNcEoK5BHx1mUVpyACHUFaLPsAy1yleGcVCbO21yL-K92Jos4ysvjkUioJQWSuuNDowE-bPoQrsTeXnNNJp_EvC_9FQqcf16-XXpeXcigG28Rih_NaC4LyOiTdT03DKVt2dArIS_e7LEMGaqiVkWHiif70FoAV0RYFBe1wMGeHKIoKW7Oj7f13GqyFTODZBaVRUoSc84bUvHx05PApxrhjo2ikbVksqCT75BhcWTTp0guxQst_onEaCskYgZVCXlw1EgxPs-2p9dirraDFK2lgwP1A4vW_z15t36gEibx7V2U43eQBVI5Yv4nQV00FIjVpWM9PWfT4M8vAXA7hFusKUVhCRnWjH71ZYxpYhLJ6Q=w265-h328-no?authuser=0",
+		title: "Cassidy Blake Neumann newborn videos",
+    date: new Date("6/15/2020")
+	},
+		{
 		"link": "https://photos.app.goo.gl/Uqd7cfeo8Vivg2oP9",
 		"img": "https://lh3.googleusercontent.com/IhinRp-VbywAiUkZLfx9POx78IDDq7k0mLfSo0_rTHEFgwfD-b1LLPo9q10FlVGkqb0miFHcqB_NL5bTPF0-lVC2xfgKOreIf2hwZYe5FjzKlqFg4reJ3X5BT9UVt3Por12KjsVPvMSIscFtzfQvfeHCdvahcc3SzE9xGeNOjzfASW3K6PfbsPYfEgkDvYTOVsxV6VIH3rRYUKnc8xnXpAGiTDDyf144yBqiCHXMp--qDBXgPAM_YR5PoqIs-AsDn_XAFhVCIEOJjBeN3_sdySXvngL9pDjLlUQgRi17peWFEsSi015TDduZeFarTL7ZjYVfoooh1oSZcb2YPJuU7cmz0gt0z7rPTZl10UIXMYE1qqm2nkjic9EU3jvLXQ_Z6flmIDuIRj37TTEFfs723hwuA2g03cb2Fd9BRkIglvTsp9d-mcXeCCjLOwesoVptspWMXCn4kDUpHXhDsjSS6PCjrM3ZUcwy8wmA8CQUlhSdjVvtcp13CNPa388f8P_ah6iycqs0aYjbWxsMl8R4cJ1pRBuZBOMs9HibrSid83ITdH0AD7x4bHjiI63dauZEEfJXW1YSWbmcbrtDZyghGxAiLdTH5gJCQhmyCWmCysNX-qdWa0RhiIS2W6ivn2Fih9vZFvCEfQWdfbIctAzpVtQhyG67BuHn9J_mcJLGilECDKqPlQlrOl6CvnW9fHRrUxx3UkQc-CzVhAtuDZKUkHGCTzvWA3P2GKrBeB4RZ5Nj3vC9hmQefWtz=w457-h343-no",
 		"title": "Denver Feb 2020",
