@@ -4,10 +4,25 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/AwU18ub7896kmTGG8",
+		"img": "https://lh3.googleusercontent.com/pw/ACtC-3ev-iz2ZlIKYrMLziXJpCCwzqOTmAqpswmHraPx6XR-LTzXDugvCodNq2NreZl-EgVK_s1UsshLSjZEFMWGVETq3mWPYiVnSue04xSh-c5PePnRdPjTf9jum_00xrZ4xwK_nNYJOxvZuTgKxsUSdtfOqA=w703-h937-no?authuser=0",
+		title: "Visiting Schwents in July 2020",
+ 		date: new Date("8/15/2020")
+	},{
+		"link": "https://photos.app.goo.gl/WeEpfy6FLKqgShLo8",
+		"img": "https://lh3.googleusercontent.com/pw/ACtC-3cM_vTYi3SBXWzvHVtF8IELudfa45Xt8AS4ayqONAlwKt8ucuClR3jJBLTpOFCq7-hpI3zCPEMuBPj1Tl42DSQ0cIUypQ7byDcUd5pnQnJQo-s71Bh49XZLfbhAk7bJA92qUprv32VexuuKXh1C8Tgtzw=w703-h937-no?authuser=0",
+		title: "Ft. Collins with the Schwents",
+ 		date: new Date("8/15/2020")
+	},{
+		"link": "https://photos.app.goo.gl/uyFyxy9MntqPVByf7",
+		"img": "https://lh3.googleusercontent.com/RdV2dtHkPHfBqIauNe9wrGT-lL2hBG0oRJ8qXH1VQrc15NHonLs1s7d4EemENw8RLLyrFqASz82cTgyjsjXTtoIdHBoQd-JHh_jtawwkCE4YeBuP8Lo8lZZKqwAI2sUvny_jMhASNlBVlYEmnlHb7cjYCfw3WwyqToTlFRG1J-PfJ7VUtLRCna2fGH3ZlneXFT1Qqla6NxN_DDpZtoVtXojgxyVgjVwvJJ6N2rkOuEOyrJdNPNGUiXCsopb0gHvMo33-31cPjxFTT-2770DoYTvHmw5hRYdL4C_yEE7IuSDa4CGoPdK1UF-if-YjQqiCwVCg6KU8QZ5bGS6ax1UGFLyXP7DyRSNQ2o7508k_cd98vcJ9-mM1gooE2za9QawVP8l41zUHSJF2-nc8tXOuSy90PGbeRIPXt_LzI4QNkTDVRI3yBoK5R4LhIzPB5D3gX2Bj68aSK5nsF5JW_WwpN1ofpsmXpgAw3fgvOZcix5LPEQCpLYfOWWCIpFhYk6GBjiv_791EGdqRw40uacPDElLUuSY-JyZOBOxR0zI8Vzu4ebNFBceBJyBoqm9UEruF34eB3kFk75Zeu-t-9-aJRqF-WapuE81G1HbH1-O4xSFNyyilnRCkOJoW8fSB1kyEP22FaR-z0dZDvZYEQwxTWp04iHEgb5jYcqdYToxEbf5ea5GcqESC0yIaCk4l6Xc=w703-h937-no?authuser=0",
+		title: "Visiting Neumanns in July",
+ 		date: new Date("8/15/2020")
+	},{
 		"link": "https://photos.app.goo.gl/3bUAFxw1FNeDFcFT7",
 		"img": "https://lh3.googleusercontent.com/nLZAtJIfVSGaoKdj5w_fygF1OIksmT0__LQFfS9S7A-oPQapN8UEAhHKZ3TrWGjnSM5gSPhFXAFVk7e0Tu2MkBL-r-hFDN8snY74iK2oecdhIkV9s5ryxkXHBrRm-7v0zbQTlbjsG3raLhfLWO4m1sm1oVd8zeLl61i-dR2Wb1EhslJTJN37wlfUzx4XPX6Q_V1hIL78KHj1gqtm0pf7sP1edNHpZd5A8q4QQauu-oe0CnMOeCVSJt7OpVqqutBYp9E3GXrvkM6Dj5IuaBjV56YZas5cjUnhNbpS3ofXtVvbZGYLSNT9ydPZQ0JDDjXmmVwmOAks3xZaXBos_SdLQPJ-fM64eEJM1vBx43qwHv-wQ1b6_tGvA6-9KS6C03wFZq4pZuN5Vh8M4BJnY6iAzjmt9NuRJcVodwc8_aESWjbFrTCW5f5q2WWkDvo_kkoZrZgIRMIb2v8-r4BXQE8CxcTXiyTayOtvVgcVgXtqW2zr9Q_827Zv_R0DjmKaROAsQ7YerDVg2vaO_4mA1RvhSQVwbI-WN_-eDYhG5SR8V1UL3ejj04oVDVvdqbPomeCMoSAV87M3DXj3BuLMP0VVzktDaxQK6SJFUsLtu9aY1e0X--ze86WC1SHy_8cibV-g-ZGGJQ5f8BB3Ug7XuqI3vPfWfaYSsgLv6pL46nSDDxL-3k4KbG2xze8PsQjEAsY=w214-h285-no?authuser=0",
 		title: "Cassidy Blake Neumann newborn pics",
-    date: new Date("6/15/2020")
+ 		date: new Date("6/15/2020")
 	},
 		{
 		"link": "https://photos.app.goo.gl/huPhfef78it41TKS7",
