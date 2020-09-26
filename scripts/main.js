@@ -4,6 +4,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "./NewHouseInSTL.html",
+		"img": "https://lh3.googleusercontent.com/zmpbAN_4hibEGElDkpRuaffX4PwzdjRUVSSluX_oWNmKsNMX3lr5r0QrsBoGjGldv_VrGRj-MD_4HTlBdv1qpkATWqKPHtbWv_1-_aZ-vlcbr4H5hzYC2njkoyqLU87U7KClbJr__DDJERgbvx2Utwp78C9x1tRkqYmzO7RwvJGi-hZsqfJNHKOKXhWlw5gjzrqCWHbKrIOQSPubyiznIAs7jwoI6xo_-o6GtxFnEiNDir2GazY9m9mW6-WmhJQ2ZtD6L1EBA5ouXdIq7aHj7D67d-O2FnBviwvo34oECWKOjDLJHmUGekD7R95V-uMua079uY6ryEwc6g8uUDYJm8kfxV4EV7IwaXyJJyOw-uX62uX---gsrba8SRa-a2YoX3k3H4554edaUi59LTcRv_v1--A5HFRzIEtRKtdVIU-xdiYIsqef3bH8ieGNYe-Sdxsq5IZSFdhbw7XSDD9EUW5y-qyGhs4YjXMRg26_Eh49OJttzDzQXYqz-jaPkjnlTjyRMYGQ0qQNTsFoKGBxYEPfEiWcFwpMBtEkXZlWauTN0dpqR2A8K43T4T5c4Oumu469Dj8V_lnSKqJyd7bl2FlE0i_9bF_AF07UUgbWkAWVv0ebZNRUqR3TZhjZ7xJs8bMhGyGmBWU-B1OPMjvIzzXfbBmuU8IeYl90_Te6K0UOvla6oVkaakHEe2sAsA=w381-h285-no?authuser=0",
+		title: "First Month in New House in Lake St. Louis",
+ 		date: new Date("9/15/2020")
+	},{
 		"link": "https://photos.app.goo.gl/AwU18ub7896kmTGG8",
 		"img": "https://lh3.googleusercontent.com/pw/ACtC-3ev-iz2ZlIKYrMLziXJpCCwzqOTmAqpswmHraPx6XR-LTzXDugvCodNq2NreZl-EgVK_s1UsshLSjZEFMWGVETq3mWPYiVnSue04xSh-c5PePnRdPjTf9jum_00xrZ4xwK_nNYJOxvZuTgKxsUSdtfOqA=w703-h937-no?authuser=0",
 		title: "Visiting Schwents in July 2020",
