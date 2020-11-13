@@ -6,12 +6,12 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		
 		{
 		"link": "https://photos.app.goo.gl/mwgR8DBjBDWHeUET8",
-		"img": "https://lh3.googleusercontent.com/lyxupgKM6BhErTy3jsu4lOgiLeKt5GUsIj5z6q3wOf_BcWvtOrE9pc27rXtfBOxoW-1REJ1DBZMxnpT3wcwtffbVSdHyKMowVhPNvA4gMPH1sltkCjcOiNAqLUdDGicPLvJXUTma7Z3MrtqBJyntO-W2T0s7CD7Th3zHWyWEQsTdRHtVooDW8mB2af3AE0OewqchjkJCvRZlHBGDYaxgprp7VGGtvaJTImrpFx8hTAqdfbOQY9YuK8azJ9zqQ8eVQ3o6MAoebH_cqi3IuZSALotM_BIHsLqB7ZKeS3jkslbD415ZuBWCYTymhSlQm9HZEqWt5Br6Kh_mSVSezwbcx-kGooLWsR7fiLP-18sM97_VcUxsvzIwK97KCsyC-wZBScYAl0rnRKeewBIUvEeqq7c0a0k7fG7Q276JPpFV26ZZRfb0zMV9k3xVPl4DSVYB9hMCTHF4n-2RtTjbuWWYKHOvRgJBD3GKqqnX5qzQ9MPufqVoML0S5lvTHqevj7t0sQv1Yo9L0i5vWjke1yaEcYahXrQTzvDsRtuic54RgoABDvgaPA37jGyJq7K-_9seLn0jkZ-Vb6Y6zbKKXKjFNUEd1WwkMuINEvbK_ZQBFdAHWOMGJtNBa7EhwNA9GmbXt-7s7PGIV3V0MV00jk2bF06d9tySWpzx9Cc8JonkVHvpe8uugQv1iQ0b9jizEjdikPO7hPjXG0iDrAWMUzvhGivOwlJ7bAm0M04ptHbVUiyW5HHIIJICZoEO",
+		"img": "https://lh3.googleusercontent.com/pw/ACtC-3d055vAjll18CouH7RAKVXVKAo68E8-ZySlv1--Q_a7jKiCC1eGn860z28ma1SU45W9LPC_s77EFc9cBL_Sa-bdHjUBMe8VzPBGFPt4koTJo7oTKEJoT7v6IyQ3Pc5AgFxwia8tx0CjZoobgtVsiHgnMA=w528-h937-no?authuser=0",
 		title: "Second month in Lake St. Louis house",
  		date: new Date("11/1/2020")
 	},{
 		"link": "https://photos.app.goo.gl/od5q9WeHPp91bS5P8",
-		"img": "https://lh3.googleusercontent.com/1lYovkoRrm5rUdcojAHqbFL7tvKjGONkhsVioeRQ6KdSQVUDqHf_4KuRhRHlrZVuZzr94MXhLFon4fTlmGSi8juRfLsEa7-nkM9CPzIYX2bUesZRquaoXl0wCIgKEGp70N5X_qiw_ye8bFoXF_JdiXZOM3AsPkcUxx3q7ESKtI0a1cZoldUTLfRm2kx4hDD95b-qwQhATL7y6kDf0f2ke43DjbXRqODktquka0wblR3Bmp4qT2vaU6F259HD7A9DBYhRLFOa_qeOk-4YSr9qM4G0fgtZj7V6dADzt-t7jL3gtjW50HAvXCPw9Q7lL27aHwqexfomnKore61nW8eTZh0SOF89LD7uvpWNGnE71ii8ys172NF97OxSpA0RvaAKCaOQKao6poHQUa_9dRfgSbbzaA_pgZbyitAyhcHv1KUcZvP-qwzLnQk7prJY__D2AN8d45wxoDOh_9ih8xwviomk2D5nkyZtZz5YyfdFfLpHn0t1pGxUVSmg5r1KwQzZHLedx16TO7liyMjWc5AMHgfNqpsk56Vn-FValG72cpOzzCcJSUrMsERs4GrvTuw1PCeCmCvB5ciNyprOHXyZ0WQ4WCyyJ1m8wQSqOTGCl7T9ygy_7kUiJZU0k0jk58F66VI7NMc9D_M4mWi9isGGDEXqSEp9fzQbI4IwdH7DP4DFixiqT9L_qGBkWdjoYSRYrrqlWzOfXXM3B_oZQsh9CSvNa6sQroLpjovzHnRcA9qdtMZ--Dfy1moq",
+		"img": "https://lh3.googleusercontent.com/pw/ACtC-3e8K1uGcmYG7JVL0MlzYV7UVWHRc00XRuNSrvh6wod4y8oRKsV-YdGQHSSuRTrqedyepxbjPg_IJneisrTif5_i646TpEVDU7ERBElKF-_dYgF9kk51rWTBDnG_7wRkH9FsK3sobaR-vcpcbS69x0tkoA=w1666-h937-no?authuser=0",
 		title: "Visit to Schwents in October, 2020",
  		date: new Date("11/12/2020")
 	},{
