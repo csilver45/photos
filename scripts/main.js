@@ -7,7 +7,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/mwgR8DBjBDWHeUET8",
 		"img": "https://lh3.googleusercontent.com/pw/ACtC-3d055vAjll18CouH7RAKVXVKAo68E8-ZySlv1--Q_a7jKiCC1eGn860z28ma1SU45W9LPC_s77EFc9cBL_Sa-bdHjUBMe8VzPBGFPt4koTJo7oTKEJoT7v6IyQ3Pc5AgFxwia8tx0CjZoobgtVsiHgnMA=w528-h937-no?authuser=0",
-		title: "Second month in Lake St. Louis house",
+		title: "Second month in Lake St. Louis",
  		date: new Date("11/1/2020")
 	},{
 		"link": "https://photos.app.goo.gl/od5q9WeHPp91bS5P8",
