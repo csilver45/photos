@@ -31,7 +31,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/9DTAAPuNNkkWkEPYA",
 		"img": "https://lh3.googleusercontent.com/R8b--9iBGp4nespIqrbHUXa6Hs_jALH1S_KpEtwxJNJGOfUr_5NCsbdcAKXZ19Cf8Fic5X9POBbEfCVioiQ7eUg8sUu5tvsEn4sOpgKBzEEofgjotd9lc4cxnu2uXUmLCSiHPeXowOJKCC3QvQzHKiqishpz_3o32AMAUPyY3ir8h--6Z34CPTuORkK5XPsA8vi3nKONiqZBl2VU7NSDUsdBOjF3e1c5Q-KTAplaLrhmXreuaGC1BvYwkIwgKw6DHTxfUXnaHX_zPiqKBdrFypjr-EjBn2D-5zcJt2jni9_IuP_AS48i5EjRSyUXO3ni1CgPesvsyOljtcqLN2cjshhxigYFhgtLUbamfBFFRML1Fo3860TxFm2K-LdBfQsDfiAE5Isyq1IrSUw2EhAOg1FqCMBQlLmMYniK64POGqLAGhrmTujB6cWPVqdQKw5wPT_HrEGMEb8aaX-nfBIMpfC9qVAb6_dWcyah_RwsfYkXA1xdxi9Dmg9Z5CZSfHrvbElJkqzCH5C970-dR4_EMGpoIxycRjhekZUPBn2TWNvGO6G_bWwEaRIXmJBnK9AmFfEOFkWrJs_DaSIss1uL5y02OwGfW1TiygvWmkMDQu1QFI_hVIu56FPXgf_0xlo3jc6gVzd9WT_psB1uiuTU13hP73VtfyPQKG8WMQz2oNeEqzGPELykpeUxsAw7U_dFXEbHVY8oYqhm3nEqvFhvqWCIE1D9MVYxpxghhefilzzEtyTPdYcpOSAT=w525-h296-no?authuser=0",
-		title: "New Years Eve - Cassidy's first New Years with Neumanns and Schwents ( at Neumann's house)",
+		title: "New Years Eve - Cassidy's first New Years with Neumanns and Schwents (at Neumann's house)",
  		date: new Date("12/31/2020")
 	},{
 		"link": "https://photos.app.goo.gl/cV7y4X3KjJYAmD9M8",
