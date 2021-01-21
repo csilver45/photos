@@ -1,10 +1,44 @@
 /* get the img by inspecting a photo on google album, find data-latest-bg=<url> - double-click on the url to copy it
 */
+
+/*
+{
+		"link": "",
+		"img": "",
+		title: "",
+ 		date: new Date("")
+	}
+	*/
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		
 		{
+		"link": "https://photos.app.goo.gl/Q4xnpM8MapmwPFv18",
+		"img": "https://lh3.googleusercontent.com/QNZPiDCkS5OB3MF2IHyOst9dlh93oeELA4NGB7hWn3cituqTdGUaXQ39VQOOtwLxVKO2IupUwpDO1w18u1yPGxNjxHxoJ6Pxtuoc8rSduTooJoKuCHeKCTyvLNDueJRw__oMIzQhh7E9rL7eMtuIhXh1IcZE_cJpJny8fXIyYXW6fu0wvDqd-ZCVhJAuMBeQl2svivynQyBcQChwHDXsaY2x__r29DCOLlPd_bYS6CRztTFbCe8CSDUofekKnuE5UxqMf9zK0dy0UzDNh9DZIOtMojfP5RYMqA8CbaSc3aUmaoyvWTbp9bG7VOSaLqX0arAT3JNwOGOWWjmdJlLM6T4QGUftV5wkrjtJor9MSPUf1vr6CNaEHZVuWCtlajYq9tOhB4rievR4bVSDYz9SOuz54-Uv1zUmqTU7ET5JmZmD5DPSnhDQbwvsPAVsU_UJkLzJV9AFbrRLMHfBKM6nCo9Keoo_BA3f9zD2LL8tTWDRnJsv4PM_gAmerX1BEplSeIxvEdJp3PSw1lVO5gIPRNAzuy47kWmdiHl5mNHm5js5qpJ5PaBSw863Y7gsAn5HClwIv2pKzKRYIawH9SQToy4zEMwqhbTk9LYqhaKDjmU5Sie9_944JZrPdp96thOSi3qXW2EuVeu07NW_CxHhAn-Mh1ThTnQW9--yci4ojPgBfEw8953TCHR5tBBteOZx-FOYu6conwA0SG95wwpNWTktcS7BJNTH2BAg52fcFHbBdOZ21hkdrdpR=w232-h412-k-no?authuser=0",
+		title: "Chanukah with Neumanns and Schwents - Cassidy's First Chanukah (at Grandma and Grandpa's house)",
+ 		date: new Date("12/27/2020")
+	},{
+		"link": "https://photos.app.goo.gl/KzL5HVMu6FL46DSU6",
+		"img": "https://lh3.googleusercontent.com/q7dui0ZCC4pZ57VenNPlkLUuOrH2GRj0-kyd8qXHRmODTFO4NmGxGkp85DsEpSrSMQjpMQEXCtW7cuNx_LNkAEHXb_5-sYr4sd8qfNfghtO8SftALy4KhuAV6olXOIQEcsUn3SSfPNdP_tt1J3JK1XJlJzB39PKb1LK6nxYNlszK6R3f1B4ROLORWOxHVHqX0QqA9bkd1nFTDnUZzmWrwExyo-QaXuZzSKzLThCv6SUMVr6GuiGNp19RL2DpHKPtZs3L4JXinE-WveK6Syct1f-2VUhxUtCiUzsUVSv4UepHzpRXdcyf8im9z-5tPV8R91vgem8-x_pVtG8DSFqQJbUAjtrkUm-YQPQwb1s5OXB5npAUA8gN4o2anoVAqrjK0clro0hmjsnWXnB0jN4tVD9mP6Fw8atCTfFNBnaf36HoVW2t3w_YvoXsfiMAyY2chCrsM4UJvlDKA2v5mZp13e6NS3MPmvTjOQ8N41EspULGr7zxZthkOYMNmQXfwbQhFPwo3Ik_VVtL1NfZyUBkgji1FpfE495GtA3_29IhVmFvOYm-Z3NWjkv__KeX124aV0-nmGy7FuRJP8ih9m8Epko9Ws8ovFx-4zNTg3pz6XR9hAh0toMKTGdRR_lCo5qefaNX447c1R9Pz5_V2kBaIMxaJOR9iigWULYGomT3Mcst6LLDLMOIJxdrcwk9t609yqTQl0zKxOgPXGI-DVAhtIIq86oWF5qavlQqf-w5c1snls7qrQzuK7d8=w172-h305-k-no?authuser=0",
+		title: "Callan's 3rd birthday with Schwents & Neumanns (at Grandma and Grandpa's house)",
+ 		date: new Date("12/29/2020")
+	},{
+		"link": "https://photos.app.goo.gl/Z55Uc9zmNygZ4KKH9",
+		"img": "https://lh3.googleusercontent.com/oP1q_IptP3TO4xdZ0XCOmZVxsfLlF27fXsqeW6QjHyGUdBHfGkY0xKZS3QtR386n0mysnbgflLlQhoNQuJXk_B7ZMT6FZBEP1WZYHEu8VSdUw-zmsls5UKhfoyJZcvaqXHeTMD-miwYpu0a_yCkhlgltGaleKDiUmse67FWc3xOzwnTAVmuLnVSVp8gWafFyi0lysL3d8tej0SZMBcsiEivg4SzJ-fX6YRf7asfrvUSuKACrGj6kNxlifejcgucOTwC5_-Wbyq-DEY7sgtGBra3lTH4rcQe7_H7_sTp6P1zF-pVaCIiGu6RIY4f2iIBN0wY9qvRSoWXmXi5KjkjQ7-qGGfKcb8CSCWuf6jeS1NB5Mhva9DiVmGeLKCYGJhDfWeLqxHSTtRez9rlAYfkvSEmcsD4QObYvSST6xO3NxAepONfUYWVoL-OLruwLZ23OIQolJg2T_PaCpCXWDUIRhsvTMTpRRScSX5LneWELtf2umnf9HkrYnWxXAt-XTopqsPJ-dSred2DQW18_72XI52ZKZkO10R-jtlbGOlkvGToaj5EaDhhviJaYGsHpsqRI5-W0gufZKG3jW5Vc91DXVYFyXSxTYDb-QGUbmL1HdohvgcKeOVtarw8EtBrcpAkwLykQlbabtkBh5UBwwvAWR5WwAmY9UUobCrEwiBAsXcikdK2uRO4EYY8W58a35vc=w169-h226-no?authuser=0",
+		title: "Enjoying time with Neumanns and Schwents (at Grandma and Grandpa's house and at the playground)",
+ 		date: new Date("12/28/2020")
+	},{
+		"link": "https://photos.app.goo.gl/9DTAAPuNNkkWkEPYA",
+		"img": "https://lh3.googleusercontent.com/oP1q_IptP3TO4xdZ0XCOmZVxsfLlF27fXsqeW6QjHyGUdBHfGkY0xKZS3QtR386n0mysnbgflLlQhoNQuJXk_B7ZMT6FZBEP1WZYHEu8VSdUw-zmsls5UKhfoyJZcvaqXHeTMD-miwYpu0a_yCkhlgltGaleKDiUmse67FWc3xOzwnTAVmuLnVSVp8gWafFyi0lysL3d8tej0SZMBcsiEivg4SzJ-fX6YRf7asfrvUSuKACrGj6kNxlifejcgucOTwC5_-Wbyq-DEY7sgtGBra3lTH4rcQe7_H7_sTp6P1zF-pVaCIiGu6RIY4f2iIBN0wY9qvRSoWXmXi5KjkjQ7-qGGfKcb8CSCWuf6jeS1NB5Mhva9DiVmGeLKCYGJhDfWeLqxHSTtRez9rlAYfkvSEmcsD4QObYvSST6xO3NxAepONfUYWVoL-OLruwLZ23OIQolJg2T_PaCpCXWDUIRhsvTMTpRRScSX5LneWELtf2umnf9HkrYnWxXAt-XTopqsPJ-dSred2DQW18_72XI52ZKZkO10R-jtlbGOlkvGToaj5EaDhhviJaYGsHpsqRI5-W0gufZKG3jW5Vc91DXVYFyXSxTYDb-QGUbmL1HdohvgcKeOVtarw8EtBrcpAkwLykQlbabtkBh5UBwwvAWR5WwAmY9UUobCrEwiBAsXcikdK2uRO4EYY8W58a35vc=w169-h226-no?authuser=0",
+		title: "New Years Eve - Cassidy's first New Years with Neumanns and Schwents ( at Neumann's house)",
+ 		date: new Date("12/31/2020")
+	},{
+		"link": "https://photos.app.goo.gl/cV7y4X3KjJYAmD9M8",
+		"img": "https://lh3.googleusercontent.com/oP1q_IptP3TO4xdZ0XCOmZVxsfLlF27fXsqeW6QjHyGUdBHfGkY0xKZS3QtR386n0mysnbgflLlQhoNQuJXk_B7ZMT6FZBEP1WZYHEu8VSdUw-zmsls5UKhfoyJZcvaqXHeTMD-miwYpu0a_yCkhlgltGaleKDiUmse67FWc3xOzwnTAVmuLnVSVp8gWafFyi0lysL3d8tej0SZMBcsiEivg4SzJ-fX6YRf7asfrvUSuKACrGj6kNxlifejcgucOTwC5_-Wbyq-DEY7sgtGBra3lTH4rcQe7_H7_sTp6P1zF-pVaCIiGu6RIY4f2iIBN0wY9qvRSoWXmXi5KjkjQ7-qGGfKcb8CSCWuf6jeS1NB5Mhva9DiVmGeLKCYGJhDfWeLqxHSTtRez9rlAYfkvSEmcsD4QObYvSST6xO3NxAepONfUYWVoL-OLruwLZ23OIQolJg2T_PaCpCXWDUIRhsvTMTpRRScSX5LneWELtf2umnf9HkrYnWxXAt-XTopqsPJ-dSred2DQW18_72XI52ZKZkO10R-jtlbGOlkvGToaj5EaDhhviJaYGsHpsqRI5-W0gufZKG3jW5Vc91DXVYFyXSxTYDb-QGUbmL1HdohvgcKeOVtarw8EtBrcpAkwLykQlbabtkBh5UBwwvAWR5WwAmY9UUobCrEwiBAsXcikdK2uRO4EYY8W58a35vc=w169-h226-no?authuser=0",
+		title: "Time with Neumanns - 3rd-4th months living back in St. Louis",
+ 		date: new Date("1/3/2021")
+	},{
 		"link": "https://photos.app.goo.gl/mwgR8DBjBDWHeUET8",
 		"img": "https://lh3.googleusercontent.com/pw/ACtC-3d055vAjll18CouH7RAKVXVKAo68E8-ZySlv1--Q_a7jKiCC1eGn860z28ma1SU45W9LPC_s77EFc9cBL_Sa-bdHjUBMe8VzPBGFPt4koTJo7oTKEJoT7v6IyQ3Pc5AgFxwia8tx0CjZoobgtVsiHgnMA=w528-h937-no?authuser=0",
 		title: "Second month in Lake St. Louis",
