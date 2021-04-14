@@ -12,7 +12,12 @@
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
-		
+		{
+		"link": "https://photos.app.goo.gl/QNAYAig6mvtarixWA",
+		"img": "https://lh3.googleusercontent.com/o3Qd6cutEd4-brqALvcXuwJzxXR6h8z2RvBqLWHHmUCQ3XvPlTMs8-hdFWF_HG70B3GxtcRiJ5SUJ4ACpUdmfK3gYQB7ZoujwxxifRi28Mne0lMxJbOY3leu6zJOdqrprbyiT1FvlOymZMHjvOQMO-GekQKATGLnFNWuJr_yuDLSJJ5phsiSECIqu2eBG6kfTeOFMPcqbgeFsdAK8u9yZKLLBinJGD-XMhVvNeMchjtmdm_4qgLltTRJQYm_WyIveGxXsXNGwcFhZknHp6I6AETcm5Rp5p5cxRsD7rcFvxCejNokjWJmIGrLvzJazUwXlxuADp8BUTPa15MQQ_YN6LQMgbl6q-E1fWNjp4JhiX4wqvJtXOCMVM8fEK2DGnAn1waVBorE6YcyBYHnDGUHOm3hPl1w3f4Cl2SsCcvepOJNothYkwo9xr3V56d8Zo1SdPBXsTjdzy4vnqgjK_Jz9E7v3C69NCKLTQZkUgTqA4GUX0-x5os1r9nYS5_rYZgPmykWW915JluQ7jzmtvTwN_cizX8m-PA_3vKY8bIy4h7zmkvgOqvu6-Xd9vLSSgBSBid_Bajk4Z8w_CHnFCyjAzLnjJQW9XNVvTLPAJoD7jJE0VyYnm-McwiFqDzU6OydUwoLKDZ4hWuf6jNKxjiHd-CeFrCKPXBI08TTOzd17T-KbtA6hPyP5eGV-bW91piuCUQzGA1HY_4aIMeOn3VUsvrJ=w165-h220-no?authuser=0",
+		title: "Time with Neumanns - 5th and 6th months",
+ 		date: new Date("4/13/2021")
+	}
 		{
 		"link": "https://photos.app.goo.gl/Q4xnpM8MapmwPFv18",
 		"img": "https://lh3.googleusercontent.com/r-k61YTl7sOOXS4Cnutyy2l-ava2Qm3MNSp8gJywZZirc3XX99CAF7YN5KBg1xbp9fcDfzRcPGs0t_xjhYxoG7kQAIRy1TMROzIQDnTYSYipiWLc2Z0rLyzM7W_4KUzgcXr7awNF8zAJWbR8b3Ux-e9jPTc4nilzI8MMqPRNALDoBrRvG0VMrPjKSlP-PNVYvb6iaVA6wPbDYcbWQQlRaWn2-kGQHqOn2u4a43ahdxUK9zTPfZ7QoUj3HCCauxdfRtc4KiS1vj-Y4GPPC3G_W1YpPxwOR1nGE7pZFTr3oOHS9aKXEeYNWxzPiD9psko9VIYFgpUXfYwckVHWTXeZbhPuC06r2bCVRuGEum-WQ79bAGCNHT0xsCgkZ8ciGI39RTNf862hISDf13izFrotZd0627f1dZSFhFLNA-hVEtcEGVmXFn08wnXUgQWwSuyDHTC_C1By_DRQYygdNAxTARifgTNF4tLO1p3PUnX2vTUuEmI44C-QtJsJuOc1PJ0hRl42XvB6-GOHel9T2xbLJjfKmteAHqb2kmjYxRs9zRuV6B8-LJRivTTvuVSTQrH96v1NJQKxHn56ABj5WC28OE7oAnQpU7khDMeSAHtvjYlFVE9ZonRC7936JPkS7Wupf0mcukwFRrz-j73hBg1XXWagiKcKLGHt1wgS3dxLdyq8MDDb5sBx2u-nMOu4fm2hiiYHpWC5Gh671jGtdqVqTVr7dwZpA8p9NMSxUep6bJIoxFgwYm9FrTTL=w443-h250-no?authuser=0",
