@@ -1,4 +1,4 @@
-/* get the img by inspecting a photo on google album, find data-latest-bg=<url> - double-click on the url to copy it
+/* get the img by inspecting a photo on google album, find data-latest-bg=<url> in the highlighted section - double-click on the url to copy it
 */
 
 /*
