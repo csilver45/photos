@@ -14,7 +14,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
 		"link": "./CassidyFirstBirthday.html",
-		"img": "",
+		"img": "https://lh3.googleusercontent.com/DPGeDQ8Z1sIwxCXttpBrUW2nNj4jxDR593cVAJkRCZyGavhZLrBcHHWKQXBPiwxOT2tvF4A_gDd90hKUX6P2UmTI_NwsrMyiGhiO5CmTH3GVMZXayfTM2LrwtivI-n7gjT1CdCM1Zaj5ClU6s2yh5poF_EMFPiI_ctbfKhH60GSg0xfmUWhA6PV04S9Z9J3cXIHjwZ0esdk0xr572MNlxVlv0DCiZMJ_8yuQmJT1jDseTgI8yKHPz5Dy2iaSEFZDo5Sw_E5qnUm4mwTDk_OZQh61xKnT30ZOx57pnDuyA0S0HweAFZnNnqMvDbc1DGnDXk8Yssc6zsw2-bjMhOGgbeYTuITmKVoLwjZBriHf-40TrGQ07v8aTrnhA2B5fkE0IvYfnUMqHVwW-wOU-v06wo6UwBqubJA7Dhrk77thwTzmNSkBGcmkL4VpesoQxbopNThiS6SdmqbGe6x3PHfqXXq8rVDnB2KOjPfcGroh8zQXLkzOg_K0Myz3GWZIXt0FGSv70G1NWwE9JZlWpkiNkEtynzCBD3K9PUBTmLB0p6OR25HwR3yAzXuHcf4oWFh9h7173QDsmom4P5VLXK5uKySLNDAUe3yaTDsEXPbb3l88QtMeoP3D0ZbBKBwbOEzwy1aOMAGB8QA-mkoCsVnd9DyzIlu6SFg1hvyrsFK7kgneeWgBPN6ykIBxMcZ-Gw92WazV59zkGETu_zmnibelMISY8QHtPSFilUHEnZdsQ2YVVbfUwIBWCwQlS-RcVQns571ZgAM5cdy-UGOCr2M=w185-h246-no?authuser=0",
 		title: "Cassidy's first Birthday",
  		date: new Date("4/27/2021")
 	},{
