@@ -13,6 +13,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "./CassidyFirstBirthday.html",
+		"img": "",
+		title: "Cassidy's first Birthday",
+ 		date: new Date("4/27/2021")
+	},{
 		"link": "https://photos.app.goo.gl/XoKNSCGtPxaFDLA9A",
 		"img": "https://lh3.googleusercontent.com/9WaN4eo-zWcmUrMHl4SnGuJVn-t_5lQ_Fa9jg7vTtqpnZ8Ikwelhh9FdZAAAEfXlTumuSp8pelprYRuIqz0tTNHr0zE5RnXGnFNNIM4Kj1XxPVt0QF9g9hqm2QWe564KmrWrp9jsDFEXm04hVIhp4FGGz9YWrHnZLwphnyW4tYdqSNvnTWTQAwJppiJ_dTK0m6327tp7vdVKkk6k-ok--lDq63BavVhpzMWvNAZSDmDqz4SGaZ-RnK9GLGOxe9EqgEf3Cd8UcwE1wm9qhq8EgMxMq8Tkhl8gBbU4km-k167QJ4CP7nPZHBeWUGM2yPUYYp3OUxR1XFtrhH8H1D1TdBbxp2THTXjcYuck49_QcKku1HzvDskIKTQDoy2FyvTREH0jFR7_LFr8HVJDOfHKxCwkdsGmckY69c6JyF2WLdceiSqF603h3JA2wDTRficSAIpDQ8Oiuqeym7bsNgVyRHvJLPWqGksjBGkXi-ZIliSmKqlpCDuE484c2mxLT5IVXVUOIEoJea9fU_ZE01LiSH_op7orK1PJA2hUWAbacnQpQxNvx7aDima0KD7TcbN96gJS9BcYaloYBdwUbDixex71vGMDajod0bqvcpxs0q_TaF83ON-FuRU6fhinWw8D0ycewC1F6bPYe35qpim969MpEjwA36pw70-GBpb_AJrxUBGuQiDs_7h0Pou5gw50w_Sn-CWXCP8JZKTA4na96QBe-R4wei-acpBsNWO8LL6aCL3iKJk6r3tdboNO9z22uPGlob8M_3P6RSANfA=w168-h224-no?authuser=0",
 		title: "With the Neumanns - 7th and 8th month in St. Louis",
