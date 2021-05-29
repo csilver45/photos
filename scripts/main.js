@@ -13,6 +13,12 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "./timeWithNewmanns9thMonth.html",
+		"img": "https://lh3.googleusercontent.com/14_sAVpVNErAa2NVA0Z5s8c0eo1Ejlw4Hd_br8sAzW7-1105mstQfD8JSOOjdLXk1X70CyBaON_jR5peJTopOkjeSt9YcotAIE5pche7yd7Ok6ZP40bZHuiqmYZNkNWlZ9axDh9Irm6gcQxMhbQFfXIkcz_f2ibwWwBx3XZiYSk4eSOx1sFRMrn3nac2Ka_mvSDd1-9987BIKzb2qeQvPtzNUfSg3GJTP38mk_IoJxlYPPGniH0tkmtxTOhhcXJpbi_c7l1UPPrgUHPmnXE6DKkokbRixkGXF0bxg_mHP_3mXAEgo5lgB0sI5B_XcgBG1x_i9I2u356wn0Ana9q2X-QIohKdCbNyeJ6tNib4eT95Sx2VeEuJpKPLVUdwDMXiF-mypetVyPEDSo5kHaWd8LlUcHo6yW6mfQEcy-vLmRNVbf_Hoyqy8TMqrwSYKmakaODi-Rd-cmi062972nSwroWtFMlm461Ehix0RHk-bDxPsL1ub8WjBxiVRu447d-lhdRFtgLjI4SbD3yXos37SHMGkGCgwZIUr-uH4bnNr461VqyKvXFQuczlOPQfc7QLTinNElptzFf3evjwg_ReyU62i3kOhy1wGggjrWdPzbDX_4i9LXpn4pUGzDhr-x__3lPiekRW6fXZ0NbGXw4KM8clC24zxxife0aOngvX8S92eIUONjMfea2asWAhXm-j2XfMJaN-cqDFVOvJUMW3x7EInw=w156-h278-no?authuser=0",
+		title: "Time with Neumanns - 9th month back in St. Louis",
+ 		date: new Date("5/29/2021")
+	},
+		{
 		"link": "https://photos.app.goo.gl/zNs4SJryouAVtzkx8",
 		"img": "https://lh3.googleusercontent.com/itfUSJ-M4oiIdTVX2CNei6gpyPSOEW4hl6ZZlXbQh_9hXOgKA65i8fkYe0_p7i9Encz4VsuiTySgqjGBtI2OjXsyAhVyKSmLhnV9bID3gKML1_m-TilvCc_XmsHsmaackssvutNIh6lW6sQs8CrIeXbKBHVUFzrlaoKVs_cBzKfLW3SBZGSlKAfv0J1HXoc5vc7PSoFOa0kBclAmGX6WxAOHGeYvGSzUr5mNUPFsDtMCk1276diymcXxGEtuP7y-NO4tnzeqLHSM_nCKa44enQnX281fR5Qbut2au7kmFlkyhLCgd7suAdoweaGsgP9h0Ps7XEom95KPi6z77Ulwh-_HklPHiTLnxXB122SRjG5XvSnY6oQciYWG65w7TmIWeFjEWu3P5HMh7a8s0c85_guEij3j8HS2t4-OjesgIbn_gO_m9moN9FBdLbQFuinJvDAEw2bq6sDHQMtnjYaa97XkF4QvlVALm0_-0UQGjpSAS19itawHWUpLU-Zdp7zV41UporXmtDhFHFT23wNKDYbyW53ZiwwcKOBZYeyFSYevl66nCjM4SGn199wS3ajJbjse5OWwy8-_46zQLb3CS8VKvVQ4DGG_lS0fiSDJN7EbZuddL9z8lOd-bWGzvpon9K9v4bWe7IYiMpNnoH1DkbXknV56cJ_yWbmLLrfgBRtI359zl0X7THTqbUmJUjVXLrMsOJVqbI5N97o8TDFTNO2CoQ=w412-h232-no?authuser=0",
 		title: "Florida vacation in April, 2021",
