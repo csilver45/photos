@@ -26,7 +26,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/AWZkV9EGoagMNaPR6",
 		"img": "https://lh3.googleusercontent.com/ZDPxXOmTDm3VMDdAAnGABZrEbtv-ngl7IZ4YVmnOQ3mLthjGhrI-6_zbljnaY_R2d2rSQWOUuTmzWuGYqmTJRiMFLF6VV__hPysatTBstNg09y6mnK5NbTogY9g6_QwkNgTjq6S8LhXqD6IWjpUdTuB8gAK7mu5jED-tLcUIDOfIXp1xZ6x_B9o6iHtciNtmOxmxpjChQCINpMLOFmOfD0D69rnf9q79Lph8p0sLIyklgSImC0upp46kk00QTgyPbkSKe_gtOetWUhxNYvxl8P2CmcLURDD73SzpWq4sTbGoIT10nudp-k6PqZV6_k6Cen51w5ctscWCNVjOppXusc3YeKzT6VxGs5Od_mgZh4kMglDUFXoyRJeUqGEsSOWs4icESLvBIqYOWgI-rr0uKbWJkbDq-fOkGFANG_YfZukJ0gsGRhryU3W-WQWILahYtNO5gm4XuBkUDBO8-6VVCn9DdoncHkJw6s2xb78vqSGVvxrKpFtSwHeJcVzWgzSKyRKfMoTyhdQ-oiFfETmn2VPnbEH97rNXcqSFw5kYmEG8rlLoJlYrZ5ylZdHwtNFW42Cp0tLDPgWOv41QTV6WHeMufoIr_wAk_gl-aDvi49zxxkgfZxTD5RARDFCo95DLmVMVa8XooRgYVMq6TmrMcmhR-Opb2C1XjG_vEQ5OIyuMXUvs0U7ZvumWZTxvapdgZQLPLqPbBBW2X8zfKd45tTtu0A=w130-h232-no?authuser=0",
-		title: "Dan and Eric visit",
+		title: "Dan and Eric visit, April, 2021",
  		date: new Date("5/28/2021")
 	},
 		{
