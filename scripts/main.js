@@ -13,9 +13,14 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 	{
+		"link": "https://photos.app.goo.gl/7NBuKg4eUQokgQSJ9",
+		"img": "https://lh3.googleusercontent.com/1bABMbvBRczU2pwyGoAou_pGfPm6xypdecWxcqlz5Co81uFN177g5l-pXVeiTdgbxuYvaQxLnBhcOybrOJXwjIS1QEWJT7lyKmLE_nGRPSHw9Igaj-zliXMIuqIdpMfQyyiFod3K87p84ul1eR6jnQ4G3Y7sWHv2uK_Z6XAx3LrVCBjhh6PjATsmlrgHssG3PYlhpjeuSQK0uI2WpcOX6rrpk16enKpqTBBILfQQNVY0UOYVEYPQTNH3eCW0GeqDj0KjFoB1wHN_2a7nh9nE8zwM-so4FtFh9hiUs7_eX8Y3UUfkhRVL6N6j3h8ff_vvAxbQnGGhqZx-w3KtiYSTCTQeZ5AukAZbuzess9-54l7-vYuct_ukflgOQe6_PGug_0FSplyPWk4Cc46bwxHZzW9EnVVJIdw2lWbpk8MB-Yc1iGulicGHKmeOyGuLPdP0VKWkfcpz5_O8dWXGdzalE8Y6WjATV_XuNHU2XbpAB9f6-zZk9eh6PXkRrgjBEObR6ryz3so8C66GfZ60gpJ9b-i9FMIR3qVP-4HRSWtdLBGXSev7a6ks-m0Wi2BIW7cyrBXUEertcXcoSPLzF5ljBT4uj3dEpUt47waU2cNbnOfC2g_gPYdumbJQA4dh9Cso3dsz2SsuQoveGoUR5BB6cUKrRdlkN9TAiPXkgmS--QsBmdJR2oRD9o2Q1no0eW33xEm3IcySvIEg0ex9tCbLVXvm=w196-h261-no?authuser=0",
+		title: "Time with Neumanns - 11th month back in St. Louis",
+ 		date: new Date("6/29/2021")
+	},{
 		"link": "https://photos.app.goo.gl/SnAHBQ3sHD55sh5b7",
 		"img": "https://lh3.googleusercontent.com/om5f7oAkweRpaqigaEtZMb_sfDEl4HSU2BUhNinPOG4pMJNz1isFvqYIdp3E5Xx564J6ZhbQgn2cqxmcEcQtVGnXINl2crp1z4KztHNSq6_3NUxlblnEC8amt1ZQPxUdLMzp-Znsq0fcuN0CObAcZwBxsXOC_EbRC0drWpvMBsE9cVAPKMdy5y3aIdY64yS_jOV4RsACOuzibW9J9Mri22QpbSgXqqZe-hSxBhqeSXn-aFAa6yar9eMt-NClDaU3Z98DUTw9g6uG4XkZMisgKYyARcH9Zu_Xiq5qw8teHZjCDJr45nWEUk5q9Y0wqQQnTSs-9OyDzvp3z_Q-798gXlm9cDhXZYWxufyTvjQzKw8vsCDX4Y4uanwl5TX0CSPpllo00nBsaXSpjbMpGQ0yYGfj58rhiMGG1AfJhVI_YuNBdjDLTH0AcZN392H9hrcy8Jdu586uXQGeWdrpetAckDQdiZZE0S6eopvgyOAxaWOOQQMDz-YNp-HXuJn9JsTG6MODZYbZ__3-nL9MkVJsMGG_vIoHyQXZPzhAvd4Q4xQUOx8KROopWy_mZWbF4lYvmr3KmI8ztv1bVJ-71eJfl-JINllZB_iUoo7xvtQxB_34z06v6fEFm4OYrJ2KOG2AtP-ZoI5jy8kGnaD8ykV9XZsHy407vSQ38iuRZC-7MSXq91zo-1cIbRhM_7VrxHhIvM4D5M3y-ejfdyDBUb6p4ciuk0_Xv7SrkIO4xwWZ0HJOTS6PHv5jkI8KNootaKzDyJle167Gd_ZVqKngYA=w156-h278-no?authuser=0",
-		title: "Ft. Collins visit with 'Schwents",
+		title: "Ft. Collins visit with Schwents - June 2021",
  		date: new Date("6/20/2021")
 	},
 		{
