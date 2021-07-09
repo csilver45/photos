@@ -13,6 +13,12 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 	{
+		"link": "https://photos.app.goo.gl/SnAHBQ3sHD55sh5b7",
+		"img": "https://lh3.googleusercontent.com/om5f7oAkweRpaqigaEtZMb_sfDEl4HSU2BUhNinPOG4pMJNz1isFvqYIdp3E5Xx564J6ZhbQgn2cqxmcEcQtVGnXINl2crp1z4KztHNSq6_3NUxlblnEC8amt1ZQPxUdLMzp-Znsq0fcuN0CObAcZwBxsXOC_EbRC0drWpvMBsE9cVAPKMdy5y3aIdY64yS_jOV4RsACOuzibW9J9Mri22QpbSgXqqZe-hSxBhqeSXn-aFAa6yar9eMt-NClDaU3Z98DUTw9g6uG4XkZMisgKYyARcH9Zu_Xiq5qw8teHZjCDJr45nWEUk5q9Y0wqQQnTSs-9OyDzvp3z_Q-798gXlm9cDhXZYWxufyTvjQzKw8vsCDX4Y4uanwl5TX0CSPpllo00nBsaXSpjbMpGQ0yYGfj58rhiMGG1AfJhVI_YuNBdjDLTH0AcZN392H9hrcy8Jdu586uXQGeWdrpetAckDQdiZZE0S6eopvgyOAxaWOOQQMDz-YNp-HXuJn9JsTG6MODZYbZ__3-nL9MkVJsMGG_vIoHyQXZPzhAvd4Q4xQUOx8KROopWy_mZWbF4lYvmr3KmI8ztv1bVJ-71eJfl-JINllZB_iUoo7xvtQxB_34z06v6fEFm4OYrJ2KOG2AtP-ZoI5jy8kGnaD8ykV9XZsHy407vSQ38iuRZC-7MSXq91zo-1cIbRhM_7VrxHhIvM4D5M3y-ejfdyDBUb6p4ciuk0_Xv7SrkIO4xwWZ0HJOTS6PHv5jkI8KNootaKzDyJle167Gd_ZVqKngYA=w156-h278-no?authuser=0",
+		title: "Ft. Collins visit with 'Schwents",
+ 		date: new Date("6/20/2021")
+	},
+		{
 		"link": "https://photos.app.goo.gl/oF8tcUQpYVetewy6A",
 		"img": "https://lh3.googleusercontent.com/VV4bkd8b2Tp4waMF9Ao_rHIW6dSBj1uPWsIdqucAutwOEW0Df6v8xhyh3GMq6Pg8fBye7LnPbI047whoKzR7Bmt-u2vW9qKorJs-diJQZUfSiPDPrrv5RvZ7Rt7kf0Zi2swn4utTPLcFJe3jBjAp6Wnq5nAtKgLWBKH_OQ0EUx8qZHBAccVkyJRt2LatF7EImElLQw9Ssn5pmkPYxDpXvUMMgCUDfxRNxVTRCOyGBi8gLWtyY1-4M1_ADxWN67L2UPU75AAAeZ6CwImoYylmIokcPlTJR4D_PHg94IJssYQV3AQzRkAgRdT8x9PjLWIGss0pH2TtQqUj4SSPRJFn9EezKx-07qUe-oKUKa59BRrHhZx4qy7D_SNGZHgwByuOYmXMywSRtnzEYbpI3QPMH6AFqU1UB6ewquMvvNqLKFbJt-W9UA0ttq4TkZOgmhpwZOk6egnoZrPIt2hsBevW3DPICDR4yXkZrAtBTt2ptF9p6ce1JITPukegtCUAmK-vU0ODbdqFiYUfibkLkfBOoGX5V4gzK15qjbbWbJicKE907_b5PT27qWjq_X3yqN40t_xoG1S8yX7FdAlwyEwpjJqoM9N-6zezmjW4Ap4jz9NLaDdqxZZalmRBnfno9I4KR8S095LPnK2CqikWaPzpchy08V406YguQwmdgCBD10haBEix_0T3YgGDQ7at3j6o6Bt0p_R01Cdq_F8tWDswiQ0E76MBVIUba5rybH2h7JizSQri54rDobLiroY60lNMk7w6MPqqSiFoIzlRRw=w188-h251-no?authuser=0",
 		title: "Time with Neumanns - 10th month back in St. Louis",
