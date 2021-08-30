@@ -14,7 +14,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 	{
 		"link": "https://photos.app.goo.gl/yRmkfmABtCtDpaNG8",
-		"img": "https://photos.google.com/album/AF1QipPLzChxC7C2RFymD83XSTfrm3twLUepbFRasJVp/photo/AF1QipPPkTJL8iHhexx50SkkXxtDGv7-_EvHUJVUpTtm",
+		"img": "https://lh3.googleusercontent.com/vTgVur-h8n3PD-Yx7YyLlMWhM5QuQdOiVrDuM_VOMxMXcxamY0-gVK7SZOHE6t3Y9zOSU4oFWHmIdMxGZTHyNTgpx6CUQWyCygkFgv9wm3Jl0lQs8f3y4dkqQ2LELtfzJL4mN4Mf0yeSqZ6em4viARYyVwCK7jKb-TG2N2JR20GoeJmBOgJDuDQMl8A4PntJ2nFdIheVns18oJDzE31tiNbqnF42DjuiUthZcIHxt1OOSpqKX3RycRA3MBJmKs-YqdFOxdvPlGNwgOE5_Fp5G5kHDJ9PT6A9T2gbPI5sWs0rCnfzbv93rTxJOw3edKR-XNB11svn9P8Y_LmbfTyV2kh3Oefy_SB6ZEkq65iI-4JX0eriepqwAoE1cKL6cQj1kg_H6BcE8mltgPSrPpBZ5bKbgjds1Q5Tt9vpqFjsA5mG_PYTySmw3_Sf0TAPIQd1XyiTRcjO6m2cuC20jWTOUsOfc0nN3CPX_aAYkMtJkVzhWXEViuPkBIldOaAq25MMnhSjxKENUIscCcNWVbSDnaDCWyxEZbtAaXV9KJMtMwzmaZbjlW5GJW6FVOscmLwBBuSjItRG3hDGavb_Ui5ZMbCdv0XoNe70tRjzqAZMHEyhyekkxSDk_vMxEHFNf_nrF8KPg8craCy5iMYHjrL5d85MivLK0PN1Lk1NigCUy2RrET06E6dG5f7evMCNQR4J8YmbpXi_shVGIe1rpfb3PN0F-OLdWlYePwbj_WZxZDzyJsWIHcyfQjlkfKZ07HlDq6lQS4Ym2BlIn13OVDY=w136-h181-no?authuser=0",
 		title: "Mid summer in STL with the Neumanns",
  		date: new Date("8/28/2021")
 	},{
