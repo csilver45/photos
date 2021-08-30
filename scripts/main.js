@@ -13,6 +13,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 	{
+		"link": "https://photos.app.goo.gl/yRmkfmABtCtDpaNG8",
+		"img": "https://photos.google.com/album/AF1QipPLzChxC7C2RFymD83XSTfrm3twLUepbFRasJVp/photo/AF1QipPPkTJL8iHhexx50SkkXxtDGv7-_EvHUJVUpTtm",
+		title: "Mid summer in STL with the Neumanns",
+ 		date: new Date("8/28/2021")
+	},{
 		"link": "https://photos.app.goo.gl/UmXEQaiumDT1vU1S8",
 		"img": "https://lh3.googleusercontent.com/VNXOjUYLcZT8ZC7mwGrTtKiYE6vaFq-5OXnM49kuFoHAAXuNKR8ayTfdvVWtIIKYP0l2hAIcEFeOrxUhx9Yeu6ZGO3qBpe6QYdhgHvTGQMQp53zwdRgZBkrSIkE1HFtvmCKZMGsh-hOXFMmHHygxmMyKhC6uOyqUy1Bpek-qabLxoiuzGeGf0FxdEjTAKo2iPvmtqgk4-eD-VT0M2egLvlhRXxJVEj4uzc1t2zaiVLoX4b80YxIKk6uCM_LIw0D_nX1VF8_kEJ-jHdaU1crzveluAOgHmr3QKED1wYEAiccbCBJuwxvKVLzjJ72b9Lfl0nUebMQHGqZk6zU6bzKDEmVNdQM_xTbE6sgVVoawCxYDuZEjtKH7hFMPB-9qm224T_aF0cs9QHeToR8HBdDB_bUkzgu18lCK3sV0FHH8SIlnN6pREYhkwuLJi0MpZx1IxioV-jyNXf_ibBuE6GUU_rP51bUPWzvdxveEw0GqRmGub7J2jPp5RbiK5oSdI9yOmH4o9E3Gip2xV2AY9xOb-YTBN_w4fbNUtual4gQz_LHa5snTtUf52_GRoGTHy-UEZ1GgNFPBzdComR1LSIc78_agJrnmiqHXrmmzFlrC27hIP7ZNK-Wase5Vt9aQ0uPXNmzT7B-pFvu48-cNJBc8QK2glg4vD_35gvyibzLGRvj43fotpPJ5R63V2X0VfSi6CBZaa6XlMQIXGzpEQW4hdnqvB8K4s6pf4VFqtJDHh-y8f2AEAq0PVomoKy8G6ceD030kHA-Zwl8ZvY0aSg=w188-h251-no?authuser=0",
 		title: "Michael & Emily's wedding weekend",
