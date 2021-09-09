@@ -21,7 +21,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/pxdyvFrAJTCLNGAc9",
 		"img": "https://lh3.googleusercontent.com/u0h69ggQ1giJm4Gf5u7iCI4KmUutUbjZN2FWQuCBP34T7O5i9pTvcotg4Y9SrDDzuVY2JuyWUD9D6SUh_GifCIo-Zq_pvl5p7qFV29MjTJW7SL6T5m0sPuag7aeD_U_w3_WlO000NLITTIq9wRNnSJDX9HxzOvoH3oB1z1ZS9ZNwpuMiE8ndEydS_zx0M1sw0OOmvvImigTMT22xMefCQgEDKC3YLeGfdNsi-Ag929MdOj2EZBX0vKqJscxE8PQ8EHBDYTMbrM-jP19kTrejAeSeHUm60l8UK1-mMGi0NxiQtKJqvcdsuQxPpcBRxxUzrBqDKl5453mNHcicTB-tDpNk2sCgyk728aaD-QkgD8pDyNAvrtpmixk5CbPcF-FU8oxDU7qFSQJe8bU5-RGU_5uWiA_0kzYCiGANrp_axhGbvyLzeWtoaGABKylLDYVwGlbbyUEHwzUKPz7PgeE73MI0gN1zpDamUV4_40bot6xjMUoHXVTVt1TrNYKGW3sIFGbsFxZe4diWLb8ihTGtNYmmA37nojVoAZVj08XcWtMtluAKmW84b18xMzzcbOS2OBL52yqcXptEGCHnX0GBi1A3xDs4TLjdABgbgc3eUoA253x-8agkQi8vjwSjmcBOVpPkSnNWrFtASjhVABJnqRyQwgMuRaxKTa6UBB9OMULxoQUogfnlWWzRBIUMvkwdsvplapNLSrGqoPc04IUwFHuejg=w494-h278-no?authuser=0",
-		title: "Late summer in STL with Newmanns",
+		title: "Late summer in STL with Neumanns",
  		date: new Date("8/20/2021")
 	},{
 		"link": "https://photos.app.goo.gl/yRmkfmABtCtDpaNG8",
