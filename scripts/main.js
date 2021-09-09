@@ -15,7 +15,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	{
 		"link": "https://photos.app.goo.gl/zj8gAGvAzNtq8NzD8",
 		"img": "https://lh3.googleusercontent.com/9sWtjfMmrU1PVwAel_HA8j-kyfZumu2oePgR5UdvFp__Wko23flUGJpnj7ar9CIPbzcx07ddtDMrT3wWNkmbS4iJX-SAyWSNItc4noaIIwGQSB6c3gko4GQ0y4JPlHad5wgqOaSuS-pvE5p0Z8chgfnvufiEH1UjNR2OAb2o2tD3Ys1GpogwQyU4l7mEZ6uLvf8a5wrnTlMfoi8hDaaPcIx_zXcHl-QEJzZ-8q0nilR8W5nHPVvjEnYE9ocNtehUN1bccJlAlPY7RN_dVCYBGAQ49IUUc6dwRvNHRZBAa6rPLhGROZjX3PWSn1dDI9hhBL2aRrJOKoZ5tlpOlylvTpeNMZL8TKyxLQ9HZveIp8eAtl3mmOD-Wu7UoOT22DaHvVtlfGBKl4iA9sq5bCcR5w7jrEme70V6RJxI_TROqu8dJXYrqm4gb4-EcgxSbNo0R99sM-QvIQ88Ibii180RGI4p3adaAfNTpNXXci-1q6yCPWuj6EhslS0thqeAFY7G58f6anRvt_B-JifLMdVhe_aGHYOMysUcA6PZpabjCNkDnKMZUZVypCjml691Z4ikGV2D_3EHqPZ79BBZ6NGkC0nR3ZElqbd1LhyWgfWuILy3aoXb1ESN5ECV1IhUDDH5u6-oJpgEcGrAxXPGSsV19PvDjFRB2jRYHkVUSNjtXUJdBNkp9DvO3yOMEStKdsQoLNEQxZwXo-hjaBfe0YBtJ3remQ=w411-h232-no?authuser=0",
-		title: "Susan's Colorado Trip summer 2021",
+		title: "Susan's trip to Schwents - summer 2021",
  		date: new Date("08/13/2021")
 	},
 		{
