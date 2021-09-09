@@ -21,28 +21,28 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/pxdyvFrAJTCLNGAc9",
 		"img": "https://lh3.googleusercontent.com/u0h69ggQ1giJm4Gf5u7iCI4KmUutUbjZN2FWQuCBP34T7O5i9pTvcotg4Y9SrDDzuVY2JuyWUD9D6SUh_GifCIo-Zq_pvl5p7qFV29MjTJW7SL6T5m0sPuag7aeD_U_w3_WlO000NLITTIq9wRNnSJDX9HxzOvoH3oB1z1ZS9ZNwpuMiE8ndEydS_zx0M1sw0OOmvvImigTMT22xMefCQgEDKC3YLeGfdNsi-Ag929MdOj2EZBX0vKqJscxE8PQ8EHBDYTMbrM-jP19kTrejAeSeHUm60l8UK1-mMGi0NxiQtKJqvcdsuQxPpcBRxxUzrBqDKl5453mNHcicTB-tDpNk2sCgyk728aaD-QkgD8pDyNAvrtpmixk5CbPcF-FU8oxDU7qFSQJe8bU5-RGU_5uWiA_0kzYCiGANrp_axhGbvyLzeWtoaGABKylLDYVwGlbbyUEHwzUKPz7PgeE73MI0gN1zpDamUV4_40bot6xjMUoHXVTVt1TrNYKGW3sIFGbsFxZe4diWLb8ihTGtNYmmA37nojVoAZVj08XcWtMtluAKmW84b18xMzzcbOS2OBL52yqcXptEGCHnX0GBi1A3xDs4TLjdABgbgc3eUoA253x-8agkQi8vjwSjmcBOVpPkSnNWrFtASjhVABJnqRyQwgMuRaxKTa6UBB9OMULxoQUogfnlWWzRBIUMvkwdsvplapNLSrGqoPc04IUwFHuejg=w494-h278-no?authuser=0",
-		title: "Late summer in STL with Neumanns",
+		title: "Late summer 2021 in STL with Neumanns",
  		date: new Date("8/20/2021")
 	},{
 		"link": "https://photos.app.goo.gl/yRmkfmABtCtDpaNG8",
 		"img": "https://lh3.googleusercontent.com/vTgVur-h8n3PD-Yx7YyLlMWhM5QuQdOiVrDuM_VOMxMXcxamY0-gVK7SZOHE6t3Y9zOSU4oFWHmIdMxGZTHyNTgpx6CUQWyCygkFgv9wm3Jl0lQs8f3y4dkqQ2LELtfzJL4mN4Mf0yeSqZ6em4viARYyVwCK7jKb-TG2N2JR20GoeJmBOgJDuDQMl8A4PntJ2nFdIheVns18oJDzE31tiNbqnF42DjuiUthZcIHxt1OOSpqKX3RycRA3MBJmKs-YqdFOxdvPlGNwgOE5_Fp5G5kHDJ9PT6A9T2gbPI5sWs0rCnfzbv93rTxJOw3edKR-XNB11svn9P8Y_LmbfTyV2kh3Oefy_SB6ZEkq65iI-4JX0eriepqwAoE1cKL6cQj1kg_H6BcE8mltgPSrPpBZ5bKbgjds1Q5Tt9vpqFjsA5mG_PYTySmw3_Sf0TAPIQd1XyiTRcjO6m2cuC20jWTOUsOfc0nN3CPX_aAYkMtJkVzhWXEViuPkBIldOaAq25MMnhSjxKENUIscCcNWVbSDnaDCWyxEZbtAaXV9KJMtMwzmaZbjlW5GJW6FVOscmLwBBuSjItRG3hDGavb_Ui5ZMbCdv0XoNe70tRjzqAZMHEyhyekkxSDk_vMxEHFNf_nrF8KPg8craCy5iMYHjrL5d85MivLK0PN1Lk1NigCUy2RrET06E6dG5f7evMCNQR4J8YmbpXi_shVGIe1rpfb3PN0F-OLdWlYePwbj_WZxZDzyJsWIHcyfQjlkfKZ07HlDq6lQS4Ym2BlIn13OVDY=w136-h181-no?authuser=0",
-		title: "Mid summer in STL with the Neumanns",
+		title: "Mid summer 2021 in STL with the Neumanns",
  		date: new Date("7/28/2021")
 	},{
 		"link": "https://photos.app.goo.gl/UmXEQaiumDT1vU1S8",
 		"img": "https://lh3.googleusercontent.com/VNXOjUYLcZT8ZC7mwGrTtKiYE6vaFq-5OXnM49kuFoHAAXuNKR8ayTfdvVWtIIKYP0l2hAIcEFeOrxUhx9Yeu6ZGO3qBpe6QYdhgHvTGQMQp53zwdRgZBkrSIkE1HFtvmCKZMGsh-hOXFMmHHygxmMyKhC6uOyqUy1Bpek-qabLxoiuzGeGf0FxdEjTAKo2iPvmtqgk4-eD-VT0M2egLvlhRXxJVEj4uzc1t2zaiVLoX4b80YxIKk6uCM_LIw0D_nX1VF8_kEJ-jHdaU1crzveluAOgHmr3QKED1wYEAiccbCBJuwxvKVLzjJ72b9Lfl0nUebMQHGqZk6zU6bzKDEmVNdQM_xTbE6sgVVoawCxYDuZEjtKH7hFMPB-9qm224T_aF0cs9QHeToR8HBdDB_bUkzgu18lCK3sV0FHH8SIlnN6pREYhkwuLJi0MpZx1IxioV-jyNXf_ibBuE6GUU_rP51bUPWzvdxveEw0GqRmGub7J2jPp5RbiK5oSdI9yOmH4o9E3Gip2xV2AY9xOb-YTBN_w4fbNUtual4gQz_LHa5snTtUf52_GRoGTHy-UEZ1GgNFPBzdComR1LSIc78_agJrnmiqHXrmmzFlrC27hIP7ZNK-Wase5Vt9aQ0uPXNmzT7B-pFvu48-cNJBc8QK2glg4vD_35gvyibzLGRvj43fotpPJ5R63V2X0VfSi6CBZaa6XlMQIXGzpEQW4hdnqvB8K4s6pf4VFqtJDHh-y8f2AEAq0PVomoKy8G6ceD030kHA-Zwl8ZvY0aSg=w188-h251-no?authuser=0",
-		title: "Michael & Emily's wedding weekend",
+		title: "Michael & Emily's wedding weekend June 2021",
  		date: new Date("7/21/2021")
 	},{
 		"link": "https://photos.app.goo.gl/s9wDG1SCWXscQdwVA",
 		"img": "https://lh3.googleusercontent.com/DNMQ4b3vtBqFaOXBUOYZy_yPo04TH4-9jlqrD7IhVKZWRUQZNuesk2OCy5aVxJIjmoN9zVooGiOYT499YrZozLKAM2u_5pNP5p5x5pyXdnMz1USvzvgO4ufYCQVvRZQKyQT-G14XgFWNnMCa4t-WwACzHC__fhQb4aVLuD1C37fT0Ma1Sh2gdTAXL0QDfzRO-K7HjSJIp8EKXpm_WkYVcaq5k1NG4HsUA5Z9wXgeYZCMRhGPsMXGwb1apzo3NFpK6Xd6Mu1fbHGmgWrh5W9raqxCu04eu8Z9D-JMcXHyayJjSy2zTJI3vROLd0X9vjn6PG97Y0LqxeVgAe_601d6oNe9ufsI_kGK7oxd6wLQdRc7021ct-hSc-vperVC3neXP7CIQPxGsUJ79BgsLjQtSyB6v-QYnL9ZruhqWTSvOnoAKvcPpWOP9Jxdw6vJ0zFEwKrV0VKbN3_bOrVte2XBrRA8yU3LMU5n10CucEDCXNkgL6vVsXN4qn-Kcb0CilrHOISmaMAnJ2m4rl-7G6bfhLVl9z2KQuX22d68sn50u01IJtWnAvd5IdKla6jmChD7W1KJLb8KyJxJJVayY0owivX3lrVZyJq-OcQMmJ720acbf_yhD9HlNSjWaL0bEAzVVTs-w4UH3YGfRNzaySbM5hNseUN86VFpedKzTFfnKCtfy7yd5gF6O47QsUV2ng5YnqkSHJMqLM_mOmMvzB_JR5Qit5ezRiD6O8O4RAhy47c3sIkTTGXWDiEWpBToQl0mpqfyhAU0qhKQbmBVTg=w405-h228-no?authuser=0",
-		title: "Time with Neumanns - 12 months back in St. Louis",
+		title: "Time with Neumanns - 12 months back in St. Louis - July 2021",
  		date: new Date("7/20/2021")
 	},
 		{
 		"link": "https://photos.app.goo.gl/7NBuKg4eUQokgQSJ9",
 		"img": "https://lh3.googleusercontent.com/1bABMbvBRczU2pwyGoAou_pGfPm6xypdecWxcqlz5Co81uFN177g5l-pXVeiTdgbxuYvaQxLnBhcOybrOJXwjIS1QEWJT7lyKmLE_nGRPSHw9Igaj-zliXMIuqIdpMfQyyiFod3K87p84ul1eR6jnQ4G3Y7sWHv2uK_Z6XAx3LrVCBjhh6PjATsmlrgHssG3PYlhpjeuSQK0uI2WpcOX6rrpk16enKpqTBBILfQQNVY0UOYVEYPQTNH3eCW0GeqDj0KjFoB1wHN_2a7nh9nE8zwM-so4FtFh9hiUs7_eX8Y3UUfkhRVL6N6j3h8ff_vvAxbQnGGhqZx-w3KtiYSTCTQeZ5AukAZbuzess9-54l7-vYuct_ukflgOQe6_PGug_0FSplyPWk4Cc46bwxHZzW9EnVVJIdw2lWbpk8MB-Yc1iGulicGHKmeOyGuLPdP0VKWkfcpz5_O8dWXGdzalE8Y6WjATV_XuNHU2XbpAB9f6-zZk9eh6PXkRrgjBEObR6ryz3so8C66GfZ60gpJ9b-i9FMIR3qVP-4HRSWtdLBGXSev7a6ks-m0Wi2BIW7cyrBXUEertcXcoSPLzF5ljBT4uj3dEpUt47waU2cNbnOfC2g_gPYdumbJQA4dh9Cso3dsz2SsuQoveGoUR5BB6cUKrRdlkN9TAiPXkgmS--QsBmdJR2oRD9o2Q1no0eW33xEm3IcySvIEg0ex9tCbLVXvm=w196-h261-no?authuser=0",
-		title: "Time with Neumanns - 11th month back in St. Louis",
+		title: "Time with Neumanns - 11th month back in St. Louis - June 2021",
  		date: new Date("6/29/2021")
 	},{
 		"link": "https://photos.app.goo.gl/SnAHBQ3sHD55sh5b7",
