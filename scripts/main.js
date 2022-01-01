@@ -32,8 +32,8 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/rqdUd7osneDJFktNA",
 		"img": "https://lh3.googleusercontent.com/pczLXW5w7-Mn64XlDNaIQ1fFY2wt1mT4nS0ZAVw5M3wWKWnPrNXNAuVRm4mB12ifFQ56vyYCrebrLVj5ZZYXakutI5nRGwSh9-3Nk3NEWGtZoFHV4MHh2uAM-oFArmXujcaeMB_XzbquofLAxLGIaiy1OrO9LgcbL8hXJejy1IZOljSqNA6EPl2sG9MyIGfLrwJoQbQc_8Jrxf8pS_tL8M2mqB7RXSRGKrNBjc6wD4zfteFwS4XuWBy-zHQ3OwK1PmWiIyXXkmBXDd0a411zcLh6XSydRL_HM2X6U7kPg8hZIxwmnRvEDTnT7l3gEp2QTQHWmDZBtMD4kptwwqlRPzHOG0ADGZKTLCSaNLCVDhTXoFIfIjzE_S2RLn_sfLwQ0uS7Qa0JOHaJjbn_yjCOAih9RcDk1Vz7dg7T4yGnR5mmx9uBLxX1KOOxuqLK-7pbQ8qrbTFfJpASGFzfIoek8tj99wkMG-QiQLlEKUEV1tALDGcFd1yz1oQvASR_SLyRG6yr-6NiYjVC4gVxUvLBolToseKiU7ajlpNr2FkDgWTdX-V6gzdh5lu_9n-_ZbPww1YkKiBdPTzK6XZESxABkPerxnoegNy2as7ILz9Ovf5vWC4hhDGoW5SkBGd0QkDPXNZvfSdn9YE6tulDv7ARGgQEauaAwxSrxN8iWNpRecf8mCcIE69VXGwI0qy5jB_KICjXtu74dDldAk6Km_GXFJyvmd9t_dWVLGDWXgeUgumwb1mYU7PwQzq8QtznZSgEVc-ivhVvc4Tfj1_TvQ=w390-h220-no?authuser=0",
-		title: "Schwents visit Missouri, Nov 2021",
- 		date: new Date("11/8/2021")
+		title: "Schwents visit Missouri, October 2021",
+ 		date: new Date("10/7/2021")
 	},
 		{
 		"link": "https://photos.app.goo.gl/93eaWEzRTcyjJVdA6",
