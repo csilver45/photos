@@ -44,13 +44,13 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/SQKGCpxgrm1fLp6Y7",
 		"img": "https://lh3.googleusercontent.com/VQwhyi9NV10fglbb_INhI7LWLjVtFtjVrRs9ZHT-hDo8Fl-V4XbVsLcF3g_OVXl89-xJqxUaZxy5yxt3C7RRRopjXmeqOKb1DHgREDblqqkfyIB99ncfjigILwtY_ksCSHRKN1YLq5-1aL1-6SzJqmotfyvhRtn2X-XoiD6r6DqfrqZL6tMj45tXFhxecmVmI1wfG6t_0fnn4Uo_ZyI8mabK-Uia3md3ZL8idsv7nhimBst6HFI_-KlfwVRH4FE2zaDDWl8WJIy9RJf_ZKJFg9I_FhXZ476ft3ZeZLWotzeynIsRIIwLSRQhGuEdzffIMQk7sUWyPTzwwzNfKviatQZCzP6dTtWvNfpKMd-B_otWtJjb1u7O2ix6_3ggPWKe17iBBu0C01WGskG4zv6vPsNAYaNJJ02j41J6u5UZJKCPirj-WkeuGTZwKzdbEUs5nlchHYFLSsPcvGjrnKhBeDkuClH01HB95UnMnnlT-IR2dJlWCqTo0eH85Lr5AQD4zFo76irJBnqszIUqNzl-HfbbxLKJsNPkO6EXrE2r-241RwYdRVksIloUfAiRAC1k44SeV6kfE8fZkjJlvlxYMDvHLlxHFBDOS5dQJ3ek5QSbgQw_m8s7XeBNzv3saIbjPtAPZnlysc7oOTeedMIK_GfdxOMHmKtqIEFDS5u6t3sRVMwajdOdBMF8Vy6o3K0i9_bd-5qs-6LIgGhBz9pqsa7y=w156-h278-no?authuser=0",
-		title: "Visiting Dan and Eric, Oct 2021",
+		title: "Visiting Dan and Eric, Oct 2021 (at their new home outside of Seattle, WA)",
  		date: new Date("10/24/2021")
 	},
 		{
 		"link": "https://photos.app.goo.gl/sDoe2UAvhXJhbXUg9",
 		"img": "https://lh3.googleusercontent.com/Ct-aVrwX2RS2iwgRbslnBqFuvaoJTh0-blWvcaxtcL6hNtKYr6eIcj9CA7S6KgxV1c34-IKPkcH3Xh0QAQtpSykT3nfni4VWd2_CN2jQXwMTxpsgCqYRjTrh5Gxidim27ckyuvrCqoutP6m7EP_xMDKZ5-SUZMV0-hLZ5IlRdDvxogOw5cwoQfDW9rBkZb4AYSuYhD_Ub6MAXFM8iKuqgyal3mJsLgOU79dHbGtjRDL7WMM7e1JV-tWv3tN-X6OY11KMQCQ9lXm_qkmqLtpegGGHLLegWEX1zWczHwbg4FLV7g-6I6yUVSmopsJh8bPeMJ5Xno1XizjSjRLoR5H781MKyuy9Wap293_HswmBstwfGrGHBgEvU1jU9mOdCNY3AjQod1Tfj_s3Tonoi6gQdw-lWAWkL3uCCrBtowHFXvnQ4CLrXpCVDHueE2P2yJkFNuKzxwQYYX7av9PsUpX0AW8yb8vLexz0JBU-fP8DlSRXxMY1PMyNE4ChlYOrG6lNxLp5alOIC3gSjozbeL42FubXe9CoTV3t4t1pjtjGZFZeHhOIo8xVJ0_cRhjkGuqCxA1W9sBpdQF6HfR8cD4rpnavZsUJYC8YH-saK0I7toze5DSLFPWzMbQXmAy6jsjZ_59EHv_Tet8hBK5bJyEwNWTjRCrz0qDZxH_y86lR1DdvVqly4Oyn5z-7zs6fIh81M0jOzUxUKvGkOqzn0VFR0jdB696-KXDVe_OgAtnEBCcq25Z6Wf12dPTw0ESo4i_nnDIzKBQVfR5aH6ku4g=w113-h201-no?authuser=0",
-		title: "Weiners move to St. Louis - October, 2021",
+		title: "Weiners move to St. Louis from Florida - October, 2021",
  		date: new Date("10/28/2021")
 	},
 		{
