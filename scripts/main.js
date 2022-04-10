@@ -15,7 +15,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	{
 		"link": "https://photos.app.goo.gl/PLBpMXzpxV7GNEKZ9",
 		"img": "https://lh3.googleusercontent.com/HiBMnR3dysYOR5B05VQL-4wFWX0mmbXJacHyVUnNG8mE1-fgSY94Xg1PvWoymrcMq41-ARABY9NsT3bfcFvbF4EZo93cc73I59uH9QUTkxzA1p8Xgi4fDV3Nn4AEGNGdO8N41HYK7OM1vehSMBzg6Ev1lIEJGr2v_msb82cmS_s5l6azNL3tnfNLeVneoD9CiSJiAMj0TsgjZsEi4l-vkrA6KucZaLKvMJus38JcsKV9L6RKW1WCSYv5kFdpEGfas6To03bIRSIT2JdcqYyBH1u6QHTOCZWpBMkIjsJcAYoV6dWW-THTN_rcVtz3p4jrUsnn3W4CLjoKUyejxFsXgNvX_gWpPxrj0x8YKs3AaPhu2sJFIlhS9qXh6hq0fKY2-YRHcdegus9sf6O5OYCaYx0pG_8MfGFGlYeDQ_vpVNmEP3PWBsiLbbu55M4IoWAPEKD8pPxD3Lr-PNU7tCBwaem_DWB7Xwvx2gsNNHsExQ1cU1JtT1KcFwNjlSF-sS7L6RKyh_x7DFRQfdTgp5YXDHpVdmZCZdO0GZOUw5n09gwWr3AUzZwMxaKl7kcQebYM2mx-PnIZFMRx-pRsTDIIIQNbZZG97Q1_lRQq4E-LA4dSHT2oDdiM_hfnUBcWBBUcQOi1a95HFx2if9taKKXKbK6Vr7s-RaZQJVUqZCerx30qbL9UWS9JGVsj5b0oVjpVnepbxee9ro04GvG5OwEvIOSVGxYPyckpprneefAmFZSbxXARUBICEWqk21e3nqB82CfMqJEVV1RAQupiNSHbXzXM3_HycvXoy-PsQmK__RMKJNQmeniVtkLBDCQ4rM8cfESLi9DHjh7qtrgMKDNhIMXvKe93=w132-h236-no?authuser=0",
-		title: "ARound Town",
+		title: "Around Town",
  		date: new Date("4/2/2022")
 	},
 		{
