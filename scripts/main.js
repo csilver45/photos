@@ -51,8 +51,8 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/NLgyw5Pbhwn7zfEe7",
 		"img": "https://lh3.googleusercontent.com/KtYV3pVijB3mIYq8iXk-UEuJguSymrDKpdBAjSa2qQo6lNRFOx6lu3xvWvs5m6IKG2GgVEn1MVlBuhO3ml9teJDbke7DFEvG958_98rOAb8HLooHSxNJf42l7gFGqYok6vhJUUKV_vcrPimT3pdka70zHXzpG8x27HS6OtSDvbNYoe6QQmnR7cwWPxOgL1S9v2sufNphMz1OI6jYVWZeglkJVbm_stUACCW74hOwej_vTvHMHxy9bUD0oWCYXl1VO5YOEEsLNWhNieKYDIrgtAlXW4o6-PuyA1Su7aehYd0orl3gLBs0P4sLiCsD37tNmjYyzW-94TKXMVx48KJNZusDH3g_EWnLwY_LBraLrgECTnnfWC0YJ3aVBsNWD_Rs0QW1VgHQA5jMajIq66tqiw16nhGqATraF6RieD1gsx7P3qzgAG3H5PIPt0v-avmaYXYjRgJAvXDK5Ks9DZkumhZJlXV2qAqE6Zh2hjubfHC7-1f9lllquv1ibcROdVorUvfL78qPZ-aOqqG2324tcQlo1h6d4yVf66HRi54jlaxeTkhrowoMyWpQwcAgNma3xgChZfEnJnGEpOGofAW1Y5dZLaW0Re7H1C8CiJk7Z_bMHYYO2E7BBMV4hudFrcOZ_AmY12T_3VVnnve49g9Qe9D1wMlJsG11drh52GdVLeMsSjVVtSjCTxU6Bxn6ujWuve5R4OEC2z3d23RM5oy1OFoF7MspJYv8GOCRe0hFWUVhm3uo5cN-N5Xd8h5NDLJGNUAtgJnELRJawLH90CILiBqBIbKNAuWSH3ayxTyVccuDF7iY1dj5oOvLJ0nt8UiH_qUyia974KfJy_l3uaDUhpgkcrJa=w140-h251-no?authuser=0",
-		title: "Schwents and Dan and Eric visit to Lake St. Louis - June 2022",
- 		date: new Date("6/14/22")
+		title: "Schwents and Dan and Eric visit to Lake St. Louis - May.June 2022",
+ 		date: new Date("5/24/22")
 	},{
 		"link": "https://photos.app.goo.gl/fCh7GmUHtK3N3PMh7",
 		"img": "https://lh3.googleusercontent.com/Km8Sme7fULEQH-m8kdAqGuQeahZe5DfNaJdw31JdrK7x1JdyJ-Jc95mVH5RLI9HDQv8RtoPaNQVErZPhnp9c_hd_9SOADbNMJLn50E33827j6P_MYa5xOJKqoO74-RokkaOBakcys7X5IEx_wz8OmPRg_czTnuoAHsMufDxld3EmcxDvIvhBlVzn9BwixTyP9uOEHsjtby4gedDqWILt4OUxETHCcB0e5yPsI43lh6pIFiX1-7DGwzbVEPJ8glmU2cFwZfozsSqf8vVjkIq45oQkON9khKUI2oBT1N42TWp5cEG6hou-b6HJCDI4HoidTFTmKoaxSoS_ZFMRrwOpk65DmQ5zN9Xd7V_9-B26YTOQSKWoDvyKxTi1DHqtd66PTHmELxUYs_5TzN_aHXn7YEJmw76gJ7eTeGAwCmlxrYLmxvCaexOt24HRNohc3bWqr5EmreMNxL3bYCR0YWGlsZGw15kOJBGPiD-fgPUL-fnlDwA4ALtBaqUtZPLNAaT8_7Y5ryGy0lZHxPbqzZ2Pu3aw5eNU4KqRUeegmwkSZaYcYSmWB-aYryiFqj0ypuDrRrHoqh7XljNRFXbnlMzSQZX_tLHcRT5BU88fxD0_AUT-9l8mK9ohVDQ9mHkcmXtUuCw_OtonrZJtssK3zWKr1eKxtjBOe_-OfQ56flCS5OOlPY-lHvYBqV-qNKkXqHrk-Lv5uDk1v8TXn65t8-0FLdOCrAcVBjHekC84i3FlmoD-q-1Vpv-z2EBqchhejT1KBbQXb3rX4GYvGXcXbl8FCVPQirHZpJH-1hX1y-Mb771D3neodqqLVXWZUAGIMHz2SPH4fdGfsqyNwP96UyU9WlM6pfGT=w150-h266-no?authuser=0",
@@ -62,14 +62,14 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/SUfx3E7jQ56GkGCh6",
 		"img": "https://lh3.googleusercontent.com/T4YAt1EXLvJEOhGGF1yBfsuJOF1CaoM-XtidMbBbW2cLiqUQcpKc5y1hSn0j4Tv7nPlBaYLVpLO4duwYvUqqKnugKZvQ3qzacOqUnCv6-VSSqRfAPIjs3NoQRyACC5sRYhFzrD2OMMbxowhxAsVc5Weqv12_XEFL6qfFjCejTUjuLn5ujcVaNedKpa7qLKz9Pl75QWFP8wjVTdFwo2TX8HgDzSn7MM0VMbgTC4KGYPlv1A6uZOxE3ywXZ4Xs71sIe7F-X-rQvMxUftWy7Hx_QSLUGbZmriGwHvCozYVDU47nJ2O5dfheEb6_shK_oFNklXVd7B4c-gx1_4Sz8sWTql1c4nCNVXXPa_BQQpQ0F81PBJ-9HpeKGQJSx3uSi7wNAbLpzfD9SyJkTXb_p8bFu2P5fOIik3iClWADFrsclyRXuxoL7U7Mi0pQFaNgSbr1bDkfZdv_7LjWfTlRlcHzQF7QMvDqiTlKZvsHuRvmp2FmqBx0LmPgscXUFmDolNrzb0I6MtkfSeRX_kBYJhh_YVCsNQJnCea6FOJyXOCFqQs3I3wE9VCgoqVNNNNHPo7T22N9JTMSsZQZc-bLmC0gzcTeVLazww02taWb88L9_LzcTCBePe_YzxzaIuu5D6Z5gQdNtmDOmiXbFxeUlnjJ-fNJkOHJkMRR0sDLcqbFUJYXYMnr-6zut9m7WZnnLjITfUIQU-_eVH0t4cLYuPAgTKMkl7BPsuQb3h18HMczxSJoW0hYAXTBu0RSsCPKT2XYA10uHR7XeNo_JpBLgVezMBZDNXkN-3_IW8rMOpuwH0Z74Bgsllr-FxZZBiLdlenpmFaNOkOsJed24lUhYbSdVEiAP5VJ=w348-h196-no?authuser=0",
-		title: "at Mom and Dad's apartment with family (Last month or so before Dad passed) - June 2022",
- 		date: new Date("6/14/2022")
+		title: "At Mom and Dad's St. Louis apartment with family (Last month or so before Dad passed) - May 2022",
+ 		date: new Date("5/14/2022")
 	},
 		{
 		"link": "./daysBeforeandAfterDadsFuneral.html",
 		"img": "https://lh3.googleusercontent.com/lL3f5443oCzhQtUvMhrW1taG-UGEMs9kNSnH02oErP7IAtyu9K1Rh0vOeyN-ceUi94aXr8oZ1ZbvMegFhTikJ1e5D98oZ-AEjNyxQKNwYEMAXdrOXt8htkDBhC4PqBGmGhWbu8MZp63IY0Xz6wpkOMeWF16Y9NBWfnh3tvs0PmDStA8KhpQTowTxo9x0HTrLeuKVjFRcNFGDB72_Y8xOG_BM-fGCNAw0fTXv301dBthLzhGNT3lGKENcwISLTDFh0VWtEkAeWYbdKicSy8jbcLeVpFQK5iYbj25TB-h5si61bSmuSgbmlXHzA7ihuP_A4KGZLiwKCpNKtw20-LDKoBKSZUQbKSbdOOvrD6OygP2PDin_YyHemVCzz7PgELKhpBB6J1bH8MAWhbrlLTIzjudWfpvv3Q5GKjs2OkiD135xZxVGuf11JHyMLUK9-12X4lbEaVPX5uYNrWBteZx8TIardeI4HtdFMszzzB7IG8wNtI_vQy9xObUEz32-idZ45D5qOsdaB0z6ZRh9eghlfrsT6knBoe1D6IRdBfvkR0xk3DZZiwePJBekA8meTuWhPmGSPwBTtrtQ4Om0NEv3fKbcqs-ThXN8cPr1bfwsBjGnSwC9qGHBnjpUjY1z1owj-X7cv_p73xFInKxLOHYV0UQ-KIcF7OF4FcAxQSF-sPMTZ-XKnlvF37Hafs0X67yMMgKaJ7Did2ZpK91veF8SVDr4YBG30NS0GvZ4OysgZIbrF8oadP3FH3oTE6QS9HG-7e4YKD6h5SerwKJiH8EhJWFuXVVTpUI8UIA=w405-h228-no?authuser=0",
-		title: "Days before and after Dad's funeral (Morris David Weiner) - June 2022",
- 		date: new Date("6/1/2022")
+		title: "Days before and after Dad's funeral (Morris David Weiner) - May/June 2022",
+ 		date: new Date("5/31/2022")
 	},
 	{
 		"link": "https://photos.app.goo.gl/non6JzTdrFSKzJGK9",
