@@ -50,19 +50,19 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/fCh7GmUHtK3N3PMh7",
 		"img": "https://lh3.googleusercontent.com/Km8Sme7fULEQH-m8kdAqGuQeahZe5DfNaJdw31JdrK7x1JdyJ-Jc95mVH5RLI9HDQv8RtoPaNQVErZPhnp9c_hd_9SOADbNMJLn50E33827j6P_MYa5xOJKqoO74-RokkaOBakcys7X5IEx_wz8OmPRg_czTnuoAHsMufDxld3EmcxDvIvhBlVzn9BwixTyP9uOEHsjtby4gedDqWILt4OUxETHCcB0e5yPsI43lh6pIFiX1-7DGwzbVEPJ8glmU2cFwZfozsSqf8vVjkIq45oQkON9khKUI2oBT1N42TWp5cEG6hou-b6HJCDI4HoidTFTmKoaxSoS_ZFMRrwOpk65DmQ5zN9Xd7V_9-B26YTOQSKWoDvyKxTi1DHqtd66PTHmELxUYs_5TzN_aHXn7YEJmw76gJ7eTeGAwCmlxrYLmxvCaexOt24HRNohc3bWqr5EmreMNxL3bYCR0YWGlsZGw15kOJBGPiD-fgPUL-fnlDwA4ALtBaqUtZPLNAaT8_7Y5ryGy0lZHxPbqzZ2Pu3aw5eNU4KqRUeegmwkSZaYcYSmWB-aYryiFqj0ypuDrRrHoqh7XljNRFXbnlMzSQZX_tLHcRT5BU88fxD0_AUT-9l8mK9ohVDQ9mHkcmXtUuCw_OtonrZJtssK3zWKr1eKxtjBOe_-OfQ56flCS5OOlPY-lHvYBqV-qNKkXqHrk-Lv5uDk1v8TXn65t8-0FLdOCrAcVBjHekC84i3FlmoD-q-1Vpv-z2EBqchhejT1KBbQXb3rX4GYvGXcXbl8FCVPQirHZpJH-1hX1y-Mb771D3neodqqLVXWZUAGIMHz2SPH4fdGfsqyNwP96UyU9WlM6pfGT=w150-h266-no?authuser=0",
-		title: "with the Neumanns",
+		title: "with the Neumanns - March 2022",
  		date: new Date("3/16/22")
 	},
 		{
 		"link": "https://photos.app.goo.gl/SUfx3E7jQ56GkGCh6",
 		"img": "https://lh3.googleusercontent.com/T4YAt1EXLvJEOhGGF1yBfsuJOF1CaoM-XtidMbBbW2cLiqUQcpKc5y1hSn0j4Tv7nPlBaYLVpLO4duwYvUqqKnugKZvQ3qzacOqUnCv6-VSSqRfAPIjs3NoQRyACC5sRYhFzrD2OMMbxowhxAsVc5Weqv12_XEFL6qfFjCejTUjuLn5ujcVaNedKpa7qLKz9Pl75QWFP8wjVTdFwo2TX8HgDzSn7MM0VMbgTC4KGYPlv1A6uZOxE3ywXZ4Xs71sIe7F-X-rQvMxUftWy7Hx_QSLUGbZmriGwHvCozYVDU47nJ2O5dfheEb6_shK_oFNklXVd7B4c-gx1_4Sz8sWTql1c4nCNVXXPa_BQQpQ0F81PBJ-9HpeKGQJSx3uSi7wNAbLpzfD9SyJkTXb_p8bFu2P5fOIik3iClWADFrsclyRXuxoL7U7Mi0pQFaNgSbr1bDkfZdv_7LjWfTlRlcHzQF7QMvDqiTlKZvsHuRvmp2FmqBx0LmPgscXUFmDolNrzb0I6MtkfSeRX_kBYJhh_YVCsNQJnCea6FOJyXOCFqQs3I3wE9VCgoqVNNNNHPo7T22N9JTMSsZQZc-bLmC0gzcTeVLazww02taWb88L9_LzcTCBePe_YzxzaIuu5D6Z5gQdNtmDOmiXbFxeUlnjJ-fNJkOHJkMRR0sDLcqbFUJYXYMnr-6zut9m7WZnnLjITfUIQU-_eVH0t4cLYuPAgTKMkl7BPsuQb3h18HMczxSJoW0hYAXTBu0RSsCPKT2XYA10uHR7XeNo_JpBLgVezMBZDNXkN-3_IW8rMOpuwH0Z74Bgsllr-FxZZBiLdlenpmFaNOkOsJed24lUhYbSdVEiAP5VJ=w348-h196-no?authuser=0",
-		title: "at Mom and Dad's apartment with family (Last month or so before Dad passed)",
+		title: "at Mom and Dad's apartment with family (Last month or so before Dad passed) - June 2022",
  		date: new Date("6/14/2022")
 	},
 		{
 		"link": "./daysBeforeandAfterDadsFuneral.html",
 		"img": "https://lh3.googleusercontent.com/lL3f5443oCzhQtUvMhrW1taG-UGEMs9kNSnH02oErP7IAtyu9K1Rh0vOeyN-ceUi94aXr8oZ1ZbvMegFhTikJ1e5D98oZ-AEjNyxQKNwYEMAXdrOXt8htkDBhC4PqBGmGhWbu8MZp63IY0Xz6wpkOMeWF16Y9NBWfnh3tvs0PmDStA8KhpQTowTxo9x0HTrLeuKVjFRcNFGDB72_Y8xOG_BM-fGCNAw0fTXv301dBthLzhGNT3lGKENcwISLTDFh0VWtEkAeWYbdKicSy8jbcLeVpFQK5iYbj25TB-h5si61bSmuSgbmlXHzA7ihuP_A4KGZLiwKCpNKtw20-LDKoBKSZUQbKSbdOOvrD6OygP2PDin_YyHemVCzz7PgELKhpBB6J1bH8MAWhbrlLTIzjudWfpvv3Q5GKjs2OkiD135xZxVGuf11JHyMLUK9-12X4lbEaVPX5uYNrWBteZx8TIardeI4HtdFMszzzB7IG8wNtI_vQy9xObUEz32-idZ45D5qOsdaB0z6ZRh9eghlfrsT6knBoe1D6IRdBfvkR0xk3DZZiwePJBekA8meTuWhPmGSPwBTtrtQ4Om0NEv3fKbcqs-ThXN8cPr1bfwsBjGnSwC9qGHBnjpUjY1z1owj-X7cv_p73xFInKxLOHYV0UQ-KIcF7OF4FcAxQSF-sPMTZ-XKnlvF37Hafs0X67yMMgKaJ7Did2ZpK91veF8SVDr4YBG30NS0GvZ4OysgZIbrF8oadP3FH3oTE6QS9HG-7e4YKD6h5SerwKJiH8EhJWFuXVVTpUI8UIA=w405-h228-no?authuser=0",
-		title: "Days before and after Dad's funeral (Morris David Weiner)",
+		title: "Days before and after Dad's funeral (Morris David Weiner) - June 2022",
  		date: new Date("6/1/2022")
 	},
 	{
