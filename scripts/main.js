@@ -15,7 +15,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "./cruisingsummer2022.html",
 		"img": "https://lh3.googleusercontent.com/lL3f5443oCzhQtUvMhrW1taG-UGEMs9kNSnH02oErP7IAtyu9K1Rh0vOeyN-ceUi94aXr8oZ1ZbvMegFhTikJ1e5D98oZ-AEjNyxQKNwYEMAXdrOXt8htkDBhC4PqBGmGhWbu8MZp63IY0Xz6wpkOMeWF16Y9NBWfnh3tvs0PmDStA8KhpQTowTxo9x0HTrLeuKVjFRcNFGDB72_Y8xOG_BM-fGCNAw0fTXv301dBthLzhGNT3lGKENcwISLTDFh0VWtEkAeWYbdKicSy8jbcLeVpFQK5iYbj25TB-h5si61bSmuSgbmlXHzA7ihuP_A4KGZLiwKCpNKtw20-LDKoBKSZUQbKSbdOOvrD6OygP2PDin_YyHemVCzz7PgELKhpBB6J1bH8MAWhbrlLTIzjudWfpvv3Q5GKjs2OkiD135xZxVGuf11JHyMLUK9-12X4lbEaVPX5uYNrWBteZx8TIardeI4HtdFMszzzB7IG8wNtI_vQy9xObUEz32-idZ45D5qOsdaB0z6ZRh9eghlfrsT6knBoe1D6IRdBfvkR0xk3DZZiwePJBekA8meTuWhPmGSPwBTtrtQ4Om0NEv3fKbcqs-ThXN8cPr1bfwsBjGnSwC9qGHBnjpUjY1z1owj-X7cv_p73xFInKxLOHYV0UQ-KIcF7OF4FcAxQSF-sPMTZ-XKnlvF37Hafs0X67yMMgKaJ7Did2ZpK91veF8SVDr4YBG30NS0GvZ4OysgZIbrF8oadP3FH3oTE6QS9HG-7e4YKD6h5SerwKJiH8EhJWFuXVVTpUI8UIA=w405-h228-no?authuser=0",
-		title: "Cruising Summer 2022,
+		title: "Cruising Summer 2022",
  		date: new Date("8/30/2022")
 	},
 	{
