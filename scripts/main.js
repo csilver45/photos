@@ -17,7 +17,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"img": "https://lh3.googleusercontent.com/pw/AMWts8CLDJ-skp_F6TcmwhviOPxUdSFdFFvBwrbSoM4L3LegRuEv0O3xHAqV49A5wo-x6QSpWLCU8Uq6ySxursGhQGLjBuhWAmEWgQT1tW8ijDo2je25tt2XcWVSqvIsoFZSeQ1_VfvRJtEKcSJM8EfqW2xd7A=w1666-h937-no?authuser=0",
 		title: "With the Neumanns and-or Grandma Vivian (in month before Max born or before he came home) Sept 2022",
  		date: new Date("9/15/2022")
-	},1
+	},
 		{
 		"link": "https://photos.app.goo.gl/aE6PRxnMTJ6AEHaQ6",
 		"img": "https://lh3.googleusercontent.com/Jq5P3c7OhJ6AZJA33AdoXF_XoOXReM0LSqrYYWViGnt7ugEiYd7a-PWBX8GK0IEsVz58uPfrhLHSFhI3ocIUBZqtnqERDKiJ6WMSBnfvmuWB1sZkN6rjOTwGvXxOV0WYK1gK0TLlBTjhe--KK3qXsW9qGXVFBoypYEgoIU6RdaiXvH9sdyjkLuy2NXEsPpSAPbsovKtjqHV6pUmnQ8WObON3DukYz2iULw8fqkI5Yz1xruujESABoLNvuflPrnw_cMpOJ6kfLnpQs_6-_2xh_QVwrB1P-Ssgy09l3yJe6h9hwzX561B4Bdwiws8WV-gE41jjptsSC52u1NvsFBPgR7PKfN7OHefkt8MnY74xtndYKC69kE9fDvKpvZBiLXNavJ-tIkiMuVIUL_2fUWWyf5d96NGTROvK_jVyZEDtKB7mKZ8997VAHiDmObO_fT3a-vK1SzTzkeiBRj0N4H8LRLNo1S8Mx0n35xZPS-_tZTe3uMvHwXgZZ_6AjljoQzyYYaR3r9GjJtxEou5otqzN4GxTGGNnmW_-i4t5eqlpA8qA1nKt0etL_cWQPqd-zbQ3l_ZdRxdx1f8C63c8jSxgqvHpmcjJdddt25orGj-qoIaf4kgSxLVsxhp4J1SvDYkL8T7p0cL-fjUUGFV3O4nYB9kF98DxyZ2kDrFv-nFGJbChuy9K297MxbzSuHpV_jMdb8azqT5VovymiBEpciPCBkTFKWhSehbNFYtrz6EheA10Sv5_vjjv2R772Le9GeSUh2o8wrDl_cr5cB02jJZwY-rPqY-jGaiGOT-HtqjiDqBRyMUnxQayWSmfk0gqDW_F9IbX4NzFqwt4dK5_ViVYKAvFwCet2Ge0TrF1Kfy7kWV5tUPMz6RpVaVOndSqvvTjEBQHK1hg1i23x37PJtSlmQzNSx6JtEFXYvVpS3Hap02Mm-3glZcW8HefAaSNoQPMldZA5sxj-hjBp5vjEBHtsA=w528-h937-no?authuser=0",
