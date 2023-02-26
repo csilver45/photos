@@ -13,6 +13,11 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/YCpSc1du99DfHEyf8",
+		"img": "https://photos.app.goo.gl/7r4DD5aPXx9eaBXe6",
+		title: "Max at 3 months",
+ 		date: new Date("12/30/2022")
+	},{
 		"link": "https://photos.app.goo.gl/f6WtU9D9mjoim84w6",
 		"img": "https://photos.app.goo.gl/gmry8cLbMuDgJkNe6",
 		title: "Chanukkah 2022",
