@@ -6,13 +6,23 @@
 		"link": "",
 		"img": "",
 		title: "",
- 		date: new Date("")
+ 		date: new Date("12/17/2022")
 	}
 	*/
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/VqTE3GJNMZvC6P9XA",
+		"img": "https://lh3.googleusercontent.com/pw/AMWts8BHEHy3uffPYXKE6dKblGgn3pgEdzm1DZToKBXKAeRjXBVQZimsldtZo2V2lzCL77ecuqZIX_SBzjLmO3z-uCmrv-cMS5JbXTv8svzxnQ8eXDYfwNZwPDds1bSHz4EiL5Xx0-V8rc5eIbXa_LTU3T3nBg=w1250-h937-no?authuser=0",
+		title: "Visiting Schwents January 2023",
+ 		date: new Date("1/6/2023")
+	},{
+		"link": "https://photos.app.goo.gl/RyggjbVzeMzB48u46",
+		"img": "https://photos.app.goo.gl/evPeiicVHezKt1vb9",
+		title: "Naming ceremony for Cassady and Max",
+ 		date: new Date("")
+	},{
 		"link": "https://photos.app.goo.gl/YCpSc1du99DfHEyf8",
 		"img": "https://photos.app.goo.gl/7r4DD5aPXx9eaBXe6",
 		title: "Max at 3 months",
