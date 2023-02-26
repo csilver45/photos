@@ -13,6 +13,17 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/f6WtU9D9mjoim84w6",
+		"img": "https://photos.app.goo.gl/gmry8cLbMuDgJkNe6",
+		title: "Chanukkah 2022",
+ 		date: new Date("12/5/2022")
+	},
+		{
+		"link": "https://photos.app.goo.gl/XNXUUpPmPqDbdnJh6",
+		"img": "https://photos.app.goo.gl/ANferkEFHwNBiidk8",
+		title: "At Grandma Vivian's Apt - Jan '23",
+ 		date: new Date("1/5/2023")
+	},{
 		"link": "https://photos.app.goo.gl/GtebYt5ntuavY2VD6",
 		"img": "https://lh3.googleusercontent.com/pw/AMWts8CLDJ-skp_F6TcmwhviOPxUdSFdFFvBwrbSoM4L3LegRuEv0O3xHAqV49A5wo-x6QSpWLCU8Uq6ySxursGhQGLjBuhWAmEWgQT1tW8ijDo2je25tt2XcWVSqvIsoFZSeQ1_VfvRJtEKcSJM8EfqW2xd7A=w1666-h937-no?authuser=0",
 		title: "With the Neumanns and-or Grandma Vivian (in month before Max born or before he came home) Sept 2022",
