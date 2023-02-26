@@ -6,13 +6,23 @@
 		"link": "",
 		"img": "",
 		title: "",
- 		date: new Date("12/17/2022")
+ 		date: new Date("")
 	}
 	*/
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
+		"link": "https://photos.app.goo.gl/tisSCqRsj2s7pPYA6",
+		"img": "https://lh3.googleusercontent.com/SXf-blkjGQhv9DkX0yZHpSobqC0wsJCwhuJs4QLEGei4HDb8CazjXztcSUggQiF6uQvUE15AIL3rlai5QA6oKGhUiLojE-EWnCtjgyP06WR50hKlns_L3R8csjWvzF4phvzKGNaXJa45Ip9mlPwsHy5Y1Ct43RjgXmXMtQErxi7N38D6H4Dn3tP1BvNBeZIx9viC-PXLSOwdedYMqzSXvXdu-5vj5yXtu6lBklczdP1EiYS9QgnVnRBa_FS3Y9PkeeascHaTaV_YHYRPF1DjmO6hiJr8jeAAoeOg-P7MHgZcaGS2koQvfWayWSHe43bVSaS1E-9eaqwgmQWecnO3RZMdYKgqGAuY1GCJorfhH47w4axHRozXby03Bg04Mn6mMScRt87P_xmn2VGj-CmPH4CncrETgWo2_RLdi1pNR46Z3C1nuqTIHMV_RVONPCWYhReocXxqF0SoCYki18jm5peDKNc8rc1_3lGqe6kQKnQbkzd3ir5KKHW0rUIQ0scvajmPDGV2NpQEca6E0EgHt6CqY72tyuOz2fEHrfXWwZ9CyuFY9B9eTG5qGzZpbNZvrUQNaC29kEwmkcy3QKD2fipNQWyOqRmqr_Vb_mwSAxw2zbpW6Ozur0pc890mYCqaeu0yDZ5Uz0yDodr-cfNqsuFgHKsAimYDtBaRKeG5u8axzblbR0RR7EOnofEOd17KrmM1nhb0jz_teF8ipf-TLJg_cMqrnJi_KrnlTw-w9LAbHsqvHI9TLlE7feC2zDaKeKjrM1quyZxuLxsn0YCwJEslbqJnB3I_ephFsSQGC3kSMk0US4bKHJ4aB8zj_pashcFoKjOb2PopNI8xawybGemQglTxqz_dJHcsYhLMZS5SEO0YYalXVnEEyqmQHS9oxWBQuCl0BDwvFdL-AekAUbtGPGt-JNDaZFgEk30NIg4prf162bXBzM2BNwTo3IsyBkulBWZXqJopZp8zrnCDmg=w1250-h937-no?authuser=0",
+		title: "With the Neumanns Dec 2023",
+ 		date: new Date("1/15/2023")
+	},{
+		"link": "https://photos.app.goo.gl/itxuD1gsNdfjshrD7",
+		"img": "https://lh3.googleusercontent.com/pw/AMWts8BHJAUWpSiq6jQNcz921I9QHomzkWdx5PJDF9HTNLLsqGgpa7vCtT9nIB6KAXUcfcnfLxlBPJrSWhme4VMH8DJ-XGEOvutUepeYFJuzvgE6z2hawfi9WntvuKP1kdCSKC0rYivJk4-oWnRFwQHofBclyw=w1250-h937-no?authuser=0",
+		title: "With the Neumanns Dec 2022",
+ 		date: new Date("12/21/2022")
+	},{
 		"link": "https://photos.app.goo.gl/VqTE3GJNMZvC6P9XA",
 		"img": "https://lh3.googleusercontent.com/pw/AMWts8BHEHy3uffPYXKE6dKblGgn3pgEdzm1DZToKBXKAeRjXBVQZimsldtZo2V2lzCL77ecuqZIX_SBzjLmO3z-uCmrv-cMS5JbXTv8svzxnQ8eXDYfwNZwPDds1bSHz4EiL5Xx0-V8rc5eIbXa_LTU3T3nBg=w1250-h937-no?authuser=0",
 		title: "Visiting Schwents January 2023",
@@ -21,7 +31,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"link": "https://photos.app.goo.gl/RyggjbVzeMzB48u46",
 		"img": "https://photos.app.goo.gl/evPeiicVHezKt1vb9",
 		title: "Naming ceremony for Cassady and Max",
- 		date: new Date("")
+ 		date: new Date("12/17/2022")
 	},{
 		"link": "https://photos.app.goo.gl/YCpSc1du99DfHEyf8",
 		"img": "https://photos.app.goo.gl/7r4DD5aPXx9eaBXe6",
