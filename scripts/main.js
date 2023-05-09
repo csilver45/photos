@@ -15,7 +15,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	{
 		"link": "https://photos.app.goo.gl/zvvP2KMo6RDtPYZy6",
 		"img": "https://photos.app.goo.gl/Z36GDCYPAcHKBRyL6",
-		title: "With the Neumanns & Gigi - Jan, Feb 2023",
+		title: "With the Neumanns & Gigi - Feb 2023",
  		date: new Date("3/1/2023")
 	},
 		{
