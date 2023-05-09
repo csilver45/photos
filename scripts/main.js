@@ -1,4 +1,6 @@
-/* get the img by inspecting a photo on google album, find data-latest-bg=<url> in the highlighted section - double-click on the url to copy it
+/* get the img by inspecting a photo on google album, find data-latest-bg=<url> in the highlighted section - double-click on the url to copy it  
+
+If this doesn't open up, inspect any picture, scroll to view (not cluck) the picture you want, hit the mouse icon in upper left of designer tools, then click the picture you want. the data-latest-bg should now be visible
 */
 
 /*
