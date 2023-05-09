@@ -14,7 +14,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 	{
 		"link": "https://photos.app.goo.gl/zvvP2KMo6RDtPYZy6",
-		"img": "https://photos.app.goo.gl/Z36GDCYPAcHKBRyL6",
+		"img": "https://lh3.googleusercontent.com/2vrNcCZvl2i-46_2gVtW2ApAeSZuQwRNn5JXGVPQ8JlcX3-73QcyfUy3jhsWphRY1cP2P_GKUzZ0lTMxK6cZFm46milMsdBmfKwve6O91j6TVRpUtsCoQZvRkKZVWJYY58pf868-9AmKpULsrIvf5TJMcDg7Sb4C41v-SnH54XiJn13_WL_BlYi-zotqIgeWvhlipJIYZJQTX9oieOiuFx3uAIqKWjQp0r9dXftrDBQ5fLXwCzrTaTnEFaPDCHy1Lda8Sj-t27ETPIVCBke3CvPCY2GmkcGCzHLLMXJ_2omspbK7dFVcoFWxbhiVTlnQ1IzF4PptxsTq1HJ649esrup4U3tieWrXHFcwulBLRGBB5nqvJHEmOZXNor7ndlUfOi1WfGZV_rJUo8B6as0XfhgGFf-lejyfzIUmr0rklp4MPowY6qSQUkEfK5Y1YzYd21ZsSlzb7RwaxG43vUjPxABiDGH_o8NnykDFh2lkJo62SFWAp9UEHfIv8OTSJWCLgiaVwfBVHg05Z_sPIKAKRrBskuE1jSZh0Eq41XfLzi6CcXlQwzIekUZ-1GUC__m_vKCiBm7CghsGN7TCV76nmljaFpKIXmO3lOiMAayjmPA5siPL4dcqbnac21l0z5Rd3l7cZDsfLzOQpuP1gPWuH7GAgun4pX3od5PbZgb0xA7nhFIyaZk71nArG_DgsFxWZGFzLHCSemCpgEzFLC0GFe9yoRyAYnnVwgtg9SBloRJr1Qg2q8RDz73oeTVxaDj3FdPMm3yWFQ7bhQojPp_kIVNBW7Y5QV0XIa-VWRnkR6UdkuyHk_RAM2yV09Zzx7a7Z3YwubmstZzpyz0EdgpNDbYZa_D2x41N84iJlbo4qgyB4CzzJgRFCgB2dPLDm1k2i55xspzsmiAw1O0S2y4-YoPI_wqPuxDjDpdMVRGqpwfPtRHigmB5SVbGjPAWvcj86qEbdxUrNBy7vQpXmx3GJsT8tKenKI24Li_IiAtG3H28HgxvAXFFdbuAp7Yqu9IDUQdBUbh2UfoL3OY=w331-h248-no?authuser=0",
 		title: "With the Neumanns & Gigi - Feb 2023",
  		date: new Date("3/1/2023")
 	},
