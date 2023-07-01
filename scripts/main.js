@@ -14,8 +14,12 @@ If this doesn't open up, inspect any picture, scroll to view (not cluck) the pic
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
-{
-		"link": "https://photos.app.goo.gl/zxW5vLRBJiZwTFyD6",
+	{
+		"link": "https://photos.app.goo.gl/6faDsPaZ4Hx66TLJ7",
+		"img": "https://lh3.googleusercontent.com/pw/AJFCJaXI5NaPHCYYl6odOTEk-QAQGBfFLBRSkk_Pqo8TN3JJd4EBtOevVqUnhQFCh-Jl-kJvPcYO9g6Svv92Zg0w9Uai1UNgBF5dojjY18V2xMr2Ye-YtZsnocveaOFk7J2NN4rwjkMPRsMamRi6cyUlWWa3noN-aBckPrbF6sTf7mugMUsEXkOIHL6GU2bVtcKFRt2LZ92G8qeuD_U5xDuisGDK4A3zrTrW6S07eCmCwvuK9AqccpaB3bkQWbL-BxRp7g4dJLQpmLYdTb-ANloM0aFpxx6o5EkgKVuSGY7UDsc7PBx3Ay5jdoxA5NHqnKFltZYKWnNZfgK4uwu4Wt7nQxmgZ0ERtxOaRBJ4th2l5lt7djnSai1NPhdX8g5GPTHb7CZ4706aKoLp-61cCJt205fvvH6WyRd1j9iiCFYb3ZLZqwCEfW_YdMHgvwG72TqJqvon5nWubZjEwnvZQ7rrNXFpKFcWmEs84NZncs2EmmwZxy6uJvxULPFfZ2rbtx1gHxWNPtKMQcRCmiXoaxakdEE_YtLATmpLjAfaq8ZQP0fV3tvS6PxVZGYRhVDIpmabpGTgtESIes4HfLLQWlSTO3Uyjun_YMhJsnJsBjLW_exs4HK3WdteausMdsDLGcs3U-YacXVlKMWFyjkuu5dgvsEaKwWlW_oKlCI1fx_hK3jr-zkKMiAEKKxXX_zS_uf8Mb8MWXJf7BU5JmqI6tEFpt7P9RSFwPsxwL31jKTPKCiHs1eY6Upp2-WgAh3OVxgQ0CQyM7Iqimqi44CUmlPJ23N08QEo3X7xaxVFX8PdBZ7Eb3vAUiFt6RdjGchrkXE4qtb85Tcub5Hgf3qfH7pX9p0s_Qv9gVPLVeIXBfdN1KCuo9bwwciOiSs2Q77vXDkTIQg-PrRkx1Q0DIPlgSt9Kz6clywtPjzg85heOT2Q61ywsV1m745zjxN1sweUW_64G52DyBWBTqRrPwwXFsshZ_DvnnNVKyOvJMRoNHOUMVdwEomY7GAcxFs=w331-h248-no?authuser=0",
+		title: "Visit to Dan & Eric (during their engagement) in Washington - Feb 2023",
+ 		date: new Date("2/25/2023")
+	},{	"link": "https://photos.app.goo.gl/zxW5vLRBJiZwTFyD6",
 		"img": "https://lh3.googleusercontent.com/pw/AJFCJaWIa0_6XhlibVCRXQ0VnrOoYk_orHCUj6NX7_R9hiBQHkMFaSKyKrbhI8kE7MvkK5zGeRpRIrrH8KONofcOZtJX0je-5uwdfw9Jz83qF86maUDsFMHwpoZCayoBoL8IRSfXxTOutmzb_tqCGalXrfoLqRf84v_3t7u5cHG_Jn5s7TSabL95J48eTcLlk_x9hKygdXfU8sGfVeTroV-id-roXjKCyqhZlwq_f7TO6loMyOO1ANpOcWEkJ8BAB7o7y99XWt9lDbqjHjeLHDnyEr1GDoe8qPaGRWM7ezPRSRnFZYmVD_sNAPkAt2U-LWoKwBq5azqms5NV3yI9ocZnzfxgdaxk6Fuq-u-aM-CT4NtCT_setu9nhunDKVTuZHnlnZS830TF8Ki7Z4QVeTcMhF5Dl9NbK3RqRd8WeVeF9aP9ntrz66BsF7YzSWeJbrv9y1PU_YSbBp7TUbfPQBDLN7XMVOLDCYIE2dKv1vk_d7ucgnBWbRHYsjH59LDfBT3J39MojKEp_B9WKQAihpIxT3oyCvfI6-JCkS8AwFNCe1vNP8osgAkEfafCQhxoejvESkjnxNx0UZ4PLYe3KfQF6riNQB-KAeqPqmxaCQbjvbU7NTwgOHY3pDn7-xg1PVhMneBGKGvfIYrJO7VkEh0KnIWOWj9tf95VtJiEhp5kOjjv19tCKH4uonqAsxbKt0Vj4Rs_rFVWYeNhF64gK2U03kD4n76djiK9rZcWHwpYXeCRfIeSZiphJWZbN8woolGgzVt4itwqb1xIWd2ApwNRVPbUnSNFekWfGirlo_hDrXtyqNgP8bQ-Ix0-pZdR4EJ17D6p2_lC3vj9BUbiM4rHwIUCAgqXiIrQD4sQ1Xgtn4_Ny6u1mHX4eZEuWBoEHwCQ3f30KT50mIUqXC8d78wTIbBmU5f2vxdT0hpACnjX5t4dA_Oku6cmsF9mzzI5EQekz6_kvX5JzXzCQzeL5cHbgRv3kKvZzAUA9hqZpPxTWQjboUSMdGkwqOo=w259-h344-no?authuser=0",
 		title: "With the Newmanns & Gigi - Feb - May, 2023",
  		date: new Date("4/1/2023")
