@@ -84,7 +84,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 			{
 		"link": "https://photos.app.goo.gl/JBPahW3pSsPE3hL57",
 		"img": "https://lh3.googleusercontent.com/pw/AIL4fc-IaNrulLFDyrkU7EfM51b9kzlmZNBY4oikrSlfbKRZ2QFv9xnH3XV-X2p_GZaRKuE8d9S1k13EL-1v_IoGYQ7eqfhgYlILK92jkcCl_EaLWCQ-B7EVeRGcTqnRcVCKKe2uIJDYqnzkl4B3bW0oaLffHktm6abxviwpENCajwi_rHK8o3eka5kfPNmIeLdmMVHGcT_DDEfqvkGBP10NPx0DrYnT6qxiNTyAAqw0CWlVCkOCxQpMBl4OrNd5dulWjBQEv5fknRLaauabRsJ_hSMvau4qNYCskVtOjYl57jRsT0isFrcyMnfNAVn62HMsfGq2KMAs0BKg7O8a8JEz-6jEKbkR0fSJGYOeo000V4DqsUPqRKo6ZP8Ww6VXmM9GewYw_jSaxn5UJfVjDNWH8A7ufesWk7Tlg6nTFBtnxdyC9khSbHYA-xqHUOecSiYSyHW4l2wkZsKwFT4Mxr73kBdL10Bt10RTAohbtZZP2ulcKmkOaGHeSxZk8JbW8WSgIV6rBFm1x0__lbyh587k4jMslpvRLqDX2Miw-I9KYNa71Yx2F1EPKgOc61Mo4p5Wn5bE8GEGf0md8eRU2vhrV94zAI-8vLddtkP-JHcZGdaysisZP8NIN7PluOmLe48P_VCPX_UBXafXWn-IeIT--zGxk57oPwbNXAk03D7hSawNJSaFJaEIc_xIcQGVG9-ZfOG68iLjLuhFCSUMNRx5_YS5jwXlJa63_0VPEXKwubqiCHxi34RaDFT-jXooPAYeHeh2e6UpGBYFKb9hqZ_c4eFIRqJgAiLeWZXyofGgkjjOX76PZFPv1qtFuOHU5nebEuihRkgULn9VRpKtuKfcuJgSiRBmK2-gObPHmY4Ejb7eD6IJ7K4G6Qr7o4sbzHn4uDQOiwDxzB2pTnVwtTlQ2zCj64mpx48TO9Dsq81-d-AlWfpW3EQ9Y-W2DJpquBAGPYzegvcRxUzmRyjnC4GMk4dXjwS3SjO7a_Qg4-jPJ1RQCHImDdRoAec=w259-h344-no?authuser=0",
-		title: "Max at 7 months - May 15, 2023",
+		title: "Max at 7 months - May, 2023",
  		date: new Date("5/15/23")
 	},
 		{
