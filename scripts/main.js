@@ -15,16 +15,10 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
-		"link": "https://photos.app.goo.gl/7ATrZUGkpvru43cv5",
-		"img": "https://lh3.googleusercontent.com/pw/AIL4fc8fqMMTlVec0C2BHSU8-huy7LuOobRURWedd7Soq9WFbXT7sNsq0s_slCW9pKls00iZXqy-zJicaWwxQqiOQzBJEtbnegE5zLyyz55faTN3U5tQUKw2TIQhoZHPrPOo3OMhnpcM_dtL9WequDmJV5t41OMJL0kZ53igF9GXe7ZLzI5JIAynUTg1smWbZZKM_Ohfx5aaO9yuZ20QBSDxtLAF5T8v9F5a5pdHuThcJLHcV9zDrs5iTC5_dxboyps0FNPbY3FBivZAaGhAqxnr1gZGBAuwIzfqr3K5oHwyl5e3ZXS-WgQdNaSvDoS59GdgLYQwteQcqaFaPB9epLL7yeZJGMynTyQY6KpWVut-mcMn4EXCDozsVuP4EmPdwu4dmRMAiW0PFGxj1hrE8zNRYIWfOvTemIfLbhv3RbxcZYlCBpKjBR50n09fL6wTONqWV98c3RJ3wi--WZuh5JsllTDFubVlp3PSskQzc5ard8GarqxJI_rWUPxyjgGjvQHHs1NLx1tj2k3p97E9Ha-TEQC8Vyiua3EAkchxKmQMGaRCRFGmAPabZDp7iqbXUfriSLQrs2PtIeUH7GPztddoI73vIGWmfqxRcq_IIHlmFziJk4uAp8DxQoIKTShqZTFVGSjDQ6T7jjomOs3boIdWcN_Vuqx7fJ5AgduYk0iHVgi-Jo8IAaKtjySDRRaESNPMQH2_sbAzO6lYtvOcluOmRWfke1Tk_j2NMog3qSrlXrjt-DtF5a2Q2JAKiJ2h8W5sF_f_Zuura92d-0n-B5o-dF_r7R7WuC5vae3Pr2siADwtCQTHSlnon6FLZy2rpiiPRlOYIqlIl2RgkTJaki7h1dF8dxCvbGgOfviapG8SgGkT1ztpdgyQWeFUP-wKhSlfltTMtaPpzJEH_-F3_k654t41nXp6TP3hy3g3SAhmnp7x-gtJUzw7qllXfmu8wUY=w259-h344-no?authuser=0",
-		title: "Barry Weiner's visit for dad's unveiling - May 21, 2023",
- 		date: new Date("5/21/23")
-	},
-			{
 		"link": "https://photos.app.goo.gl/zEMxDfD3QoxbnSfs6",
 		"img": "https://lh3.googleusercontent.com/pw/AIL4fc_woLKJ4-uRtHqJLDCLBi9zYAPz3CjPXjbJpGjjyJ_-QPLztG3x1F1VrkXxMg8Q2l9yzJ48454VeZu22AVxhG7nOZffjFZL9VNsqtXynpeseObEVSgeBSEGMEKnh-KE6RbVYE9Ne3qgebV9RIHH-Ok7X1Gt940AbSZKdFJuX0LnWGE7xGm7LxIFYUtBvAUJvqALKjTojn9WUvXhgArwaRooGQxtEX6ZY20ZVYfcDspmPHUkU3a4m4f0ycWW-6yAVaxu2217ycARGF5QhhNS6pURnE0DG6vKlHrGP5r-PBD6p_IBD3gZdlfGYNFEJTSpoe4nB7g9pmOmw7wd1gJms1YcP6inc2TO8uU4KMXOKsootSgHXeeTYRAbXnKKNSir3tFCg4K_2veZFzvC9Oov_csuX83ajydAKEpKqNisStqaZAypp4d6PCkU4cxLMVefcsKtLR6mVnnOXf_PFtNvqZ3ZoMdAmFczhFYQ6G2zE3rWYsPI8bbz4kIK4gl9eFoSlz3nTFnu9hrLGnAdP6qCW1BdjK8Y6ud0dTvKvye3-ViWfqwWsbupFy5uh4qkU1Jtdp5CyXO3FnqLB64rQL2wpMjEq-QE_jZWQ70d5w0h3kklNG1qC8jm7OAaP1FsMyziNqWPp_d5sGxcA-hcql3OeWuVYEo6zqDJXwXKZ7m1vtE0ofT79ZS-hmeolzCMtTvZz85GRRG4JZWFOtdMXxxxVX4w0P8df_oyRJ6G2Vqd_22i0VuvKjkiDg0R4oHjx5u4Mu2Bl9OLHciPSblkz6LadV468dsJxJX9o2Pz3aFV16lpR8wM9kxuAC_bCQ40B_fsyF9Ddhdr4cyo3aAoaGVQb_edOKW2QicmkanLXKeiX6g6FP2yEDzc46UBHYoXWjM-dvhFYGLsLG1-ziVrkJIIlQ8Xn2qiQWGlsJ6whanLZfUqtFksYHfKhEuBXZxby-M=w258-h344-no?authuser=0",
 		title: "At the Neumann's new Wildwood House - June, 2023",
- 		date: new Date("June 20, 2020")
+ 		date: new Date("6/20/23")
 	},
 		{
 		"link": "https://photos.app.goo.gl/YPJ6iYyecuqLwvSa7",
@@ -54,7 +48,13 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"img": "https://lh3.googleusercontent.com/pw/AIL4fc8t0hwnNRGleRXkQrNKjyCK0UDIysEvQshJCMf6Nuk4SRl0Xs57r38bzXtN2Vgy1smEQRgHuGfvdDMVGji_Vud2QivTgYWMhwDb8o4fF5qywAHyGa1yyQ_2XCHJinkSyuKUSwhhNpWsZ-g8Ue5Q1fBEDw=w538-h404-s-no?authuser=0",
 		title: "Dan & Eric Wedding Week Pictures - June, 2023",
  		date: new Date("6/5/2023")
-	},{
+	},
+	{
+		"link": "https://photos.app.goo.gl/7ATrZUGkpvru43cv5",
+		"img": "https://lh3.googleusercontent.com/pw/AIL4fc8fqMMTlVec0C2BHSU8-huy7LuOobRURWedd7Soq9WFbXT7sNsq0s_slCW9pKls00iZXqy-zJicaWwxQqiOQzBJEtbnegE5zLyyz55faTN3U5tQUKw2TIQhoZHPrPOo3OMhnpcM_dtL9WequDmJV5t41OMJL0kZ53igF9GXe7ZLzI5JIAynUTg1smWbZZKM_Ohfx5aaO9yuZ20QBSDxtLAF5T8v9F5a5pdHuThcJLHcV9zDrs5iTC5_dxboyps0FNPbY3FBivZAaGhAqxnr1gZGBAuwIzfqr3K5oHwyl5e3ZXS-WgQdNaSvDoS59GdgLYQwteQcqaFaPB9epLL7yeZJGMynTyQY6KpWVut-mcMn4EXCDozsVuP4EmPdwu4dmRMAiW0PFGxj1hrE8zNRYIWfOvTemIfLbhv3RbxcZYlCBpKjBR50n09fL6wTONqWV98c3RJ3wi--WZuh5JsllTDFubVlp3PSskQzc5ard8GarqxJI_rWUPxyjgGjvQHHs1NLx1tj2k3p97E9Ha-TEQC8Vyiua3EAkchxKmQMGaRCRFGmAPabZDp7iqbXUfriSLQrs2PtIeUH7GPztddoI73vIGWmfqxRcq_IIHlmFziJk4uAp8DxQoIKTShqZTFVGSjDQ6T7jjomOs3boIdWcN_Vuqx7fJ5AgduYk0iHVgi-Jo8IAaKtjySDRRaESNPMQH2_sbAzO6lYtvOcluOmRWfke1Tk_j2NMog3qSrlXrjt-DtF5a2Q2JAKiJ2h8W5sF_f_Zuura92d-0n-B5o-dF_r7R7WuC5vae3Pr2siADwtCQTHSlnon6FLZy2rpiiPRlOYIqlIl2RgkTJaki7h1dF8dxCvbGgOfviapG8SgGkT1ztpdgyQWeFUP-wKhSlfltTMtaPpzJEH_-F3_k654t41nXp6TP3hy3g3SAhmnp7x-gtJUzw7qllXfmu8wUY=w259-h344-no?authuser=0",
+		title: "Barry Weiner's visit for dad's unveiling - May 21, 2023",
+ 		date: new Date("5/21/23")
+	},	{
 		"link": "https://photos.app.goo.gl/GvFNc7kyfYYo6GEZ6",
 		"img": "https://lh3.googleusercontent.com/pw/AIL4fc_r_QNRaNqSCkIkqbxf7uI67ErohrTEs3XD3gIyKqb5HvywRIgLql7hHt-c7Zca6TeWUMuH6JxKfRUwHqzyfbFDw-SZNiAeC2hAJG_235dhAljgTCzhJyrzNR_j_o0Yip36cJjHpfR_sX2Blld6lL298tFnkEtwqjr2V4DYsvKgaVRyAgjiUkuvS4soFSRU9C-CxZQZBjgas6ZQDW6nbJvQmjhWnOBIEYhfAxGWknRGictu4GCJIrqqOu3nVRICBCZBK2Q_nVwfkbMk9CSzr5r75q3KnvRiBjAU7yWbyB8y4qXUh0bYg2bOC7TNOaNJEkHOg89qO9DRp0ju3hQvkEtTkYgR-S-N6BCICHG3798hy4z9rTNLkOsaJMbpJMT5UMODC0D6IbkW3JY0JHRTeyR606xZzV01xDvTK9_HrfRUTYMyksIIBUOyEJTBrTpFhBngNQQW-gnCL6jSzv6g9iipSob4ZffO38RzlgldMF0mbqwJZ45sbZ0T0AqH0bfc_1BUwTMEtrREF-M9J-1G003Rz425rHGzLtOuE3YERGAr2B3YA7xt7Qk5ojjRcSe-a5qRnfwsCXWCDVOwFAtj6dcZUP6s6QXA4gswBXaSv8LCGN-erubvTO-6UWEAUuyny5baTdKKbPg5fON7n-nIB2ngoMOpE5l5ma48rGMo70vRGkgvizIcKJ4gWfc0DDUBzTF5sQRMEhMUX8U2CW8mayLTl_bJccceiNfncqKgBLP9lmVKfEHXbPpY8WsqmkmzNnAQvt2wMQosSqAHymuZIQREC3BkR4iNi5_aO2y8NPQWyAUAr9MfJDaDfP7s1QucSfWFLLeX2up9mU2ansya4udDMjGsq9q0e1gBABULUByWrq5AXYJl6MQyVMcEBqNj6YrryIesFqdPfuIqLCENrSCSahG8HNmOXkkTgvqz_UQxJiQOBGg-9LWMpiuvg_Y=w258-h344-no?authuser=0",
 		title: "Mothers day 2023",
