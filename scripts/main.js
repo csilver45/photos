@@ -53,7 +53,8 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"img": "https://lh3.googleusercontent.com/pw/AIL4fc8WLIQbPNAw2Gyn-0cCqMu9OC89Rznqlg8_y11HVbIjQk7_WF9gdJbDNexQKC23Xoa4vfNdHG9BIi3G-EgZpgly1NcuLtilDxPHihphIjsFIqm7ajEFQveO-4pJVhujR3QOlj0JoRE4bObkxlXXh-T5OBDSGWikUY2T67sCU-aZ5mVeedKonJuSzkIw_BIqaHzpWwcRcOrEKVEceBurZ3VInjtSOqFZ4fwGQATSWpcsqHQ6vWKjWbTk1ayR1k6Ohfx4UDc06fReNb8Izxp2jr4ixbmPoN_7nm1NbNsZIsDRu1mZowiuTLnZodekYLh5U2PCVCdVqT8dt50Is6tydTcXm6b4EX03xFVcUKDgShIHNQ7uJRUJ_6gyMkkIaYFCHIcVPGUEjeMZgPk75NTe81VUpvVk984u0_p62Fx4_6kOO-Qp3NTewJBQG9fd1XcYwkakwR-R-Dy8cbDLMZ4gDLVfFqBJcT_-xAQKUEQp9qEbVfcIi6jVxOO2UVvjSZePEq24sWI7qkyAVW74PzYXMCxP8eiQJ1j-Ofd-8sqWZnSB0n5bCq7MvkP2SYcK7OYrfgaW1gRX--mFD2XPilahJI583J_y38vP26X_sQuBzipwJK8ydWbbCChYGyrHyed7vMqkIUv1NNBgpxjL4GynLY2xw6QddfgcsypkMtxALY-IXqA-BpVAM_bKsw3EDuHYP-siHiZnB6H7wr7ne-D2P69igkRYmrjyq8tmI_z0ZGPaaNZkQwFG4tXBM839PQ0BREBTDNt77hs_AxrUestjT9CzSMeeBkmF6xhf7DKvFrAmKie1crcmDFW8xNmTyYQTFTmZXE0rNKXs21Xpovi-O87sRq1jouV5BQWJHwZODu_Ci0QVEQgEnkCsLh9B7PUwclmlbJkMBY8v8SsjrYnPeDsx3BZcKkFeMcTkehiuvCdqswCj0xU2BwXqXUfDShU=w296-h393-no?authuser=0",
 		title: "Schwent's visit in May, 2023",
  		date: new Date("5/28/23")
-	},{
+	}
+/*		,{
 		"link": "https://photos.app.goo.gl/weeKNhq7CLDoFwk26",
 		"img": "https://lh3.googleusercontent.com/pw/AIL4fc9D2rUw3dWidZTAV7cJ6RLQhIqBenxr6CSYQKSKBvfcFk09CWazIoWaU4eD9Pmofr1lyLk3OtSdCiq1nfJFp1-_e_Gt67ZD93ErSS-boyWTktxCk3BREFyRPurMtCYAkz23xkCT-CIL0ihx7S2_v_7D9ibCa1QXR6RpFowMr27FFHu3UBiaXXdcP_YJf9oALQcnAeZy0xLd2nWNaelFmiuEY_6Ue-irHuqpRq6j3gESQ3IkIFFWkxaKlZJaJtzVRbSXsI9qC4RdbrfmlY9lsStParIfKmZvdDcHyQ4qKNcsNNpWggcGZ8EuW7XeuC2td1GM_wZgRvWDUNAfTUrorw9tTDuZTgnVciuDFHv088fJtiHIpc4LiaE4O6AwlXzg9Ld3ZKNSGt7LnmuUBJgagcvHfRUDlB0O893xXwPEIzzP1CN3u3D9MabG10uY4qajSwjVxSUoHiJ6Xn6l4WpVtsxzOD3JAet5RwLlHiKDNsufsPgc5vaiID-nNv0MB87lovKvd1O0PpMDgEfOf21exMYZUwLxDK6XZqRGlQ4vpuA3JEQ5zFsd8eo9knQRag49gAMBZ10xsbxBhWZ_LOn7DuTszfbxrgHCa7zPhjZkJU5i4dUYNR7BKlLffE67a-1Qu5uCUTrRTBws3BPO4_bgEbw_qsnvnc9Pu9yb3VyvGFmBu8GV0lEp876JAvOWBwa9almbfWjkr4bp0ML15fPG5q2oUtct6V0V6EH1oze28exKl5VKZYObjNqkfe_Ozw2u_sNh3Z8NSpb7zApGES-r0CNa7JcXysenqnFEkFru2H8uzPHYOZvYZSAfpuWV0Z5k05__D7CNFwSyh-QaDak5vPY1Qlm31dRvXBAXj-tipvaGS9suJZSlQO3hVFTaoHHlFG1BcBg6_drBduNoj1EU1j-QqKjgYnwNhM-wnGuYMg0WYqPLIoL_sMo6dhGPssA=w205-h273-no?authuser=0",
 		title: "Around the house with the Neumanns, May 2023",
@@ -503,7 +504,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"link": "https://photos.app.goo.gl/huPhfef78it41TKS7",
 		"img": "https://lh3.googleusercontent.com/64ASM-lCH3-XAsPSGxKYGAhwEYrNgnAeVBA4lJuhuORwiWs4-5GrMTRIgOWEIOjL17EpjD5TZ9hvy6n30wOgUvEBjmwEP47g66qsyOxIEUm4qzywzCpWKUudD9aJnFlac8kDFEYtY39DL5qqvJ2APQ1R05K3__rhLBVGEbv2rARVJFuNZu9B9g6S3_0KdbgDvXpF2MQ28P6glxUZHs-vYdr7e_689hto5r-Iq3NFK-XR9_bg1YPf3VjbQhFGenTc-RKn9aQ5nWU5-ElBCfr26ldDU9emEmaUlLpU5ZjudgG8hXX2AQz1jRS8TQRj_aUhPqi3fjHKNGeYWizMmaOPiNcEoK5BHx1mUVpyACHUFaLPsAy1yleGcVCbO21yL-K92Jos4ysvjkUioJQWSuuNDowE-bPoQrsTeXnNNJp_EvC_9FQqcf16-XXpeXcigG28Rih_NaC4LyOiTdT03DKVt2dArIS_e7LEMGaqiVkWHiif70FoAV0RYFBe1wMGeHKIoKW7Oj7f13GqyFTODZBaVRUoSc84bUvHx05PApxrhjo2ikbVksqCT75BhcWTTp0guxQst_onEaCskYgZVCXlw1EgxPs-2p9dirraDFK2lgwP1A4vW_z15t36gEibx7V2U43eQBVI5Yv4nQV00FIjVpWM9PWfT4M8vAXA7hFusKUVhCRnWjH71ZYxpYhLJ6Q=w265-h328-no?authuser=0",
 		title: "Cassidy Blake Neumann newborn videos",
-    date: new Date("6/15/2020")
+  		 date: new Date("6/15/2020")
 	},
 		{
 		"link": "https://photos.app.goo.gl/Uqd7cfeo8Vivg2oP9",
@@ -531,7 +532,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"title": "Continue to pre-2020",
  		"date": new Date("12/31/2019")
 	}
-	
+*/	
 /* {
 		"link": "",
 		"img": "",
