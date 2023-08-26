@@ -526,7 +526,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		"title": "St. Louis, December 2019",
  		 "date": new Date("1/5/2020")
 	},{
-		"link": "./cpre2020.html",	
+		"link": "./pre2020.html",	
 		"img": "https://lh3.googleusercontent.com/L8Ct3u_i6RixlTuPE3JrtTluRevqXXP8FSaruLB51XcGntgdd2jdUjL2CQ2NcVpDzkvYv_PQvpO6JeNFNdZBtRaGwGN1qn7_Q8wkwONwTv1FBTDLdii5_fGBqQi9FDwa2Vu7WgwVz3xvZqJFFMj_RVEszBrd8aw2HDQVLZIWSeZ0u02TpIP64sFJ-vECdB8mQG1FF4udwVeJDsiF0M5RX11ArqF5er-7Rm157VYJgNgOmW_wM5aoLXnftqlzkO7sBlVa2MN_5GN6UeWTIN1peQR-pHkygCkMeBrZ00qPo-hlisF9QQIJVQW6BdKeFhG5UhoOIH5bAY4uFoXgPluZNILsDhmj9eU7asbR99cyJQQb3-6vmBbQFlily1N3ZLzOu_cTyyqWqOroTqmpKQUgvA3paq_-EKb9TIwRD35fKT3xWoX5bJw4JzA0D0v5keyyqe2BcKXF-6BgieQA_ERMPQlCtOdl945V22r100CbLSuznLTJ41geo3IIGsHdCmzuql67CAYZJA7MU_5OyIeWBBzW3Fv1XyI6qUtlb7fpyvL5n_So5ASy_egmmI7GRCUSPf0j06wKccmS2dY9EReEqPDg0cmxRu0IKLK0abOaVhBbUrAIuxoKDzUDxON3kIfyoGGnYx9AsnR1j0CS7_P-RoDGeWoGRcEu6RvzmN3IQUG1MggfislUB20pux1AUyA0r8PwGUQ9XezeRsg1SI8y4M0zZQ=w438-h328-no",
 		"title": "Continue to pre-2020",
  		"date": new Date("12/31/2019")
