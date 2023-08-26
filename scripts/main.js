@@ -16,7 +16,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
 		"link": "https://photos.app.goo.gl/dQfUBMyut8hQ7xpV7",
-		"img": "https://photos.google.com/album/AF1QipOm0Y3lARAT45OGJ_awKaN5fQOPcrwevtdymG_N/photo/AF1QipPaVhIof-VmdBHiJXjygPWm-gIgtjH81vMw7fmh",
+		"img": "https://lh3.googleusercontent.com/pw/AIL4fc-ehe7Rfe31v5OCzAz30V-9LWxQJXrmW7sxWyKsFq-Bk89oTfCbvO76GXocDIOg8bjmCPzZJF4nFXdjt7cU24dEXCJiGnsy8-xQ-zC9BWJz04f5j3QBhi0ZwYtZnKcH-mKdJYSfsK7kX0eDg7T-_AOR2fqL7OqWgnKZXfvAfVzh2iWqTGG29yWG8BGwhrQRQIp71OLWdfl1-0WCg5qQcOoP2L4YPupr3UEru8onQx0j9AH-P6E42STlYhqq_JtthJ8y4kdXu2cLqDx8pU4g_zU2fCc-tdhFUhZNuKshOZ-BX5VI2iSyVnNT4pAz7PZ7U5smih3NK4ks01XyS4UdzCTLwBShEM7aubnk32vK9e5HY1QktaaYeXbt5EADIiBXoteeMHfPi9lxxewDdWu3xUk0dCUx8zdAkooPXPApsreu-b_yQYOmH0VTVns6SsTduytak_g0CcwzFwC_yrrtRXE8mNQqSzj3w9SNMT-XK9uO8_K7kD8P_s7VnrK2O37ZAZhonfwZrLEN1ZQtM-yV04n-QLM6orDVq9MvVaHuPiAPF8eq7BllMhjyLmrt9t_GdL-mq4QFJfWFilkfkcor-KlbyjHj_KDWvKbrZLd7NLHjGnv3mv6O-D92NwJTyX1x3KdndbamQ0Gyb_KqKuPDNBAoIOeYIjz70lVkD1hOKQaFYQAz4Gf2iwD4u_MA2KZzYKq4ZcjKeZ_3LgY6u5FK4UmKfF-ZR_UPaobQ5lrn-JbR9VZafczWnktNPpF1fr63eWOvqT8aPE-VMcE83_9Sgbp_5J9VSXWUxEa6lWU_3zp2lgwPmk_N0gb9puj1pqgMoIovAyxG8r7bJbOPa9d9EHuJxcom7R2W2z1Kk36hAoBARYSPwxYnX6g0b_tLwR_l_iM-XMXTorUgE616k4KDZPsWLpDYiCDc6Pt259Hjvma1-I4KNJPsp5gLmHZCVnWMF5bNzdEfCwGnWRUsQZPN_7Iium38qntL_QFX4YQ8y4urB-ACcp1c_oE=w258-h344-no?authuser=0",
 		title: "Dan & Eric wedding day and reception - June 10, 2023",
  		date: new Date("6/10/23")
 	},{
