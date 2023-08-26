@@ -29,7 +29,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/4aajtvJnbJrtvGr68",
 		"img": "https://lh3.googleusercontent.com/pw/AIL4fc8mnCtXE8s6U5EgaE-7TC0Imy2gets4XoznsN84iwb6OmlsE2_hSsi1AEgYj3fU72xBp5bYJ_UYbxPnac7Z9NxvgypIiCV1AyE3ISrYJ0ovYQ5d9n2hmmJu0JYA1QlbXqleknh6R3DVAi6lOHhD18uthMaNwif8rM3KUd_FZWvR9vz7CKSFGLK0BvZZWDyK9krbK1sop7_BumKsxHYDw7zlq4Cua-hwGjhVlcrQuUmHLphPEGBdMNYA4uc2ddvNm4klChT0iR4bgO1qRVJCjssNwRyScjrqulXGGp_bzBX2_Rc7qozUFJ4jysPTc9TYU_BQKO8F22Vhs3eXci6XdvX-G5DRYzkbAn9fofocJ-82N56EBkMizXS7OPcxm6W25YQ7rxQbzlLVn-wGryO_obqIG36VzasDMcjsbPeqUFPlBi6rOhK3Z4WsJbP04HlsSA9aWeTFNd9fL7cTI18BnLVgfaPCFSNKoCorSDI6gOWZhURhLLlbH9-AZgZI9tVyO7De_xabeqq2hRqxIIIFZkSE6PtCLY3KxoNpxwzliYK2HnHe2EiJ6ipFCX5W_KLkK57P4IahT-CwChiro4uLAH6YqmvaM-8SI7cA5JCBCOqefVIDjbVBYn5N5Ya8F_aPKc4YJZDQHenIqGd8crfN10iAOJnnndY58Q4aLEMgV_ORkUGr08nY-l2cqsYn4V_sLMDQ2ElFLFv6w686WUFnSu09LqEnVQ3rLTjrSJt1sMKzOGbfU5CPRAcXbPWW0ndj3c9exlOrGzQcBOVo-n6g6oGcNQDrozj-juz7YDee0kpsTIoLdqmVJVaSKA834DwimL_8Lo9Ob5UQTJ6AslPkheiRnuvmbSGM8Jt-kpgnNuDhS8FKTKmSIBXjmymqlOI-Au8UzRCJWpjl6cTAnRBp778XXFYa5FHV_QjjW-2-lwcUNhvxPGIykA6NGgnSKWY=w259-h194-no?authuser=0",
-		title: "Newmann's moving day, June 2023",
+		title: "Neumann's moving day, June 2023",
  		date: new Date("6/16/23")
 	},
 		{
@@ -56,7 +56,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/weeKNhq7CLDoFwk26",
 		"img": "https://lh3.googleusercontent.com/pw/AIL4fc9D2rUw3dWidZTAV7cJ6RLQhIqBenxr6CSYQKSKBvfcFk09CWazIoWaU4eD9Pmofr1lyLk3OtSdCiq1nfJFp1-_e_Gt67ZD93ErSS-boyWTktxCk3BREFyRPurMtCYAkz23xkCT-CIL0ihx7S2_v_7D9ibCa1QXR6RpFowMr27FFHu3UBiaXXdcP_YJf9oALQcnAeZy0xLd2nWNaelFmiuEY_6Ue-irHuqpRq6j3gESQ3IkIFFWkxaKlZJaJtzVRbSXsI9qC4RdbrfmlY9lsStParIfKmZvdDcHyQ4qKNcsNNpWggcGZ8EuW7XeuC2td1GM_wZgRvWDUNAfTUrorw9tTDuZTgnVciuDFHv088fJtiHIpc4LiaE4O6AwlXzg9Ld3ZKNSGt7LnmuUBJgagcvHfRUDlB0O893xXwPEIzzP1CN3u3D9MabG10uY4qajSwjVxSUoHiJ6Xn6l4WpVtsxzOD3JAet5RwLlHiKDNsufsPgc5vaiID-nNv0MB87lovKvd1O0PpMDgEfOf21exMYZUwLxDK6XZqRGlQ4vpuA3JEQ5zFsd8eo9knQRag49gAMBZ10xsbxBhWZ_LOn7DuTszfbxrgHCa7zPhjZkJU5i4dUYNR7BKlLffE67a-1Qu5uCUTrRTBws3BPO4_bgEbw_qsnvnc9Pu9yb3VyvGFmBu8GV0lEp876JAvOWBwa9almbfWjkr4bp0ML15fPG5q2oUtct6V0V6EH1oze28exKl5VKZYObjNqkfe_Ozw2u_sNh3Z8NSpb7zApGES-r0CNa7JcXysenqnFEkFru2H8uzPHYOZvYZSAfpuWV0Z5k05__D7CNFwSyh-QaDak5vPY1Qlm31dRvXBAXj-tipvaGS9suJZSlQO3hVFTaoHHlFG1BcBg6_drBduNoj1EU1j-QqKjgYnwNhM-wnGuYMg0WYqPLIoL_sMo6dhGPssA=w205-h273-no?authuser=0",
-		title: "Around the house with the Newmanns, May 2023",
+		title: "Around the house with the Neumanns, May 2023",
  		date: new Date("5/25/23")
 	},
 	{
@@ -67,7 +67,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/t9RSpdGJvXpF9jPd6",
 		"img": "https://lh3.googleusercontent.com/pw/AIL4fc9iiiQ8OGGe0yK9HuKNtJEthaZPHaCNHvwdwqikwcDAPteebXSSecmhuLAHpnNHByPNZw22AYbrzMFIyJcqMWmBCgivrort6Fcg1vsxE3jevkLYy0kosF2Mnzk5S9o6-m4rNNVa-w0AVFP6XzaKkV4srnOu49zzVQJlyrdyT3_2FYGUHCe__iU46SUb9Z3TXAZKy1yRwvFrfxgl9DZexuYTdzar_2Y5mJDAp-SyYOVVv7jjDr4pGdhl6UhIVgcq9Q5nTZYC_hQgOup0Aq3b1tXLWuLqLHL73d4gRsiWBNQntssUehCzSxoB-5w6FHxLm972PDtHomwoBxBEo4QKGHrYmhW7ZTY6md68igSDyZMAd1lEO7pulbUO2CPBmSr2T_YpegkNqoXwjrqYXOkk4LUNpbdyqgg0IrcYxt7j0EL6WP7iRwLIFHwgj8oHnCvlnzeYZauIUXbdwmsh1gAq2KuuRcpyjKk5LVDr8Ir3Wd0D4C7CltZgAWQcuYkOjzjPGiCRQA1pO3HtzuSBR3vVSf2Cpc7lsZljYoHnqBsg7u67P50epL1H7pibuboQ3iviiGPI1PdcmcikywKPHn04Gj8fCnAMTnFoS7vg7ROc1bRfIMEhd3qbTXo2Sz6UyPReQUjrTxrFYIJL8OFoYKiOe_M1E26BUD9FyC8pI6Q1yNwmArsu3wsJtfDFZQ2l_AeghE3f0LByoKp6PRJdYxRlkm8kS9X2vR0ruL7sfbaM8ibhJLuN2T9uhHGcsTyF5RpWHOFF5dz2ORv09O6pT_HeCyMJ1-5LsFfcfjzu0dXID0XK9Of7LeUOqkUUaiEXj-YqBFyD3DHuMFV1VhPCAmJhKoi8No85i-F8SBYbdlddYFt2NqVRXfTAOlglAbEtWlEQuacP7j0ukkAfn20uxvmN2ugEPASSguvl5v1gMoHLKArvsLFVEvqD_mgmxMRNI1o=w331-h248-no?authuser=0",
-		title: "Last time at Newmann's Lake St. Louis House, May 2023",
+		title: "Last time at Neumann's Lake St. Louis House, May 2023",
  		date: new Date("5/15/23")
 	},	{
 		"link": "https://photos.app.goo.gl/GvFNc7kyfYYo6GEZ6",
@@ -108,7 +108,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
  		date: new Date("2/25/2023")
 	},{	"link": "https://photos.app.goo.gl/zxW5vLRBJiZwTFyD6",
 		"img": "https://lh3.googleusercontent.com/pw/AJFCJaWIa0_6XhlibVCRXQ0VnrOoYk_orHCUj6NX7_R9hiBQHkMFaSKyKrbhI8kE7MvkK5zGeRpRIrrH8KONofcOZtJX0je-5uwdfw9Jz83qF86maUDsFMHwpoZCayoBoL8IRSfXxTOutmzb_tqCGalXrfoLqRf84v_3t7u5cHG_Jn5s7TSabL95J48eTcLlk_x9hKygdXfU8sGfVeTroV-id-roXjKCyqhZlwq_f7TO6loMyOO1ANpOcWEkJ8BAB7o7y99XWt9lDbqjHjeLHDnyEr1GDoe8qPaGRWM7ezPRSRnFZYmVD_sNAPkAt2U-LWoKwBq5azqms5NV3yI9ocZnzfxgdaxk6Fuq-u-aM-CT4NtCT_setu9nhunDKVTuZHnlnZS830TF8Ki7Z4QVeTcMhF5Dl9NbK3RqRd8WeVeF9aP9ntrz66BsF7YzSWeJbrv9y1PU_YSbBp7TUbfPQBDLN7XMVOLDCYIE2dKv1vk_d7ucgnBWbRHYsjH59LDfBT3J39MojKEp_B9WKQAihpIxT3oyCvfI6-JCkS8AwFNCe1vNP8osgAkEfafCQhxoejvESkjnxNx0UZ4PLYe3KfQF6riNQB-KAeqPqmxaCQbjvbU7NTwgOHY3pDn7-xg1PVhMneBGKGvfIYrJO7VkEh0KnIWOWj9tf95VtJiEhp5kOjjv19tCKH4uonqAsxbKt0Vj4Rs_rFVWYeNhF64gK2U03kD4n76djiK9rZcWHwpYXeCRfIeSZiphJWZbN8woolGgzVt4itwqb1xIWd2ApwNRVPbUnSNFekWfGirlo_hDrXtyqNgP8bQ-Ix0-pZdR4EJ17D6p2_lC3vj9BUbiM4rHwIUCAgqXiIrQD4sQ1Xgtn4_Ny6u1mHX4eZEuWBoEHwCQ3f30KT50mIUqXC8d78wTIbBmU5f2vxdT0hpACnjX5t4dA_Oku6cmsF9mzzI5EQekz6_kvX5JzXzCQzeL5cHbgRv3kKvZzAUA9hqZpPxTWQjboUSMdGkwqOo=w259-h344-no?authuser=0",
-		title: "With the Newmanns & Gigi - Feb - May, 2023",
+		title: "With the Neumanns & Gigi - Feb - May, 2023",
  		date: new Date("4/1/2023")
 	},	{
 		"link": "https://photos.app.goo.gl/zvvP2KMo6RDtPYZy6",
