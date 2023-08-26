@@ -14,6 +14,23 @@ If this doesn't open up, inspect any picture, scroll to view (not cluck) the pic
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
+		{
+		"link": "https://photos.app.goo.gl/dQfUBMyut8hQ7xpV7",
+		"img": "https://photos.google.com/album/AF1QipOm0Y3lARAT45OGJ_awKaN5fQOPcrwevtdymG_N/photo/AF1QipPaVhIof-VmdBHiJXjygPWm-gIgtjH81vMw7fmh",
+		title: "Dan & Eric wedding day and reception - June 10, 2023",
+ 		date: new Date("6/10/23")
+	},{
+		"link": "https://photos.app.goo.gl/B7KHT3YzgevB4s976",
+		"img": "https://lh3.googleusercontent.com/pw/AIL4fc-qGyKMepdgm2jzQmYk8QPLsYPSaaU6HGh9adXIDd3ukkDNb9GPEe4nNu8hpgv1bbywUwzx4Zc2PfqydJHxlC3-NU8Eb_z8njGAGkTJsRdtqlb87966ub8-prQdOmZ6ygTwIYrf0HVy3DR1y-op2L2o1GWbQDKvfRARU47YEzTwjrPRPCe1ISG4EtCTwvHhVrHJP7Vl8oSNFjtCkUUR_p5j8ux6yRGfamd-z0qS5tJrb7vm8dXaTPjiPee3xIwnB8zDQPJh9TlT9KtqJbtAtZqBC-EuldU7D29RHndZdi-hDAvsPOvY5qtPrB0nYMawpI38zpIQch8tLcJy9L7RXITRC3ZJeW1WDHWWFm05diSm8rj8MY95-wIXDdUBHVn7klor2CCl2f4b4kma5De1XHq-PXzgHmtvwVdjbyTQ_BXkFK0J5yxh7ynsTqPl7JMlZSFHYIXRjebh9Hc0zfjzgcAF9vo50BzmGqfDVMbutXWkOu6v4FZL6fF1ZuyBv8VT3VKbsavtEjYTneYhNzK8FPsScmaNiaov9X9d38QWGJYPgW7l5NhVQ_wU6q2Ranmw9lOLjWKvMBWUU4XsZKK5zpv0d6NL1UltG-cDLISPtNBCojn2hi1e0roXo79jVZKvQPM3ReQsHjo-eWybrs5q3Aj3RTo37nPdsiFQU3XTkbTmj7ehx9WgYcxiEzHJHulxluHxogXGbvxjJnu4O4Kun28xeVcJnhv88Lutzou7-r8x03UCia7YEesD8J670IUaEh1QyYAXPDhoRLXmJ5Q5gxzaFHLj6so9Ac59aN3e6hw2KQ3a48lqr6JymOzxPZj9kSlKDExzXZ3y89_QRlgDx46tBr5XIx8QJJsxrRvaTHMeNlMM-o-UmmqIULbWabfiaw97J8cAAH_tQPqCUgrKC0Q8CMs88IvaQpr26OtY2SOiorWdp0_-rLkwq8fSUi8=w524-h931-s-no?authuser=0",
+		title: "Wedding rehearsal at venue and rehearsal dinner at Italian restaurant - June 9, 2023",
+ 		date: new Date("6/9/23")
+	},
+		{
+		"link": "https://photos.app.goo.gl/rwfTjvrv8HaPz3Km9",
+		"img": "https://lh3.googleusercontent.com/pw/AIL4fc8t0hwnNRGleRXkQrNKjyCK0UDIysEvQshJCMf6Nuk4SRl0Xs57r38bzXtN2Vgy1smEQRgHuGfvdDMVGji_Vud2QivTgYWMhwDb8o4fF5qywAHyGa1yyQ_2XCHJinkSyuKUSwhhNpWsZ-g8Ue5Q1fBEDw=w538-h404-s-no?authuser=0",
+		title: "Dan & Eric Wedding Week Pictures - June, 2023",
+ 		date: new Date("6/5/2023")
+	},
 	{
 		"link": "https://photos.app.goo.gl/RGFCALCAKBhR38nC9",
 		"img": "https://lh3.googleusercontent.com/pw/AJFCJaXR9VwH63yW0pTx__km2Eew7bKHvLBevSU_6b0rafP9FCDCrPlJplxIGZKO5Phx7ZzLQJFPq4XUkOZRjDb1EQ54a16DBZvbUFQ9xG2ZrQfRUaY9NV4duop-JGja4oyGU8NHze6twGMhbkRS3PdvPjqE12NazcYWgCr79DPANSkYQu0RZS_COc2HG889MpVlmdr2181PC903IraNWq6NoIYEzFhUav6-JYDv6l4yYV5zXGf5bMJAo2_bSEkWpLMwRTArWaGv-ZsHX-myUXiiDqsO0_l8ltsOzBiAHnSRu808YwsvPN4KftY2vaENs_oYpALAveHtVq7t6F1m7kcQqhvRE2K4EwgELfRlNGyn3TCqiMSH-GxFfBlUeltVORctDVja8vEpmTyy-WYTYXY-cOd_RXHhrG9RA8EU6RCMGpZlthcIulBNK7arGKrZohA8heTO39T9OpNWvPjPgMXHFOl95hJh27MIzO2d60qZ6e1Pn11J39aH04X49UqQwYTErNUJhoSM1IyUTQRoLsW43vpana7v3ODvPbecZqbIsW3erblxAWWrMB6XxUmLL3nfbT9JeHjFc0e791Pc8eiHhEcjYmeoAXcuDyfKaZdLCqF_4GQWAGML6XAnZ3JOJfaBVxh7cy-EKaiKrNaE2C_rzSC9x_tCbVU9P9YhTo8g10jQV2QsS1WGgOv201-V_26gKWyAVhvPm3SYqPY64sJ1ppdFiY8Rw3BJ0sqmUEjqTgqlLV_0Vhy6nxDHcfn4e3WlX9ZMIoQcwWo3QLYo2P6I8BCH9UJ_nA7KsZvv4ty9A2mRl9ivCIHTUfKpgzAeK-LQm3TmcVlNMJtdneLcMpw2aTRv0fsc8StVPZnAOmujGkIAEE1nMtFB6ObRj-NoIQ17oY1ZUWVjZ3t9AKbkFnNVaxNYgz8UfBDRD1TvhoPaC8-rV5X3EFhUMMt9AXTtypMeApjUu6Hai_4yHmlXZDovnbffuQQb6NvjedUXx2Ts1vmDLaFwSZd6eJQ=w177-h314-no?authuser=0",
