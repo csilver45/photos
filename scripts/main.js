@@ -147,7 +147,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},{
 		"link": "https://photos.app.goo.gl/RyggjbVzeMzB48u46",
 		"img": "https://lh3.googleusercontent.com/-HcLTENemhVKHFE1wqtn9gk1jMHIeBJf6aqKekspRpcjpwNpjHSwJiTv1iE62qIpXRZMQ3tMVqtxPHiJqBh2l873yqqcgCN7epO1gyOrmSjqPMkaJt6vURbkuhtgj4eulg8bspwYc5UxZy59HzfkicwSgolDMeSVb4KFW9THZdtc6arvJZdm_i8PLDHz6O86fu2N34FdzSp9f4qGeRFWbxe0jd4Hs-AtVrtjVCIh4sxSlCdi25auy9GZR6yhnjnnmDjR4yyQcO5FnqzOMo2A3sZ9-_B1n64W7Uj7gUEt4mR8YCeT8wtGcIKnWGHBuC0c8RL76Uke8vHQmg3BHZIIEv6vWpKvZQCFstbiI60Vah1VdalmTc9BOi53dgEPYAQijQcfJd6a3Z8CaiqX68Y3CqOA_WCDXI0Qhc9wOizvFL5VnVFbqsxwneT_x4jRs2sR53tjm6FwFzCGgEIqgkdG9cfToQ41CzZSWraUMtbdXWRJj8xONNxRwKeiE1TGS4DL7OOzjjTW4KalJRXoyOWC69Z97SoEnVo5Iht2cVsZyODkGPnq8qsHlO4XEh_KXp2NgJfT4GwbavIK46UKjUdQewpd8hAzAaPLbJNqcB887KyTlmUEMu_Yqh6dWbJtCB9kYvTLXo7FF3dAbMPtjTl68tOrZMRH4RoaJ_UNVAKZ1S_YH2WFJJ8_ZQRZ0QHKJP6eWv4YKoFYQvdaLArAaSjz9_TEMeZQsIV4k0vbrrm6NOyeldiL6e1xiTjoCjSSo8SYiztz0PPdszeboEjjV3c6yD-NPOqutuBU41fMr3QMeQntb-lrJvj2LMOSmtDRrOs7AOx0V1BWx6YOV-k_y_2BVgk0q5bwmp-X70HcMO8ns3bWriWEWdZ4Q3fmPHWxonhnL993HdmZjLV3ZtDhuz0rO1EiUdZoCwUeANqpEG-RId4ItawycYhc6e2MJ0ZWpaKd6RatYDTrPFDAP-0TCJGfyCMpziLfZcD6gOTmdB4xytnutfvL67zGBRuj1VsrVNQexKvnhT-Vaf9KLGc=w171-h303-no?authuser=0",
-		title: "Naming ceremony for Cassady and Max",
+		title: "Naming ceremony for Cassidy and Max",
  		date: new Date("12/17/2022")
 	},{
 		"link": "https://photos.app.goo.gl/YCpSc1du99DfHEyf8",
