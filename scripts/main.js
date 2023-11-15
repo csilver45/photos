@@ -41,12 +41,12 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 {
 		"link": "https://photos.app.goo.gl/vkJ82rV8c2Zbeb926",
 		"img": "https://lh3.googleusercontent.com/pw/ADCreHeuI0NGSWGhqqPoyuiZUZZwSHLGJbKxzLigEjDwwt-GaYMR0s6QUiv8jRyTOxLYsJphwiE03OyUhIupz1PbD3gIcTzYBknRUySu9ASlvqKjGDVYKPm6DKjKUsAbiaa2U2ibkmX65I3O_2N5UW0JgoPLE4wUo2Z21RzzoErho2ItInV6GVEwwvskJVRMMAeVYhreVzUcdhPV7faw1z-p5a8TaPVBB9GVomdB0Uoi5HT_xKjoBDoT4B8twLTp-EcmDL7E-44H9LMlMH6WoMK0l4l226B7itH14L2F3aKKFxrfMGeG131A34es7uri4QtA6QJvjANnZQDY_NwCzAAvPAStdL86LqoQLHrdYB0cdWkLbDSoOA9G7hAOBwS4qgHn7GA7Snw5kgAcfxLSjwMdcXonRyg_JQuu1xjJX0-Ie_z-GASi2jRX7e4NL3w4gqth0Izm4Wi-mkGJj6LiEKCZLSAel8UksEXpHgBS-7jaa1-eTnumoadMMT6VrcscTDJkg1cIdZOMChYgJO1sZiCa6-J4h7ZkWEiEkIcOWI4f2_8wELNYNzPPoNh4GNaGB00EPSgbqQZXjAsKkemM4AubAsNvVpg8MnZnSg3Q_w_sFEviqZeMSl0hgr9R34PgCZ6ZssSZfR3CkSHGAgdYa2NbhTRtIJjIMVjv7wGICqXWW8RqVDDKLt5KP1YumSOrgeWw218L7bah-AFN3VCcdaelbfxyCzZpNVMHI_2DVjGg4x-PJtVtCdy784xa9T-Pvo3Az1jkpgBYeBxvv1jYHibw72SZdWltPjlCHdXK1ZDxfsspvWwfFHugRMLDj3F7FlzeQnJaKI3bKSsj37od2Eoxdv_5YAPXu6iCTolxuJtJl6Roq7qUCk36f4a55_OU7m2jlQT_14ivGOSvVKmLFkx-dqAC6dirYEpqgAJmZDhU5cIJdPlil8_RctjPCJ-9nFM=w259-h344-no?authuser=0",
-		title: "Crusing with Susan and Russell Gold - July 2023",
+		title: "Cruising with Susan and Russell Gold - July 2023",
  		date: new Date("7/15/2023")
 	},{
 		"link": "https://photos.app.goo.gl/ZGZWLgxrSxsiUmkh6",
 		"img": "https://lh3.googleusercontent.com/pw/ADCreHfwaYCsPP0_h8NOn37lZW6qRcaKpNdLhTCEkv4wZSTt4Pkvvez5rG-CBdYCtfIQ8zhaJyEdDNwPkQqVruvr9bMamr63kNAIKQ6rlrh7fyiHUaNm2SkT25456P_t4Y7mrmdMBrPnYAhYO19z98IcZ5ojENOPDbTPGJPowF1ePWWSeBoN7DYRPc2hQF9EhiIII8cIRpx3ek62C59fRHD5goWEPdmfNuFj3T-PxSaD2wa_8IGqYLOiLySa86s77jj77WWx9Cg5YYUsrocXX2eRbMYtBEznBB-lvkKCFe-WHLEqP6iPJNJFzjbLRuXdhjYUvuJ6fEA27wDrDfFMhucoCiKxqvIw2O6WtybjlS52XepoVSkXJ1bHa_xyTbMSi4eV7pS26ZRSwYYvTU3C6u4qfgdzbPQ3eUHAgLj7AARXCkxB-1dbcGT-j0c4nGdk_4Ddkc9b8uwq-vt7rvRO-WDr2HkYxEi1i3Qt7pnVovJu8PBpWm7fNzfhqYyJHQEBELinm2_zEtHbX049qK7lhnC4SZuzHimTFaCEqqAYcsYKViJn4SJKLH0MsKwrNDh0TnxV0MT95iVSeGas4bqIBHL2XgumVlysSffozF9P2CVz9VHh5ZbtBTnps_XQiIa8T5qxnwP-ztCnQvh9g2lQ6KIRhhI-pCrZJims2IiD2-uGaKqMpPs8nEJsxax9oyKIo9cz25KZJ0J6rzSLAIIt3ZyRqNpe19HqW-tRms8dFJdS9lNG-mKoHygjTzXogh3yjskej4uRdNhDu6H6Sp4sqrCehVYHxUFSB3qexSYolUpY12mSWhr1k83tP0PHKbRcQ0brCQ0Cptjtqx4K36FcvA23jJqGYHnMUyYFO-TYyePTesiMzV65M3KLblqBIUgVaJanRS0TPSKstePE3S5wNj4wDduCY6L9nM4V8pX8MLsUzkvSjKQySRMkUpxSAKqaHXM=w258-h344-no?authuser=0",
-		title: "Boston NH trip with Lucie - August 2023",
+		title: "Boston & NH trip with Lucie - August 2023",
  		date: new Date("8/10/23")
 	},		{
 		"link": "https://photos.app.goo.gl/zEMxDfD3QoxbnSfs6",
