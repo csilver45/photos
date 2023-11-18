@@ -35,7 +35,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/zw87Xo65BssBwNxt5",
 		"img": "https://lh3.googleusercontent.com/pw/ADCreHct9j4iIed0YSLGyz6JcMBCSh2MVDj-hCB3b9VyPNn1-QBsv9E2OM5JO1rnGnjO9yY1IwrBZALhz_V07-AY3rW51I0bauh6BG2kBZ5d1Qr2vsl6uJn3a2LSHGjOY4WlDFB3mMyYgmTRLl6s7y8vi0rE3nrIZmocmlk1deWx6QBsKF8qDdYk4mo8q2Zr2T2hpOBOhkYDQoBEtk3OiVcKpa0Ie1Ra6QjSzMVzYVnPrHLhro3f4F0pWV9cWrIfG18opcHFig152SVdKKnCbuANxnv0Ff5rY88IoHZSvOPt_LruQQzWZ3AjDMha49VEl-vFMuTaXCDMplngaSfEOHZXi1mWoIOWyHKcKuAK-HIaU2djHQciT8-h9v3Ar0Huu8CjZG-9TbjibbEgWKyIb1AIbvAvf_1TiDNvGzHCanllgE7j_UHjy-lIw8foV23GVdVu1ZxBZSBeAu8teupzV9_NHGjW1I6j8Kq4aNQ4UE_rOqwbNZhvRYi-h1C0gtoSqhnkHa0KHSxwc4uXa_OxeP8Nx7liQRMFRdGiNzE6NUhxut1qpVZVJwqaAAV9Kl1DJxcRX3ouTkOzOAdAxia9m0hNa9zpRAy9mKzTvJW_YsPTsCtPlW6PgNmC5tS5fnadru-fQGbI66w8kjx-7jMBEGx65U7EpP36VJtT0wHmKuluH96KfPit4a_rw8g8F6aTF6yOs1zfujuXrB8R5r74ATHiKE7wK6av1F30zvUfKGZsbedDdACbQz4gjx9buuofEKNgG9zikI4urimUiaHLNZF3McDfTqG32_eM-YvArw4X0eY_8yh09sfck_VAai2o4Gl_CrjpryQWALa1j7giz77D3mDwNMnZVCtt5AqZgcAHKxxvq-jiRiCmvFrszyNjjoIHsQNkDheHrMo2FHlHtfhFzfeJ8KdpTnPuJ0fjW5JJJdeJvpxeJdw9iJjdC3UwyaZbo8j3EWDT6vSzTWz0qzEbQwXDYNJOyfAOxUaBgPVnmqfZCrY7Ur-Jias=w259-h344-no?authuser=0",
-		title: "Visiting Grandma Eileen in August 2023 ",
+		title: "Visiting Grandma Eileen, Laura, and Cory with Julie & Callan in August 2023 ",
  		date: new Date("8/16/23")
 	},
 {
