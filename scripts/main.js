@@ -22,8 +22,8 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},
 		{
 		"link": "https://photos.app.goo.gl/9WZAENztuX1QDieU7",
-	"img": "https://lh3.googleusercontent.com/pw/ADCreHdMVWYIIonS2Ks6YqviHWrLphlejnnxPelocxeTqVWf9Ua0P5Eh3K-JiYmErdSVHPXiOljPht10DVkdG1E5T8bDoxjT1-6h4ESiS6tCyRJN9i6kOhZj24_3ieTtpsgdkHhfGk4_o3dyF4rV1fwq6R3TtHeI_EfKxEvTxmLR57nClomNXTgeKGMrDmm2xAZNlEw0DryxzkcHhE905g0AFVwe_nbkfQtZhAwYOtEDpLbKNNitBopgiNqnYpDEhadznNpPStgq7ppR5mq6FetN7Bi1kyKV7bheYCo9T9Xn-kVLp9V0POd-YV3_eFXBel7byDtMcZZztilHc2W7vfcX_8mRL7xi8RxFzml6nriZjx-cUInxfbi1hHfsHln6BCU5dbZoOVujiagA2nReMSuHjpnDQSDZUeyG6sNUBPS4X0TsRXR0TGx8CxUZXxtPdgbaHtjlq2iQ1gJOlXnyyPorQckVClEkb4xqoUUn_64o7ZJRMjV8rWVP4DQWvwUg0pRtT7mJqfVyaBRN8crkFlXEfPMWhI3we_2GGMEuhgluzou9_5iINjv5o0WRK6q2vyaYozsCX0DnTBvAv0hLokrpMLpOFl0g--htc924l13JxT6xqzMePNv6chV-sg-lnVZ9yYvlNjyhZWBnwrVqjdYfDp4SZkzz8tM-OFGUR2c-GtmfZVPV69Qtm_lnSQu1rq0mcZPWpeiw0gt_EnC-f1aeqHxN8u5Hs5yFZ9j5K9QO6apEcHThzw3p6J7N-OCxbRceWgYzT27o1iqLrF9fTC4kD-o1fkJL5JfGP4tckRaC2NkK68XeDkZXscQyGFKZSORFDw6W_xUN5bst9AZdC6_s2MVzcYxFXfpxEPFUAKLgvsROM7bZfpKpJZufx5gCvGCizUvmBzm9XMEKf7SG3YX4f4-wbF-TfSbaPBs3KZ7K1-MpTfVp7iwS_FD6Fsxwqz2IuSy2EpYas_bqWkyfMnpRRrAYq3tSW1rGUhF92OQsQeJZXRhw8Vul6i8=w258-h344-no?authuser=0",
-		title: "Visiting Schiffs in NY August 2023x",
+	"img": "https://lh3.googleusercontent.com/pw/ADCreHcRZaIcPoDfkFGQNgiNDlRlhDPLWoQIqMgoAhogXwuoL_MlfXrjdY0aqEqpgMpoUTbgRQrqlVsSh-yWcKHzw6GgRRad0RkJWZAH3s6VgvlC4AwtqMkEMn9ajo3QUCKjwxeyIN7EuwK6RzOTSERQ40Ed8g=w538-h404-s-no-gm?authuser=0",
+		title: "Visiting Schiffs in NY August 2023y",
  		date: new Date("8/21/2023")
 	},
 		{
