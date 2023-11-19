@@ -28,7 +28,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},
 		{
 		"link": "https://photos.app.goo.gl/aLoXGqvpdYrqJmMh6",
-		"img": "https://lh3.googleusercontent.com/pw/ADCreHeqZe4NAbdToBRGv47HGE14IffC5mC_-EmmgcmdUm1r3zL3rMXyLL6ild6q-vOxi_EArWPm1bzHpu_pj_D-jO5VPjH3qn34eaA3F67Ur8anJ3bOBDhtXKqcEJaAdtR-b7X8MW8vzz6dzwjORyB-0slDpA=w538-h717-s-no-gm?authuser=0",
+		"img": "https://lh3.googleusercontent.com/pw/ADCreHd4U7H3ESwTl-MMtMFw-v1sgDqCLCDMUc04fhZVNfg9lPL3KilG_2JwCMcWlgbi9ayhHc0uiuME8z3AVubRFZj5AqzGkGuuW5KT7YQn7WFOTByR8_Bb3jr6GDkfzUOUQdW0lQQtGdOFGKwHaiwIWpDlcnowwsAtrThEXGsr7vBwB7-b7p94c49kgjJLOfevebY0TkMozAa3GYovg2cTDXujyshhxEpdK1BsjYRGB-PlV9hm3ak1jxgEGWan71SvELKuA_sWscS0huZkG46sZcKh-9CUqAdygJM4Ya033-VstBSfc8cV6Wr8k6c2_UocGqR--jYR1zKNyu7Cu0vrad-2He4uMswUMYUUXDGAoSj1Ax0XpTYMSzMbtB1JPlDxB27rh2M9btJcFzzd-sBsLuJpq6gJNGtatVMpg7zs7YmQYtKaRplAENX4TxvcQHPrHlfsz0TV9siz9tjgO3Dj4VnIwjwbRK1fV2dJWWhpj5bm9iCgzRxfj_XtOAOZWueM8b7YTmqxDVldyMkLG3OXHCCCoyfgmZzDYBgf0Z9_klRiW5vbCfPMLNLwQA8s7UuRrlwnnzhx9Y7v55S6Aqw9iGD3s0zk4zqSE12VmQWZLKEfQmIT-MMTIK2X-1w2JPElyfz0Ewucjx9agkVlSkPo5Vu7ck6h_u4cqwH7r0dgo1qNdrceqvbLCNqs_Wv2y_jIMenN3CYYtvEIhDrLcYkvUWB8NlMDvrZn7jPCZ8Ptu3Y7OLmNIjEEb37RcEmD_bpGBcmkhFfeIO38x_WevEoCX8NKaJRf8d0CqKTEpPkOpVW06oUyyifUm_VATTb3sNzgkIkQnc3EuL44lrFSg5ph4hWNHwMHrobSDhHQ5MPwAJV62AoczvwXHCPqqibFzZY82PO85EbuJVKXvaljcdMGhSKQ5pVnpv_iZ497jA9ymnG0TBZo18rOTSP8rVE4Eh1WbXWp_k2wMvjFWyY9OcwEIJh9JfZSpCzu5n2U1JWQzIbd3Af7S3gBSZc=w258-h344-no?authuser=0",
 		title: "Julie and Callan visit in August 2023",
  		date: new Date("8/20/2023")
 	},
@@ -41,7 +41,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 {
 		"link": "https://photos.app.goo.gl/vkJ82rV8c2Zbeb926",
 		"img": "https://lh3.googleusercontent.com/pw/ADCreHdy-sQIFgHW3MWukpCL_lOTumhGrJh1NcU7PxlBJqIu_UycYCVSPG_VNfqILHT0cEzyFSwTEI2odBwTdiB_nCg1LjBCmWQrDBLH6g34zUPZlF7Y-b2EX2gAYYDCW__W7E66KKCmk9LyT1sCL2D8h5vOcVFHzMAUVLczI_hPC86Jqnpq-Wvvl7kVjjd7gahcxwxAYT3jqoXn2oWPGibQLFZ7E5XfAEE0p-LTs3Nd8tyYcnTOf8vz_6UUBtvT-u1Wb6cWWG4gppBu0oWYnRBUKcPdOxUDfFtGl6-8BEfK_qVsfLoJUAPAJ5Dhv0pPfC9g2gSzrffocjo3LSRwUETAVcdT4GpUAqO6GnzifmQ_0p4qWsB06nk_nLzWf5koRkw5I-5wGC-T8oBxvwGtl5XESLWvtIzik9xzXiYM9ULC0b3UT1EAtCtdBHX2M5NQv8ZF_w0J0Baps15BMBx23qh6Z-weFOk67h8bCH5qwXRHUg4dZiN9rzJ00N356bllTTVflP1GCN1fRNBdB83_C9mhSp1PXEb9V-fHFrhnhS0440phnohAIjMi6dS31B2gx5doqVwgpEsQ-Aze3JVoprObUMoUT03ebui8-rx0-uWHyOi92v5Erys80u9SDcy6dtFYkDrBP1XP297HgePH1jLZEjmdboPzq1r8FXeCfhbz9k_m7Dq7jWnXAAbczUvljpHd5vpSb2VC5_ViXnGQAR5LiZ13P9rmsdQRh6TatGgCGJxUDEyg56fC4dwktZsffRvskO7JTZAhWbpOZG9EldnEjzyDAc_VnGOa8ect91riOiLyc-fyLrmBdrHSmkIFthUDRRkQm_gQ593UEjv_oPiO-RZX70fPFXezUEDb107BHjnjSGwyZJAboi4GVCV4P8afzPVI4czLjQ4iRICX43feO0g-B79yIhZXFGZ9xrZnF9QX_9R-1_ANAYiKbmlPpMniidUOf-KrO2sGskhRSjR94GZ01Ur32SJQGTIWRb6pjGGDBVvLBoQo874=w259-h344-no?authuser=0",
-		title: "Cruising with Susan and Russell Gold - July 2023x",
+		title: "Cruising with Susan and Russell Gold - July 2023",
  		date: new Date("7/15/2023")
 	},{
 		"link": "https://photos.app.goo.gl/ZGZWLgxrSxsiUmkh6",
