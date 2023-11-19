@@ -23,12 +23,12 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 		"link": "https://photos.app.goo.gl/9WZAENztuX1QDieU7",
 	"img": "https://lh3.googleusercontent.com/pw/ADCreHcRZaIcPoDfkFGQNgiNDlRlhDPLWoQIqMgoAhogXwuoL_MlfXrjdY0aqEqpgMpoUTbgRQrqlVsSh-yWcKHzw6GgRRad0RkJWZAH3s6VgvlC4AwtqMkEMn9ajo3QUCKjwxeyIN7EuwK6RzOTSERQ40Ed8g=w538-h404-s-no-gm?authuser=0",
-		title: "Visiting Schiffs in NY August 2023y",
+		title: "Visiting Schiffs in NY August 2023",
  		date: new Date("8/21/2023")
 	},
 		{
 		"link": "https://photos.app.goo.gl/aLoXGqvpdYrqJmMh6",
-		"img": "https://lh3.googleusercontent.com/pw/ADCreHeJ76HDnNl1QuZakJvHkHjxNcRc6bXRKlnR9nF_iCh9vFkPeV0w-yfQ4wpz4QCEm-xQPnSuNbeNxmd3RszZJgaankgZu8cfp9uqctBdtNsnpQO8PsMPXFvIBOH6-pYhrmEXxUpfaMGRvknaJeGlMPHVWQIfBvzq7AfL-xBft7S6vsYeh7YO6clK1sDAP2dfzkhn8wfMxnuBmm0NW0-u1ed69nDQXWTo2sRB0rPEh_PDn9kt7NcutZRyWQGNXoAM8CSCyXp1GOIV0C_lrdfLH3BMM3grH71NVaKiqz89ZmaLI_r2bNuwzEY93BIjjfRHh5QtA1MwROMUAEAKFfeKa0Jyb25WpJbq3UP_uweU68t8yGyBqBrrQdLXIT4D61rmcmlcgkv7tYIamPxK65dOo3JgIyGDClChMGgNT7ZHWVZ7CLhg7p4kgx2uVMy1QxUAoUr2a1BA2Ou8sbYeWSUUP9_KUvzEwDZidLCGlluQngl20v5dNPcJAoCbmTaw8h4lya3h_36X1P8sY8LxPEPDcVB0zNvHx-tn5E9lSpI3GdrCjUV5WKWoBOb02ap7fkdpW75dB3P1wU0AY9RUwurrwV-NW3IRZ1dv_YvJekj2K0jkj3CTfALdhIrbfhlYA3_7td9FnRvPils2NhEHoswkT2oD7mRA7u4oTMqDuiJLJx4d8Li9QPbT8rkhS_808b0Jg77Azf17Svz-Qvbd_Ip3J8TglAHABRVbPu25Al__i1jEsw0ajXvItjsJt6Y8gKyPN__I_Tr2bWabgrn_ZJdh1VNTxm4ZFy-jJ5L8X4Q5OJLTNFlifduQU8cKDwjH3HEAq3f9ybV6RF5boy47ugSlc83hKdiL3FxlkxK9DHha23Zzk4Xmvw6gSnoGTgyrV5VPa75UK8aUG6Mw8T-Xv463D-dItI8jIn7wt_uzNJcW0kKVW-96tr3t4nyokY59-IE=w186-h248-no?authuser=0",
+		"img": "https://lh3.googleusercontent.com/pw/ADCreHeqZe4NAbdToBRGv47HGE14IffC5mC_-EmmgcmdUm1r3zL3rMXyLL6ild6q-vOxi_EArWPm1bzHpu_pj_D-jO5VPjH3qn34eaA3F67Ur8anJ3bOBDhtXKqcEJaAdtR-b7X8MW8vzz6dzwjORyB-0slDpA=w538-h717-s-no-gm?authuser=0",
 		title: "Julie and Callan visit in August 2023",
  		date: new Date("8/20/2023")
 	},
@@ -45,8 +45,8 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
  		date: new Date("7/15/2023")
 	},{
 		"link": "https://photos.app.goo.gl/ZGZWLgxrSxsiUmkh6",
-		"img": "https://lh3.googleusercontent.com/pw/ADCreHfwaYCsPP0_h8NOn37lZW6qRcaKpNdLhTCEkv4wZSTt4Pkvvez5rG-CBdYCtfIQ8zhaJyEdDNwPkQqVruvr9bMamr63kNAIKQ6rlrh7fyiHUaNm2SkT25456P_t4Y7mrmdMBrPnYAhYO19z98IcZ5ojENOPDbTPGJPowF1ePWWSeBoN7DYRPc2hQF9EhiIII8cIRpx3ek62C59fRHD5goWEPdmfNuFj3T-PxSaD2wa_8IGqYLOiLySa86s77jj77WWx9Cg5YYUsrocXX2eRbMYtBEznBB-lvkKCFe-WHLEqP6iPJNJFzjbLRuXdhjYUvuJ6fEA27wDrDfFMhucoCiKxqvIw2O6WtybjlS52XepoVSkXJ1bHa_xyTbMSi4eV7pS26ZRSwYYvTU3C6u4qfgdzbPQ3eUHAgLj7AARXCkxB-1dbcGT-j0c4nGdk_4Ddkc9b8uwq-vt7rvRO-WDr2HkYxEi1i3Qt7pnVovJu8PBpWm7fNzfhqYyJHQEBELinm2_zEtHbX049qK7lhnC4SZuzHimTFaCEqqAYcsYKViJn4SJKLH0MsKwrNDh0TnxV0MT95iVSeGas4bqIBHL2XgumVlysSffozF9P2CVz9VHh5ZbtBTnps_XQiIa8T5qxnwP-ztCnQvh9g2lQ6KIRhhI-pCrZJims2IiD2-uGaKqMpPs8nEJsxax9oyKIo9cz25KZJ0J6rzSLAIIt3ZyRqNpe19HqW-tRms8dFJdS9lNG-mKoHygjTzXogh3yjskej4uRdNhDu6H6Sp4sqrCehVYHxUFSB3qexSYolUpY12mSWhr1k83tP0PHKbRcQ0brCQ0Cptjtqx4K36FcvA23jJqGYHnMUyYFO-TYyePTesiMzV65M3KLblqBIUgVaJanRS0TPSKstePE3S5wNj4wDduCY6L9nM4V8pX8MLsUzkvSjKQySRMkUpxSAKqaHXM=w258-h344-no?authuser=0",
-		title: "Boston & NH trip with Lucie - August 2023",
+		"img": "https://lh3.googleusercontent.com/pw/ADCreHeatSExRLlBxmLksss4NZ90aD_7zSxfducUBe-Au3pKVE1WDA2LxhgFzlRyN6E8aULloQCVhmhs0VyIfrqPuf98RD8KtC1IRKMTxGfseXdPeguKHgKLXfNTEJpF2OBWANlHVCbo2rO74c4tij02FAr6MqBdBMtovJUamfYXhYl29X7BYwuUNzDSILyIVu38NVjw2MRagCUpZxAoFJ2dpt7eWl_KNRcpTq-ltRUgEO8n3D50fx1tNjVPjGBMjPQSjMctkh28fy8EnP9MUFI1JnXYtMiTTN5fOfEgEgwdDnJbfur2EoW2vAZZ5cfHKquxox0KUAvWi7lu41I6drZezrXYtyTj_rgXqD0-02zq662HQiTGS3PQtpmeY9JEkdmDshll5qiaeyxjHPxlh8-aw2s9oUlPb7TI0CjSfQGEfdufQpdLxN_vs2DHQR1S754osNplBuu6xWMWZNjlUbMz0g6acars_lXHhtiY0ayZ1QtTI3NXs5OcgK_TqGVAPFrnCtXAL5z760-jgzwuKZKMI7xTZsXoEgGYoIQVwcOZ1oieFkT81eSm7imp_qnv2vuU5LvLOXlhWpMn8ZDnQD_gNeLwWKEiNWg98nfZvSEuYiRHLQRYNOvuO-SePYVcw9DqN4GwWeDnnu5eZSB1VADGHJpNkNXrV6OglSEEJpry7HowHtvlBqqjJxvkeFyxJU4eO71JqpZsNOcjaO1VteNq1mkzwtST4bCiDUxfWJhj7rNwdDrxWivo-RTjgd6vLaKO-R8ixFyt7OP9BBWTa-Z4llloRWDSQkTc0HRTxR9EznWX_UE4gc5sa8-7Fmyb84x95RsJQG08yUQw-kXF2TJf-tvTsgLsr82fTT7EQFDSsk_zDnTaFyumtAIjMJb2PbkM-zjBmLGyq8MOEJeeVYCQqygNDM48vtpS1RlFEc625MzKapdVbfBq5EmKxakG32pwH6hOlma3AMKKTDLK0juz41WwLf1LP2GANNjvKNMuhHCw9vx54JanSVw=w258-h344-no?authuser=0",
+		title: "Boston & NH trip with Lucie - August 2023z",
  		date: new Date("8/10/23")
 	},		{
 		"link": "https://photos.app.goo.gl/zEMxDfD3QoxbnSfs6",
