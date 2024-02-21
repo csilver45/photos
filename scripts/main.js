@@ -14,6 +14,42 @@ If this doesn't open up, inspect any picture, scroll to view (not cluck) the pic
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
+{
+		"link": "https://photos.app.goo.gl/svRAuSzweivYPCiHA",
+		"img": "https://lh3.googleusercontent.com/pw/ABLVV85elp1clY0HYEQuM6d4BFR8Dhck31wBp_NDYuolyVK_78ZciA6_6S0d9qjApGL1f91bhMF5aMadRveqGoKhzdf7MNALtQEaZhUbzPzhFDlIbE5IsG8pLQTvsCTfZ7v8hLKgwTyB7Li-gUFGkAA8ieLCOw=w538-h717-s-no-gm?authuser=0",
+		title: "Max's first birthday party",
+ 		date: new Date("11/4/2023")
+	},
+		{
+		"link": "https://photos.app.goo.gl/uQFSKBcU6yxNuPbS9",
+		"img": "https://lh3.googleusercontent.com/pw/ABLVV85elp1clY0HYEQuM6d4BFR8Dhck31wBp_NDYuolyVK_78ZciA6_6S0d9qjApGL1f91bhMF5aMadRveqGoKhzdf7MNALtQEaZhUbzPzhFDlIbE5IsG8pLQTvsCTfZ7v8hLKgwTyB7Li-gUFGkAA8ieLCOw=w538-h717-s-no-gm?authuser=0",
+		title: "Schwents trips to St Louis in Fall",
+ 		date: new Date("9/21/2023")
+	},
+		{
+		"link": "https://photos.app.goo.gl/Cpnp7BcELP8f5gw38",
+		"img": "https://lh3.googleusercontent.com/pw/ABLVV85elp1clY0HYEQuM6d4BFR8Dhck31wBp_NDYuolyVK_78ZciA6_6S0d9qjApGL1f91bhMF5aMadRveqGoKhzdf7MNALtQEaZhUbzPzhFDlIbE5IsG8pLQTvsCTfZ7v8hLKgwTyB7Li-gUFGkAA8ieLCOw=w538-h717-s-no-gm?authuser=0",
+		title: "Susan's 65th birthday",
+ 		date: new Date("10/7/2023")
+	},
+		{
+		"link": "https://photos.app.goo.gl/K2s2uncf3tL65AWN9",
+		"img": "https://lh3.googleusercontent.com/pw/ABLVV85elp1clY0HYEQuM6d4BFR8Dhck31wBp_NDYuolyVK_78ZciA6_6S0d9qjApGL1f91bhMF5aMadRveqGoKhzdf7MNALtQEaZhUbzPzhFDlIbE5IsG8pLQTvsCTfZ7v8hLKgwTyB7Li-gUFGkAA8ieLCOw=w538-h717-s-no-gm?authuser=0",
+		title: "Susan's trip to Cheryl and cousins in NY",
+ 		date: new Date("10/17/2023")
+	},
+		{
+		"link": "https://photos.app.goo.gl/Uba4Z8vicZTgH6Nw9",
+		"img": "https://lh3.googleusercontent.com/pw/ABLVV85elp1clY0HYEQuM6d4BFR8Dhck31wBp_NDYuolyVK_78ZciA6_6S0d9qjApGL1f91bhMF5aMadRveqGoKhzdf7MNALtQEaZhUbzPzhFDlIbE5IsG8pLQTvsCTfZ7v8hLKgwTyB7Li-gUFGkAA8ieLCOw=w538-h717-s-no-gm?authuser=0",
+		title: "Trip to visit Schwents in Ft. Collins in",
+ 		date: new Date("10/6/2023")
+	},
+		{
+		"link": "https://photos.app.goo.gl/ypph4FUqfYHhqtQJ7",
+		"img": "https://lh3.googleusercontent.com/pw/ABLVV85elp1clY0HYEQuM6d4BFR8Dhck31wBp_NDYuolyVK_78ZciA6_6S0d9qjApGL1f91bhMF5aMadRveqGoKhzdf7MNALtQEaZhUbzPzhFDlIbE5IsG8pLQTvsCTfZ7v8hLKgwTyB7Li-gUFGkAA8ieLCOw=w538-h717-s-no-gm?authuser=0",
+		title: "with the Neumanns and Gigi (Grandma Vivian)",
+ 		date: new Date("9/1/2023")
+	},
 		{
 		"link": "https://photos.app.goo.gl/fKDMnNuMoR6ZBBeM6",
 		"img": "https://lh3.googleusercontent.com/pw/ADCreHdMVWYIIonS2Ks6YqviHWrLphlejnnxPelocxeTqVWf9Ua0P5Eh3K-JiYmErdSVHPXiOljPht10DVkdG1E5T8bDoxjT1-6h4ESiS6tCyRJN9i6kOhZj24_3ieTtpsgdkHhfGk4_o3dyF4rV1fwq6R3TtHeI_EfKxEvTxmLR57nClomNXTgeKGMrDmm2xAZNlEw0DryxzkcHhE905g0AFVwe_nbkfQtZhAwYOtEDpLbKNNitBopgiNqnYpDEhadznNpPStgq7ppR5mq6FetN7Bi1kyKV7bheYCo9T9Xn-kVLp9V0POd-YV3_eFXBel7byDtMcZZztilHc2W7vfcX_8mRL7xi8RxFzml6nriZjx-cUInxfbi1hHfsHln6BCU5dbZoOVujiagA2nReMSuHjpnDQSDZUeyG6sNUBPS4X0TsRXR0TGx8CxUZXxtPdgbaHtjlq2iQ1gJOlXnyyPorQckVClEkb4xqoUUn_64o7ZJRMjV8rWVP4DQWvwUg0pRtT7mJqfVyaBRN8crkFlXEfPMWhI3we_2GGMEuhgluzou9_5iINjv5o0WRK6q2vyaYozsCX0DnTBvAv0hLokrpMLpOFl0g--htc924l13JxT6xqzMePNv6chV-sg-lnVZ9yYvlNjyhZWBnwrVqjdYfDp4SZkzz8tM-OFGUR2c-GtmfZVPV69Qtm_lnSQu1rq0mcZPWpeiw0gt_EnC-f1aeqHxN8u5Hs5yFZ9j5K9QO6apEcHThzw3p6J7N-OCxbRceWgYzT27o1iqLrF9fTC4kD-o1fkJL5JfGP4tckRaC2NkK68XeDkZXscQyGFKZSORFDw6W_xUN5bst9AZdC6_s2MVzcYxFXfpxEPFUAKLgvsROM7bZfpKpJZufx5gCvGCizUvmBzm9XMEKf7SG3YX4f4-wbF-TfSbaPBs3KZ7K1-MpTfVp7iwS_FD6Fsxwqz2IuSy2EpYas_bqWkyfMnpRRrAYq3tSW1rGUhF92OQsQeJZXRhw8Vul6i8=w258-h344-no?authuser=0",
