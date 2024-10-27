@@ -14,7 +14,12 @@ If this doesn't open up, inspect any picture, scroll to view (not cluck) the pic
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
-		{
+	{
+	"link": "https://photos.google.com/album/AF1QipOHRSpJIigbbnzUdpbOmjZN_MckHXjRJlQlx2ei",
+	"img": "https://photos.google.com/album/AF1QipOHRSpJIigbbnzUdpbOmjZN_MckHXjRJlQlx2ei/photo/AF1QipOBX_wcLQzT7hktxE5hrDWycU3JZUeZ8DhWblde",
+	title: "Julie's 2nd pregnancy announce on Mother's Day",
+ 	date: new Date("5/12/2024")
+	},	{
 		"link": "https://photos.app.goo.gl/x1zK5Dqbj6fcYKcN8",
 		"img": "https://lh3.googleusercontent.com/pw/AP1GczNHBEcagAuymI-bJTuS744YTBVOt8lWy0Oggf10p4SamwY-XEMnrAoQHQ1jETKZLACFLqjPNU4jze-tOm4uOVf_R4MH93HhL3v1eXj424hCA4eZwrA9fBlR9kcmq4MFwLgxHBICdRNAc5pxCuYVfRtilCqv3OQu-BfrqjpPYbHtK6Bsm2oitwOfZF9x6lIGQTpQrdyckauErSl9vYwAkMeIehigj0bYrFK8o11lfxEAtD067IjijLGj0EYzHQrpirM47XAbCVHa_Mqzxn-_MGXD9gkWr_UHDsCXReMKLof63QBF6WAC66bWxlXyJZp71fnlfL0LG2OnQ_L3nJkrxaYc8QyHeyPqKHa15az18Q8Jm04qCTP6yLFHRJ7kyhRhx8yT427wLSSKWSNnx3_x5K9BkYu3g6GsBM1G0kPe1XpLL-XYliSR-1YkGTyTDYRonERyZ-Iy4m3MCKuKLGGVUKtJRpSgzgMNGrNuVW0SqblOCKK2E63AIyzTrsWHh56I7bd3JG8blGJ8DOmY3AMREAXPWXWcCP9D1PWwaM3YDOgujrngwSR3NWKmuaTnu9BPCr4HfatHAky7qndhwcRHAzj9KKL2w71ZfjuAFGHnSiRqccXVQibhODfA1mlbGkWxu8Uelywt5H4gxiQG3Hh0RS2_QIzCo40DLCyOgFk4o0KXsbAEUsOS_LD-hcRYotSvDLasM-S77KFU93jLhBexVr9SRoqJI7_sOMTlIkZxvNVo3uTmcFsI87FxXFDRJohYsUsJO-J1bSTqtaLEKHmRq3XrMGoULIZF2n26te4XmPrZvHZoW8eQQgNZscnWogKdNDBd6iF3YkdIJlXk1R88HNBLAFFTXKnUTw811jgEmfUda2nUkuUrWUWOZzgE7ln7ya2p0PVIKkRK46CtdOu1v8WT8TDQwDVCeY7HaInTgCstvAeFczu3REVN6qnFb14=w538-h404-s-no-gm?authuser=0",
 		title: "With the Neumanns in Feb and March 2024",
