@@ -28,7 +28,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},
 		{
 	"link": "https://photos.google.com/album/AF1QipOHRSpJIigbbnzUdpbOmjZN_MckHXjRJlQlx2ei",
-	"img": "https://photos.google.com/album/AF1QipOHRSpJIigbbnzUdpbOmjZN_MckHXjRJlQlx2ei/photo/AF1QipOBX_wcLQzT7hktxE5hrDWycU3JZUeZ8DhWblde",
+	"img": "https://photos.fife.usercontent.google.com/pw/AP1GczP2A_rJN234h-X1wwkn4p6xPB5fGvTU94cdUYrcRHp92AEPsYprjIzj0A=w186-h249-no?authuser=0",
 	title: "Julie's 2nd pregnancy announce on Mother's Day",
  	date: new Date("5/12/2024")
 	},	{
