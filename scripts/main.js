@@ -15,6 +15,12 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 	{
+	"link": "./lucieBatMitzvah.html",
+	"img": "https://photos.google.com/album/AF1QipM1JXuM2Ad0XxRCKWyN__BEJIUaVPChaM3YeGAz/photo/AF1QipP_NK4z-ZeFVnhy53M3Loo0t0CzYeU_xQDNPads",
+	title: "Lucie Bat Mitzvah Weekend - May, 2024",
+ 	date: new Date("05/10/2024")
+	},
+		{
 	"link": "https://photos.google.com/album/AF1QipO0pp6teI8ptYt1qLKIynyCGSxmi40Dkem9EwSk",
 	"img": "https://photos.fife.usercontent.google.com/pw/AP1GczPQF4w0_vHSbkIhsUSXLSZMy6lFVP2sQqRcJjua9eWrFlJthvpxMlcd6g=w201-h267-no?authuser=0",
 	title: "Mom's 90th birthday celebration at our house WITH SURPRISE VISIT FROM BARRY!!!",
