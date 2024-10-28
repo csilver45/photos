@@ -15,7 +15,7 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 	{
-	"link": "./wthneumansspring04",
+	"link": "./wthneumansspring04.html",
 	"img": "https://photos.google.com/album/AF1QipMhyOJrVcbnl7sFrNrzN5GCWVJXfHLBcZSVEkxL/photo/AF1QipNYFzqRTp3VMcP8Nh7xjP2i46772XIPCwgn4zg-",
 	title: "With the Neumann's Spring 2024",
  	date: new Date("04/30/2024")
