@@ -15,6 +15,12 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 	{
+	"link": "./wthneumansspring04",
+	"img": "https://photos.google.com/album/AF1QipMhyOJrVcbnl7sFrNrzN5GCWVJXfHLBcZSVEkxL/photo/AF1QipNYFzqRTp3VMcP8Nh7xjP2i46772XIPCwgn4zg-",
+	title: "With the Neumann's Spring 2024",
+ 	date: new Date("04/30/2024")
+	},
+		{
 	"link": "./lucieBatMitzvah.html",
 	"img": "https://photos.google.com/album/AF1QipM1JXuM2Ad0XxRCKWyN__BEJIUaVPChaM3YeGAz/photo/AF1QipP_NK4z-ZeFVnhy53M3Loo0t0CzYeU_xQDNPads",
 	title: "Lucie Bat Mitzvah Weekend - May, 2024",
