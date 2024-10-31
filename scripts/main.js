@@ -27,19 +27,19 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
  	date: new Date("05/10/2024")
 	},
 		{
-	"link": "https://photos.google.com/album/AF1QipO0pp6teI8ptYt1qLKIynyCGSxmi40Dkem9EwSk",
+	"link": "https://photos.app.goo.gl/gubvhrK5cv6Dvg6u9",
 	"img": "https://photos.fife.usercontent.google.com/pw/AP1GczPQF4w0_vHSbkIhsUSXLSZMy6lFVP2sQqRcJjua9eWrFlJthvpxMlcd6g=w201-h267-no?authuser=0",
 	title: "Mom's 90th birthday celebration at our house WITH SURPRISE VISIT FROM BARRY!!!",
  	date: new Date("3/25/2024")
 	},
 	{
-	"link": "https://photos.google.com/album/AF1QipN54WkyjRSQy1KyEGm7o2LkmHZDWpQLxfeUa3cw",
+	"link": "https://photos.app.goo.gl/DvYzorhLk97BDKMo9",
 	"img": "https://photos.fife.usercontent.google.com/pw/AP1GczPUe5vB9SMA9fwfUyXnrQRi9bzso7kso9QGgJbDLEvLOGTcxuiIEy12xQ=w169-h225-no?authuser=0",
 	title: "Mom's 90th birthday dinner celebration at Brookdale",
  	date: new Date("4/1/2024")
 	},
 		{
-	"link": "https://photos.google.com/album/AF1QipOHRSpJIigbbnzUdpbOmjZN_MckHXjRJlQlx2ei",
+	"link": "https://photos.app.goo.gl/cPYvWapEa5pdZYmAA",
 	"img": "https://photos.fife.usercontent.google.com/pw/AP1GczP2A_rJN234h-X1wwkn4p6xPB5fGvTU94cdUYrcRHp92AEPsYprjIzj0A=w186-h249-no?authuser=0",
 	title: "Julie's 2nd pregnancy announce on Mother's Day",
  	date: new Date("5/12/2024")
