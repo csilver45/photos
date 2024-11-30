@@ -16,8 +16,8 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 	{
 	"link": "./wthneumansspring04.html",
-	"img": "https://photos.google.com/album/AF1QipMhyOJrVcbnl7sFrNrzN5GCWVJXfHLBcZSVEkxL/photo/AF1QipNYFzqRTp3VMcP8Nh7xjP2i46772XIPCwgn4zg-",
-	title: "With the Neumann's Spring 2024x",
+	"img": "https://lh3.googleusercontent.com/pw/AP1GczPNLtDoEuYkj4YPEOb_NBbImfVpJU1wkFLrdqvcytxhNDwaARI8Ni5wn-t9Jt66wl3uMHHNBLxO6hRK-8R39yyS1XeTg9LBsAgGNTPaFOP02xF7Vv6n5JYRUOHKYDnVnNh33PNE61Wp716sth0zO0iwjegFRREliRpS_KdxfMV9_wAEixBQgJ9zHFNxYO1ZfSYCi4EzQGMejL5L5FL16awBfPMTbgK4M-YBPF7xDVJyukQgQfw0k-Vn6vXOP0G_ly3YX9nw039CxskPDI3j1xlcSu_IvpvtOVlj2HapgYUXF3ub1TaoLpHkLEhX3wpF635dIljmkIqBi4MLaMQVnTJwkCNYqZK0Mu9GmlhpH6NhPT9opbJ5A1pmcHa4PINDJ7tXofiW6hzI-HzNXjIdNoRLoOmElGOJP-5f4TPyEfryvHkCRHHKzTV7u08hBaS2VEIa3P_dm_s_4wRDFJyBX_bs5FFrTLwJ3gGLx2-Q0t83BtdYhkZNzFkU3EUwWBuaHIQZBjTJwptTFje9bC2Ou3S2DW4XVcQESDzK60cKfwcKtPJd0jPlUIQkqHq57o_Xc5KQSVsucIrKe0vu90MSeGG2bavsq5goz3Eaq8z5ldhuP-pKK6tND2ZLicucBTJC8d6dBDTBxuH5GXyW3tLLmJxgOhgxp6NFoOSZDrZCDJGP7DXBvm8d6nA7icy1-c5Q3l_QE459fw4H_AyTn13EeN5KjAEE8Asr-wE7qUldJaHb22IA2OqCqZHLH_4VX1363vYpAPE53_WrizZZIG3gZSAaLlJIOYyZfCk-gOjVjc-m5wtR1kSeA7fc87_t64BGZi2-idPLTKb4SVumc0CXpn99FbgVyWMlzePSI63Nau4AOTg55XCTot0fHkWpF4OlEfGS0CmE3wmPn27IUs0MidGy91Sx4VPvOgSN-rRmde6e_IoCupSarnRidTMOoB7b_DxfLGN27To_6eAvLf8dK69k4yjN9VhyuhHf4cDlC-iC_P58tBxcDjY=w170-h226-no?authuser=0-",
+	title: "With the Neumann's Spring 2024",
  	date: new Date("04/30/2024")
 	},
 		{
