@@ -22,7 +22,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},
 		{
 	"link": "./lucieBatMitzvah.html",
-	"img": "https://photos.google.com/album/AF1QipM1JXuM2Ad0XxRCKWyN__BEJIUaVPChaM3YeGAz/photo/AF1QipP_NK4z-ZeFVnhy53M3Loo0t0CzYeU_xQDNPads",
+	"img": "https://lh3.googleusercontent.com/pw/AP1GczMke748W7pg66_jVSkbmiGlBnd8pQ58EnTQzY-MbfrpQlMs0m19CxZ31mYqRAuOmaCQz457dLxRJBjCthhrx60icMP9U_pfS3dYtiAQVEbxPSC9q-PGpFHaCAlo0H5KT1-jTuxwlQsyKT5TMqQCrXw1K6KIxb4hJ4dR2-2GurDByyZftM4I8EL2j1Hkt8XKidKvH3gJD3hKZdkweamgFrMDNX7Fekfhh8wYb5uzAgD7B0Z2o447kPTUgFtDpxM6u-MEEnsWwe63xgnktUHbKtZua5j4UVglena8W03Yq6ATku3Bnyam5cuEyUeISgCJAHTpRaLv9d3XcZQTPT1SD5U5HQFqtgxJku8_z_yeOfXgO3IcwUc5fEAhTp_Nk4slrhfVY0MWwpIXG2vTFYI3DI0SccOV_KFBPSelKB3cqIf19hhJEVYoz7ZpYDD0w1NEfhEgxImtMgV3lxLUTVpxwrYvSaJQFVN4jf9ADdhFyyIh5RM9PxJaU0kM31Ux7CJ7CY8XG8WI-_35YuMkZ7M95_uhBYeUHKJH1AbLSGFl3s-mgGniHiW2_Il4v7sTy-Ih7Ll6DfM91H5hMUIn5xNrJq8MVJolHEsfrlrxRJLwYYslfCyKKpXU-14S6eE0vnbeWYSZspjUQ_F278pa3Czn37zkCVnIJPgmIKXXglcAjDYWxtxSeGttRPwi5SibtGdvM1-6GzY2m87tk9vXbcmhvbNLbYywnoIbLdqO9vvMFiOftmTQ_lyuOdhWXLx1lIYHx3sCNQCpaudZm35Wotglo_AZoLtl3EePrwihWRr2cHE34ZlgKXomXK3j5wZCjfqdwqMVs5niOHdU1-6Z9j5xx3GqdbVQ-MxOjCywrPbSfQhcVsGgpD8lL_WXBKWYIXkhGwYdi8BLSAFrHbdJeSDK4NxNFk1W8JBxA54pTfgPX0HjOxueNZJgzz5EpkXy2Ryr8IVRqfGsnfEHFGqWlAvhSXM-Om5w1yaROTGWNRfxzpY4ANMtFHMSgWY=w235-h313-no?authuser=0",
 	title: "Lucie Bat Mitzvah Weekend - May, 2024",
  	date: new Date("05/10/2024")
 	},
@@ -40,7 +40,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},
 		{
 	"link": "https://photos.app.goo.gl/cPYvWapEa5pdZYmAA",
-	"img": "https://photos.fife.usercontent.google.com/pw/AP1GczP2A_rJN234h-X1wwkn4p6xPB5fGvTU94cdUYrcRHp92AEPsYprjIzj0A=w186-h249-no?authuser=0",
+	"img": "https://lh3.googleusercontent.com/pw/AP1GczOYMz3xPa0UkdYzHtYPUJvuvpGEsvfY0-tuN6BgqR9u8FLkktHzwleccdQoxu28SL5flY8SMUdMlIQCocWs-m0rJ52iakg2tV0ayQ-VG38d-UAJWX6dDL_Y7iIeEdA_nNcfVLnyYy0hloNUzPChyyoQLawHFMJp_Q4jXsPe5TZzmUsLgyfM19Ji0lVKaEyXdG-jswQTRjmStiHtqyVMzNmLZ9N5_GwWa20J3NF2jbBDgcIw9RJNl9Vlv-7-w4O4dixk-wDQ4z2kK16r7vc8vwrwPOnkkgQbVTUrhPJJs0dVcDEYGPfXOkO3DtqipgDWT6oJ_2vTXyR58beWLnVVVQH1Z8amdpNwXf9lb9ZUmHz-NUz-gsUB2D_1BZWH_Foz03OsgbDNfIWC7XcWV8X_mCiAf02h-Losh98CRfmgol-PWYUkLc6IysdpSrYAQE8gS1cNvsKzu3j7MovFZ9Fo0dCsggjbbAIw8bsKK5l4gc_6YTmsCcYTDR7aSbT1Rn4uuRgBTgy315jxGgBZuSj4eDbV54mooia0-9lR-qJzWIIZfnOZ5IBCV5TVVhmZnMtavaZ9vNVsNdV3nVUvGXO2MrMUSWnob8II3TpM1kuOBKBNAW9brqmZrslR1YPDKG_yzYsLKR_6SCP9RmnTb-RfQoPUKTNU2AgrIdKgp7bRcu939eFHgFBUvQr65eI7MdWsP839jwRgd9iAio6BR-IGLryGuBi8OD_p33_16qHgKkRKnPQuEjFjx4DIiXetqN-cIsZlBrn9k0UWfvfCkbv1rNcPspkOVPk989Uyada2b9w0C8zl1tXjoFMLQCqYfbga-Fgj3A1ZUZisnzjp2CBcY1pElvr4qYHFx6RPwFbiB9edZZP9Vq_UK844BA9VEnMwjU_a9kf2ii72VUsexPWB7Y3ZfoJ6glePrH-yVA-Tl5tq5RPjFri_p64OL4EqWRiAjoIPfybkD6wkjMqHj513rlYuHFO65wRIZ38NnpgNIDPBxv6weFm6pI8=w161-h286-no?authuser=0",
 	title: "Julie's 2nd pregnancy announce on Mother's Day",
  	date: new Date("5/12/2024")
 	},	{
