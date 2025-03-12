@@ -15,6 +15,18 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 	{
+	"link": "https://photos.app.goo.gl/kSnqMLtCYthHHkRP8",
+	"img": "https://lh3.googleusercontent.com/pw/AP1GczOxcbVIGk5WPSSbxJWGps6x5d5uAqJjfCsEp3VNnqvZk4LR7B_W5ZH3VJlkavvYitW2MUgrmFxXPUCFAcnXf6gBDRmJrYk1fYYZIKM1pvBCi9p4VDlMHSzD8Wq1JXZ0RChcJmmd0j0dkNemPbGv77bfyQ=w491-h368-s-no-gm?authuser=0",
+	title: "Schwents visit, ",
+ 	date: new Date("08/01/2024")
+	},
+		{
+	"link": "https://photos.app.goo.gl/jafeYK2RJ1ejt5EX6",
+	"img": "https://lh3.googleusercontent.com/pw/AP1GczPLLnvP9lP2sbNthZrCWly3zewSi5HL-Myiym5AYB8n1to-aOcRgXCYOcVRy7gHtNuh55-1zvW-yuoNEOxQXobpwGN7--Q79kq6d31kBQkFI2QhvQUeSQFyaYaO0DN1eyanDE-4H8FAlgs7RfPX3OpyrA=w491-h655-s-no-gm?authuser=0",
+	title: "Time with Neumanns & Giugi",
+ 	date: new Date("06/10/2024")
+	},
+		{
 	"link": "https://photos.app.goo.gl/DntYm1KQcNTUoVKN9",
 	"img": "https://lh3.googleusercontent.com/pw/AP1GczPYUChIrDoNQk2vdhbZBOsr-KMUvou0ezkfKkn_GKyQ-u48ta2YQeX_LOWkYa0wz2ZHqmAgwcTkFCodhkBv2TNvd0pmSdAJF0cD8marLzhBqeYRXuBk_FdtzgPe_6bKEpammId3TQe07BPEEduFiJAmVg=w491-h655-s-no-gm?authuser=0",
 	title: "Visiting Eileen, July 2025",
