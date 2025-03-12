@@ -15,6 +15,18 @@ var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 	{
+	"link": "https://photos.app.goo.gl/DntYm1KQcNTUoVKN9",
+	"img": "https://lh3.googleusercontent.com/pw/AP1GczPYUChIrDoNQk2vdhbZBOsr-KMUvou0ezkfKkn_GKyQ-u48ta2YQeX_LOWkYa0wz2ZHqmAgwcTkFCodhkBv2TNvd0pmSdAJF0cD8marLzhBqeYRXuBk_FdtzgPe_6bKEpammId3TQe07BPEEduFiJAmVg=w491-h655-s-no-gm?authuser=0",
+	title: "Visiting Eileen, July 2025",
+ 	date: new Date("07/25/2024")
+	},
+		{
+	"link": "https://photos.app.goo.gl/3EAesQjraXxHD5cv7",
+	"img": "https://lh3.googleusercontent.com/pw/AP1GczODKWI90um7g_DwcfkL2YI7k5En0hWpXu1l59aPLorw-xu5LHkU4kiGX4vgyE4hFwxaXkjgVcW4N6WMP1BBNYqTzMoj26M8uJJZBG7ZD1n9mpso2C5_GydZbEqO7sRm1g_bGiISi3YLlOvckGBOB4WsLA=w491-h612-s-no-gm?authuser=0",
+	title: "Craig & Susan in NH, July '24",
+ 	date: new Date("07/20/2024")
+	},
+		{
 	"link": "https://photos.app.goo.gl/8w2TYZSusARNJPpr9",
 	"img": "https://lh3.googleusercontent.com/pw/AP1GczM3GLH7J1cbtb19Rp7Fe7L9ZvmLCdUWc7KjgzyssFLYIul8f_KKfrSrN2gL-IXch0r4lCC2fas2H0fe9pqQErz2fpxVjrIlUk-HnhDpC0s-K75Qs915Buey7ShWlNLvvIt3ZbFHWbLkwav4JJA7uwMYiQ=w689-h919-s-no-gm?authuser=0",
  	title: "Jessica tells Susan and Gigi about new pregnancy",
