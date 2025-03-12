@@ -17,13 +17,13 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	{
 	"link": "https://photos.app.goo.gl/kSnqMLtCYthHHkRP8",
 	"img": "https://lh3.googleusercontent.com/pw/AP1GczOxcbVIGk5WPSSbxJWGps6x5d5uAqJjfCsEp3VNnqvZk4LR7B_W5ZH3VJlkavvYitW2MUgrmFxXPUCFAcnXf6gBDRmJrYk1fYYZIKM1pvBCi9p4VDlMHSzD8Wq1JXZ0RChcJmmd0j0dkNemPbGv77bfyQ=w491-h368-s-no-gm?authuser=0",
-	title: "Schwents visit, ",
+	title: "Schwents visit, August 2024",
  	date: new Date("08/01/2024")
 	},
 		{
 	"link": "https://photos.app.goo.gl/jafeYK2RJ1ejt5EX6",
 	"img": "https://lh3.googleusercontent.com/pw/AP1GczPLLnvP9lP2sbNthZrCWly3zewSi5HL-Myiym5AYB8n1to-aOcRgXCYOcVRy7gHtNuh55-1zvW-yuoNEOxQXobpwGN7--Q79kq6d31kBQkFI2QhvQUeSQFyaYaO0DN1eyanDE-4H8FAlgs7RfPX3OpyrA=w491-h655-s-no-gm?authuser=0",
-	title: "Time with Neumanns & Giugi",
+	title: "Time with Neumanns & Gigi, June 2024",
  	date: new Date("06/10/2024")
 	},
 		{
@@ -41,13 +41,13 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 	"link": "https://photos.app.goo.gl/8w2TYZSusARNJPpr9",
 	"img": "https://lh3.googleusercontent.com/pw/AP1GczM3GLH7J1cbtb19Rp7Fe7L9ZvmLCdUWc7KjgzyssFLYIul8f_KKfrSrN2gL-IXch0r4lCC2fas2H0fe9pqQErz2fpxVjrIlUk-HnhDpC0s-K75Qs915Buey7ShWlNLvvIt3ZbFHWbLkwav4JJA7uwMYiQ=w689-h919-s-no-gm?authuser=0",
- 	title: "Jessica tells Susan and Gigi about new pregnancy",
+ 	title: "Jessica tells Susan and Gigi about new pregnancy, August 2024",
 	date: new Date("08/26/2024")
 	},
 	{
 	"link": "https://photos.app.goo.gl/afcDQ24XEtcq4z75A",
 	"img": "https://lh3.googleusercontent.com/pw/AP1GczM1bDmOSn5vwu5enaFFB8CpBKjw9m-TdAMPZWKLJpOwpZuy-oCwPkmJVN9tQ-hgYjQmHI3V1VKh9JzlSmrcKT0DXAJBmY33TMvIxUckir1sZuD5BW4BKkV1nLQ_BxFzwNmsS0YHXsOjEl9VfcxtgF6NZfcVE5SBw19G98LuP-77yEybBkxxa5-5p3QRC669RBwr4AUBHjS2CEDESMbWiThKdUb5e_RNEmfPXj-tXCOKuRMGDq4lzCnWKfEW9lgh9ePIGhO3MjO1Jr3n3ARlhea-aoVvAYrxGiafpoweuApuPyLM7snQaoIDTSuBewqJCmP2KXlXRgzSJpc5u2Va07gWeUv8WoFxGceVN50zoPkrXyFp2tJvmWDv7BsDIXHu39Q2tHm9RRR_8lRqpuYzNoW8keImqZyuDP2J_fhuNW0Vvx6aety7MFOpY4nDRYQkUPXV58ZeRVIjDedM1Jq1Z6CconJXzAu7ZLPNTNeAvfLSRn4ScTcnxi4xEns9x-bUtwyZXWKxg9H0PXiBsNKE2dW1CjMsdayJ5bVvc5rQLkrSfHEzCl_7r1AkAwKDptAbsrWAen2zj4uFoFNJ_o_3EJ-0KcFvvXKej7Y6-A59DGSOex90iy3RRtg_LTRJ4ljur9a6jYcJz1mfW1e6myM6ltikp4bsSk9PPdooo8oc4CrYo4eXwPlmDjlC2NS5B32y8RdlBJoxIS4AHohoZBDaLMUq5JzMz8jmMXQjfQmbquNLSLT2mSPEOy8bbjGYP-rMzKJa7mXJZ0Y2CpJ1XqLXozjwjmwVMKSJjKiL9NF6dvVfel_uIfd7ivnsGGhb3fChvWtpby1De--9y9G6VhrsjBsGT7kt-Y1fT7wfNTpaGjbtsM835xulsojD6Nhtna8doOVGWda_iSubQZyMH_udSmc2A7iWHuLykkIYjE2btGfJ8mex0QEw3pFtfaZvOG5LTSGtQakTxQ2v_ZzjkazKRrvsFG8Lg8_GkmPsrPP_GGwgn_Q_QWxEjcnP=w718-h404-k-no?authuser=0",
-	title: "Julie and Callan announce a new baby on the wayxxx",
+	title: "Julie and Callan announce a new baby on the way, June 2024",
  	date: new Date("06/13/2024")
 	},
 	{
