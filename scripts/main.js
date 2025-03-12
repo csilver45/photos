@@ -41,7 +41,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 	"link": "https://photos.app.goo.gl/8w2TYZSusARNJPpr9",
 	"img": "https://lh3.googleusercontent.com/pw/AP1GczM3GLH7J1cbtb19Rp7Fe7L9ZvmLCdUWc7KjgzyssFLYIul8f_KKfrSrN2gL-IXch0r4lCC2fas2H0fe9pqQErz2fpxVjrIlUk-HnhDpC0s-K75Qs915Buey7ShWlNLvvIt3ZbFHWbLkwav4JJA7uwMYiQ=w689-h919-s-no-gm?authuser=0",
- 	title: "Jessica tells Susan and Gigi about new pregnancy, August 2024",
+ 	title: "Jessica tells Susan and Vivian about new pregnancy, August 2024",
 	date: new Date("08/26/2024")
 	},
 	{
