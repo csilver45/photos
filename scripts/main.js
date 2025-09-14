@@ -17,7 +17,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 	"link": "https://photos.app.goo.gl/gHNKnv4Sz3HBEt5B8",
 	"img": "https://lh3.googleusercontent.com/pw/AP1GczMAgFaTjOqWS2mfVxXGV2YjDv0bEeegwkuinNvjt1luMs7wkysQ1-TzoavX7dbsE5yZ2DFXHzIjKVbTGq2zhotAweZzgUcgwbrrBqAL7z83_I-6IJ3GJfSQJin2u6516K5Mi52AhwbqBU1Ws2qxeBP3eGzcpmGVV2DvSs5cSt-rF1DtbwGORYALtGBhLEYpFP_lB5X9r-0fbJuL83xhssGFqWXzAgk3x3Xz5ay-SsNS0fyv5T6DtNM6c9EB1qiN4q86NAohoJZgPiyBpCNVIXJBbAbo4fTCfkqOfbNuqH09Wt81tSM2sCy7ynwrPbQyj-3TRrS1d7DFWNe6GqJxOaG7QXdrQhT9ZDzLgPbvNdM7B1hpKDI4qTJ6CBPu9FQxf3B2eQGsBuv_Yp6bfZzxSqPGEcplclAes7Q8t1xu8kxl8eYfwCcV45WjD0TN4CUpEAd2paDUl8hrzYxsL3RMtjTyRFl0g6YqPy4wNt1KKIPi4uohnzpePZjUUD04kqaj5gXUPTnA-NqU9K8jLUk452ZokQRpq--QH6Bwpo6sDTEStO7lf8n22dXy1s8aNSq77ywT8GcnUgwXdu5urIUb92WEV9nscGAHUDgyne3r8MFGUgBhKV3OUy2k6rLf61VxM7ejbyJYwvd8T8wC3uYxZnzL-xg2rk0l7xeZL7LanvRqIilHzkluTt69vcli6zaseAZzzyFT9fzx57xHMFtRhtIbKsTkQsHOo6z6LYGrfraVIsw8XIz5Z0jui-ap84iMOQpEuUa4TnBUJjpSp3A44SWyacxHjIhL_FmY4j0iIw5WbaWCUhzijqIqZpg4sNPEHhywLHLu1yEvSEK8r_2NcRMK055pUd9DThR4bT1W5uoC0dg6kl6320C9g18U-QSGnhoYHCk5LC80BJjxd3COce4CcIf4v6Jw26pVE3AtLCU_-F8vI479cj1UBVoD_b8=w138-h184-no?authuser=0",
-	title: "Trip to Colorado weeks before Josie born =Nov 2024",
+	title: "Trip to Colorado weeks before Josie born - Nov 2024",
  	date: new Date("11/15/2024")
 	},
 		{
@@ -47,7 +47,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 		{
 	"link": "https://photos.app.goo.gl/uEFMEu4N9zVW3PqE8",
 	"img": "https://lh3.googleusercontent.com/pw/AP1GczOpAyMsLZQdSAe_2puNLFsnz9hTROp3O8gFZ3f7rLFMD7_q2T38ji6PfmnNkyruCLdFTht9C6-QJvdp_A7wteN877SLKR66BWDOmagqkx-VSmRrcSs-GKgFPPW9FJiZb3QkYB6kUEOk46TykW5uXZUODs02DwIx_opyBb-Ze_sKWnjI6-jrJqCWPnksdGKOL1ILCxp6TDO24-mfpWSsBkFufXq67luGWTvGuGAOt-sCayUeaqK6oX3KUxCpzPYt-tXPP9vNileVmx-ZJfBC4SfHCDEKOrCVAkqU70br0goqTNIvaYN7atV6emg6-aIrouLgFp8eIit4igH97IcYqLn7cYlqEfIrVPCevrVOIL_p4u48WeGG2SvxgR3hw4htyPa1QA5jp3vj-mjJI1J7B-7aPFdMmrpsMRUHVm32hLZAT35l5GqfzM1EFAKMCH2FS6W24XuijbCjQkMPBMCgjS4p1VYhGnXiOmnK0ZhJoHnUV3o3gVbmv-UhNK7afJMUbGIZ7fkct5QscPgiPCNpQYiJpwC7H1FNeeDQomUubz--3wovn0YqdQJkEcIywCvRROftdfSHefUSIffHmznwv13GG8tblhmX0vLBmF1e2FHaB1nJ4Qltvz3xGDkXSUfUp5g5s1IRFz1kbljzy4j9PoIwSSvslW8zuOUZw7OIC-GZ8QehhE-h-nJsb2jjZm-oW12VZM6SxXARYOiF9GBkU4QhaiHmhQrOqv5vV-LJAmBY8gk7uSVtIG8ll-p4x9uY9qJoWoUDDbRASN5uxDJhkyzmFhYrhzFxu-9IzpOmUZyrNATCN2FQcIhHqy8jHAGtx0MTWP52SXmgG0UN4DFtPuFmGpRty8BGC3SLDt1gvOT6hSkb5eYqH-WOi9w51thQDAGDnAQkShsUj-TNuphlWGZizsJfRaW0QR4kRG5IpccaP2ZA_s_XZR2U1utCJENr8JxY49RwC2eCorb2IODO-JRR1819rtJ_9776U04z6TbR5XZSkUoL2tRt4nVpQQ=w236-h315-no?authuser=0",
-	title: "Free time with Neumans & Gigi (Sept. 2024)",
+	title: "Free time with Neumans & Gigi - Sept 2024",
  	date: new Date("9/20/2024")
 	},{
 	"link": "https://photos.app.goo.gl/3H5x2MnPJuKk57vm6",
