@@ -14,6 +14,18 @@ If this doesn't open up, inspect any picture, scroll to view (not cluck) the pic
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
+		{
+	"link": "https://photos.app.goo.gl/frokWk1aFirTbCYQ6",
+	"img": "https://photos.app.goo.gl/TRNbPdbuo4paJZBR8",
+	title: "With the Newmanns and Giti - Feb 2025",
+ 	date: new Date("2/25/2025")
+	},
+		{
+	"link": "https://photos.app.goo.gl/nmmt7GBjDt4xSJCm8",
+	"img": "https://photos.app.goo.gl/djHy182ie7dAHSRd7",
+	title: "Craig & Susan visit Schwents - Feb 2025",
+ 	date: new Date("2/5/2025")
+	},
 	{
 	"link": "https://photos.app.goo.gl/ZoeohKiwRmTNLNKs9",
 	"img": "https://photos.app.goo.gl/PUZdWWC3Wm297Tcv9",
