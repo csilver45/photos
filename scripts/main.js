@@ -14,7 +14,13 @@ If this doesn't open up, inspect any picture, scroll to view (not cluck) the pic
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
+
 		{
+	"link": "https://photos.app.goo.gl/QbcT1CHs3NgERhpH7",
+	"img": "https://photos.app.goo.gl/zgQvRqURLaKRvYdY7",
+	title: "Danny and Eric visit to St. Louis - April 2025",
+ 	date: new Date("4/13/25")
+	},{
 	"link": "https://photos.app.goo.gl/cWofZEW9iDrhTyRk9",
 	"img": "https://lh3.googleusercontent.com/pw/AP1GczN2emx2o0JKPTZPGZaO8TkT3S2hKbyCDwpgWsi6JAklo0lPGlPhj_wi-od20SWuuXlPAfQKRHZeK8j85WLDC9vN6G03-_uNByBHMb_U7BCInITfAxEGEECswDD_I8vdpIe2lvEGaP_jRgfSm2NJVnDeaWY58OWxFDWLcClhnDQ6W6xknOFfeZMXYZwL46PLkke8myNXYdVxrI03t5aDb-MTgOdHicgfr74fJrdfmm1axhkZ5nQTjy-5DnUobENoQNzy5Yw1ZbseWmTAK3n4nyl5S4Qr0ptFhnYFAyH8dS2-UblorgRVVdE5f5WgG4WA_Y04hOSLpCB4kk2WLC5ht_bP87c24cnuCQ12G4fMWFXib_IGBA9wyqQdAoTTDr7Lj44CR4GOZ4gT72WsvoxAwRpgEu_iN4A979gUr0KHtkgkNFLvG_ysGZsh-YKWpQv05GKhfIHDQkuiuSnke6mm1dpHqUvbshLvz7i7LB_By1ePPPrpUuzMwNcgghANbo6ir7NzrME0UvUyxsEzX4sVL0vP7pBOI_vDqrKO6gExdXvROf9ImrePNlq58pz34TBPHpj5HSrjG7pG9-tXvYdvMMr2j4m0g02JoPtAMtwrRISs8DljRzXN99hLgch9p6FD8W86MEWBS8amu2gzsANhB9OFiUxIkFP8wq8BEJ9ahgvNm3RmW23YerPRn0oe-Ttz4XBX6qnwLI3zBJVV3imbxsUgdwuw5lWNhDdeJ7YYlKB6f3_9hzVlLogxtNNx3mJkP6zYRdF_PUZwrkf7oRXWSH4peH1O4JXZ0eezgZRViFHz07Ln60XfJG2gyqygfHbHfToyvIhJnnVLUG1EidTIdFn570SdUCqdG9rywvB6kO-avk7t8LcfsuzDi5uTM-vtq-J0RPN9MBhIniAZpMRjczbga6txoXNRPa52LagP3ebdHxq-OySLoJ_DsYTdi-E=w131-h175-no?authuser=0",
 	title: "With the Newmanns - Jan 2025",
