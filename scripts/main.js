@@ -14,10 +14,15 @@ If this doesn't open up, inspect any picture, scroll to view (not cluck) the pic
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
-
+{
+	"link": "https://photos.app.goo.gl/jEWTA4SxBP2gxo5o6",
+	"img": "https://photos.google.com/album/AF1QipMQKGpStYn2kTk66S8s6GTClQPGLC96N4VEsNnu/photo/AF1QipPHlGU-tb_mT9dF4A52yPHPFNO3t8yWYqeyhyQX",
+	title: "Eileen's funeral and restaurant - April 2025",
+ 	date: new Date("4/10/25")
+	},
 		{
 	"link": "https://photos.app.goo.gl/QbcT1CHs3NgERhpH7",
-	"img": "https://photos.app.goo.gl/zgQvRqURLaKRvYdY7",
+	"img": "https://lh3.googleusercontent.com/pw/AP1GczN4WrbX5bXWGEnnc1RosXkCbZ_aEwXOt_fl31VJuBPLlX9JmEPSKmeyXvMu-J1Tc_PIVqJTzcYBfRY3NOX2ALK7zeoMZ7h6Jui8tcYafujXTN4r0qAMyTuf7BH5jcU-8rnpijPvmOfbGXfkEayCZU0iwDq8RGLksUrV-LLbEdxFhDVEz1mRi4mdO1R7zT6JnEEXdOtz0_3R3oCmMX2jxuHVRVqzE6kJ-FnzD6FaB-zo4ZlWiGLF2OSGgC3S2P_WnAqzvdPfsp-m5O6QaTVqwME-FZW8UcgJTwRbrI7t6YL0upBOtzq_xgQ5DAq0lOuJlE0OaQ159I5B8EbxuMZAW5P2jguGNuyVvv87birD_RH3oRYWdDhNWvHr2dA89l_xmk9qWxBcQI-ZJK9NHBoG7-YrND_oOUTJYIgh4ZIfOAVSqhEJRg1oml5QPjHph0YzlR79qvDKg6NeWIhJChhCy-ynpSUjqwCEwCflOMqh0TUUDEy5Q9-FRYIGbi2tuozOXPqY1qkqZDBVCj4qeJJh8R8AHYsZRYPgxQJwontd6MWQ0_ExMGgZBUKQJ3tyS0Ci5Qc9uO6pXbQkyeFKFI3kQRrccv-iTadzyw_80TvfvbVHRNcA4w_1nKR1TVolNE8DutL6z7VVBWt0-_UMRXpYyiPJ8vdAAfGpsH9cNOgmBm0UUdYRrbM0YG0hqZHJC0Ihs_Yl7GdlXsT09AMnoh0Hozaak-jUa18pOSwpxhIhWNQxPe1IalVOeoZKUzbxdpYrDPD5SBybgg0zQ3obtTtRBrBvdBnecUwgUDrvE4drkNshFIw038r10mV96QC6iF_ZFPQiEGkzFMH6MFeHYa6YYILM6VPy45bT_x-dVNmB4vCif3-0PadsNs2g57_rHbCfl_1tZyFa_MhkjV1si8Wipzk8PuV9JlIKezPK4F9cMQ9e_3ke6NTrELn-_yAhj4Be1Rv_NiMdAleN3LY=w100-h134-no?authuser=0",
 	title: "Danny and Eric visit to St. Louis - April 2025",
  	date: new Date("4/13/25")
 	},{
