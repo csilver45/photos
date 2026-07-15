@@ -14,6 +14,12 @@ If this doesn't open up, inspect any picture, scroll to view (not cluck) the pic
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
+{
+	"link": "https://photos.app.goo.gl/Hoxf78Pkk3jiDXDt8",
+	"img": "https://photos.fife.usercontent.google.com/pw/AP1GczO9D7-WPGJAF6yVID5KeOKQdgosPrfnnNF-m_bTIHWOXCiB1uJmCq3ypg=w80-h60-no?authuser=0",
+	title: "With the Neumanns around both houses - April 2025",
+ 	date: new Date("4/15/2025")
+	},
 		{
 	"link": "https://photos.app.goo.gl/frokWk1aFirTbCYQ6",
 	"img": "https://lh3.googleusercontent.com/pw/AP1GczPfv-SKGF9brHgqw_Gs6uNTyYjcQWMVRT9j9ytkkWjtxnHq2-hxSfI2HBlPs-n3UNVTxODzAZULcYg9Pw1qGPwDaS8mERThVuyJgMclVNzts0Qcl90yPqNe21GzyeSgB4cg2YM5W0Xsdn_5oO2SLEWKt_JtqFWgbKybdmA7HQSBLE-tdf91nu_qqu5_rfc8WATjkTphTjWRg5QwDbSHuwAmIZEm6cMvZaKImxAcAG84bsbAHDOmICRq9kuUo34H3JfJIDKIFc01XfKhDIcKrLWJkVZEqtaKGbq71i9NZyHA2cZdmgzBQ2xtMF-bDh6aK8XwUvAnP1xepx4Tovgh1yt-NU3UUfe6tp9ZVEhrN-ghGVcmXe-l9QJRrAt2e7tndl_xnJRGbZ4StL7S1Q5QyFDUWr-y2iudbCDE4wumnyJUQOXHi6cd3alG4lhYJdXCe88dKsIprrs8-UJhKoVBhfNhsbz6XMY82b9VIlbrqlhhlcxjWhhHc7LZ0LPBWmqg61FD1mXXJUnaCzOoUgrtJNVAgob0RMJ1wbTxl8R5gUMYE9SJ3c1F_dhLDDP6iN5kPuDsTt0FpY4BGnLjmtHCpzoYiV4naIQu9JZJwL_o902ONCXuxwWufnIZseHt9vVc8Z409t0YgkTPvebLvknp9sG5SGPE5XidyWg14Hq6mJBXpJKQs7Gqpap9aFoASxEaQN08cZEwiQJdxPgJkhgNyWsQ2K-JUEAXtgFN2M4JNhbKsq-cQRO3RJ8Wj24ImiPflukfIboe4igOMGa6OL2mOvjn0oEjsPwU5BPh9lcU-dyKJzxfxvvQ-dP80HlzlfZpMQ6pKBmQkEiUCJC_S85zdRZwrDCulwkQKhJcHsbfLnO6HLFQkUY_b1pfCxBSVnObYylcgg-NLWWWoWVtknCXgz1dmg8TZxqor4_nRMpYd1Hdg6ecxiVwNXoFhi66m_hFgXIpYRQv8Xv1xXI=w159-h212-no?authuser=0",
