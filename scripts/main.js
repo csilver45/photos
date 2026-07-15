@@ -2,18 +2,42 @@
 
 If this doesn't open up, inspect any picture, scroll to view (not cluck) the picture you want, hit the mouse icon in upper left of designer tools, then click the picture you want. the data-latest-bg should now be visible
 */
-
-/*
 {
 	"link": "",
 	"img": "",
 	title: "",
  	date: new Date("")
 	}
+/*
+00
 	*/
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
+		{
+	"link": "https://photos.app.goo.gl/J6tgYHkGjZQW6cPw8",
+	"img":  "https://photos.fife.usercontent.google.com/pw/AP1GczO9D7-WPGJAF6yVID5KeOKQdgosPrfnnNF-m_bTIHWOXCiB1uJmCq3ypg=w80-h60-no?authuser=0",
+	title: "Mother's Day - May, 2025",
+ 	date: new Date("5/11/2025")
+	},
+{
+	"link": "https://photos.app.goo.gl/A9HcX1rZph9DuDvN8",
+	"img": "https://photos.fife.usercontent.google.com/pw/AP1GczO9D7-WPGJAF6yVID5KeOKQdgosPrfnnNF-m_bTIHWOXCiB1uJmCq3ypg=w80-h60-no?authuser=0",
+	title: "Lucie Orchestra concert",
+ 	date: new Date("5/13/2025")
+	},
+		{
+	"link": "https://photos.app.goo.gl/FJgYsv53AZhr92sz8",
+	"img":  "https://photos.fife.usercontent.google.com/pw/AP1GczO9D7-WPGJAF6yVID5KeOKQdgosPrfnnNF-m_bTIHWOXCiB1uJmCq3ypg=w80-h60-no?authuser=0",
+	title: "Charlie birth and a few days old and kids seeing Charlie for the first time on video",
+ 	date: new Date("5/5/2025")
+	},
+		{
+	"link": "https://photos.app.goo.gl/W6ctunykbisfnCMW6",
+	"img": "https://photos.fife.usercontent.google.com/pw/AP1GczO9D7-WPGJAF6yVID5KeOKQdgosPrfnnNF-m_bTIHWOXCiB1uJmCq3ypg=w80-h60-no?authuser=0",
+	title: "Cassidy's 5th birthday party and Cassidy at dance",
+ 	date: new Date("4/27/2025")
+	},
 {
 	"link": "https://photos.app.goo.gl/Hoxf78Pkk3jiDXDt8",
 	"img": "https://photos.fife.usercontent.google.com/pw/AP1GczO9D7-WPGJAF6yVID5KeOKQdgosPrfnnNF-m_bTIHWOXCiB1uJmCq3ypg=w80-h60-no?authuser=0",
