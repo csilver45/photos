@@ -16,7 +16,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
 		{
 	"link": "https://photos.app.goo.gl/J6tgYHkGjZQW6cPw8",
-	"img":  "https://photos.fife.usercontent.google.com/pw/AP1GczO9D7-WPGJAF6yVID5KeOKQdgosPrfnnNF-m_bTIHWOXCiB1uJmCq3ypg=w80-h60-no?authuser=0",
+	"img":  "https://lh3.googleusercontent.com/pw/AP1GczNvPv766FTufHlbfOPuOcfGPMC8K1N-eHwGYY8k7O6aqpnBypkJ6L257r8brpk0OM9T1lZG2TTvEQfhksiMpig8R8JXmJb3ps4GqMDPSFm3JbpR1ImKVPpAmLYOnTQg-ZvW6ev0xSZZ3dmsXz0ainTErlPRNujfLbX4UMvCMDf2KVMc7SneyrcmaiiCetC88lv15jf61QeNguZ2TNTqUpVXjtJrjsz-e4US88kkd4bPNqdTxhYFNo3mvX3GjC1ZvgDyygnMnc240yp4YD6IJFp6zMH_4w7tJrU3VLscXqU7tAudxRx7tr9dSELgqEoOqm6-GR1grGCwLQ3piZ9Jy_10sMNAN3dQnRaY1lTeQsWHdMVXwKeMfcYbh-eMjBmMI2oNallTQ3d-HuAQtHWNi7tmNkHZT-XmwINxYYy0L1zCR9PZg0eRvLGVzqjguHjEL5EzAJm9AmbojaKFcvnjr1Ri21f1tSoIpyM3o8ztEIPSgKPAChTAr-n6ZZNQ-rGZGoSgOHBj9OuIXHnpZqB-uQTYShgoqLQyDmb0vvpxyzXAAo9rkg-1QFS6dM7r0c-Df33vBSqdcusXVLo6Ti6G4_M1qGeDpPqfmT_P9t1EGglqc-HQDrsYbnyVzbyVWjY5PyBhAfV3s-sLVHfHK4PlKRKsPKDIPu7wt77GqcuKHM7z5rDmXL6REoMm7BYKiOIUIsKMFXZ0NlxBoaFtShO-_TAxarwc_GcTzm8pyFVxRLNBjib0gH53fVFiLSNi4_ADJ9oN1S2ogFrzidxBjTLFmRkjXXA_lm-PV77LfOnDDMY-VasCMpd7upOurasYbDoztpDkurf7tWZ9yTKrLo8y8JMLQ2eTHae-wkLSTLFZz9oYAYt-u7OTR_jZFzSxfichmUiIUgUvYOyNd41xqmM2PQDJjfMLXZgbNjVyw6e8NreyfoxDPUYCY6UCzRBzC0pb4c92UEi_vMSXxz5O4g=w159-h212-no?authuser=0",
 	title: "Mother's Day - May, 2025",
  	date: new Date("5/11/2025")
 	},
@@ -28,7 +28,7 @@ app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	},
 		{
 	"link": "https://photos.app.goo.gl/FJgYsv53AZhr92sz8",
-	"img":  "https://photos.fife.usercontent.google.com/pw/AP1GczO9D7-WPGJAF6yVID5KeOKQdgosPrfnnNF-m_bTIHWOXCiB1uJmCq3ypg=w80-h60-no?authuser=0",
+	"img":  "https://lh3.googleusercontent.com/pw/AP1GczOofX7PIEHZZYq8w2Q9ATtJDymYG5Cc2nlU2upI6AR_mUFqw1xAfplvAmS9a2FGozn0VFAGEse8QEs7lIlbBLSK_hWxgfVHMR5KLuwNfXAItGaoqFzkapJVvQmHUQ3AhGveP9OLAyGF5FcfqkvZALanGczZ8O-yy2mp4g-xrq6aWQei5vurwCPznAG-1MFfqS-Z7MIiQUJygRkSjTY9noaUSmQNpChhDpeGpO7LShWkfTlz9LkYB7lok4z9k5gLg2dYjQhw7MBwBWsuLVFp4GqKOvn-jcoeNbrBqTqa1lpxI0Y1irM4Jk0JUNe5EJ-IEwFsbCPZ-qRqeVS3O-7Tw8GgvnqprjSfbqWSOSyY9m-nisMo_MhWscO_Dd-Kk8ExqBH6b1-bOBA0w90xIZBh2bFn9EZ5Cje4Lb8d29_CPedG5qxblUQCZwPyyrsS8hKcPdttvsflTMT_TaFP9WxahVPgJP-maB3cba_YsZreoK657lAx2uopmcDCQCg7oprUkPvpGQqRpsIecf2TZaLk6TX6Kq30pYNeAuyFr0uO-qmV7Z49qNSFhqcZuiEq-YrO5DhAlnJSdBcBcJ0Vkhdo3DeSVMrnP7M8eaXPRiC1PGu4B6IGa4CalMZTZmTH-XmLiHJ9frEBY_n_XSUOQO3CVgRuNVHiQ0bnXD9yiiIJtsZSBk18HMIghPp90QamrBn3bO5xk-BU6-zX-NAzCcpO3STM1WrCpjQkqSCCCMEGjFtiJjusCbcpK7Ilf0Aw8VFXKOXgXnvw7Hkwa7wr5371OuFSUcwSWutKsHEdv14ZBuVdgTUYHRKuL4QhwkUvSwjvUoUQEU9dglqQqz3eCPeroIC8v262kg79gzq8BPKDDPiruCQSStY6MSWYqD35HoHQoIAs6c0ijePKB2BCK4hUcU3ttj2WEXVe5y70aVWCY2jNhIyBMsFRYha1DRnB3ut8x8s5I4Mmlyr4tFgSAw=w181-h243-no?authuser=0",
 	title: "Charlie birth and a few days old and kids seeing Charlie for the first time on video",
  	date: new Date("5/5/2025")
 	},
