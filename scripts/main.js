@@ -2,14 +2,14 @@
 
 If this doesn't open up, inspect any picture, scroll to view (not cluck) the picture you want, hit the mouse icon in upper left of designer tools, then click the picture you want. the data-latest-bg should now be visible
 */
+
+/*
 {
 	"link": "",
 	"img": "",
 	title: "",
  	date: new Date("")
 	}
-/*
-00
 	*/
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
