@@ -8,12 +8,23 @@ If this doesn't open up, inspect any picture, scroll to view (not cluck) the pic
 	"link": "",
 	"img": "",
 	title: "",
- 	date: new Date("")
+ 	date: new Date("6/13/2026")
 	}
 	*/
 var app = angular.module('photos', []);
 app.controller('PhotosController', function TrumpController($scope, $timeout) {
 	$scope.albums = [
+{
+	"link": "https://photos.app.goo.gl/eK21vm3ZkHPQJuBQ7",
+	"img": "https://photos.fife.usercontent.google.com/pw/AP1GczPQ9BfNreImUvq95Dx9WdQug-y3w_iH-LAW9FpbnFf4phh547iFsiJ9Rg=w322-h241-no?authuser=0",
+	title: "With the Neumanns and Grandma Vivian",
+ 	date: new Date("7/1/2025")
+	},		{
+	"link": "https://photos.app.goo.gl/3PKbDUx3FT9wiLyM7",
+	"img": "https://lh3.googleusercontent.com/pw/AP1GczNI1dlSTYT-Kt6_ms9eQ6n8Sd6uXo_d_rpiorRyA-rEjy0ksvPjWjH9yD3TqBVWc2HASxqL_78bPt1JWYz2qhosVdCDgylgbhpqDb8NbhXr9y3Y8XPNWPXpp_Jyn4YVCHYSGH9ezMqHCOSrwj38IdyUIzYkfX2wtHOSru2USxrSWWFaVgv4PM8DLUfK4HVAWqCFuL6mIwc4iUY1Up_IQlJVXq9RS5wFes3YMvqVDC8HbtUg0HYZjGTrHsExFk1tR6nnFvrgxPUbMW7nqOZ8jHoFbrhqT9ojqVaqxZ3iiPb8WjGOHcaBr-UF-f6PqHsvIM1J6IodTgQhJMduhAqGGp_obMlte2rEfOpQOzaxR1vJSiokrJ4_0tZ9EYNqyQPYm1B-QrPoJuczTl01VXM4iHhGBOAvQCOlCEBoskw6Xn0n8vvOmOOTa7DGA-07Mznhg_P7CixGTtgVwRjhskk5FkirtytXZUjG1kKIB0mo6dcquNNJXhObgP0aAyBna9KX5P8fwNln3hduWckScR0hCJdF-oev7kYKWHvT9Ne8FbXG9GgA0wK9vqZByae0vBkVYyx_CmPicuXEAADV1qC71KgnmEdMqafWD3q6XdRKzj5m2zPr4bHVnNZ3WuzziPRHNXbWNFSeF5f9gvvjnPM7PPNe32HcM9nqOpFFdEM1HXwOAXgJ27NPSBpaRIGIMST_XUFUrGf9vtcXzo--OaDhvH9bE5gjfGcvqC8zDGsNu-SDBkpd5MwZogGqlp3-FPv7QwrAPsCbO-IOKhFFsY5wW2CjuvRlVWNNZpqxRNb4etHqRaqftl5s7ZkqrbVlcYFMEMB9vEpxutOsLWR5-rUBRCuIVB0TV344u4uwRiz5YoakUPt0aJYWI90T75DK-ALBTK6xfgqLcIMJqxw1YpaVU9j8WRfY9wYqGBjKDCTMGTYRSlqwW_GaHt5eWgovP6p1G7w8tlIT03bMKlkuOi3lrpAZ8yZeyX4QpnqIfDvosgoxJfKmDtmIuiIqOnBZhQ=w159-h212-no?authuser=0",
+	title: "Susan and Craig in Boston, at Ogunquit beach in Maine, & with friends or cousin",
+ 	date: new Date("6/13/2025")
+	},
 		{
 	"link": "https://photos.app.goo.gl/J6tgYHkGjZQW6cPw8",
 	"img":  "https://lh3.googleusercontent.com/pw/AP1GczNvPv766FTufHlbfOPuOcfGPMC8K1N-eHwGYY8k7O6aqpnBypkJ6L257r8brpk0OM9T1lZG2TTvEQfhksiMpig8R8JXmJb3ps4GqMDPSFm3JbpR1ImKVPpAmLYOnTQg-ZvW6ev0xSZZ3dmsXz0ainTErlPRNujfLbX4UMvCMDf2KVMc7SneyrcmaiiCetC88lv15jf61QeNguZ2TNTqUpVXjtJrjsz-e4US88kkd4bPNqdTxhYFNo3mvX3GjC1ZvgDyygnMnc240yp4YD6IJFp6zMH_4w7tJrU3VLscXqU7tAudxRx7tr9dSELgqEoOqm6-GR1grGCwLQ3piZ9Jy_10sMNAN3dQnRaY1lTeQsWHdMVXwKeMfcYbh-eMjBmMI2oNallTQ3d-HuAQtHWNi7tmNkHZT-XmwINxYYy0L1zCR9PZg0eRvLGVzqjguHjEL5EzAJm9AmbojaKFcvnjr1Ri21f1tSoIpyM3o8ztEIPSgKPAChTAr-n6ZZNQ-rGZGoSgOHBj9OuIXHnpZqB-uQTYShgoqLQyDmb0vvpxyzXAAo9rkg-1QFS6dM7r0c-Df33vBSqdcusXVLo6Ti6G4_M1qGeDpPqfmT_P9t1EGglqc-HQDrsYbnyVzbyVWjY5PyBhAfV3s-sLVHfHK4PlKRKsPKDIPu7wt77GqcuKHM7z5rDmXL6REoMm7BYKiOIUIsKMFXZ0NlxBoaFtShO-_TAxarwc_GcTzm8pyFVxRLNBjib0gH53fVFiLSNi4_ADJ9oN1S2ogFrzidxBjTLFmRkjXXA_lm-PV77LfOnDDMY-VasCMpd7upOurasYbDoztpDkurf7tWZ9yTKrLo8y8JMLQ2eTHae-wkLSTLFZz9oYAYt-u7OTR_jZFzSxfichmUiIUgUvYOyNd41xqmM2PQDJjfMLXZgbNjVyw6e8NreyfoxDPUYCY6UCzRBzC0pb4c92UEi_vMSXxz5O4g=w159-h212-no?authuser=0",
